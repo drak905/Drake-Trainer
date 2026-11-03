@@ -1,0 +1,5 @@
+# Vision Trainer runtime deps (Windows). Bridge deps stay in MCP_Server/.
+mss>=9.0
+pillow>=10.0
+requests>=2.31
+pywin32>=306; sys_platform == "win32"

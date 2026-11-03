@@ -1,0 +1,2 @@
+# Vision Trainer dev extras (TDD).
+pytest>=8.0

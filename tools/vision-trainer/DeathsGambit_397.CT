@@ -1,0 +1,255 @@
+<?xml version="1.0" ?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"=== STEP 1: Find Player (activate this first) ==="</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+{$lua}
+if syntaxcheck then return end
+if not DG.apply() then
+  error("Could not locate the player. Load a save first.")
+end
+{$asm}
+
+[DISABLE]
+{$lua}
+if syntaxcheck then return end
+DG.allOff()
+{$asm}
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"God Mode  (health locked to max)"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+{$lua}
+if syntaxcheck then return end
+if not DG.godOn() then
+  error("God Mode failed: player address not resolved.")
+end
+{$asm}
+
+[DISABLE]
+{$lua}
+if syntaxcheck then return end
+DG.godOff()
+{$asm}
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Unlimited Jump  (always grounded)"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+{$lua}
+if syntaxcheck then return end
+if not DG.jumpOn() then
+  error("Unlimited Jump failed: player address not resolved.")
+end
+{$asm}
+
+[DISABLE]
+{$lua}
+if syntaxcheck then return end
+DG.jumpOff()
+{$asm}
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Health"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Double</VariableType>
+      <Address>dgHealth</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Health (max)"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Double</VariableType>
+      <Address>dgHealthMax</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Potions / Phoenix Feathers"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Double</VariableType>
+      <Address>dgPotions</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"On-ground flag  (1 = grounded)"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Double</VariableType>
+      <Address>dgGrounded</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <LuaScript>--[[ ---------------------------------------------------------------
+  Death's Gambit (deathsgambit397.exe, 32-bit GameMaker/VC_Runner)
+
+  The player's variables live in a GameMaker RValue pool on the heap, so the
+  addresses differ every launch. Each RValue is 16 bytes: an 8-byte double
+  followed by a 4-byte flags field and a 4-byte type field. Live player
+  variables carry flags == 7.
+
+  Offsets below are relative to the health slot (H). They are fixed by the
+  game build because GameMaker assigns variable slots at compile time; only
+  the pool's base address moves.
+
+      H  +     0   health (current)
+      H  +  4496   health (max)
+      H  -  7360   potions / phoenix feathers
+      H  - 11264   health %  (immediate)
+      H  -  6768   health %  (animated bar)
+      H  + 50576   "on ground" flag (1 = grounded, 0 = airborne)
+
+  DG.find() locates H by scanning for the health-percentage slot and checking
+  that pct == health / maxhealth * 100, that both % copies agree, and that
+  every slot carries the correct RValue flags. That resolves to a single match.
+----------------------------------------------------------------------------]]
+
+DG = DG or {}
+
+DG.OFF_MAX    =  4496
+DG.OFF_POT    = -7360
+DG.OFF_PCTB   = -11264
+DG.OFF_PCTA   = -6768
+DG.OFF_GROUND =  50576
+DG.TAG        = 7
+
+local function tagOk(a)
+  return readQword(a + 8) == DG.TAG
+end
+
+function DG.find()
+  local ms = createMemScan()
+  ms.firstScan(soValueBetween, vtDouble, rtExtreme, "0.0001", "100",
+               0, 0x7fffffff, "+W-C", fsmAligned, "8", false, true, false, false)
+  ms.waitTillDone()
+  local fl = createFoundList(ms)
+  fl.initialize()
+
+  local hits = {}
+  for i = 0, fl.getCount() - 1 do
+    local p = tonumber(fl.getAddress(i), 16)
+    if p and tagOk(p) then
+      local pct = readDouble(p)
+      -- the two % copies sit 4496 apart and agree once the bar has settled
+      if readDouble(p + 4496) == pct and tagOk(p + 4496) then
+        local H = p - DG.OFF_PCTB
+        if tagOk(H) and tagOk(H + DG.OFF_MAX) and tagOk(H + DG.OFF_POT) then
+          local hp  = readDouble(H)
+          local mx  = readDouble(H + DG.OFF_MAX)
+          local pot = readDouble(H + DG.OFF_POT)
+          if hp and mx and pot
+             and hp &gt; 0 and mx &gt;= 10 and hp &lt;= mx
+             and mx == math.floor(mx)
+             and pot &gt;= 0 and pot &lt;= 20 and pot == math.floor(pot)
+             and math.abs(hp / mx * 100.0 - pct) &lt; 1e-9 then
+            hits[#hits + 1] = H
+          end
+        end
+      end
+    end
+  end
+
+  fl.destroy()
+  ms.destroy()
+  return hits
+end
+
+function DG.apply()
+  local pid = getOpenedProcessID()
+  if pid == nil or pid == 0 then
+    showMessage("Attach to deathsgambit397.exe first.")
+    return false
+  end
+
+  local hits = DG.find()
+  if #hits == 0 then
+    showMessage("Player not found.\n\n"
+      .. "Make sure a save is loaded and the character is in the world\n"
+      .. "(not on the title screen), then activate this entry again.")
+    return false
+  end
+
+  DG.H = hits[1]
+  for _, s in ipairs({"dgHealth", "dgHealthMax", "dgPotions", "dgGrounded"}) do
+    pcall(unregisterSymbol, s)
+  end
+  registerSymbol("dgHealth",    string.format("%X", DG.H),                  true)
+  registerSymbol("dgHealthMax", string.format("%X", DG.H + DG.OFF_MAX),     true)
+  registerSymbol("dgPotions",   string.format("%X", DG.H + DG.OFF_POT),     true)
+  registerSymbol("dgGrounded",  string.format("%X", DG.H + DG.OFF_GROUND),  true)
+
+  if #hits &gt; 1 then
+    showMessage(string.format(
+      "Found %d candidates; using the first (%X).\nIf values look wrong, re-activate after moving in-game.",
+      #hits, DG.H))
+  end
+  return true
+end
+
+local function ensure()
+  if DG.H then return true end
+  return DG.apply()
+end
+
+-- ---------------------------------------------------------------- God Mode --
+-- The runner writes health through a generic RValue routine shared by every
+-- variable in the game, so patching that code is not an option. Health is
+-- rewritten to max on a timer instead.
+
+function DG.godOff()
+  if DG.godTimer then
+    pcall(function() DG.godTimer.destroy() end)
+    DG.godTimer = nil
+  end
+end
+
+function DG.godOn()
+  if not ensure() then return false end
+  DG.godOff()
+  DG.godTimer = createTimer(nil)
+  DG.godTimer.Interval = 40
+  DG.godTimer.OnTimer = function()
+    if not DG.H then return end
+    local mx = readDouble(DG.H + DG.OFF_MAX)
+    if mx and mx &gt; 0 then writeDouble(DG.H, mx) end
+  end
+  return true
+end
+
+-- ---------------------------------------------------------- Unlimited Jump --
+-- Jumping is gated on the "on ground" flag, so holding it at 1 keeps the jump
+-- available while airborne. Side effect: the game always believes the player
+-- is grounded, which can affect fall/landing behaviour.
+
+function DG.jumpOff()
+  if DG.jumpTimer then
+    pcall(function() DG.jumpTimer.destroy() end)
+    DG.jumpTimer = nil
+  end
+end
+
+function DG.jumpOn()
+  if not ensure() then return false end
+  DG.jumpOff()
+  DG.jumpTimer = createTimer(nil)
+  DG.jumpTimer.Interval = 20
+  DG.jumpTimer.OnTimer = function()
+    if not DG.H then return end
+    writeDouble(DG.H + DG.OFF_GROUND, 1)
+  end
+  return true
+end
+
+function DG.allOff()
+  DG.godOff()
+  DG.jumpOff()
+end
+</LuaScript>
+</CheatTable>
