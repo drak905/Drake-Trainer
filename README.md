@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6.svg?logo=windows)](https://microsoft.com/windows)
-[![Games Supported](https://img.shields.io/badge/Games%20Supported-24%20Titles-brightgreen.svg)](#game-catalog--feature-matrix)
+[![Games Supported](https://img.shields.io/badge/Games%20Supported-25%20Titles-brightgreen.svg)](#game-catalog--feature-matrix)
 [![Standalone](https://img.shields.io/badge/Injection-Zero%20External%20Tools-orange.svg)](#key-highlights)
 
 A curated preservation suite of custom **game trainers, in-game HUD overlay menus, native DLL proxy injectors, BepInEx Harmony plugins, and bytecode patches** created by Drake.
@@ -49,6 +49,7 @@ Every trainer in this repository is built to be **100% portable, non-destructive
 | **22** | **[River City Girls](trainers/22.River-City-Girls)** | Unity Mono | Persistent Mono Root Keeper | No Damage (Invincibility), One-Hit Kill (100,000x dmg), Money & XP Gain 10x, Speed 2.0x, Max All Character Stats | [View](trainers/22.River-City-Girls) |
 | **23** | **[ScourgeBringer](trainers/23.ScourgeBringer)** | Native AOT (64-bit) | Static Module Pointer Path | Infinite HP / Max HP, Blood Shards, Skill Points, Unlimited Buff Stacks (Reload +500%, Sword +500%, Gun +500%) | [View](trainers/23.ScourgeBringer) |
 | **24** | **[Sol Cesto](trainers/24.Sol-Cesto)** | Construct 3 / WebView2 | Chrome DevTools Protocol (CDP) | Dual Launcher (`PlaySolCesto.bat`), God Mode (Infinite Lives & Shields), Infinite Gold & Keys, Instant Room Clear, Unlock All Stars | [View](trainers/24.Sol-Cesto) |
+| **25** | **[SpeedBrawl](trainers/25.SpeedBrawl)** | Unity 2019 Mono | BepInEx 5.4.23 + HarmonyX (`winhttp.dll`) | In-Game Menu (`Insert`), God Mode (`F1`), Unlimited Air Jumps (`F2`), 2x Move Speed (`F3`), Infinite Stamina/Special (`F4`), Infinite Coins (`F5`), Add +100k Coins (`F6`), Infinite Items (`F7`), Unlock All Gear (`F8`), Show All Items/ESP (`F9`), One-Hit Kill (`F10`), Unlock All Championships (`F11`), Force Save (`Home`) | [View](trainers/25.SpeedBrawl) |
 
 ---
 
@@ -96,8 +97,8 @@ Drake-Trainer/
 ├── .gitignore                         # Build and OS artifact exclusions
 ├── docs/
 │   └── REVERSE_ENGINEERING_NOTES.md   # Detailed technical reversing write-ups per engine
-├── packages/                          # Ready-to-use standalone ZIP archives (23 packages)
-├── trainers/                          # Organized trainer projects (24 games)
+├── packages/                          # Ready-to-use standalone ZIP archives (32 packages)
+├── trainers/                          # Organized trainer projects (25 games)
 │   ├── 01.Afterimage/
 │   ├── 02.Astral-Ascent/
 │   ├── 03.Bo-Path-of-the-Teal-Lotus/
@@ -121,7 +122,8 @@ Drake-Trainer/
 │   ├── 21.Redacted/
 │   ├── 22.River-City-Girls/
 │   ├── 23.ScourgeBringer/
-│   └── 24.Sol-Cesto/
+│   ├── 24.Sol-Cesto/
+│   └── 25.SpeedBrawl/
 ├── tools/                             # Reversing bridges and automation
 │   └── vision-trainer/                # Vision-based trainer and Cheat Engine MCP bridge
 └── translations/                      # Preserved Vietnamese localization packs (7 games)

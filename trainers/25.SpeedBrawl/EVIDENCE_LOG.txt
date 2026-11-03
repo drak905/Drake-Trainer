@@ -1,0 +1,27 @@
+﻿SpeedBrawl In-Game Trainer 1.0.0 - runtime evidence
+Target: Epic Games SpeedBrawl, Unity 2019.4.16, DS.Game.Luna.dll SHA-256
+76DD93E1EFFB3BD063F47F5EDCF664F2847001457F55B6D84E048B7E72D5BA29
+
+Launch method: Epic Games Launcher (com.epicgames.launcher://apps/...)
+BepInEx 5.4.23.6 x64, Doorstop ignore_disable_switch = true
+
+--- BepInEx log (excerpt) ---
+[Info   :   BepInEx] Running under Unity v2019.4.16.14703470
+[Info   :   BepInEx] Loading [SpeedBrawl In-Game Trainer 1.0.0]
+[Info   :SpeedBrawl In-Game Trainer] Patched Health_Server.OnPreDamage
+[Info   :SpeedBrawl In-Game Trainer] Patched Health_Server.ResolveDamage
+[Info   :SpeedBrawl In-Game Trainer] Patched PlatformerController2D_Server.get_AirJumps
+[Info   :SpeedBrawl In-Game Trainer] Patched MovementController_Server.GetTargetRunSpeed
+[Info   :SpeedBrawl In-Game Trainer] Patched InventoryStacker.SetAmountInternal
+[Info   :SpeedBrawl In-Game Trainer] SpeedBrawl In-Game Trainer v1.0.0 loaded.
+[Info   :SpeedBrawl In-Game Trainer] Press Insert to toggle the trainer menu. F1..F11 toggle features.
+[Message:   BepInEx] Chainloader startup complete
+
+--- Live functional delta ---
+Add 100,000 Coins: 105 -> 100,105; HUD updated to 100,105.
+Infinite Coins: 100,105 -> 9,999,999; HUD updated to 9,999,999.
+Trainer overlay: visible on title screen; Insert toggles it.
+
+--- Fresh install / uninstall test ---
+Fresh install on a clean game tree: BepInEx core, winhttp.dll and plugin installed.
+Uninstall on that tree: BepInEx, winhttp.dll, doorstop files and plugin removed.

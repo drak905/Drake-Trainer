@@ -1276,5 +1276,93 @@
                             "effect":  "Instant room win"
                         }
                     ]
+    },
+    {
+        "injection":  "BepInEx 5.4.23 + HarmonyX (winhttp.dll)",
+        "id":  "speedbrawl",
+        "thumbnail":  "assets/thumbnails/speedbrawl.jpg",
+        "repoFolder":  "trainers/25.SpeedBrawl",
+        "title":  "SpeedBrawl",
+        "tags":  [
+                     "Beat \u0027em up",
+                     "Racing-Combat",
+                     "Unity",
+                     "BepInEx",
+                     "In-Game Menu"
+                 ],
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/SpeedBrawl-Trainer-v1.zip",
+        "description":  "Comprehensive BepInEx \u0026 HarmonyX in-game overlay trainer with God Mode, unlimited jumps, stamina lock, infinite coins \u0026 items, and full-screen item ESP.",
+        "version":  "v1.0.0",
+        "hasTranslation":  false,
+        "engine":  "Unity 2019 Mono",
+        "features":  [
+                         "In-Game Overlay Menu (Insert, Mouse-Operable)",
+                         "God Mode (F1 - Player Heroes Ignore Damage)",
+                         "Unlimited Air Jumps (F2)",
+                         "Character Move Speed x2 (F3)",
+                         "Infinite Stamina / Special (F4)",
+                         "Infinite Coins (F5 - Lock at 9,999,999)",
+                         "Add 100,000 Coins (F6)",
+                         "Infinite Items / No Item Loss (F7)",
+                         "Unlock All Gear Items (F8)",
+                         "Show All Items / World ESP (F9)",
+                         "One-Hit Kill on Enemies (F10)",
+                         "Unlock All Championships (F11)",
+                         "Force Save (Home)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "Insert",
+                            "effect":  "Toggle In-Game Trainer Overlay Menu"
+                        },
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode (Player heroes ignore non-helpful damage)"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Unlimited Air Jumps"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Character Move Speed 2x"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Infinite Stamina / Special Energy"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "Infinite Coins (Locks balance at 9,999,999)"
+                        },
+                        {
+                            "key":  "F6",
+                            "effect":  "Add +100,000 Coins (Clamps at 999,999,999)"
+                        },
+                        {
+                            "key":  "F7",
+                            "effect":  "Infinite Items (Prevents item stack count decreases)"
+                        },
+                        {
+                            "key":  "F8",
+                            "effect":  "Unlock All Gear Items in Database"
+                        },
+                        {
+                            "key":  "F9",
+                            "effect":  "Show All Items ESP (Markers for items, crates, barrels, targets)"
+                        },
+                        {
+                            "key":  "F10",
+                            "effect":  "One-Hit Kill on Enemies"
+                        },
+                        {
+                            "key":  "F11",
+                            "effect":  "Unlock All Championships"
+                        },
+                        {
+                            "key":  "Home",
+                            "effect":  "Force Save via Game SaveSystem"
+                        }
+                    ]
     }
 ]
