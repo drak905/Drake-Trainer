@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable UsesMono="1" CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"F2: Invulnerable (1=on)"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>1AF084AE415</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"F2: Health"</Description>
+      <VariableType>Float</VariableType>
+      <Address>1AF084AE430</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"F2: Max Health"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1AF084AE3E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"F2: Base Max Health"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1AF084AE3DC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"F2: XP"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1AF084AE428</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"F2: Regen In Combat (1=on)"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>1AF084AE414</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"F2: Regen Health Factor"</Description>
+      <VariableType>Float</VariableType>
+      <Address>1AF084AE400</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"F2: Respawn Health Factor"</Description>
+      <VariableType>Float</VariableType>
+      <Address>1AF084AE40C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"F2: Min Respawn Health"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1AF084AE410</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"F2: [no effect] movementSpeedMultiplier #1"</Description>
+      <VariableType>Float</VariableType>
+      <Address>1AF3D4F7F08</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"F2: [no effect] movementSpeedMultiplier #2"</Description>
+      <VariableType>Float</VariableType>
+      <Address>1AF3D4F7948</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"F2: Shards Collected"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1AF3599CD6C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"F2: Shards Max"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1AF3599CD70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"F2: Shard Unlock Point (0-1)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>1AF3599CD68</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>

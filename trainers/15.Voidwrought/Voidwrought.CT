@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable UsesMono="1" CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Voidwrought Trainer - Activate"</Description>
+      <Options moHideChildren="1" moDeactivateChildrenAsWell="1"/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+{$lua}
+if syntaxcheck then return end
+
+-- Voidwrought (Unity/Mono). Resolve classes and JIT methods for every process.
+-- The keeper uses only the persistent Core object and pointer reads. It never
+-- performs a Mono heap scan on its timer.
+if VoidwroughtTrainerStop then
+  pcall(function() VoidwroughtTrainerStop(true) end)
+end
+
+if not mono_isValid() then LaunchMonoDataCollector() end
+if not mono_isValid() then
+  error('Voidwrought Trainer: Mono data collector is unavailable')
+end
+
+VW = {}
+VW.domain = (mono_enumDomains() or {})[1]
+if not VW.domain then error('Voidwrought Trainer: Mono domain not found') end
+
+local function valid(p)
+  return p and p &gt; 0x10000
+end
+
+local function findMethod(class, name, signature)
+  for _, method in ipairs(mono_class_enumMethods(class) or {}) do
+    if method.name == name then
+      local sig = mono_method_getSignature(method.method)
+      if signature == nil or sig == signature then return method.method end
+    end
+  end
+end
+
+local function findBytes(base, size, pattern)
+  local bytes = readBytes(base, size, true)
+  if not bytes then return nil end
+  for i = 1, size - #pattern + 1 do
+    local matched = true
+    for j = 1, #pattern do
+      if pattern[j] &gt;= 0 and bytes[i + j - 1] ~= pattern[j] then
+        matched = false
+        break
+      end
+    end
+    if matched then return base + i - 1 end
+  end
+end
+
+local function getBytes(address, count)
+  return readBytes(address, count, true)
+end
+
+local function putBytes(address, bytes)
+  if not address or not bytes then return end
+  for i = 1, #bytes do writeBytes(address + i - 1, bytes[i]) end
+end
+
+local coreClass = mono_findClass('VoidwroughtCore', 'Core')
+local playerStateClass = mono_findClass('', 'PlayerStateMachine')
+local inventoryClass = mono_findClass('', 'PlayerInventory')
+local attackClass = mono_findClass('', 'PlayerBasicAttackHurtbox')
+local inAirClass = mono_findClass('', 'InAirState')
+local doubleJumpClass = mono_findClass('', 'DoubleJumpState')
+if not (coreClass and playerStateClass and inventoryClass and attackClass
+        and inAirClass and doubleJumpClass) then
+  error('Voidwrought Trainer: required game classes were not found')
+end
+
+-- One bounded heap lookup at activation finds the persistent Core singleton.
+-- All later player refreshes follow Core+28 -&gt; PlayerCore+18 -&gt; player.
+local cores = mono_class_findInstancesOfClassListOnly(VW.domain, coreClass) or {}
+for _, candidate in ipairs(cores) do
+  if valid(candidate) then
+    VW.core = candidate
+    local playerCore = readPointer(candidate + 0x28)
+    if valid(playerCore) and valid(readPointer(playerCore + 0x18)) then break end
+  end
+end
+if not valid(VW.core) then
+  error('Voidwrought Trainer: Core singleton not found; enter the game world first')
+end
+
+VW.classes = {
+  core = coreClass,
+  playerState = playerStateClass,
+  inventory = inventoryClass,
+  attack = attackClass,
+  inAir = inAirClass,
+  doubleJump = doubleJumpClass,
+}
+
+VW.methods = {
+  recalculateDamage = findMethod(attackClass, 'RecalculateDamage', ''),
+  addAmount = findMethod(inventoryClass, 'AddAmount', 'int,int'),
+  inAirLogic = findMethod(inAirClass, 'LogicUpdate', ''),
+  doubleJumpEnter = findMethod(doubleJumpClass, 'Enter', 'PlayerState'),
+}
+for name, method in pairs(VW.methods) do
+  if not method then error('Voidwrought Trainer: method not found: ' .. name) end
+end
+
+VW.code = {}
+for name, method in pairs(VW.methods) do
+  VW.code[name] = mono_compile_method(method)
+  if not valid(VW.code[name]) then
+    error('Voidwrought Trainer: failed to compile method: ' .. name)
+  end
+end
+
+-- Resolve patch sites by local method signatures, never by saved addresses.
+VW.collectSite = findBytes(VW.code.addAmount, 0x80,
+  { 0x48, 0x8B, 0xFA, 0x4C, 0x89, 0x45, 0xE8 })
+local abilityCheck = findBytes(VW.code.inAirLogic, 0x900,
+  { 0x0F, 0xB6, 0x40, 0x51, 0x85, 0xC0, 0x0F, 0x84 })
+VW.jumpAbilityBranch = abilityCheck and (abilityCheck + 6) or nil
+VW.jumpEnterWrite = findBytes(VW.code.doubleJumpEnter, 0x90,
+  { 0xC6, 0x47, 0x60, 0x00 })
+VW.damageSite = VW.code.recalculateDamage
+
+if not (VW.collectSite and VW.jumpAbilityBranch and VW.jumpEnterWrite) then
+  error('Voidwrought Trainer: this game build does not match the expected methods')
+end
+
+local damagePrologue = getBytes(VW.damageSite, 11)
+local expectedDamagePrologue = { 0x55, 0x48, 0x8B, 0xEC, 0x48,
+  0x81, 0xEC, 0x50, 0x01, 0x00, 0x00 }
+for i = 1, #expectedDamagePrologue do
+  if damagePrologue[i] ~= expectedDamagePrologue[i] then
+    error('Voidwrought Trainer: unexpected RecalculateDamage prologue')
+  end
+end
+
+VW.original = {
+  collect = getBytes(VW.collectSite, 7),
+  damage = damagePrologue,
+  jumpAbility = getBytes(VW.jumpAbilityBranch, 6),
+  jumpEnter = getBytes(VW.jumpEnterWrite, 4),
+}
+
+-- Lightweight editable controls used by the dynamic child records.
+VW.controls = allocateMemory(16)
+if not valid(VW.controls) then error('Voidwrought Trainer: control allocation failed') end
+VW.noDamageControl = VW.controls
+VW.speedControl = VW.controls + 4
+VW.jumpControl = VW.controls + 8
+writeBytes(VW.noDamageControl, 1)
+writeFloat(VW.speedControl, 2.0)
+writeBytes(VW.jumpControl, 1)
+
+-- Positive gains only: spending (negative AddAmount) is deliberately unchanged.
+local collectScript = string.format([[
+alloc(vwCollectCave,256,%X)
+label(vwCollectCode)
+label(vwCollectStore)
+label(vwCollectMultiplier)
+registersymbol(vwCollectMultiplier)
+
+vwCollectCave:
+vwCollectMultiplier:
+  dd 10
+  db 90 90 90 90
+vwCollectCode:
+  mov rdi,rdx
+  test r8d,r8d
+  jle short vwCollectStore
+  imul r8d,[vwCollectMultiplier]
+vwCollectStore:
+  mov [rbp-18],r8
+  jmp %X
+
+%X:
+  jmp vwCollectCode
+  nop 2
+]], VW.collectSite, VW.collectSite + 7, VW.collectSite)
+if not autoAssemble(collectScript) then
+  error('Voidwrought Trainer: collection multiplier injection failed')
+end
+VW.collectMultiplier = getAddress('vwCollectMultiplier')
+
+-- RecalculateDamage belongs only to PlayerBasicAttackHurtbox, so this cannot
+-- raise enemy damage. When disabled, the cave executes the original prologue.
+local damageScript = string.format([[
+alloc(vwDamageCave,256,%X)
+label(vwDamageCode)
+label(vwDamageOriginal)
+label(vwOneHitEnabled)
+label(vwOneHitDamage)
+registersymbol(vwOneHitEnabled)
+registersymbol(vwOneHitDamage)
+
+vwDamageCave:
+vwOneHitEnabled:
+  db 1
+  db 90 90 90
+vwOneHitDamage:
+  dd 999999
+vwDamageCode:
+  cmp byte ptr [vwOneHitEnabled],0
+  je short vwDamageOriginal
+  mov eax,[vwOneHitDamage]
+  mov [rcx+28],eax
+  ret
+vwDamageOriginal:
+  push rbp
+  mov rbp,rsp
+  sub rsp,00000150
+  jmp %X
+
+%X:
+  jmp vwDamageCode
+  nop 6
+]], VW.damageSite, VW.damageSite + 11, VW.damageSite)
+if not autoAssemble(damageScript) then
+  putBytes(VW.collectSite, VW.original.collect)
+  pcall(function() autoAssemble('unregistersymbol(vwCollectMultiplier)\ndealloc(vwCollectCave)') end)
+  error('Voidwrought Trainer: one-hit-kill injection failed')
+end
+VW.oneHitEnabled = getAddress('vwOneHitEnabled')
+VW.oneHitDamage = getAddress('vwOneHitDamage')
+
+function VWPlayer()
+  if not (VW and valid(VW.core)) then return nil end
+  local playerCore = readPointer(VW.core + 0x28)
+  if not valid(playerCore) then return nil end
+  local player = readPointer(playerCore + 0x18)
+  if valid(player) then return player end
+end
+
+function VWHurtboxes()
+  local player = VWPlayer()
+  if not player then return {} end
+  local result, seen = {}, {}
+  for _, offset in ipairs({ 0x78, 0x80, 0x88, 0x90, 0x98, 0xA0, 0xA8, 0xB0 }) do
+    local hurtbox = readPointer(player + offset)
+    if valid(hurtbox) and not seen[hurtbox] then
+      seen[hurtbox] = true
+      result[#result + 1] = hurtbox
+    end
+  end
+  local array = readPointer(player + 0x100)
+  if valid(array) then
+    local count = readQword(array + 0x18) or 0
+    count = math.min(count, 16)
+    for i = 0, count - 1 do
+      local hurtbox = readPointer(array + 0x20 + i * 8)
+      if valid(hurtbox) and not seen[hurtbox] then
+        seen[hurtbox] = true
+        result[#result + 1] = hurtbox
+      end
+    end
+  end
+  return result
+end
+
+function VoidwroughtApplyNoDamage(enabled)
+  enabled = not not enabled
+  writeBytes(VW.noDamageControl, enabled and 1 or 0)
+  local player = VWPlayer()
+  local stats = player and readPointer(player + 0x118)
+  if valid(stats) then
+    writeBytes(stats + 0x5D, enabled and 1 or 0)
+    return true
+  end
+  return false
+end
+
+VW.baseRunSpeed = 12.0
+do
+  local player = VWPlayer()
+  local data = player and readPointer(player + 0x18)
+  local current = valid(data) and readFloat(data + 0x1F0) or nil
+  if current and current &gt; 0.1 and current &lt; 100 then VW.baseRunSpeed = current end
+end
+
+function VoidwroughtApplySpeed(multiplier)
+  multiplier = tonumber(multiplier)
+  if not multiplier then return false end
+  writeFloat(VW.speedControl, multiplier)
+  local player = VWPlayer()
+  local data = player and readPointer(player + 0x18)
+  if valid(data) then
+    writeFloat(data + 0x1F0, VW.baseRunSpeed * multiplier)
+    return true
+  end
+  return false
+end
+
+function VoidwroughtApplyOneHit(enabled, damage)
+  enabled = not not enabled
+  damage = math.max(1, math.floor(tonumber(damage) or readInteger(VW.oneHitDamage) or 999999))
+  writeBytes(VW.oneHitEnabled, enabled and 1 or 0)
+  writeInteger(VW.oneHitDamage, damage)
+  for _, hurtbox in ipairs(VWHurtboxes()) do
+    if enabled then
+      writeInteger(hurtbox + 0x28, damage)
+    else
+      pcall(function()
+        mono_invoke_method(VW.domain, VW.methods.recalculateDamage, hurtbox, {})
+      end)
+    end
+  end
+  return true
+end
+
+function VoidwroughtSetCollectionMultiplier(multiplier)
+  multiplier = math.max(1, math.floor(tonumber(multiplier) or 1))
+  writeInteger(VW.collectMultiplier, multiplier)
+  return true
+end
+
+function VoidwroughtApplyUnlimitedJump(enabled)
+  enabled = not not enabled
+  writeBytes(VW.jumpControl, enabled and 1 or 0)
+  if enabled then
+    -- Ignore the unlock gate and make DoubleJump.Enter restore availability.
+    for i = 0, 5 do writeBytes(VW.jumpAbilityBranch + i, 0x90) end
+    writeBytes(VW.jumpEnterWrite, 0xC6, 0x47, 0x60, 0x01)
+    local player = VWPlayer()
+    local state = player and readPointer(player + 0x260)
+    if valid(state) then
+      writeBytes(state + 0x51, 1)
+      writeBytes(state + 0x60, 1)
+    end
+  else
+    putBytes(VW.jumpAbilityBranch, VW.original.jumpAbility)
+    putBytes(VW.jumpEnterWrite, VW.original.jumpEnter)
+  end
+  return true
+end
+
+function VoidwroughtKeeperTick()
+  local player = VWPlayer()
+  if not player then return end
+
+  local noDamage = readBytes(VW.noDamageControl, 1, false)
+  local stats = readPointer(player + 0x118)
+  if valid(stats) and noDamage ~= nil
+      and readBytes(stats + 0x5D, 1, false) ~= noDamage then
+    writeBytes(stats + 0x5D, noDamage)
+    VW.fixes = VW.fixes + 1
+  end
+
+  local speed = readFloat(VW.speedControl)
+  local data = readPointer(player + 0x18)
+  if valid(data) and speed then
+    local target = VW.baseRunSpeed * speed
+    local current = readFloat(data + 0x1F0)
+    if not current or math.abs(current - target) &gt; 0.001 then
+      writeFloat(data + 0x1F0, target)
+      VW.fixes = VW.fixes + 1
+    end
+  end
+
+  if readBytes(VW.oneHitEnabled, 1, false) == 1 then
+    local damage = readInteger(VW.oneHitDamage) or 999999
+    for _, hurtbox in ipairs(VWHurtboxes()) do
+      if readInteger(hurtbox + 0x28) ~= damage then
+        writeInteger(hurtbox + 0x28, damage)
+        VW.fixes = VW.fixes + 1
+      end
+    end
+  end
+
+  if readBytes(VW.jumpControl, 1, false) == 1 then
+    local state = readPointer(player + 0x260)
+    if valid(state) then
+      if readBytes(state + 0x51, 1, false) ~= 1 then writeBytes(state + 0x51, 1) end
+      if readBytes(state + 0x60, 1, false) ~= 1 then writeBytes(state + 0x60, 1) end
+    end
+  end
+end
+
+function VoidwroughtStartKeeper()
+  if VOIDWROUGHT_KEEPER then
+    pcall(function()
+      VOIDWROUGHT_KEEPER.Enabled = false
+      VOIDWROUGHT_KEEPER.destroy()
+    end)
+  end
+  VOIDWROUGHT_KEEPER_BUSY = false
+  VOIDWROUGHT_KEEPER = createTimer(nil, false)
+  VOIDWROUGHT_KEEPER.Interval = 3000
+  VOIDWROUGHT_KEEPER.OnTimer = function()
+    if VOIDWROUGHT_KEEPER_BUSY then return end
+    VOIDWROUGHT_KEEPER_BUSY = true
+    local ok, err = pcall(VoidwroughtKeeperTick)
+    if not ok then VW.lastError = tostring(err) end
+    VOIDWROUGHT_KEEPER_BUSY = false
+  end
+  VOIDWROUGHT_KEEPER.Enabled = true
+end
+
+function VoidwroughtTrainerStop(restoreDefaults)
+  if VOIDWROUGHT_KEEPER then
+    pcall(function()
+      VOIDWROUGHT_KEEPER.Enabled = false
+      VOIDWROUGHT_KEEPER.destroy()
+    end)
+    VOIDWROUGHT_KEEPER = nil
+  end
+  VOIDWROUGHT_KEEPER_BUSY = false
+
+  if VW then
+    if restoreDefaults then
+      pcall(function() VoidwroughtApplyNoDamage(false) end)
+      pcall(function() VoidwroughtApplySpeed(1.0) end)
+      pcall(function() writeBytes(VW.oneHitEnabled, 0) end)
+      pcall(function() VoidwroughtApplyUnlimitedJump(false) end)
+    end
+
+    -- Restore every JIT method before freeing its code cave.
+    pcall(function() putBytes(VW.collectSite, VW.original.collect) end)
+    pcall(function() putBytes(VW.damageSite, VW.original.damage) end)
+    pcall(function() putBytes(VW.jumpAbilityBranch, VW.original.jumpAbility) end)
+    pcall(function() putBytes(VW.jumpEnterWrite, VW.original.jumpEnter) end)
+
+    if restoreDefaults then
+      for _, hurtbox in ipairs(VWHurtboxes()) do
+        pcall(function()
+          mono_invoke_method(VW.domain, VW.methods.recalculateDamage, hurtbox, {})
+        end)
+      end
+    end
+
+    pcall(function()
+      autoAssemble('unregistersymbol(vwCollectMultiplier)\ndealloc(vwCollectCave)')
+    end)
+    pcall(function()
+      autoAssemble('unregistersymbol(vwOneHitEnabled)\nunregistersymbol(vwOneHitDamage)\ndealloc(vwDamageCave)')
+    end)
+  end
+
+  local list = getAddressList()
+  for _, description in ipairs({
+    'No Damage',
+    'Character Speed Multiplier (1 = default)',
+    'One-Hit Kill',
+    'Player Attack Damage',
+    'Collection Multiplier (1 = default)',
+    'Unlimited Jump'
+  }) do
+    local record = list.getMemoryRecordByDescription(description)
+    if record then
+      record.OnValueChangedByUser = nil
+      record.destroy()
+    end
+  end
+
+  if VW then
+    pcall(function() if VW.controls then deAlloc(VW.controls, 16) end end)
+  end
+  VW = nil
+end
+
+local list = getAddressList()
+local root = list.getMemoryRecordByDescription('Voidwrought Trainer - Activate')
+local function makeRecord(description, address, valueType)
+  local record = list.getMemoryRecordByDescription(description)
+  if not record then
+    record = list.createMemoryRecord()
+    record.Description = description
+  end
+  record.Active = false
+  record.Address = string.format('%X', address)
+  record.VarType = valueType
+  record.ShowAsHex = false
+  if root then record.appendToEntry(root) end
+  return record
+end
+
+local function makeToggle(description, address, callback)
+  local record = makeRecord(description, address, vtByte)
+  record.DropDownList.Text = '0:Disabled\n1:Enabled'
+  record.DropDownReadOnly = true
+  record.DropDownDescriptionOnly = true
+  record.DisplayAsDropDownListItem = true
+  record.Value = '1'
+  record.OnValueChangedByUser = function(_, _, newValue)
+    callback((tonumber(newValue) or 0) ~= 0)
+  end
+  return record
+end
+
+makeToggle('No Damage', VW.noDamageControl, VoidwroughtApplyNoDamage)
+
+local speedRecord = makeRecord(
+  'Character Speed Multiplier (1 = default)', VW.speedControl, vtSingle)
+speedRecord.Value = '2'
+speedRecord.OnValueChangedByUser = function(_, _, newValue)
+  VoidwroughtApplySpeed(newValue)
+end
+
+makeToggle('One-Hit Kill', VW.oneHitEnabled, function(enabled)
+  VoidwroughtApplyOneHit(enabled, readInteger(VW.oneHitDamage))
+end)
+
+local damageRecord = makeRecord('Player Attack Damage', VW.oneHitDamage, vtDword)
+damageRecord.Value = '999999'
+damageRecord.OnValueChangedByUser = function(_, _, newValue)
+  VoidwroughtApplyOneHit(readBytes(VW.oneHitEnabled, 1, false) == 1, newValue)
+end
+
+local collectRecord = makeRecord(
+  'Collection Multiplier (1 = default)', VW.collectMultiplier, vtDword)
+collectRecord.Value = '10'
+collectRecord.OnValueChangedByUser = function(_, _, newValue)
+  VoidwroughtSetCollectionMultiplier(newValue)
+end
+
+makeToggle('Unlimited Jump', VW.jumpControl, VoidwroughtApplyUnlimitedJump)
+
+if root then root.Collapsed = false end
+VW.fixes, VW.lastError = 0, nil
+VoidwroughtApplyNoDamage(true)
+VoidwroughtApplySpeed(2.0)
+VoidwroughtApplyOneHit(true, 999999)
+VoidwroughtSetCollectionMultiplier(10)
+VoidwroughtApplyUnlimitedJump(true)
+VoidwroughtStartKeeper()
+print('[Voidwrought] trainer active; keeper interval = 3000 ms')
+{$asm}
+
+[DISABLE]
+{$lua}
+if syntaxcheck then return end
+if VoidwroughtTrainerStop then VoidwroughtTrainerStop(true) end
+print('[Voidwrought] trainer stopped; defaults and code restored')
+{$asm}
+</AssemblerScript>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

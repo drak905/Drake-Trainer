@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable UsesMono="1" CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>90</ID>
+      <Description>"Jotun: Health"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A9444EC8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>91</ID>
+      <Description>"Jotun: Max Health"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A9444EC0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>92</ID>
+      <Description>"Jotun: Damage dealt"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A9444ECC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>93</ID>
+      <Description>"Jotun: Invulnerable (1=on)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>179A9444ED0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>94</ID>
+      <Description>"Jotun: Damage taken mult"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A9444ED8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>95</ID>
+      <Description>"Jotun: GodPower LanceGodPower"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>179A945FF2C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>96</ID>
+      <Description>"Jotun: GodPower ThunderGodPower"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>179A944409C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>97</ID>
+      <Description>"Jotun: GodPower SacrificeGodPower"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>179A94B861C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>98</ID>
+      <Description>"Jotun: GodPower DecoyGodPower"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>179A94B85CC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>99</ID>
+      <Description>"Jotun: GodPower ReviveGodPower"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>179A94FE20C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>100</ID>
+      <Description>"Jotun: GodPower HealingGodPower"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>179A950F7EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>101</ID>
+      <Description>"Jotun: GodPower ShieldGodPower"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>179A951884C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>102</ID>
+      <Description>"Jotun: Move Speed"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A95661C8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>103</ID>
+      <Description>"Jotun: Damage normal"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A95660D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>104</ID>
+      <Description>"Jotun: Damage charged"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A956EFD8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>105</ID>
+      <Description>"Jotun: Damage roll"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A9543E40</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>106</ID>
+      <Description>"Jotun: Camera Max Zoom (lower=wider)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A950E5EC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>107</ID>
+      <Description>"Jotun: Camera Min Zoom (dynamic limit)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>179A950E5E8</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>

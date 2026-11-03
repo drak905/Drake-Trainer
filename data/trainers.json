@@ -1,495 +1,1280 @@
-[
-  {
-    "id": "afterimage",
-    "title": "Afterimage",
-    "thumbnail": "assets/thumbnails/afterimage.jpg",
-    "version": "v1.4.0",
-    "engine": "Unreal Engine 4",
-    "injection": "UE4SS Lua Mod (dwmapi.dll)",
-    "tags": ["Metroidvania", "Action", "Unreal Engine", "UE4SS", "Has Translation"],
-    "hasTranslation": true,
-    "translationName": "Vietnamese v3.1.0",
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Afterimage-Trainer-v1.4.0.zip",
-    "repoFolder": "trainers/01.Afterimage",
-    "description": "High-tier Unreal Engine 4 trainer with custom draggable HUD panel, item injection, and interactive minimap scanner.",
-    "features": [
-      "In-Game HUD Menu (Home)",
-      "God Mode (Survives Traps & Spikes)",
-      "Add +100 to All Bag Items (F2)",
-      "Unlimited Air Jumps (F3)",
-      "Unlimited Weapon Skills / MP (F4)",
-      "2x Movement Speed (F5)",
-      "Interactive Minimap Item Radar (PgUp)"
-    ],
-    "hotkeys": [
-      { "key": "Home", "effect": "Toggle In-Game Trainer HUD" },
-      { "key": "F1", "effect": "God Mode (Invincible against hazards, traps, bosses)" },
-      { "key": "F2", "effect": "Add +100 of every item in inventory bag (up to 999)" },
-      { "key": "F3", "effect": "Unlimited Air Jumps" },
-      { "key": "F4", "effect": "Infinite Weapon Skills & MP" },
-      { "key": "F5", "effect": "2x Character Movement Speed" },
-      { "key": "PgUp", "effect": "Map Item Markers (shows chests, pickups, NPCs on minimap)" }
-    ]
-  },
-  {
-    "id": "astral-ascent",
-    "title": "Astral Ascent",
-    "thumbnail": "assets/thumbnails/astral-ascent.jpg",
-    "version": "v1.0.0",
-    "engine": "Chowdren (C++)",
-    "injection": "Native Proxy DLL (winmm.dll)",
-    "tags": ["Roguelite", "Action", "Chowdren", "Native C++"],
-    "hasTranslation": false,
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/AstralAscent-Trainer-v1.zip",
-    "repoFolder": "trainers/02.Astral-Ascent",
-    "description": "Native proxy DLL injection unlocking the hidden internal developer debug/cheat menu and memory aura hooks.",
-    "features": [
-      "In-Game Debug/Cheat Menu (F1 / [ ])",
-      "God Mode (Infinite HP & Mana)",
-      "Unlimited Air Jumps",
-      "One-Hit Kill",
-      "Currency Modifiers (Quartz, Sun, Stars)"
-    ],
-    "hotkeys": [
-      { "key": "F1 or [ / ]", "effect": "Open In-Game Developer Debug/Cheat Menu" },
-      { "key": "1", "effect": "Infinite HP" },
-      { "key": "2", "effect": "Auto Kill Enemies (One-Hit Kill)" },
-      { "key": "3", "effect": "Infinite Mana Lock" },
-      { "key": "4", "effect": "Add 9,999 Quartz & Sun Crystals" }
-    ]
-  },
-  {
-    "id": "bo-path-of-the-teal-lotus",
-    "title": "Bō: Path of the Teal Lotus",
-    "thumbnail": "assets/thumbnails/bo-path-of-the-teal-lotus.jpg",
-    "version": "v1.1.0",
-    "engine": "Unity Mono",
-    "injection": "BepInEx 5 + Harmony (winhttp.dll)",
-    "tags": ["Metroidvania", "Platformer", "Unity", "BepInEx", "Has Translation"],
-    "hasTranslation": true,
-    "translationName": "Vietnamese v1.0.0",
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Bo-Trainer-v1.zip",
-    "repoFolder": "trainers/03.Bo-Path-of-the-Teal-Lotus",
-    "description": "Seamless Harmony plugin offering spike-safe invulnerability, Daruma air-reset, and live collectible map overlay.",
-    "features": [
-      "God Mode (Hazard/Spike/Freeze Immune)",
-      "Unlimited Air Jump & Daruma Reset",
-      "One-Hit Kill (Tengu Duo Safe)",
-      "Infinite Tea / Kettle Healing",
-      "Add Fox Fire Currency",
-      "Kodama & Collectible Map Overlay (F2)"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode (Immune to damage, spikes, falls, ice)" },
-      { "key": "F2", "effect": "Toggle Kodama & Collectible Map Overlay" },
-      { "key": "F3", "effect": "Add +5,000 Fox Fire Currency" },
-      { "key": "F4", "effect": "Unlimited Jump / Infinite Daruma Reset" },
-      { "key": "F5", "effect": "One-Hit Kill (Boss-safe)" },
-      { "key": "F6", "effect": "Infinite Tea Kettle Healing" }
-    ]
-  },
-  {
-    "id": "creature-in-the-well",
-    "title": "Creature in the Well",
-    "thumbnail": "assets/thumbnails/creature-in-the-well.jpg",
-    "version": "v1.0.0",
-    "engine": "Unreal Engine 4 (x64)",
-    "injection": "Native Proxy DLL (xinput1_3.dll)",
-    "tags": ["Action", "Pinball-Hack-and-Slash", "Unreal Engine", "Native C++"],
-    "hasTranslation": false,
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/CITW-Trainer-v1.zip",
-    "repoFolder": "trainers/04.Creature-in-the-Well",
-    "description": "Direct XInput proxy DLL providing energy locking, instant weapon charging, and core overload mechanics.",
-    "features": [
-      "God Mode / Invincibility",
-      "Unlimited Energy",
-      "Instant Weapon Charge",
-      "One-Hit Core Overload",
-      "Add Energy & Orbs",
-      "Configurable INI Hotkeys"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode (No damage from lasers or environmental turrets)" },
-      { "key": "F2", "effect": "Unlimited Energy Lock" },
-      { "key": "F3", "effect": "Instant Max Weapon Charge" },
-      { "key": "F4", "effect": "One-Hit Core Overload" },
-      { "key": "F5", "effect": "Add 50,000 Power Energy" }
-    ]
-  },
-  {
-    "id": "dead-cells",
-    "title": "Dead Cells",
-    "thumbnail": "assets/thumbnails/dead-cells.jpg",
-    "version": "v1.0.0",
-    "engine": "HashLink / Heaps",
-    "injection": "HashLink Bytecode Patcher",
-    "tags": ["Roguelite", "Metroidvania", "HashLink", "Bytecode Patch", "Has Translation"],
-    "hasTranslation": true,
-    "translationName": "Vietnamese v1.0.0",
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/DeadCells-Trainer-v1.zip",
-    "repoFolder": "trainers/05.Dead-Cells",
-    "description": "Direct bytecode patcher for the HashLink VM bytecode structure, guaranteeing clean cell & gold locking.",
-    "features": [
-      "God Mode (No-Damage Lock)",
-      "Infinite Gold & Cells",
-      "Unlimited Jumps",
-      "One-Hit Kill",
-      "Instant Skill & Mutation Cooldowns"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "Toggle God Mode" },
-      { "key": "F2", "effect": "Infinite Gold (+100,000)" },
-      { "key": "F3", "effect": "Infinite Cells (+1,000)" },
-      { "key": "F4", "effect": "Unlimited Air Jumps" },
-      { "key": "F5", "effect": "One-Hit Kill" }
-    ]
-  },
-  {
-    "id": "deaths-gambit-afterlife",
-    "title": "Death's Gambit: Afterlife",
-    "thumbnail": "assets/thumbnails/deaths-gambit-afterlife.jpg",
-    "version": "v4.0.0",
-    "engine": "GameMaker Studio 2 (VM)",
-    "injection": "UTMT Hook + xdelta3 Delta Patch",
-    "tags": ["Souls-like", "Metroidvania", "GameMaker", "Bytecode Delta"],
-    "hasTranslation": false,
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/DG-Afterlife-Trainer-v4-portable.zip",
-    "repoFolder": "trainers/06.Deaths-Gambit-Afterlife",
-    "description": "Compact 1MB xdelta binary patch modifying GMS2 VM bytecode for infinite jumps, feather locks, and instant essence.",
-    "features": [
-      "God Mode + Infinite Feathers (F1)",
-      "Infinite Endurance + Soul Energy + Ammo (F2)",
-      "Essence Pickup Bonus +999 (F3)",
-      "Unlimited Air Jump (F4)",
-      "One-Hit Kill (F5)",
-      "Instant +99,999 Ultra Essence (G)"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode + Infinite Healing Feathers" },
-      { "key": "F2", "effect": "Infinite Endurance + Soul Energy + Ammo" },
-      { "key": "F3", "effect": "Essence Pickup Bonus (+999 per pickup)" },
-      { "key": "F4", "effect": "Unlimited Air Jumps" },
-      { "key": "F5", "effect": "One-Hit Kill (Safe against merchants/NPCs)" },
-      { "key": "G", "effect": "Instant +99,999 Ultra Essence & Auto-Save" }
-    ]
-  },
-  {
-    "id": "ghost-song",
-    "title": "Ghost Song",
-    "thumbnail": "assets/thumbnails/ghost-song.jpg",
-    "version": "v2.0.0",
-    "engine": "Unity IL2CPP (DX11)",
-    "injection": "Native Proxy (version.dll) + ImGui DX11",
-    "tags": ["Metroidvania", "Atmospheric", "Unity IL2CPP", "ImGui Overlay", "Has Translation"],
-    "hasTranslation": true,
-    "translationName": "Vietnamese v1.0.0",
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/GhostSong-Trainer-v2.zip",
-    "repoFolder": "trainers/07.Ghost-Song",
-    "description": "Native version.dll proxy with MinHook and DX11 Present hook rendering a full Dear ImGui in-game menu.",
-    "features": [
-      "In-Game Dear ImGui Menu (Insert / F10)",
-      "God Mode",
-      "Infinite Nanites & Consumables",
-      "Unlimited Air Jumps",
-      "2x Move Speed",
-      "One-Hit Kill",
-      "Infinite Stamina & Spirit",
-      "Full Map & Icon Reveal"
-    ],
-    "hotkeys": [
-      { "key": "Insert or F10", "effect": "Toggle In-Game Dear ImGui Overlay Menu" },
-      { "key": "F1", "effect": "God Mode (No damage, cannot die)" },
-      { "key": "F2", "effect": "Add Nanites (+10,000)" },
-      { "key": "F3", "effect": "Infinite Nanites & Consumables Lock" },
-      { "key": "F4", "effect": "Unlimited Air Jumps" },
-      { "key": "F5", "effect": "2x Movement Speed" },
-      { "key": "F6", "effect": "One-Hit Kill" },
-      { "key": "F8", "effect": "Infinite Stamina & Spirit" },
-      { "key": "F9", "effect": "Reveal Entire Map with All Items & Save Stations" }
-    ]
-  },
-  {
-    "id": "guacamelee-stce",
-    "title": "Guacamelee! STCE",
-    "thumbnail": "assets/thumbnails/guacamelee-stce.jpg",
-    "version": "v1.0.0",
-    "engine": "Custom 2D C++ Engine",
-    "injection": "Native Proxy DLL (dinput8.dll)",
-    "tags": ["Metroidvania", "Brawler", "Native C++", "Has Translation"],
-    "hasTranslation": true,
-    "translationName": "Vietnamese v1.0.0",
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Guacamelee-STCE-Trainer-v1.zip",
-    "repoFolder": "trainers/08.Guacamelee-STCE",
-    "description": "High-performance dinput8 proxy DLL hooking internal Luchador movement and currency routines.",
-    "features": [
-      "God Mode / Invincible Luchador",
-      "Infinite Stamina",
-      "Unlimited Special Moves",
-      "Unlimited Air Jumps",
-      "Add Silver / Coins",
-      "One-Hit Kill"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode" },
-      { "key": "F2", "effect": "Add Coins (+10,000)" },
-      { "key": "F3", "effect": "Infinite Stamina & Special Moves" },
-      { "key": "F4", "effect": "Unlimited Air Jumps" },
-      { "key": "F5", "effect": "One-Hit Kill" }
-    ]
-  },
-  {
-    "id": "gunslugs",
-    "title": "Gunslugs",
-    "thumbnail": "assets/thumbnails/gunslugs.png",
-    "version": "v1.0.0",
-    "engine": "Java 8 / LWJGL 2 (Packr)",
-    "injection": "URLClassLoader Classpath Override",
-    "tags": ["Run-and-Gun", "Retro", "Java / LWJGL", "Pixel HUD"],
-    "hasTranslation": false,
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Gunslugs-Trainer-v1.zip",
-    "repoFolder": "trainers/09.Gunslugs",
-    "description": "Packr ClassLoader prepend adding a pixel-art HUD, level radar ESP, and fixing legacy Win10/11 fullscreen crashes.",
-    "features": [
-      "Native Pixel HUD & Toasts",
-      "God Mode (F1)",
-      "Add Money (F2)",
-      "Unlimited Money & Items (F3)",
-      "Unlimited Jump (F4)",
-      "2x Speed (F5)",
-      "Full Level Radar / ESP (F6)",
-      "One-Hit Kill (F7)",
-      "Weapon Cycle (F8)",
-      "Windows 11 Fullscreen Crash Fix"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode" },
-      { "key": "F2", "effect": "Add Money (+500)" },
-      { "key": "F3", "effect": "Unlimited Money & Ammo Lock" },
-      { "key": "F4", "effect": "Unlimited Jump" },
-      { "key": "F5", "effect": "2x Movement Speed" },
-      { "key": "F6", "effect": "Full-Level Radar Bar & Objective ESP" },
-      { "key": "F7", "effect": "One-Hit Kill" },
-      { "key": "F8", "effect": "Cycle Next Weapon" }
-    ]
-  },
-  {
-    "id": "gunslugs-2",
-    "title": "Gunslugs 2",
-    "thumbnail": "assets/thumbnails/gunslugs-2.png",
-    "version": "v1.0.0",
-    "engine": "Java 8 / LWJGL 2 (Packr)",
-    "injection": "URLClassLoader Classpath Override",
-    "tags": ["Run-and-Gun", "Retro", "Java / LWJGL", "Pixel HUD"],
-    "hasTranslation": false,
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Gunslugs2-Trainer-v1.zip",
-    "repoFolder": "trainers/10.Gunslugs-2",
-    "description": "Zero-binary-modification Packr classpath injection with arcade HUD and full objective tracking radar.",
-    "features": [
-      "In-Game Pixel HUD",
-      "God Mode (F1)",
-      "Add Coins (F2)",
-      "Unlimited Money & Ammo (F3)",
-      "Unlimited Jump (F4)",
-      "2x Speed (F5)",
-      "Map Radar / Objective ESP (F6)",
-      "One-Hit Kill (F7)",
-      "Weapon Cycle (F8)"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode" },
-      { "key": "F2", "effect": "Add Coins (+500)" },
-      { "key": "F3", "effect": "Unlimited Coins & Ammo Lock" },
-      { "key": "F4", "effect": "Unlimited Air Jump" },
-      { "key": "F5", "effect": "2x Movement Speed" },
-      { "key": "F6", "effect": "Map Radar / Objective ESP" },
-      { "key": "F7", "effect": "One-Hit Kill" },
-      { "key": "F8", "effect": "Cycle Weapon" }
-    ]
-  },
-  {
-    "id": "gunslugs-3-rogue-tactics",
-    "title": "Gunslugs 3: Rogue Tactics",
-    "thumbnail": "assets/thumbnails/gunslugs-3.jpg",
-    "version": "v1.0.0",
-    "engine": "Java 8 / LWJGL (Packr)",
-    "injection": "URLClassLoader Classpath Override",
-    "tags": ["Stealth-Action", "Roguelike", "Java / LWJGL", "Pixel HUD"],
-    "hasTranslation": false,
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Gunslugs3-Trainer-v1.zip",
-    "repoFolder": "trainers/11.Gunslugs-3-Rogue-Tactics",
-    "description": "Injected directly ahead of encrypted game dat files, featuring full stealth item tracking and instant mission clears.",
-    "features": [
-      "Retro HUD & Menus",
-      "God Mode (F1)",
-      "Add Money (F2)",
-      "Unlimited Items & Ammo (F3)",
-      "Unlimited Jump (F4)",
-      "2x Speed (F5)",
-      "Full Level Map ESP (F6)",
-      "One-Hit Kill (F7)",
-      "Weapon Cycle (F8)"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode" },
-      { "key": "F2", "effect": "Add Money (+500)" },
-      { "key": "F3", "effect": "Unlimited Money & Items Lock" },
-      { "key": "F4", "effect": "Unlimited Jump" },
-      { "key": "F5", "effect": "2x Movement Speed" },
-      { "key": "F6", "effect": "Full Level Map ESP" },
-      { "key": "F7", "effect": "One-Hit Kill" },
-      { "key": "F8", "effect": "Weapon Cycle" }
-    ]
-  },
-  {
-    "id": "nine-years-of-shadows",
-    "title": "9 Years of Shadows",
-    "thumbnail": "assets/thumbnails/nine-years-of-shadows.jpg",
-    "version": "v1.2.2",
-    "engine": "Unity Mono",
-    "injection": "BepInEx 5 + Harmony (winhttp.dll)",
-    "tags": ["Metroidvania", "Pixel Art", "Unity", "BepInEx", "Has Translation"],
-    "hasTranslation": true,
-    "translationName": "Vietnamese v1.0.0",
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/NineYearsOfShadows-Trainer-v1.zip",
-    "repoFolder": "trainers/12.Nine-Years-of-Shadows",
-    "description": "Harmony patches surviving darkness zones, curse traps, and element gates with instant light crystal boosting.",
-    "features": [
-      "God Mode (Darkness/Hazard Immune)",
-      "Infinite Armor & Shadow Gauge",
-      "Unlimited Jumps",
-      "Infinite Halberd Energy",
-      "Add Light Crystals (+10k)",
-      "One-Hit Kill"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode (Immune to all hazards and curses)" },
-      { "key": "F2", "effect": "Add Light Crystals (+10,000)" },
-      { "key": "F3", "effect": "Infinite Armor & Halberd Energy" },
-      { "key": "F4", "effect": "Unlimited Air Jumps" },
-      { "key": "F5", "effect": "One-Hit Kill" }
-    ]
-  },
-  {
-    "id": "ogu-and-the-secret-forest",
-    "title": "Ogu & the Secret Forest",
-    "thumbnail": "assets/thumbnails/ogu-and-the-secret-forest.jpg",
-    "version": "v1.0.0",
-    "engine": "Unity Mono",
-    "injection": "BepInEx 5 + Harmony (winhttp.dll)",
-    "tags": ["Adventure", "Puzzle", "Unity", "BepInEx"],
-    "hasTranslation": false,
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Ogu-Trainer-v1.zip",
-    "repoFolder": "trainers/13.Ogu-and-the-Secret-Forest",
-    "description": "Lightweight Unity Mono BepInEx plugin unlocking infinite stamina rolls, heart locks, and insect currency injection.",
-    "features": [
-      "God Mode (Infinite Hearts)",
-      "Infinite Stamina / Unlimited Roll",
-      "Unlimited Sprint & Jump",
-      "Add Bugs & Coins",
-      "One-Hit Kill"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode (Infinite Hearts)" },
-      { "key": "F2", "effect": "Add Bugs & Currency (+5,000)" },
-      { "key": "F3", "effect": "Infinite Stamina Lock" },
-      { "key": "F4", "effect": "Unlimited Jump / Sprint" },
-      { "key": "F5", "effect": "One-Hit Kill" }
-    ]
-  },
-  {
-    "id": "shogun-showdown",
-    "title": "Shogun Showdown",
-    "thumbnail": "assets/thumbnails/shogun-showdown.jpg",
-    "version": "v1.0.0",
-    "engine": "Unity 2021 Mono",
-    "injection": "BepInEx 5.4.23 + HarmonyX",
-    "tags": ["Turn-Based", "Deckbuilder", "Roguelike", "Unity", "BepInEx"],
-    "hasTranslation": false,
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/ShogunShowdown-Trainer-v1.zip",
-    "repoFolder": "trainers/14.Shogun-Showdown",
-    "description": "Comprehensive HarmonyX plugin with tile cooldown zeroing, infinite potion uses, and instant full sector map reveal.",
-    "features": [
-      "God Mode (F1)",
-      "Infinite Money & Meta (F2)",
-      "Special Move Cooldown Lock (F3)",
-      "2x Character Move Distance (F4)",
-      "2x Game Speed (F5)",
-      "Infinite Consumable Potions (F6)",
-      "No Tile Cooldown (F7)",
-      "One-Hit Kill (F8)",
-      "Reveal Full Sector Map (F9)"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode" },
-      { "key": "F2", "effect": "Infinite Coins & Meta Currency" },
-      { "key": "F3", "effect": "Unlimited Special Move (Dash/Jump)" },
-      { "key": "F4", "effect": "2x Character Move Distance" },
-      { "key": "F5", "effect": "2x Game Speed" },
-      { "key": "F6", "effect": "Infinite Consumable Potions" },
-      { "key": "F7", "effect": "No Tile Cooldown" },
-      { "key": "F8", "effect": "One-Hit Kill" },
-      { "key": "F9", "effect": "Reveal Entire Sector Map" }
-    ]
-  },
-  {
-    "id": "voidwrought",
-    "title": "Voidwrought",
-    "thumbnail": "assets/thumbnails/voidwrought.jpg",
-    "version": "v1.0.0",
-    "engine": "Unity Mono",
-    "injection": "BepInEx 5 + Harmony (winhttp.dll)",
-    "tags": ["Metroidvania", "Cosmic Horror", "Unity", "BepInEx", "Has Translation"],
-    "hasTranslation": true,
-    "translationName": "Vietnamese v1.0.0",
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Voidwrought-Trainer-v1.zip",
-    "repoFolder": "trainers/15.Voidwrought",
-    "description": "Harmony runtime hook for seamless ichor healing, unlimited air dashes, and void soul multiplication.",
-    "features": [
-      "God Mode",
-      "Infinite Void Souls / Currency",
-      "Unlimited Air Jumps & Dash",
-      "Infinite Healing / Ichor",
-      "One-Hit Kill"
-    ],
-    "hotkeys": [
-      { "key": "F1", "effect": "God Mode" },
-      { "key": "F2", "effect": "Add Void Souls (+10,000)" },
-      { "key": "F3", "effect": "Infinite Ichor & Healing" },
-      { "key": "F4", "effect": "Unlimited Air Jumps & Dash" },
-      { "key": "F5", "effect": "One-Hit Kill" }
-    ]
-  },
-  {
-    "id": "wizard-of-legend",
-    "title": "Wizard of Legend",
-    "thumbnail": "assets/thumbnails/wizard-of-legend.jpg",
-    "version": "v1.0.0",
-    "engine": "Unity Mono",
-    "injection": "Mono.Cecil IL Injector",
-    "tags": ["Roguelike", "Spellcasting", "Unity", "IL Injector"],
-    "hasTranslation": false,
-    "downloadUrl": "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/WizardofLegend-Trainer-v1.zip",
-    "repoFolder": "trainers/16.Wizard-of-Legend",
-    "description": "Non-destructive IL injection calling InitDebugOptions directly on game update, unlocking full developer tools.",
-    "features": [
-      "Unlocks Native Developer Debug Menu (Backspace)",
-      "God Mode (2)",
-      "Max Difficulty (1)",
-      "Slow-Motion Speeds (3)",
-      "Fullscreen Minimap (4)",
-      "+9999 Gold & +999 Chaos Gems",
-      "Wrath of Developer (Kill All)"
-    ],
-    "hotkeys": [
-      { "key": "Backspace", "effect": "Toggle Developer Debug Menu UI" },
-      { "key": "1", "effect": "Toggle Max Difficulty" },
-      { "key": "2", "effect": "Toggle God Mode (Invincibility)" },
-      { "key": "3", "effect": "Cycle Slow-Motion Speeds (0.25x, 0.5x, 1x)" },
-      { "key": "4", "effect": "Toggle Fullscreen Minimap" },
-      { "key": "- / =", "effect": "Camera Zoom Out / In" },
-      { "key": "Menu Action", "effect": "+9999 Gold & +999 Chaos Gems" },
-      { "key": "Menu Action", "effect": "Wrath of Developer (Instant kill all screen enemies)" },
-      { "key": "Menu Action", "effect": "Unlock All Spells, Relics, and Robes" }
-    ]
-  }
+﻿[
+    {
+        "id":  "afterimage",
+        "title":  "Afterimage",
+        "thumbnail":  "assets/thumbnails/afterimage.jpg",
+        "version":  "v1.4.0",
+        "engine":  "Unreal Engine 4",
+        "injection":  "UE4SS Lua Mod (dwmapi.dll)",
+        "tags":  [
+                     "Metroidvania",
+                     "Action",
+                     "Unreal Engine",
+                     "UE4SS",
+                     "Has Translation"
+                 ],
+        "hasTranslation":  true,
+        "translationName":  "Vietnamese v3.1.0",
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Afterimage-Trainer-v1.4.0.zip",
+        "repoFolder":  "trainers/01.Afterimage",
+        "description":  "High-tier Unreal Engine 4 trainer with custom draggable HUD panel, item injection, and interactive minimap scanner.",
+        "features":  [
+                         "In-Game HUD Menu (Home)",
+                         "God Mode (Survives Traps \u0026 Spikes)",
+                         "Add +100 to All Bag Items (F2)",
+                         "Unlimited Air Jumps (F3)",
+                         "Unlimited Weapon Skills / MP (F4)",
+                         "2x Movement Speed (F5)",
+                         "Interactive Minimap Item Radar (PgUp)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "Home",
+                            "effect":  "Toggle In-Game Trainer HUD"
+                        },
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode (Invincible against hazards, traps, bosses)"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Add +100 of every item in inventory bag (up to 999)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Unlimited Air Jumps"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Infinite Weapon Skills \u0026 MP"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "2x Character Movement Speed"
+                        },
+                        {
+                            "key":  "PgUp",
+                            "effect":  "Map Item Markers (shows chests, pickups, NPCs on minimap)"
+                        }
+                    ]
+    },
+    {
+        "id":  "astral-ascent",
+        "title":  "Astral Ascent",
+        "thumbnail":  "assets/thumbnails/astral-ascent.jpg",
+        "version":  "v1.0.0",
+        "engine":  "Chowdren (C++)",
+        "injection":  "Native Proxy DLL (winmm.dll)",
+        "tags":  [
+                     "Roguelite",
+                     "Action",
+                     "Chowdren",
+                     "Native C++"
+                 ],
+        "hasTranslation":  false,
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/AstralAscent-Trainer-v1.zip",
+        "repoFolder":  "trainers/02.Astral-Ascent",
+        "description":  "Native proxy DLL injection unlocking the hidden internal developer debug/cheat menu and memory aura hooks.",
+        "features":  [
+                         "In-Game Debug/Cheat Menu (F1 / [ ])",
+                         "God Mode (Infinite HP \u0026 Mana)",
+                         "Unlimited Air Jumps",
+                         "One-Hit Kill",
+                         "Currency Modifiers (Quartz, Sun, Stars)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1 or [ / ]",
+                            "effect":  "Open In-Game Developer Debug/Cheat Menu"
+                        },
+                        {
+                            "key":  "1",
+                            "effect":  "Infinite HP"
+                        },
+                        {
+                            "key":  "2",
+                            "effect":  "Auto Kill Enemies (One-Hit Kill)"
+                        },
+                        {
+                            "key":  "3",
+                            "effect":  "Infinite Mana Lock"
+                        },
+                        {
+                            "key":  "4",
+                            "effect":  "Add 9,999 Quartz \u0026 Sun Crystals"
+                        }
+                    ]
+    },
+    {
+        "id":  "bo-path-of-the-teal-lotus",
+        "title":  "Bō: Path of the Teal Lotus",
+        "thumbnail":  "assets/thumbnails/bo-path-of-the-teal-lotus.jpg",
+        "version":  "v1.1.0",
+        "engine":  "Unity Mono",
+        "injection":  "BepInEx 5 + Harmony (winhttp.dll)",
+        "tags":  [
+                     "Metroidvania",
+                     "Platformer",
+                     "Unity",
+                     "BepInEx",
+                     "Has Translation"
+                 ],
+        "hasTranslation":  true,
+        "translationName":  "Vietnamese v1.0.0",
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Bo-Trainer-v1.zip",
+        "repoFolder":  "trainers/03.Bo-Path-of-the-Teal-Lotus",
+        "description":  "Seamless Harmony plugin offering spike-safe invulnerability, Daruma air-reset, and live collectible map overlay.",
+        "features":  [
+                         "God Mode (Hazard/Spike/Freeze Immune)",
+                         "Unlimited Air Jump \u0026 Daruma Reset",
+                         "One-Hit Kill (Tengu Duo Safe)",
+                         "Infinite Tea / Kettle Healing",
+                         "Add Fox Fire Currency",
+                         "Kodama \u0026 Collectible Map Overlay (F2)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode (Immune to damage, spikes, falls, ice)"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Toggle Kodama \u0026 Collectible Map Overlay"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Add +5,000 Fox Fire Currency"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Jump / Infinite Daruma Reset"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "One-Hit Kill (Boss-safe)"
+                        },
+                        {
+                            "key":  "F6",
+                            "effect":  "Infinite Tea Kettle Healing"
+                        }
+                    ]
+    },
+    {
+        "id":  "creature-in-the-well",
+        "title":  "Creature in the Well",
+        "thumbnail":  "assets/thumbnails/creature-in-the-well.jpg",
+        "version":  "v1.0.0",
+        "engine":  "Unreal Engine 4 (x64)",
+        "injection":  "Native Proxy DLL (xinput1_3.dll)",
+        "tags":  [
+                     "Action",
+                     "Pinball-Hack-and-Slash",
+                     "Unreal Engine",
+                     "Native C++"
+                 ],
+        "hasTranslation":  false,
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/CITW-Trainer-v1.zip",
+        "repoFolder":  "trainers/04.Creature-in-the-Well",
+        "description":  "Direct XInput proxy DLL providing energy locking, instant weapon charging, and core overload mechanics.",
+        "features":  [
+                         "God Mode / Invincibility",
+                         "Unlimited Energy",
+                         "Instant Weapon Charge",
+                         "One-Hit Core Overload",
+                         "Add Energy \u0026 Orbs",
+                         "Configurable INI Hotkeys"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode (No damage from lasers or environmental turrets)"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Unlimited Energy Lock"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Instant Max Weapon Charge"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "One-Hit Core Overload"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "Add 50,000 Power Energy"
+                        }
+                    ]
+    },
+    {
+        "id":  "dead-cells",
+        "title":  "Dead Cells",
+        "thumbnail":  "assets/thumbnails/dead-cells.jpg",
+        "version":  "v1.0.0",
+        "engine":  "HashLink / Heaps",
+        "injection":  "HashLink Bytecode Patcher",
+        "tags":  [
+                     "Roguelite",
+                     "Metroidvania",
+                     "HashLink",
+                     "Bytecode Patch",
+                     "Has Translation"
+                 ],
+        "hasTranslation":  true,
+        "translationName":  "Vietnamese v1.0.0",
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/DeadCells-Trainer-v1.zip",
+        "repoFolder":  "trainers/05.Dead-Cells",
+        "description":  "Direct bytecode patcher for the HashLink VM bytecode structure, guaranteeing clean cell \u0026 gold locking.",
+        "features":  [
+                         "God Mode (No-Damage Lock)",
+                         "Infinite Gold \u0026 Cells",
+                         "Unlimited Jumps",
+                         "One-Hit Kill",
+                         "Instant Skill \u0026 Mutation Cooldowns"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "Toggle God Mode"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Infinite Gold (+100,000)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Infinite Cells (+1,000)"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Air Jumps"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "One-Hit Kill"
+                        }
+                    ]
+    },
+    {
+        "id":  "deaths-gambit-afterlife",
+        "title":  "Death\u0027s Gambit: Afterlife",
+        "thumbnail":  "assets/thumbnails/deaths-gambit-afterlife.jpg",
+        "version":  "v4.0.0",
+        "engine":  "GameMaker Studio 2 (VM)",
+        "injection":  "UTMT Hook + xdelta3 Delta Patch",
+        "tags":  [
+                     "Souls-like",
+                     "Metroidvania",
+                     "GameMaker",
+                     "Bytecode Delta"
+                 ],
+        "hasTranslation":  false,
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/DG-Afterlife-Trainer-v4-portable.zip",
+        "repoFolder":  "trainers/06.Deaths-Gambit-Afterlife",
+        "description":  "Compact 1MB xdelta binary patch modifying GMS2 VM bytecode for infinite jumps, feather locks, and instant essence.",
+        "features":  [
+                         "God Mode + Infinite Feathers (F1)",
+                         "Infinite Endurance + Soul Energy + Ammo (F2)",
+                         "Essence Pickup Bonus +999 (F3)",
+                         "Unlimited Air Jump (F4)",
+                         "One-Hit Kill (F5)",
+                         "Instant +99,999 Ultra Essence (G)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode + Infinite Healing Feathers"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Infinite Endurance + Soul Energy + Ammo"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Essence Pickup Bonus (+999 per pickup)"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Air Jumps"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "One-Hit Kill (Safe against merchants/NPCs)"
+                        },
+                        {
+                            "key":  "G",
+                            "effect":  "Instant +99,999 Ultra Essence \u0026 Auto-Save"
+                        }
+                    ]
+    },
+    {
+        "id":  "ghost-song",
+        "title":  "Ghost Song",
+        "thumbnail":  "assets/thumbnails/ghost-song.jpg",
+        "version":  "v2.0.0",
+        "engine":  "Unity IL2CPP (DX11)",
+        "injection":  "Native Proxy (version.dll) + ImGui DX11",
+        "tags":  [
+                     "Metroidvania",
+                     "Atmospheric",
+                     "Unity IL2CPP",
+                     "ImGui Overlay",
+                     "Has Translation"
+                 ],
+        "hasTranslation":  true,
+        "translationName":  "Vietnamese v1.0.0",
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/GhostSong-Trainer-v2.zip",
+        "repoFolder":  "trainers/07.Ghost-Song",
+        "description":  "Native version.dll proxy with MinHook and DX11 Present hook rendering a full Dear ImGui in-game menu.",
+        "features":  [
+                         "In-Game Dear ImGui Menu (Insert / F10)",
+                         "God Mode",
+                         "Infinite Nanites \u0026 Consumables",
+                         "Unlimited Air Jumps",
+                         "2x Move Speed",
+                         "One-Hit Kill",
+                         "Infinite Stamina \u0026 Spirit",
+                         "Full Map \u0026 Icon Reveal"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "Insert or F10",
+                            "effect":  "Toggle In-Game Dear ImGui Overlay Menu"
+                        },
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode (No damage, cannot die)"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Add Nanites (+10,000)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Infinite Nanites \u0026 Consumables Lock"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Air Jumps"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "2x Movement Speed"
+                        },
+                        {
+                            "key":  "F6",
+                            "effect":  "One-Hit Kill"
+                        },
+                        {
+                            "key":  "F8",
+                            "effect":  "Infinite Stamina \u0026 Spirit"
+                        },
+                        {
+                            "key":  "F9",
+                            "effect":  "Reveal Entire Map with All Items \u0026 Save Stations"
+                        }
+                    ]
+    },
+    {
+        "id":  "guacamelee-stce",
+        "title":  "Guacamelee! STCE",
+        "thumbnail":  "assets/thumbnails/guacamelee-stce.jpg",
+        "version":  "v1.0.0",
+        "engine":  "Custom 2D C++ Engine",
+        "injection":  "Native Proxy DLL (dinput8.dll)",
+        "tags":  [
+                     "Metroidvania",
+                     "Brawler",
+                     "Native C++",
+                     "Has Translation"
+                 ],
+        "hasTranslation":  true,
+        "translationName":  "Vietnamese v1.0.0",
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Guacamelee-STCE-Trainer-v1.zip",
+        "repoFolder":  "trainers/08.Guacamelee-STCE",
+        "description":  "High-performance dinput8 proxy DLL hooking internal Luchador movement and currency routines.",
+        "features":  [
+                         "God Mode / Invincible Luchador",
+                         "Infinite Stamina",
+                         "Unlimited Special Moves",
+                         "Unlimited Air Jumps",
+                         "Add Silver / Coins",
+                         "One-Hit Kill"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Add Coins (+10,000)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Infinite Stamina \u0026 Special Moves"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Air Jumps"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "One-Hit Kill"
+                        }
+                    ]
+    },
+    {
+        "id":  "gunslugs",
+        "title":  "Gunslugs",
+        "thumbnail":  "assets/thumbnails/gunslugs.png",
+        "version":  "v1.0.0",
+        "engine":  "Java 8 / LWJGL 2 (Packr)",
+        "injection":  "URLClassLoader Classpath Override",
+        "tags":  [
+                     "Run-and-Gun",
+                     "Retro",
+                     "Java / LWJGL",
+                     "Pixel HUD"
+                 ],
+        "hasTranslation":  false,
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Gunslugs-Trainer-v1.zip",
+        "repoFolder":  "trainers/09.Gunslugs",
+        "description":  "Packr ClassLoader prepend adding a pixel-art HUD, level radar ESP, and fixing legacy Win10/11 fullscreen crashes.",
+        "features":  [
+                         "Native Pixel HUD \u0026 Toasts",
+                         "God Mode (F1)",
+                         "Add Money (F2)",
+                         "Unlimited Money \u0026 Items (F3)",
+                         "Unlimited Jump (F4)",
+                         "2x Speed (F5)",
+                         "Full Level Radar / ESP (F6)",
+                         "One-Hit Kill (F7)",
+                         "Weapon Cycle (F8)",
+                         "Windows 11 Fullscreen Crash Fix"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Add Money (+500)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Unlimited Money \u0026 Ammo Lock"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Jump"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "2x Movement Speed"
+                        },
+                        {
+                            "key":  "F6",
+                            "effect":  "Full-Level Radar Bar \u0026 Objective ESP"
+                        },
+                        {
+                            "key":  "F7",
+                            "effect":  "One-Hit Kill"
+                        },
+                        {
+                            "key":  "F8",
+                            "effect":  "Cycle Next Weapon"
+                        }
+                    ]
+    },
+    {
+        "id":  "gunslugs-2",
+        "title":  "Gunslugs 2",
+        "thumbnail":  "assets/thumbnails/gunslugs-2.png",
+        "version":  "v1.0.0",
+        "engine":  "Java 8 / LWJGL 2 (Packr)",
+        "injection":  "URLClassLoader Classpath Override",
+        "tags":  [
+                     "Run-and-Gun",
+                     "Retro",
+                     "Java / LWJGL",
+                     "Pixel HUD"
+                 ],
+        "hasTranslation":  false,
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Gunslugs2-Trainer-v1.zip",
+        "repoFolder":  "trainers/10.Gunslugs-2",
+        "description":  "Zero-binary-modification Packr classpath injection with arcade HUD and full objective tracking radar.",
+        "features":  [
+                         "In-Game Pixel HUD",
+                         "God Mode (F1)",
+                         "Add Coins (F2)",
+                         "Unlimited Money \u0026 Ammo (F3)",
+                         "Unlimited Jump (F4)",
+                         "2x Speed (F5)",
+                         "Map Radar / Objective ESP (F6)",
+                         "One-Hit Kill (F7)",
+                         "Weapon Cycle (F8)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Add Coins (+500)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Unlimited Coins \u0026 Ammo Lock"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Air Jump"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "2x Movement Speed"
+                        },
+                        {
+                            "key":  "F6",
+                            "effect":  "Map Radar / Objective ESP"
+                        },
+                        {
+                            "key":  "F7",
+                            "effect":  "One-Hit Kill"
+                        },
+                        {
+                            "key":  "F8",
+                            "effect":  "Cycle Weapon"
+                        }
+                    ]
+    },
+    {
+        "id":  "gunslugs-3-rogue-tactics",
+        "title":  "Gunslugs 3: Rogue Tactics",
+        "thumbnail":  "assets/thumbnails/gunslugs-3.jpg",
+        "version":  "v1.0.0",
+        "engine":  "Java 8 / LWJGL (Packr)",
+        "injection":  "URLClassLoader Classpath Override",
+        "tags":  [
+                     "Stealth-Action",
+                     "Roguelike",
+                     "Java / LWJGL",
+                     "Pixel HUD"
+                 ],
+        "hasTranslation":  false,
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Gunslugs3-Trainer-v1.zip",
+        "repoFolder":  "trainers/11.Gunslugs-3-Rogue-Tactics",
+        "description":  "Injected directly ahead of encrypted game dat files, featuring full stealth item tracking and instant mission clears.",
+        "features":  [
+                         "Retro HUD \u0026 Menus",
+                         "God Mode (F1)",
+                         "Add Money (F2)",
+                         "Unlimited Items \u0026 Ammo (F3)",
+                         "Unlimited Jump (F4)",
+                         "2x Speed (F5)",
+                         "Full Level Map ESP (F6)",
+                         "One-Hit Kill (F7)",
+                         "Weapon Cycle (F8)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Add Money (+500)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Unlimited Money \u0026 Items Lock"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Jump"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "2x Movement Speed"
+                        },
+                        {
+                            "key":  "F6",
+                            "effect":  "Full Level Map ESP"
+                        },
+                        {
+                            "key":  "F7",
+                            "effect":  "One-Hit Kill"
+                        },
+                        {
+                            "key":  "F8",
+                            "effect":  "Weapon Cycle"
+                        }
+                    ]
+    },
+    {
+        "id":  "nine-years-of-shadows",
+        "title":  "9 Years of Shadows",
+        "thumbnail":  "assets/thumbnails/nine-years-of-shadows.jpg",
+        "version":  "v1.2.2",
+        "engine":  "Unity Mono",
+        "injection":  "BepInEx 5 + Harmony (winhttp.dll)",
+        "tags":  [
+                     "Metroidvania",
+                     "Pixel Art",
+                     "Unity",
+                     "BepInEx",
+                     "Has Translation"
+                 ],
+        "hasTranslation":  true,
+        "translationName":  "Vietnamese v1.0.0",
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/NineYearsOfShadows-Trainer-v1.zip",
+        "repoFolder":  "trainers/12.Nine-Years-of-Shadows",
+        "description":  "Harmony patches surviving darkness zones, curse traps, and element gates with instant light crystal boosting.",
+        "features":  [
+                         "God Mode (Darkness/Hazard Immune)",
+                         "Infinite Armor \u0026 Shadow Gauge",
+                         "Unlimited Jumps",
+                         "Infinite Halberd Energy",
+                         "Add Light Crystals (+10k)",
+                         "One-Hit Kill"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode (Immune to all hazards and curses)"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Add Light Crystals (+10,000)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Infinite Armor \u0026 Halberd Energy"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Air Jumps"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "One-Hit Kill"
+                        }
+                    ]
+    },
+    {
+        "id":  "ogu-and-the-secret-forest",
+        "title":  "Ogu \u0026 the Secret Forest",
+        "thumbnail":  "assets/thumbnails/ogu-and-the-secret-forest.jpg",
+        "version":  "v1.0.0",
+        "engine":  "Unity Mono",
+        "injection":  "BepInEx 5 + Harmony (winhttp.dll)",
+        "tags":  [
+                     "Adventure",
+                     "Puzzle",
+                     "Unity",
+                     "BepInEx"
+                 ],
+        "hasTranslation":  false,
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Ogu-Trainer-v1.zip",
+        "repoFolder":  "trainers/13.Ogu-and-the-Secret-Forest",
+        "description":  "Lightweight Unity Mono BepInEx plugin unlocking infinite stamina rolls, heart locks, and insect currency injection.",
+        "features":  [
+                         "God Mode (Infinite Hearts)",
+                         "Infinite Stamina / Unlimited Roll",
+                         "Unlimited Sprint \u0026 Jump",
+                         "Add Bugs \u0026 Coins",
+                         "One-Hit Kill"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode (Infinite Hearts)"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Add Bugs \u0026 Currency (+5,000)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Infinite Stamina Lock"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Jump / Sprint"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "One-Hit Kill"
+                        }
+                    ]
+    },
+    {
+        "id":  "shogun-showdown",
+        "title":  "Shogun Showdown",
+        "thumbnail":  "assets/thumbnails/shogun-showdown.jpg",
+        "version":  "v1.0.0",
+        "engine":  "Unity 2021 Mono",
+        "injection":  "BepInEx 5.4.23 + HarmonyX",
+        "tags":  [
+                     "Turn-Based",
+                     "Deckbuilder",
+                     "Roguelike",
+                     "Unity",
+                     "BepInEx"
+                 ],
+        "hasTranslation":  false,
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/ShogunShowdown-Trainer-v1.zip",
+        "repoFolder":  "trainers/14.Shogun-Showdown",
+        "description":  "Comprehensive HarmonyX plugin with tile cooldown zeroing, infinite potion uses, and instant full sector map reveal.",
+        "features":  [
+                         "God Mode (F1)",
+                         "Infinite Money \u0026 Meta (F2)",
+                         "Special Move Cooldown Lock (F3)",
+                         "2x Character Move Distance (F4)",
+                         "2x Game Speed (F5)",
+                         "Infinite Consumable Potions (F6)",
+                         "No Tile Cooldown (F7)",
+                         "One-Hit Kill (F8)",
+                         "Reveal Full Sector Map (F9)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Infinite Coins \u0026 Meta Currency"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Unlimited Special Move (Dash/Jump)"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "2x Character Move Distance"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "2x Game Speed"
+                        },
+                        {
+                            "key":  "F6",
+                            "effect":  "Infinite Consumable Potions"
+                        },
+                        {
+                            "key":  "F7",
+                            "effect":  "No Tile Cooldown"
+                        },
+                        {
+                            "key":  "F8",
+                            "effect":  "One-Hit Kill"
+                        },
+                        {
+                            "key":  "F9",
+                            "effect":  "Reveal Entire Sector Map"
+                        }
+                    ]
+    },
+    {
+        "id":  "voidwrought",
+        "title":  "Voidwrought",
+        "thumbnail":  "assets/thumbnails/voidwrought.jpg",
+        "version":  "v1.0.0",
+        "engine":  "Unity Mono",
+        "injection":  "BepInEx 5 + Harmony (winhttp.dll)",
+        "tags":  [
+                     "Metroidvania",
+                     "Cosmic Horror",
+                     "Unity",
+                     "BepInEx",
+                     "Has Translation"
+                 ],
+        "hasTranslation":  true,
+        "translationName":  "Vietnamese v1.0.0",
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Voidwrought-Trainer-v1.zip",
+        "repoFolder":  "trainers/15.Voidwrought",
+        "description":  "Harmony runtime hook for seamless ichor healing, unlimited air dashes, and void soul multiplication.",
+        "features":  [
+                         "God Mode",
+                         "Infinite Void Souls / Currency",
+                         "Unlimited Air Jumps \u0026 Dash",
+                         "Infinite Healing / Ichor",
+                         "One-Hit Kill"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "F1",
+                            "effect":  "God Mode"
+                        },
+                        {
+                            "key":  "F2",
+                            "effect":  "Add Void Souls (+10,000)"
+                        },
+                        {
+                            "key":  "F3",
+                            "effect":  "Infinite Ichor \u0026 Healing"
+                        },
+                        {
+                            "key":  "F4",
+                            "effect":  "Unlimited Air Jumps \u0026 Dash"
+                        },
+                        {
+                            "key":  "F5",
+                            "effect":  "One-Hit Kill"
+                        }
+                    ]
+    },
+    {
+        "id":  "wizard-of-legend",
+        "title":  "Wizard of Legend",
+        "thumbnail":  "assets/thumbnails/wizard-of-legend.jpg",
+        "version":  "v1.0.0",
+        "engine":  "Unity Mono",
+        "injection":  "Mono.Cecil IL Injector",
+        "tags":  [
+                     "Roguelike",
+                     "Spellcasting",
+                     "Unity",
+                     "IL Injector"
+                 ],
+        "hasTranslation":  false,
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/WizardofLegend-Trainer-v1.zip",
+        "repoFolder":  "trainers/16.Wizard-of-Legend",
+        "description":  "Non-destructive IL injection calling InitDebugOptions directly on game update, unlocking full developer tools.",
+        "features":  [
+                         "Unlocks Native Developer Debug Menu (Backspace)",
+                         "God Mode (2)",
+                         "Max Difficulty (1)",
+                         "Slow-Motion Speeds (3)",
+                         "Fullscreen Minimap (4)",
+                         "+9999 Gold \u0026 +999 Chaos Gems",
+                         "Wrath of Developer (Kill All)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "Backspace",
+                            "effect":  "Toggle Developer Debug Menu UI"
+                        },
+                        {
+                            "key":  "1",
+                            "effect":  "Toggle Max Difficulty"
+                        },
+                        {
+                            "key":  "2",
+                            "effect":  "Toggle God Mode (Invincibility)"
+                        },
+                        {
+                            "key":  "3",
+                            "effect":  "Cycle Slow-Motion Speeds (0.25x, 0.5x, 1x)"
+                        },
+                        {
+                            "key":  "4",
+                            "effect":  "Toggle Fullscreen Minimap"
+                        },
+                        {
+                            "key":  "- / =",
+                            "effect":  "Camera Zoom Out / In"
+                        },
+                        {
+                            "key":  "Menu Action",
+                            "effect":  "+9999 Gold \u0026 +999 Chaos Gems"
+                        },
+                        {
+                            "key":  "Menu Action",
+                            "effect":  "Wrath of Developer (Instant kill all screen enemies)"
+                        },
+                        {
+                            "key":  "Menu Action",
+                            "effect":  "Unlock All Spells, Relics, and Robes"
+                        }
+                    ]
+    },
+    {
+        "injection":  "Mono Metadata Reflection (ee_resolve.lua)",
+        "id":  "eastern-exorcist",
+        "thumbnail":  "assets/thumbnails/eastern-exorcist.jpg",
+        "repoFolder":  "trainers/17.Eastern-Exorcist",
+        "title":  "Eastern Exorcist",
+        "tags":  [
+                     "Action",
+                     "2D Soulslike",
+                     "Unity",
+                     "Mono Reflection",
+                     "Cheat Engine"
+                 ],
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.1.0/EasternExorcist-Trainer-v1.zip",
+        "description":  "Mono metadata resolver enumerating CapacityProp and PlayerProperties directly without value scanning.",
+        "version":  "v1.0.0",
+        "hasTranslation":  false,
+        "engine":  "Unity Mono",
+        "features":  [
+                         "Damage Immunity (TakeDamageFactor = 0)",
+                         "Attack Power Multiplier 10x",
+                         "Soul Reward Multiplier 10x",
+                         "2x Movement Speed",
+                         "Free Level-Ups (Zero EXP)",
+                         "Free Skill Tree Node Unlocks"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "ee_resolve.lua",
+                            "effect":  "Auto-resolves state, applies multipliers, and builds live cheat table"
+                        },
+                        {
+                            "key":  "TakeDamageFactor",
+                            "effect":  "0 = Immune to all damage"
+                        },
+                        {
+                            "key":  "AttackFactor",
+                            "effect":  "10x attack damage"
+                        },
+                        {
+                            "key":  "SoulRewardFactor",
+                            "effect":  "10x soul gain"
+                        },
+                        {
+                            "key":  "MoveSpeedFactor",
+                            "effect":  "2x character movement speed"
+                        },
+                        {
+                            "key":  "FreeLevelUps",
+                            "effect":  "Level up at zero exp cost"
+                        }
+                    ]
+    },
+    {
+        "injection":  "Static Singleton Root Keeper (Figment.CT)",
+        "id":  "figment",
+        "thumbnail":  "assets/thumbnails/figment.jpg",
+        "repoFolder":  "trainers/18.Figment",
+        "title":  "Figment",
+        "tags":  [
+                     "Action-Adventure",
+                     "Surreal",
+                     "Unity",
+                     "Singleton Keeper",
+                     "Cheat Engine"
+                 ],
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.1.0/Figment-Trainer-v1.zip",
+        "description":  "Plug-and-play cheat table following PlayerManager and CameraManager singleton roots with a 3000ms scene-keeper.",
+        "version":  "v1.0.0",
+        "hasTranslation":  false,
+        "engine":  "Unity Mono",
+        "features":  [
+                         "No Damage (isInvulnerable = 1)",
+                         "Character Movement Speed 2.0x",
+                         "Camera Zoom-Out Expansion (2.66x)",
+                         "Scene-Transition Proof Auto-Keeper"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "Trainer Activate",
+                            "effect":  "Automatically attaches and tracks singleton roots"
+                        },
+                        {
+                            "key":  "No Damage",
+                            "effect":  "Enabled (invulnerable to all enemy damage)"
+                        },
+                        {
+                            "key":  "Character Speed",
+                            "effect":  "2.0x walking/running speed"
+                        },
+                        {
+                            "key":  "Camera Zoom-Out",
+                            "effect":  "Widens field of view"
+                        }
+                    ]
+    },
+    {
+        "injection":  "Mono Metadata Hook + Root-Motion Animator (f2_resolve.lua)",
+        "id":  "figment-2-creed-valley",
+        "thumbnail":  "assets/thumbnails/figment-2-creed-valley.jpg",
+        "repoFolder":  "trainers/19.Figment-2-Creed-Valley",
+        "title":  "Figment 2: Creed Valley",
+        "tags":  [
+                     "Action-Adventure",
+                     "Musical",
+                     "Unity",
+                     "Animator Hook",
+                     "Cheat Engine"
+                 ],
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.1.0/Figment2-Trainer-v1.zip",
+        "description":  "Custom resolver traversing non-standard \u0027Figment\u0027 assembly definitions, scaling root-motion Animator.speed.",
+        "version":  "v1.0.0",
+        "hasTranslation":  false,
+        "engine":  "Unity Mono (Figment Assembly)",
+        "features":  [
+                         "God Mode (isInvulnerable = 1)",
+                         "Animation \u0026 Run Speed 3.0x",
+                         "Max Health Expansion",
+                         "Instant Shard Collector",
+                         "Camera Zoom-Out Addition",
+                         "Emergency Stop Script (f2_stop.lua)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "f2_resolve.lua",
+                            "effect":  "Executes full resolver and applies settings"
+                        },
+                        {
+                            "key":  "Invulnerable",
+                            "effect":  "True (freeze isInvulnerable = 1)"
+                        },
+                        {
+                            "key":  "Anim Speed",
+                            "effect":  "3.0x (tunes movement and combat animation rate)"
+                        },
+                        {
+                            "key":  "Camera Zoom",
+                            "effect":  "5.0 (expands orthographic view)"
+                        },
+                        {
+                            "key":  "f2_stop.lua",
+                            "effect":  "Emergency stop / restore stock values"
+                        }
+                    ]
+    },
+    {
+        "injection":  "PlayerHealthBar._pawn Reflection (jotun_resolve.lua)",
+        "id":  "jotun-valhalla-edition",
+        "thumbnail":  "assets/thumbnails/jotun-valhalla-edition.jpg",
+        "repoFolder":  "trainers/20.Jotun-Valhalla-Edition",
+        "title":  "Jotun: Valhalla Edition",
+        "tags":  [
+                     "Action",
+                     "Mythology",
+                     "Unity",
+                     "Pawn Reflection",
+                     "Cheat Engine"
+                 ],
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.1.0/Jotun-Trainer-v1.zip",
+        "description":  "Direct reflection through PlayerHealthBar._pawn, giving unlimited god power charges and 10x attack multipliers.",
+        "version":  "v1.0.0",
+        "hasTranslation":  false,
+        "engine":  "Unity Mono",
+        "features":  [
+                         "God Power Charges 99 (Never Deplete)",
+                         "Move Speed Multiplier 4.0x",
+                         "Normal Attack Damage 100 (10x stock)",
+                         "Charged Attack Damage 100",
+                         "Invulnerability Freeze"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "jotun_resolve.lua",
+                            "effect":  "Single-run full pawn resolution"
+                        },
+                        {
+                            "key":  "God Powers",
+                            "effect":  "99 charges (Thor, Freya, Heimdall, etc. never deplete)"
+                        },
+                        {
+                            "key":  "Speed Multiplier",
+                            "effect":  "4.0x sprint/run speed"
+                        },
+                        {
+                            "key":  "Normal Attack",
+                            "effect":  "100 damage (was 10)"
+                        },
+                        {
+                            "key":  "Charged Attack",
+                            "effect":  "100 damage (was 55)"
+                        }
+                    ]
+    },
+    {
+        "injection":  "Guarded VTable Health-Write Hook (Redacted.CT)",
+        "id":  "redacted",
+        "thumbnail":  "assets/thumbnails/redacted.jpg",
+        "repoFolder":  "trainers/21.Redacted",
+        "title":  "[REDACTED]",
+        "tags":  [
+                     "Roguelike",
+                     "Action",
+                     "Unreal Engine",
+                     "VTable Hook",
+                     "Cheat Engine"
+                 ],
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.1.0/Redacted-Trainer-v1.zip",
+        "description":  "Unreal Engine 4 shipping binary hook blocking player health decrements with player-vtable validation.",
+        "version":  "v1.2.1",
+        "hasTranslation":  false,
+        "engine":  "Unreal Engine 4 (64-bit)",
+        "features":  [
+                         "No Damage (Player-VTable Guarded)",
+                         "100x Collected Item Multiplier",
+                         "Currency Wallet Resolver (Tracks 7 In-Game Currencies)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "Trainer Activate",
+                            "effect":  "Attaches to Redacted-Win64-Shipping.exe"
+                        },
+                        {
+                            "key":  "No Damage",
+                            "effect":  "Enabled (Blocks damage, healing functions normally)"
+                        },
+                        {
+                            "key":  "Collected Items",
+                            "effect":  "100x multiplier on progression rewards"
+                        },
+                        {
+                            "key":  "Wallet Resolver",
+                            "effect":  "Monitors active currency balances"
+                        }
+                    ]
+    },
+    {
+        "injection":  "Persistent Mono Root Keeper (RiverCityGirls.CT)",
+        "id":  "river-city-girls",
+        "thumbnail":  "assets/thumbnails/river-city-girls.jpg",
+        "repoFolder":  "trainers/22.River-City-Girls",
+        "title":  "River City Girls",
+        "tags":  [
+                     "Beat \u0027em up",
+                     "Action",
+                     "Unity",
+                     "Singleton Keeper",
+                     "Cheat Engine"
+                 ],
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.1.0/RiverCityGirls-Trainer-v1.zip",
+        "description":  "Tracks PlayerManager.s_instance and PlayerAttributes with persistent scene hooks and stat caps.",
+        "version":  "v1.0.0",
+        "hasTranslation":  false,
+        "engine":  "Unity Mono",
+        "features":  [
+                         "No Damage (Invincibility Lock)",
+                         "One-Hit Kill (100,000x Damage Multiplier)",
+                         "Money \u0026 XP Multiplier 10x",
+                         "Movement Speed 2.0x",
+                         "Max All Character Stats (Caps Stamina, Special, Agility, Weapons, Attack, Luck)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "Trainer Activate",
+                            "effect":  "Initializes hooks \u0026 3000ms keeper"
+                        },
+                        {
+                            "key":  "No Damage",
+                            "effect":  "Enabled (Uses debug-invincibility + player invincibility)"
+                        },
+                        {
+                            "key":  "One-Hit Kill",
+                            "effect":  "Enabled (100,000x player \u0026 weapon damage)"
+                        },
+                        {
+                            "key":  "Money + XP Multiplier",
+                            "effect":  "10x gain multiplier"
+                        },
+                        {
+                            "key":  "Character Speed",
+                            "effect":  "2.0x walk/run speed"
+                        },
+                        {
+                            "key":  "Max All Stats",
+                            "effect":  "Caps all 4 character profile attributes"
+                        }
+                    ]
+    },
+    {
+        "injection":  "Static Module-Anchored Pointer Path (ScourgeBringer.CT)",
+        "id":  "scourgebringer",
+        "thumbnail":  "assets/thumbnails/scourgebringer.jpg",
+        "repoFolder":  "trainers/23.ScourgeBringer",
+        "title":  "ScourgeBringer",
+        "tags":  [
+                     "Roguelite",
+                     "Platformer",
+                     "Native AOT",
+                     "Pointer Path",
+                     "Cheat Engine"
+                 ],
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.1.0/ScourgeBringer-Trainer-v1.zip",
+        "description":  "Direct module pointer path [[ScourgeBringer.exe+1F57F98]+8] anchored to player object; zero scripts needed.",
+        "version":  "v1.0.0",
+        "hasTranslation":  false,
+        "engine":  "Native AOT (64-bit)",
+        "features":  [
+                         "Infinite HP / Max HP Lock",
+                         "Infinite Blood Shards",
+                         "Infinite Skill Points",
+                         "Unlimited Buff Stacks (Reload +500%, Sword Damage +500%, Gun Damage +500%, Critical Rate +500%)"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "Load Table",
+                            "effect":  "Instant resolution on table load"
+                        },
+                        {
+                            "key":  "HP / Max HP",
+                            "effect":  "Freeze at desired health"
+                        },
+                        {
+                            "key":  "Blood Shards",
+                            "effect":  "Set custom currency quantity"
+                        },
+                        {
+                            "key":  "Skill Points",
+                            "effect":  "Unlocks all tree progression"
+                        },
+                        {
+                            "key":  "Buff Stacks",
+                            "effect":  "Uncapped stack injection (+5% per stack)"
+                        }
+                    ]
+    },
+    {
+        "injection":  "Chrome DevTools Protocol (CDP) WebSocket Injector",
+        "id":  "sol-cesto",
+        "thumbnail":  "assets/thumbnails/sol-cesto.jpg",
+        "repoFolder":  "trainers/24.Sol-Cesto",
+        "title":  "Sol Cesto",
+        "tags":  [
+                     "Roguelike",
+                     "Dungeon Crawler",
+                     "Construct 3",
+                     "WebView2",
+                     "CDP Python"
+                 ],
+        "downloadUrl":  "https://github.com/drak905/Drake-Trainer/releases/download/v1.1.0/SolCesto-Trainer-v1.zip",
+        "description":  "Direct WebSocket CDP bridge connecting to msedgewebview2.exe Web Worker runtime (workermain.js).",
+        "version":  "v1.0.0",
+        "hasTranslation":  false,
+        "engine":  "Construct 3 (HTML5 / WebView2)",
+        "features":  [
+                         "Dual Launcher (PlaySolCesto.bat / StartTrainer.bat)",
+                         "God Mode (Infinite Lives \u0026 Shields)",
+                         "Infinite Gold \u0026 Keys",
+                         "Instant Room Clear",
+                         "Unlock All Character Stars \u0026 Perks",
+                         "Real-Time CDP Worker Memory Injection"
+                     ],
+        "hotkeys":  [
+                        {
+                            "key":  "PlaySolCesto.bat",
+                            "effect":  "Launches game with remote debugging \u0026 starts trainer"
+                        },
+                        {
+                            "key":  "StartTrainer.bat",
+                            "effect":  "Attaches to already-running game on port 9222"
+                        },
+                        {
+                            "key":  "God Mode",
+                            "effect":  "Infinite health \u0026 shield recharge"
+                        },
+                        {
+                            "key":  "Currencies",
+                            "effect":  "Max gold, keys, stars"
+                        },
+                        {
+                            "key":  "Auto-Clear",
+                            "effect":  "Instant room win"
+                        }
+                    ]
+    }
 ]

@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6.svg?logo=windows)](https://microsoft.com/windows)
-[![Games Supported](https://img.shields.io/badge/Games%20Supported-16%20Titles-brightgreen.svg)](#game-catalog--feature-matrix)
+[![Games Supported](https://img.shields.io/badge/Games%20Supported-24%20Titles-brightgreen.svg)](#game-catalog--feature-matrix)
 [![Standalone](https://img.shields.io/badge/Injection-Zero%20External%20Tools-orange.svg)](#key-highlights)
 
 A curated preservation suite of custom **game trainers, in-game HUD overlay menus, native DLL proxy injectors, BepInEx Harmony plugins, and bytecode patches** created by Drake.
@@ -41,6 +41,14 @@ Every trainer in this repository is built to be **100% portable, non-destructive
 | **14** | **[Shogun Showdown](trainers/14.Shogun-Showdown)** | Unity 2021 Mono | BepInEx 5.4.23 + HarmonyX | God Mode (`F1`), Infinite Money / Coins & Meta (`F2`), Unlimited Special Move (`F3`), 2x Character Move Distance (`F4`), 2x Game Speed (`F5`), Infinite Potions (`F6`), No Tile Cooldown (`F7`), One-Hit Kill (`F8`), Reveal Sector Map (`F9`) | [View](trainers/14.Shogun-Showdown) |
 | **15** | **[Voidwrought](trainers/15.Voidwrought)** | Unity Mono | BepInEx 5 + Harmony (`winhttp.dll`) | God Mode, Infinite Void Souls / Currency, Unlimited Jumps / Air Dash, Infinite Healing / Ichor, One-Hit Kill | [View](trainers/15.Voidwrought) |
 | **16** | **[Wizard of Legend](trainers/16.Wizard-of-Legend)** | Unity Mono | Mono.Cecil IL Injector | Unlocks Native Developer Debug Menu (`Backspace`), God Mode (`2`), Max Difficulty (`1`), Slow-mo (`3`), Fullscreen Minimap (`4`), +9999 Gold / +999 Chaos Gems, Wrath of Developer (Kill All) | [View](trainers/16.Wizard-of-Legend) |
+| **17** | **[Eastern Exorcist](trainers/17.Eastern-Exorcist)** | Unity Mono | Mono Metadata Reflection | Damage Immunity (`TakeDamageFactor = 0`), Attack 10x, Soul 10x, 2x Move Speed, Free Level-Ups, Free Skill Nodes | [View](trainers/17.Eastern-Exorcist) |
+| **18** | **[Figment](trainers/18.Figment)** | Unity Mono | Singleton Root Keeper | No Damage (`isInvulnerable = 1`), Character Speed 2.0x, Camera Zoom Expansion (`2.66x`), Scene-Transition Auto-Keeper | [View](trainers/18.Figment) |
+| **19** | **[Figment 2: Creed Valley](trainers/19.Figment-2-Creed-Valley)** | Unity Mono | Root-Motion Animator Hook | God Mode (`isInvulnerable = 1`), Animation & Run Speed 3.0x, Max Health, Shard Collector, Camera Zoom 5.0x | [View](trainers/19.Figment-2-Creed-Valley) |
+| **20** | **[Jotun: Valhalla Edition](trainers/20.Jotun-Valhalla-Edition)** | Unity Mono | Pawn Metadata Reflection | God Power Charges 99 (never deplete), Move Speed 4.0x, Normal Attack 100 dmg, Charged Attack 100 dmg | [View](trainers/20.Jotun-Valhalla-Edition) |
+| **21** | **[[REDACTED]](trainers/21.Redacted)** | Unreal Engine 4 | Guarded VTable Hook | No Damage (Player VTable Guarded), 100x Collected Items Multiplier, Live Currency Wallet Resolver | [View](trainers/21.Redacted) |
+| **22** | **[River City Girls](trainers/22.River-City-Girls)** | Unity Mono | Persistent Mono Root Keeper | No Damage (Invincibility), One-Hit Kill (100,000x dmg), Money & XP Gain 10x, Speed 2.0x, Max All Character Stats | [View](trainers/22.River-City-Girls) |
+| **23** | **[ScourgeBringer](trainers/23.ScourgeBringer)** | Native AOT (64-bit) | Static Module Pointer Path | Infinite HP / Max HP, Blood Shards, Skill Points, Unlimited Buff Stacks (Reload +500%, Sword +500%, Gun +500%) | [View](trainers/23.ScourgeBringer) |
+| **24** | **[Sol Cesto](trainers/24.Sol-Cesto)** | Construct 3 / WebView2 | Chrome DevTools Protocol (CDP) | Dual Launcher (`PlaySolCesto.bat`), God Mode (Infinite Lives & Shields), Infinite Gold & Keys, Instant Room Clear, Unlock All Stars | [View](trainers/24.Sol-Cesto) |
 
 ---
 
@@ -89,7 +97,7 @@ Drake-Trainer/
 ├── docs/
 │   └── REVERSE_ENGINEERING_NOTES.md   # Detailed technical reversing write-ups per engine
 ├── packages/                          # Ready-to-use standalone ZIP archives (23 packages)
-├── trainers/                          # Organized trainer projects (16 games)
+├── trainers/                          # Organized trainer projects (24 games)
 │   ├── 01.Afterimage/
 │   ├── 02.Astral-Ascent/
 │   ├── 03.Bo-Path-of-the-Teal-Lotus/
@@ -105,7 +113,17 @@ Drake-Trainer/
 │   ├── 13.Ogu-and-the-Secret-Forest/
 │   ├── 14.Shogun-Showdown/
 │   ├── 15.Voidwrought/
-│   └── 16.Wizard-of-Legend/
+│   ├── 16.Wizard-of-Legend/
+│   ├── 17.Eastern-Exorcist/
+│   ├── 18.Figment/
+│   ├── 19.Figment-2-Creed-Valley/
+│   ├── 20.Jotun-Valhalla-Edition/
+│   ├── 21.Redacted/
+│   ├── 22.River-City-Girls/
+│   ├── 23.ScourgeBringer/
+│   └── 24.Sol-Cesto/
+├── tools/                             # Reversing bridges and automation
+│   └── vision-trainer/                # Vision-based trainer and Cheat Engine MCP bridge
 └── translations/                      # Preserved Vietnamese localization packs (7 games)
     ├── Afterimage-Vietnamese-v3.1/
     ├── Bo-Vietnamese-v1/

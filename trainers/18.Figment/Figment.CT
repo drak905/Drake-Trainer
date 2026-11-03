@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable UsesMono="1" CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Figment Trainer - Activate"</Description>
+      <Options moHideChildren="1" moDeactivateChildrenAsWell="1"/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript><![CDATA[[ENABLE]
+{$lua}
+if syntaxcheck then return end
+
+-- Figment (2017), Unity/Mono. Everything is resolved for the current process.
+-- The 3-second keeper follows static singleton slots; it performs no heap scans.
+if FigmentTrainerStop then pcall(function() FigmentTrainerStop(false) end) end
+
+if not mono_isValid() then LaunchMonoDataCollector() end
+if not mono_isValid() then error('Figment Trainer: Mono data collector is unavailable') end
+
+FG = {}
+FG.domain = (mono_enumDomains() or {})[1]
+local playerManagerClass = mono_findClass('', 'PlayerManager')
+local cameraManagerClass = mono_findClass('', 'CameraManager')
+if not FG.domain or not playerManagerClass or not cameraManagerClass then
+  error('Figment Trainer: required Mono classes were not found')
+end
+
+FG.pmStatic = mono_class_getStaticFieldAddress(FG.domain, playerManagerClass)
+FG.cmStatic = mono_class_getStaticFieldAddress(FG.domain, cameraManagerClass)
+if not FG.pmStatic or not FG.cmStatic then
+  error('Figment Trainer: singleton static slots could not be resolved')
+end
+
+FG.healthCheat = mono_findMethod('', 'PlayerHealth', 'HandleInvulnerabilityCheat')
+FG.cameraControl = allocateMemory(4)
+FG.speedControl = allocateMemory(4)
+FG.noDamageControl = allocateMemory(1)
+writeFloat(FG.cameraControl, 2.663460255)
+writeFloat(FG.speedControl, 2.0)
+writeBytes(FG.noDamageControl, 1)
+FG.ticks, FG.fixes, FG.lastError = 0, 0, nil
+
+function FGValid(p)
+  return p and p > 0x10000
+end
+
+function FGPlayer()
+  local p = readPointer(FG.pmStatic)
+  if FGValid(p) then return p end
+end
+
+function FGCameraController()
+  local manager = readPointer(FG.cmStatic)
+  if not FGValid(manager) then return nil end
+  local controller = readPointer(manager + 0x28)
+  if FGValid(controller) then return controller end
+end
+
+function FGParameters()
+  local player = FGPlayer()
+  if not player then return nil end
+  local parameters = readPointer(player + 0x98)
+  if FGValid(parameters) then return parameters end
+end
+
+function FGHealth()
+  local player = FGPlayer()
+  if not player then return nil end
+  local health = readPointer(player + 0x58)
+  if FGValid(health) then return health end
+end
+
+-- Resolve only from the concrete, live generic instance. Never invoke methods
+-- obtained from the open AnimatorParameterWrapper`1 definition: doing that is
+-- unsafe in this Mono runtime.
+function FGResolveSpeedMethods(parameters)
+  if not parameters then return false end
+  local class = mono_object_getClass(parameters)
+  if not class then return false end
+  if FG.speedClass == class and FG.speedGet and FG.speedSet then return true end
+
+  local getMethod, setMethod
+  for _, method in ipairs(mono_class_enumMethods(class) or {}) do
+    if method.name == 'GetFloat' or method.name == 'SetFloat' then
+      local signature = mono_method_getSignature(method.method)
+      if method.name == 'GetFloat' and signature == 'int' then
+        getMethod = method.method
+      elseif method.name == 'SetFloat' and signature == 'int,single' then
+        setMethod = method.method
+      end
+    end
+  end
+  if not getMethod or not setMethod then return false end
+  FG.speedClass, FG.speedGet, FG.speedSet = class, getMethod, setMethod
+  return true
+end
+
+function FigmentApplyCameraZoom(value)
+  value = tonumber(value)
+  if not value then return false end
+  writeFloat(FG.cameraControl, value)
+  local controller = FGCameraController()
+  if not controller then return false end
+  writeFloat(controller + 0xBC, value)
+  return true
+end
+
+function FigmentApplySpeedMultiplier(value)
+  value = tonumber(value)
+  if not value then return false end
+  writeFloat(FG.speedControl, value)
+  local parameters = FGParameters()
+  if not parameters or not FGResolveSpeedMethods(parameters) then return false end
+  return pcall(function()
+    mono_invoke_method(FG.domain, FG.speedSet, parameters, { 1, value })
+  end)
+end
+
+function FigmentApplyNoDamage(enabled)
+  enabled = not not enabled
+  writeBytes(FG.noDamageControl, enabled and 1 or 0)
+  local health = FGHealth()
+  if not health then return false end
+  if FG.healthCheat then
+    pcall(function()
+      mono_invoke_method(FG.domain, FG.healthCheat, health, { enabled })
+    end)
+  end
+  writeBytes(health + 0x100, enabled and 1 or 0)
+  return true
+end
+
+function FigmentKeeperTick()
+  FG.ticks = FG.ticks + 1
+
+  local cameraTarget = readFloat(FG.cameraControl)
+  local controller = FGCameraController()
+  if cameraTarget and controller then
+    local current = readFloat(controller + 0xBC)
+    if not current or math.abs(current - cameraTarget) > 0.0001 then
+      writeFloat(controller + 0xBC, cameraTarget)
+      FG.fixes = FG.fixes + 1
+    end
+  end
+
+  local speedTarget = readFloat(FG.speedControl)
+  local parameters = FGParameters()
+  if speedTarget and parameters and FGResolveSpeedMethods(parameters) then
+    local ok, current = pcall(function()
+      return mono_invoke_method(FG.domain, FG.speedGet, parameters, { 1 })
+    end)
+    if ok and current and math.abs(current - speedTarget) > 0.0001 then
+      local applied = pcall(function()
+        mono_invoke_method(FG.domain, FG.speedSet, parameters, { 1, speedTarget })
+      end)
+      if applied then FG.fixes = FG.fixes + 1 end
+    end
+  end
+
+  local health = FGHealth()
+  local wanted = readBytes(FG.noDamageControl, 1, false)
+  if health and wanted ~= nil then
+    local current = readBytes(health + 0x100, 1, false)
+    if current ~= wanted then
+      FigmentApplyNoDamage(wanted == 1)
+      FG.fixes = FG.fixes + 1
+    end
+  end
+end
+
+function FigmentStartKeeper()
+  if FIGMENT_KEEPER then
+    pcall(function()
+      FIGMENT_KEEPER.Enabled = false
+      FIGMENT_KEEPER.destroy()
+    end)
+  end
+  FIGMENT_KEEPER_BUSY = false
+  FIGMENT_KEEPER = createTimer(nil, false)
+  FIGMENT_KEEPER.Interval = 3000
+  FIGMENT_KEEPER.OnTimer = function()
+    if FIGMENT_KEEPER_BUSY then return end
+    FIGMENT_KEEPER_BUSY = true
+    local ok, err = pcall(FigmentKeeperTick)
+    if not ok then FG.lastError = tostring(err) end
+    FIGMENT_KEEPER_BUSY = false
+  end
+  FIGMENT_KEEPER.Enabled = true
+end
+
+function FigmentTrainerStop(restoreDefaults)
+  if FIGMENT_KEEPER then
+    pcall(function()
+      FIGMENT_KEEPER.Enabled = false
+      FIGMENT_KEEPER.destroy()
+    end)
+    FIGMENT_KEEPER = nil
+  end
+
+  if FG and restoreDefaults then
+    pcall(function()
+      local controller = FGCameraController()
+      if controller then writeFloat(controller + 0xBC, 0.28125) end
+      local parameters = FGParameters()
+      if parameters and FGResolveSpeedMethods(parameters) then
+        mono_invoke_method(FG.domain, FG.speedSet, parameters, { 1, 1.0 })
+      end
+      FigmentApplyNoDamage(false)
+    end)
+  end
+
+  local list = getAddressList()
+  for _, description in ipairs({
+    'Camera Zoom-Out Addition (default 0.28125)',
+    'Character Speed Multiplier (default 1.0)',
+    'No Damage (Invulnerable)'
+  }) do
+    local record = list.getMemoryRecordByDescription(description)
+    if record then
+      record.OnValueChangedByUser = nil
+      record.destroy()
+    end
+  end
+
+  if FG then
+    pcall(function() if FG.cameraControl then deAlloc(FG.cameraControl, 4) end end)
+    pcall(function() if FG.speedControl then deAlloc(FG.speedControl, 4) end end)
+    pcall(function() if FG.noDamageControl then deAlloc(FG.noDamageControl, 1) end end)
+  end
+  FG = nil
+end
+
+local list = getAddressList()
+local root = list.getMemoryRecordByDescription('Figment Trainer - Activate')
+local function makeRecord(description, address, valueType)
+  local record = list.getMemoryRecordByDescription(description)
+  if not record then
+    record = list.createMemoryRecord()
+    record.Description = description
+  end
+  record.Active = false
+  record.Address = string.format('%X', address)
+  record.VarType = valueType
+  record.ShowAsHex = false
+  if root then record.appendToEntry(root) end
+  return record
+end
+
+local cameraRecord = makeRecord(
+  'Camera Zoom-Out Addition (default 0.28125)', FG.cameraControl, vtSingle)
+cameraRecord.Value = '2.663460255'
+cameraRecord.OnValueChangedByUser = function(_, _, newValue)
+  FigmentApplyCameraZoom(newValue)
+end
+
+local speedRecord = makeRecord(
+  'Character Speed Multiplier (default 1.0)', FG.speedControl, vtSingle)
+speedRecord.Value = '2'
+speedRecord.OnValueChangedByUser = function(_, _, newValue)
+  FigmentApplySpeedMultiplier(newValue)
+end
+
+local noDamageRecord = makeRecord(
+  'No Damage (Invulnerable)', FG.noDamageControl, vtByte)
+noDamageRecord.DropDownList.Text = '0:Disabled\n1:Enabled'
+noDamageRecord.DropDownReadOnly = true
+noDamageRecord.DropDownDescriptionOnly = true
+noDamageRecord.DisplayAsDropDownListItem = true
+noDamageRecord.Value = '1'
+noDamageRecord.OnValueChangedByUser = function(_, _, newValue)
+  FigmentApplyNoDamage((tonumber(newValue) or 0) ~= 0)
+end
+
+if root then root.Collapsed = false end
+FigmentApplyCameraZoom(readFloat(FG.cameraControl))
+FigmentApplySpeedMultiplier(readFloat(FG.speedControl))
+FigmentApplyNoDamage(true)
+FigmentStartKeeper()
+print('[Figment] trainer active; keeper interval = 3000 ms')
+{$asm}
+
+[DISABLE]
+{$lua}
+if syntaxcheck then return end
+if FigmentTrainerStop then FigmentTrainerStop(true) end
+print('[Figment] trainer stopped; defaults restored where possible')
+{$asm}
+]]></AssemblerScript>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

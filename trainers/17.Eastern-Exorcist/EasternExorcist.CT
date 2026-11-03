@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable UsesMono="1" CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"EE: HP"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20216F83DD4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"EE: Max HP"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20216F83DE4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"EE: Stamina (EP)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20216F83D64</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"EE: Max Stamina"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20216F83D74</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"EE: Attack"</Description>
+      <VariableType>Float</VariableType>
+      <Address>2021671A280</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"EE: Toughness"</Description>
+      <VariableType>Float</VariableType>
+      <Address>2021671A284</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"EE: Level"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>20218745CC8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"EE: Soul (spiritual energy)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>20218745CCC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"EE: [prop] TakeHealFactor (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1DE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"EE: [prop] TakeHealFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1DF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"EE: [prop] FatalAttackFactor (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE7060</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"EE: [prop] FatalAttackFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE7070</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"EE: [prop] SlaughtAttackFactor (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1CE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"EE: [prop] SlaughtAttackFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1CF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>14</ID>
+      <Description>"EE: [prop] LifeStealRate (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE71E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"EE: [prop] LifeStealRate (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE71F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"EE: Damage Taken multiplier (0=immune)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE7260</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"EE: [prop] TakeDamageFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE7270</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>18</ID>
+      <Description>"EE: Attack multiplier"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE72E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"EE: [prop] AttackFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE72F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>20</ID>
+      <Description>"EE: [prop] AirAttackFactor (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1EE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>21</ID>
+      <Description>"EE: [prop] AirAttackFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1EF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"EE: [prop] FallAttackFactor (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1E60</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"EE: [prop] FallAttackFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1E70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"EE: [prop] PotionFactor (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1D60</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"EE: [prop] PotionFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1D70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"EE: Move Speed multiplier  (1=normal, 2=2x, 3=3x)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE70E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"EE: [prop] MoveSpeedFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE70F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>28</ID>
+      <Description>"EE: [prop] ToughnessAdd (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE7360</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"EE: [prop] ToughnessAdd (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE7370</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>30</ID>
+      <Description>"EE: [prop] DodgeAttackFactor (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1FE0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"EE: [prop] DodgeAttackFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1FF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"EE: [prop] StrengthAdd (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE73E0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"EE: [prop] StrengthAdd (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE73F0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"EE: Soul gain multiplier"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE7160</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"EE: [prop] SoulRewardFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219CE7170</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"EE: [prop] BlockAttackFactor (base)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1F60</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>37</ID>
+      <Description>"EE: [prop] BlockAttackFactor (curr)"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20219ED1F70</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>38</ID>
+      <Description>"EE: [cfg] LevelUp Cost Base"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20171FA27FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>39</ID>
+      <Description>"EE: [cfg] LevelUp Cost Linear"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20171FA2800</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>40</ID>
+      <Description>"EE: [cfg] LevelUp Cost Power"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20171FA2804</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>41</ID>
+      <Description>"EE: [cfg] Enemy HP Factor Easy"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20171FA2720</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>42</ID>
+      <Description>"EE: [cfg] Enemy HP Factor Normal"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20171FA272C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"EE: [cfg] Enemy HP Factor Hard"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20171FA2738</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>44</ID>
+      <Description>"EE: [cfg] NearDeathPercent"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20171FA2744</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>45</ID>
+      <Description>"EE: [cfg] OverSupplyCost Base"</Description>
+      <VariableType>Float</VariableType>
+      <Address>20171FA27F0</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

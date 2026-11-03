@@ -9,13 +9,16 @@ Comprehensive documentation of reverse engineering techniques, injection pattern
 | Engine / Runtime | Games | Injection Route | Key Tools Used |
 | :--- | :--- | :--- | :--- |
 | **Unity Mono** | Shogun Showdown, Bō: Path of the Teal Lotus, 9 Years of Shadows, Ogu & the Secret Forest, Voidwrought | **BepInEx 5.4.23 + HarmonyX** (`winhttp.dll` Doorstop) | ILSpy, dnSpy, MonoMod, HarmonyX, C# |
+| **Unity Mono (Reflection & Keepers)** | Eastern Exorcist, Figment, Figment 2: Creed Valley, Jotun: Valhalla Edition, River City Girls | **Mono Metadata Reflection & Singleton Roots** | Cheat Engine Lua, Mono Data Collector |
 | **Unity IL2CPP (DX11)** | Ghost Song | **Native Proxy DLL** (`version.dll`) + **MinHook** + **Dear ImGui (DX11)** | Ghidra, Il2CppDumper, MinHook, DirectX 11 SDK |
 | **Unreal Engine 4** | Afterimage | **UE4SS Mod Loader** (`dwmapi.dll`) + Custom Lua mod | UE4SS, Lua, Unreal Engine 4 Reflection |
-| **Unreal Engine 4 (Native x64)** | Creature in the Well | **Native Proxy DLL** (`xinput1_3.dll`) + MinHook | Ghidra, Capstone, PDB symbol dump, C |
+| **Unreal Engine 4 (Native x64)** | Creature in the Well, [REDACTED] | **Native Proxy DLL / Guarded VTable Hook** | Ghidra, Capstone, PDB symbol dump, Cheat Engine |
 | **Chowdren (Construct-to-C++)** | Astral Ascent | **Native Proxy DLL** (`winmm.dll`) + Function cave hooks | Ghidra MCP, Cheat Engine, C |
 | **GameMaker Studio 2 (VM)** | Death's Gambit: Afterlife | **UTMT Bytecode Hook** + **xdelta3** binary delta patch | UndertaleModTool (UTMT CLI), CSX scripts, xdelta3 |
 | **HashLink / Heaps** | Dead Cells | **Bytecode Modifier** (HL bytecode structure patcher) | Custom Python bytecode parser & assembler |
 | **Java 8 / LWJGL (Packr)** | Gunslugs 1, Gunslugs 2, Gunslugs 3: Rogue Tactics | **URLClassLoader Prepend** (`config.json` classpath override) | CFR decompiler, javac / JDK 8/21, Packr internals |
+| **Native AOT (64-bit)** | ScourgeBringer | **Static Module-Anchored Pointer Path** | Module Base Offset + Hardware Data Breakpoint |
+| **Construct 3 / WebView2** | Sol Cesto | **Chrome DevTools Protocol (CDP)** WebSocket Injector | Python websockets / CDP client, Web Worker hook |
 | **Unity Mono (Direct IL)** | Wizard of Legend | **Mono.Cecil IL Injector** (`GameController.Update` hook) | Mono.Cecil 0.11.5, ILSpy, PowerShell |
 
 ---

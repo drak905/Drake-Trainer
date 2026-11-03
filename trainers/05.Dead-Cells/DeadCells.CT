@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Dead Cells Trainer - Activate"</Description>
+      <Options moHideChildren="1" moDeactivateChildrenAsWell="1"/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+{$lua}
+if syntaxcheck then return end
+
+-- Dead Cells live trainer (HashLink, 64-bit)
+--
+-- Runtime type scans happen once, when the table is activated. HashLink
+-- metadata is parsed directly: no HashLink export is executed on a foreign
+-- thread. The 3000 ms keeper only follows pr.Game&apos;s data/hero pointers and
+-- reapplies editable controls, so scene transitions do not leave stale heap
+-- addresses behind.
+
+if DeadCellsTrainerStop then
+  pcall(function() DeadCellsTrainerStop(true) end)
+end
+
+DCT = {
+  version = &apos;1.3.0&apos;,
+  keeperInterval = 3000,
+  heroOriginal = {},
+  dataOriginal = {},
+  records = {},
+  -- HashLink structure layout used by this Dead Cells build. Activation
+  -- validates every pointer and member before installing any hook.
+  layout = {
+    typeObject = 0x08,
+    objectName = 0x10,
+    objectSuper = 0x18,
+    objectGlobal = 0x38,
+    objectRuntime = 0x48,
+    runtimeMethods = 0x20,
+    runtimeParent = 0x38,
+    runtimeLookupCount = 0x60,
+    runtimeLookup = 0x68,
+    lookupStride = 0x10,
+    lookupHash = 0x08,
+    lookupOffset = 0x0C,
+  },
+}
+
+local function valid(p)
+  return p and p &gt; 0x10000 and p &lt; 0x7FFF00000000
+end
+
+local function normalize32(value)
+  value = tonumber(value) or 0
+  return value % 0x100000000
+end
+
+local function signed32(value)
+  value = normalize32(value)
+  if value &gt;= 0x80000000 then return value - 0x100000000 end
+  return value
+end
+
+local function bytesAt(address, count)
+  return readBytes(address, count, true)
+end
+
+local function bytesMatch(address, expected)
+  local actual = bytesAt(address, #expected)
+  if not actual then return false end
+  for i = 1, #expected do
+    if actual[i] ~= expected[i] then return false end
+  end
+  return true
+end
+
+local function putBytes(address, bytes)
+  if not (valid(address) and bytes) then return end
+  for i = 1, #bytes do writeBytes(address + i - 1, bytes[i]) end
+end
+
+local function utf16Pattern(text)
+  local parts = {}
+  for i = 1, #text do
+    parts[#parts + 1] = string.format(&apos;%02X 00&apos;, text:byte(i))
+  end
+  parts[#parts + 1] = &apos;00 00&apos;
+  return table.concat(parts, &apos; &apos;)
+end
+
+local function qwordPattern(value)
+  local parts = {}
+  local n = tonumber(value)
+  for _ = 1, 8 do
+    parts[#parts + 1] = string.format(&apos;%02X&apos;, n % 256)
+    n = math.floor(n / 256)
+  end
+  return table.concat(parts, &apos; &apos;)
+end
+
+local function dwordPattern(value)
+  local parts = {}
+  local n = normalize32(value)
+  for _ = 1, 4 do
+    parts[#parts + 1] = string.format(&apos;%02X&apos;, n % 256)
+    n = math.floor(n / 256)
+  end
+  return table.concat(parts, &apos; &apos;)
+end
+
+local function dwordBytes(value)
+  local result = {}
+  local n = normalize32(value)
+  for _ = 1, 4 do
+    result[#result + 1] = n % 256
+    n = math.floor(n / 256)
+  end
+  return result
+end
+
+local function scanAddresses(pattern, flags)
+  local scan = AOBScan(pattern, flags or &apos;+W-C&apos;)
+  if not scan then return {} end
+  local result = {}
+  for i = 0, scan.Count - 1 do
+    local address = getAddressSafe(scan[i])
+    if valid(address) then result[#result + 1] = address end
+  end
+  scan.destroy()
+  return result
+end
+
+local function uniqueCodeAddress(pattern, description, adjustment)
+  local matches = scanAddresses(pattern, &apos;+X&apos;)
+  if #matches ~= 1 then
+    error(string.format(
+      &apos;Dead Cells: expected one %s signature, found %d&apos;,
+      description, #matches))
+  end
+  return matches[1] + (adjustment or 0)
+end
+
+local function objectDescriptor(typePointer)
+  if not valid(typePointer) or readInteger(typePointer) ~= 11 then return nil end
+  local descriptor = readPointer(typePointer + DCT.layout.typeObject)
+  if not valid(descriptor) then return nil end
+  return descriptor
+end
+
+local function runtimeObject(typePointer)
+  local descriptor = objectDescriptor(typePointer)
+  local runtime = descriptor
+      and readPointer(descriptor + DCT.layout.objectRuntime) or nil
+  if not valid(runtime) then
+    error(&apos;Dead Cells: HashLink runtime metadata is unavailable&apos;)
+  end
+  return runtime
+end
+
+local function readWide(address, maxChars)
+  local chars = {}
+  for i = 0, (maxChars or 128) - 1 do
+    local value = readSmallInteger(address + i * 2)
+    if not value or value == 0 then break end
+    if value &gt; 0x7F then return nil end
+    chars[#chars + 1] = string.char(value)
+  end
+  return table.concat(chars)
+end
+
+local function runtimeTypeName(typePointer)
+  local descriptor = objectDescriptor(typePointer)
+  local namePointer = descriptor
+      and readPointer(descriptor + DCT.layout.objectName) or nil
+  if not valid(namePointer) then return nil end
+  return readWide(namePointer, 160)
+end
+
+local function resolveType(typeName)
+  local nameAddresses = scanAddresses(utf16Pattern(typeName), &apos;+W-C&apos;)
+  for _, nameAddress in ipairs(nameAddresses) do
+    local nameReferences = scanAddresses(qwordPattern(nameAddress), &apos;+W-C&apos;)
+    for _, reference in ipairs(nameReferences) do
+      local descriptor = reference - DCT.layout.objectName
+      if readPointer(descriptor + DCT.layout.objectName) == nameAddress then
+        local descriptorReferences = scanAddresses(
+          qwordPattern(descriptor), &apos;+W-C&apos;)
+        for _, descriptorReference in ipairs(descriptorReferences) do
+          local typePointer = descriptorReference - DCT.layout.typeObject
+          if readInteger(typePointer) == 11
+              and readPointer(typePointer + DCT.layout.typeObject) == descriptor
+              and runtimeTypeName(typePointer) == typeName then
+            return typePointer
+          end
+        end
+      end
+    end
+  end
+  error(&apos;Dead Cells: HashLink type not found: &apos; .. typeName)
+end
+
+local function fieldHash(name)
+  local hash = 0
+  for i = 1, #name do
+    -- HashLink accumulates in a signed 32-bit C int, so preserve the wrap on
+    -- every iteration before applying C&apos;s truncate-toward-zero remainder.
+    hash = normalize32(hash * 223 + name:byte(i))
+  end
+  hash = signed32(hash)
+  local modulus = 0x1FFFFF7B
+  local remainder = hash &lt; 0 and -((-hash) % modulus) or hash % modulus
+  return normalize32(remainder)
+end
+
+local function memberInfo(typePointer, name)
+  local wantedHash = fieldHash(name)
+  local rootRuntime = runtimeObject(typePointer)
+  local runtime = rootRuntime
+  while valid(runtime) do
+    local count = readInteger(runtime + DCT.layout.runtimeLookupCount) or 0
+    local entries = readPointer(runtime + DCT.layout.runtimeLookup)
+    if count &gt; 0 and count &lt; 10000 and valid(entries) then
+      for i = 0, count - 1 do
+        local entry = entries + i * DCT.layout.lookupStride
+        if normalize32(readInteger(entry + DCT.layout.lookupHash)) == wantedHash then
+          return {
+            name = name,
+            hash = wantedHash,
+            type = readPointer(entry),
+            offset = signed32(readInteger(entry + DCT.layout.lookupOffset)),
+            rootRuntime = rootRuntime,
+            ownerRuntime = runtime,
+          }
+        end
+      end
+    end
+    runtime = readPointer(runtime + DCT.layout.runtimeParent)
+  end
+  error(&apos;Dead Cells: member not found: &apos; .. name)
+end
+
+local function fieldOffset(typePointer, name)
+  local info = memberInfo(typePointer, name)
+  if not info.offset or info.offset &lt; 0 then
+    error(&apos;Dead Cells: expected field but found method: &apos; .. name)
+  end
+  return info.offset
+end
+
+local function methodAddress(typePointer, name)
+  local info = memberInfo(typePointer, name)
+  if not info.offset or info.offset &gt;= 0 then
+    error(&apos;Dead Cells: expected method but found field: &apos; .. name)
+  end
+  local methodTable = readPointer(info.rootRuntime + DCT.layout.runtimeMethods)
+  local methodIndex = -info.offset - 1
+  local address = valid(methodTable)
+      and readPointer(methodTable + methodIndex * 8) or nil
+  if not valid(address) then
+    error(&apos;Dead Cells: method address unavailable: &apos; .. name)
+  end
+  return address
+end
+
+-- These descriptors are reconstructed from the running process every time the
+-- activation record is checked. No heap/JIT address is saved in the table.
+DCT.types = {
+  game = resolveType(&apos;pr.Game&apos;),
+  gameData = resolveType(&apos;tool.GameData&apos;),
+  hero = resolveType(&apos;en.Hero&apos;),
+  airJump = resolveType(&apos;tool.mainSkills.AirJump&apos;),
+}
+
+DCT.offset = {
+  game = {
+    data = fieldOffset(DCT.types.game, &apos;data&apos;),
+    hero = fieldOffset(DCT.types.game, &apos;hero&apos;),
+  },
+  data = {
+    money = fieldOffset(DCT.types.gameData, &apos;money&apos;),
+    cells = fieldOffset(DCT.types.gameData, &apos;cells&apos;),
+    healings = fieldOffset(DCT.types.gameData, &apos;healings&apos;),
+    life = fieldOffset(DCT.types.gameData, &apos;life&apos;),
+    maxLife = fieldOffset(DCT.types.gameData, &apos;maxLife&apos;),
+    tactics = fieldOffset(DCT.types.gameData, &apos;tacticTier&apos;),
+    brutality = fieldOffset(DCT.types.gameData, &apos;brutalityTier&apos;),
+    survival = fieldOffset(DCT.types.gameData, &apos;survivalTier&apos;),
+    curse = fieldOffset(DCT.types.gameData, &apos;curseCounter&apos;),
+    debt = fieldOffset(DCT.types.gameData, &apos;debt&apos;),
+    infection = fieldOffset(DCT.types.gameData, &apos;infectionTier&apos;),
+  },
+  hero = {
+    life = fieldOffset(DCT.types.hero, &apos;life&apos;),
+    oldLife = fieldOffset(DCT.types.hero, &apos;oldLife&apos;),
+    maxLife = fieldOffset(DCT.types.hero, &apos;maxLife&apos;),
+    tactics = fieldOffset(DCT.types.hero, &apos;tacticTier&apos;),
+    brutality = fieldOffset(DCT.types.hero, &apos;brutalityTier&apos;),
+    survival = fieldOffset(DCT.types.hero, &apos;survivalTier&apos;),
+    runSpeed = fieldOffset(DCT.types.hero, &apos;runSpd&apos;),
+    cells = fieldOffset(DCT.types.hero, &apos;cells&apos;),
+    curse = fieldOffset(DCT.types.hero, &apos;curseCounter&apos;),
+  },
+}
+
+local gameDescriptor = objectDescriptor(DCT.types.game)
+local gameGlobalSlot = gameDescriptor
+    and readPointer(gameDescriptor + DCT.layout.objectGlobal) or nil
+local gameClass = valid(gameGlobalSlot) and readPointer(gameGlobalSlot) or nil
+if not valid(gameClass) then
+  error(&apos;Dead Cells: pr.Game global object is unavailable&apos;)
+end
+local gameClassType = readPointer(gameClass)
+if not valid(gameClassType) then
+  error(&apos;Dead Cells: pr.Game global type is unavailable&apos;)
+end
+local gameInstanceOffset = fieldOffset(gameClassType, &apos;ME&apos;)
+DCT.game = readPointer(gameClass + gameInstanceOffset)
+if not valid(DCT.game) or readPointer(DCT.game) ~= DCT.types.game then
+  error(&apos;Dead Cells: pr.Game.ME is not available; enter the game world first&apos;)
+end
+
+-- getCappedFinalDamage is not used by the live Beheaded damage path in this
+-- build. Locate the verified health-subtraction write instead. Both occurrences
+-- of the resolved life offset make the signature specific, while the uniqueness
+-- check prevents a game update from patching an ambiguous instruction.
+local lifeOffsetPattern = dwordPattern(DCT.offset.hero.life)
+local lifeWritePattern = table.concat({
+  &apos;41 8B 83&apos;, lifeOffsetPattern,
+  &apos;89 45 B0 2B 45 C4 89 45 B0 41 89 83&apos;, lifeOffsetPattern,
+  &apos;48 8B 4D 18&apos;,
+}, &apos; &apos;)
+
+DCT.method = {
+  cappedDamage = methodAddress(DCT.types.hero, &apos;getCappedFinalDamage&apos;),
+  getAirJumps = methodAddress(DCT.types.airJump, &apos;get_airJumps&apos;),
+  addMoney = methodAddress(DCT.types.hero, &apos;addMoney&apos;),
+  addCells = methodAddress(DCT.types.hero, &apos;addCells&apos;),
+  lifeWrite = uniqueCodeAddress(
+    lifeWritePattern, &apos;player health subtraction&apos;, 0x10),
+}
+
+local cappedPrologue = { 0x55, 0x48, 0x8B, 0xEC, 0x48, 0x83, 0xEC, 0x50 }
+local airJumpPrologue = { 0x55, 0x48, 0x8B, 0xEC, 0x48, 0x83, 0xEC, 0x10 }
+local moneyPrologue = {
+  0x55, 0x48, 0x8B, 0xEC, 0x48, 0x81, 0xEC, 0x80, 0x00, 0x00, 0x00,
+}
+local cellsPrologue = { 0x55, 0x48, 0x8B, 0xEC, 0x48, 0x83, 0xEC, 0x30 }
+local lifeWriteOriginal = { 0x41, 0x89, 0x83 }
+for _, byte in ipairs(dwordBytes(DCT.offset.hero.life)) do
+  lifeWriteOriginal[#lifeWriteOriginal + 1] = byte
+end
+if not bytesMatch(DCT.method.cappedDamage, cappedPrologue) then
+  error(&apos;Dead Cells: unexpected getCappedFinalDamage prologue&apos;)
+end
+if not bytesMatch(DCT.method.getAirJumps, airJumpPrologue) then
+  error(&apos;Dead Cells: unexpected AirJump.get_airJumps prologue&apos;)
+end
+if not bytesMatch(DCT.method.addMoney, moneyPrologue) then
+  error(&apos;Dead Cells: unexpected addMoney prologue&apos;)
+end
+if not bytesMatch(DCT.method.addCells, cellsPrologue) then
+  error(&apos;Dead Cells: unexpected addCells prologue&apos;)
+end
+if not bytesMatch(DCT.method.lifeWrite, lifeWriteOriginal) then
+  error(&apos;Dead Cells: unexpected player health-write instruction&apos;)
+end
+DCT.originalCode = {
+  cappedDamage = bytesAt(DCT.method.cappedDamage, #cappedPrologue),
+  getAirJumps = bytesAt(DCT.method.getAirJumps, #airJumpPrologue),
+  addMoney = bytesAt(DCT.method.addMoney, #moneyPrologue),
+  addCells = bytesAt(DCT.method.addCells, #cellsPrologue),
+  lifeWrite = bytesAt(DCT.method.lifeWrite, #lifeWriteOriginal),
+}
+
+local hookScript = string.format([[
+alloc(dcTrainerCave,2048,%X)
+label(dcLifeWriteHook)
+label(dcLifeWriteOriginal)
+label(dcLifeWriteReturn)
+label(dcDamageHook)
+label(dcDamageTypeLoop)
+label(dcDamageHero)
+label(dcDamageEnemy)
+label(dcDamageOriginal)
+label(dcDamageZero)
+label(dcAirJumpHook)
+label(dcAirJumpOriginal)
+label(dcMoneyHook)
+label(dcMoneyOriginal)
+label(dcCellsHook)
+label(dcCellsOriginal)
+label(dcNoDamage)
+label(dcUnlimitedJump)
+label(dcOneHit)
+label(dcBoostStats)
+label(dcGainMultiplier)
+label(dcSpeedMultiplier)
+label(dcStatTarget)
+label(dcHeroType)
+label(dcHeroPointer)
+registersymbol(dcNoDamage)
+registersymbol(dcUnlimitedJump)
+registersymbol(dcOneHit)
+registersymbol(dcBoostStats)
+registersymbol(dcGainMultiplier)
+registersymbol(dcSpeedMultiplier)
+registersymbol(dcStatTarget)
+registersymbol(dcHeroType)
+registersymbol(dcHeroPointer)
+
+dcTrainerCave:
+dcNoDamage:
+  db 1
+dcUnlimitedJump:
+  db 1
+dcOneHit:
+  db 1
+dcBoostStats:
+  db 1
+dcGainMultiplier:
+  dd 10
+dcSpeedMultiplier:
+  dq (double)2.0
+dcStatTarget:
+  dd 50
+  dd 0
+dcHeroType:
+  dq %X
+dcHeroPointer:
+  dq 0
+  align 10 CC
+
+dcLifeWriteHook:
+  cmp byte ptr [dcNoDamage],0
+  je short dcLifeWriteOriginal
+  cmp r11,[dcHeroPointer]
+  jne short dcLifeWriteOriginal
+  cmp eax,[r11+%X]
+  jge short dcLifeWriteOriginal
+  jmp short dcLifeWriteReturn
+dcLifeWriteOriginal:
+  mov [r11+%X],eax
+dcLifeWriteReturn:
+  jmp %X
+
+dcDamageHook:
+  mov rax,[rcx]
+dcDamageTypeLoop:
+  cmp rax,[dcHeroType]
+  je short dcDamageHero
+  cmp dword ptr [rax],0B
+  jne short dcDamageEnemy
+  mov rax,[rax+08]
+  test rax,rax
+  je short dcDamageEnemy
+  mov rax,[rax+18]
+  test rax,rax
+  jne short dcDamageTypeLoop
+  jmp short dcDamageEnemy
+dcDamageHero:
+  cmp byte ptr [dcNoDamage],0
+  jne short dcDamageZero
+  jmp short dcDamageOriginal
+dcDamageEnemy:
+  cmp byte ptr [dcOneHit],0
+  je short dcDamageOriginal
+  mov eax,7FFFFFFF
+  ret
+dcDamageZero:
+  xor eax,eax
+  ret
+dcDamageOriginal:
+  push rbp
+  mov rbp,rsp
+  sub rsp,50
+  jmp %X
+
+dcAirJumpHook:
+  cmp byte ptr [dcUnlimitedJump],0
+  je short dcAirJumpOriginal
+  xor eax,eax
+  ret
+dcAirJumpOriginal:
+  push rbp
+  mov rbp,rsp
+  sub rsp,10
+  jmp %X
+
+dcMoneyHook:
+  test edx,edx
+  jle short dcMoneyOriginal
+  imul edx,[dcGainMultiplier]
+dcMoneyOriginal:
+  push rbp
+  mov rbp,rsp
+  sub rsp,00000080
+  jmp %X
+
+dcCellsHook:
+  test edx,edx
+  jle short dcCellsOriginal
+  imul edx,[dcGainMultiplier]
+dcCellsOriginal:
+  push rbp
+  mov rbp,rsp
+  sub rsp,30
+  jmp %X
+
+%X:
+  jmp dcLifeWriteHook
+  nop 2
+
+%X:
+  jmp dcDamageHook
+  nop 3
+
+%X:
+  jmp dcAirJumpHook
+  nop 3
+
+%X:
+  jmp dcMoneyHook
+  nop 6
+
+%X:
+  jmp dcCellsHook
+  nop 3
+]], DCT.method.cappedDamage,
+    DCT.types.hero,
+    DCT.offset.hero.life,
+    DCT.offset.hero.life,
+    DCT.method.lifeWrite + #lifeWriteOriginal,
+    DCT.method.cappedDamage + #cappedPrologue,
+    DCT.method.getAirJumps + #airJumpPrologue,
+    DCT.method.addMoney + #moneyPrologue,
+    DCT.method.addCells + #cellsPrologue,
+    DCT.method.lifeWrite,
+    DCT.method.cappedDamage,
+    DCT.method.getAirJumps,
+    DCT.method.addMoney,
+    DCT.method.addCells)
+
+if not autoAssemble(hookScript) then
+  error(&apos;Dead Cells: code-hook installation failed&apos;)
+end
+
+local restoreCurrentValues
+
+-- Install cleanup immediately after the hooks. Any failure in the remaining
+-- setup is caught below and rolls the target back to its original prologues.
+function DeadCellsTrainerStop(restoreDefaults)
+  if DCT_KEEPER then
+    pcall(function()
+      DCT_KEEPER.Enabled = false
+      DCT_KEEPER.destroy()
+    end)
+    DCT_KEEPER = nil
+  end
+  DCT_KEEPER_BUSY = false
+
+  if DCT then
+    if restoreDefaults and restoreCurrentValues then
+      pcall(restoreCurrentValues)
+    end
+    if DCT.method and DCT.originalCode then
+      pcall(function()
+        putBytes(DCT.method.lifeWrite, DCT.originalCode.lifeWrite)
+        putBytes(DCT.method.cappedDamage, DCT.originalCode.cappedDamage)
+        putBytes(DCT.method.getAirJumps, DCT.originalCode.getAirJumps)
+        putBytes(DCT.method.addMoney, DCT.originalCode.addMoney)
+        putBytes(DCT.method.addCells, DCT.originalCode.addCells)
+      end)
+    end
+  end
+
+  local addressList = getAddressList()
+  for i = addressList.Count - 1, 0, -1 do
+    local record = addressList[i]
+    if record and tostring(record.Description):match(&apos;^DC:&apos;) then
+      record.OnValueChangedByUser = nil
+      record.destroy()
+    end
+  end
+
+  pcall(function()
+    autoAssemble([[
+unregistersymbol(dcNoDamage)
+unregistersymbol(dcUnlimitedJump)
+unregistersymbol(dcOneHit)
+unregistersymbol(dcBoostStats)
+unregistersymbol(dcGainMultiplier)
+unregistersymbol(dcSpeedMultiplier)
+unregistersymbol(dcStatTarget)
+unregistersymbol(dcHeroType)
+unregistersymbol(dcHeroPointer)
+dealloc(dcTrainerCave)
+]])
+  end)
+  DCT = nil
+end
+
+local function finishActivation()
+DCT.control = {
+  noDamage = getAddress(&apos;dcNoDamage&apos;),
+  unlimitedJump = getAddress(&apos;dcUnlimitedJump&apos;),
+  oneHit = getAddress(&apos;dcOneHit&apos;),
+  boostStats = getAddress(&apos;dcBoostStats&apos;),
+  gain = getAddress(&apos;dcGainMultiplier&apos;),
+  speed = getAddress(&apos;dcSpeedMultiplier&apos;),
+  statTarget = getAddress(&apos;dcStatTarget&apos;),
+  heroType = getAddress(&apos;dcHeroType&apos;),
+  heroPointer = getAddress(&apos;dcHeroPointer&apos;),
+}
+
+local function isInstance(pointer, expectedType)
+  if not valid(pointer) then return false end
+  local actualType = readPointer(pointer)
+  while valid(actualType) do
+    if actualType == expectedType then return true end
+    if readInteger(actualType) ~= 11 then return false end
+    local objectDescriptor = readPointer(actualType + 8)
+    if not valid(objectDescriptor) then return false end
+    actualType = readPointer(objectDescriptor + 0x18)
+  end
+  return false
+end
+
+local function currentObjects()
+  if not isInstance(DCT.game, DCT.types.game) then return nil, nil end
+  local data = readPointer(DCT.game + DCT.offset.game.data)
+  local hero = readPointer(DCT.game + DCT.offset.game.hero)
+  if not isInstance(data, DCT.types.gameData) then data = nil end
+  if not isInstance(hero, DCT.types.hero) then hero = nil end
+  return data, hero
+end
+
+local function captureOriginal(data, hero)
+  if data and not DCT.dataOriginal[data] then
+    DCT.dataOriginal[data] = {
+      tactics = readInteger(data + DCT.offset.data.tactics),
+      brutality = readInteger(data + DCT.offset.data.brutality),
+      survival = readInteger(data + DCT.offset.data.survival),
+    }
+  end
+  if hero and not DCT.heroOriginal[hero] then
+    DCT.heroOriginal[hero] = {
+      runSpeed = readDouble(hero + DCT.offset.hero.runSpeed),
+      tactics = readInteger(hero + DCT.offset.hero.tactics),
+      brutality = readInteger(hero + DCT.offset.hero.brutality),
+      survival = readInteger(hero + DCT.offset.hero.survival),
+    }
+  end
+end
+
+local function updateRecordAddresses(data, hero)
+  local function address(record, pointer, offset)
+    if record then
+      record.Address = pointer and string.format(&apos;%X&apos;, pointer + offset) or &apos;0&apos;
+    end
+  end
+  address(DCT.records.gold, data, DCT.offset.data.money)
+  address(DCT.records.cells, hero, DCT.offset.hero.cells)
+  address(DCT.records.flask, data, DCT.offset.data.healings)
+  address(DCT.records.life, hero, DCT.offset.hero.life)
+  address(DCT.records.maxLife, hero, DCT.offset.hero.maxLife)
+  address(DCT.records.tactics, hero, DCT.offset.hero.tactics)
+  address(DCT.records.brutality, hero, DCT.offset.hero.brutality)
+  address(DCT.records.survival, hero, DCT.offset.hero.survival)
+  address(DCT.records.curse, hero, DCT.offset.hero.curse)
+  address(DCT.records.runSpeed, hero, DCT.offset.hero.runSpeed)
+end
+
+function DCTApply(force)
+  if not DCT then return false end
+  local data, hero = currentObjects()
+  captureOriginal(data, hero)
+  writeQword(DCT.control.heroPointer, hero or 0)
+  updateRecordAddresses(data, hero)
+
+  local boostStats = readBytes(DCT.control.boostStats, 1, false) == 1
+  local target = math.max(1, math.min(
+    200, readInteger(DCT.control.statTarget) or 1))
+  local speed = math.max(0.1, math.min(
+    10.0, readDouble(DCT.control.speed) or 1.0))
+
+  if data and boostStats then
+    writeInteger(data + DCT.offset.data.tactics, target)
+    writeInteger(data + DCT.offset.data.brutality, target)
+    writeInteger(data + DCT.offset.data.survival, target)
+  end
+  if hero then
+    local original = DCT.heroOriginal[hero]
+    local baseSpeed = original and tonumber(original.runSpeed) or 0.23
+    if not baseSpeed or baseSpeed &lt;= 0 or baseSpeed &gt; 5 then baseSpeed = 0.23 end
+    writeDouble(hero + DCT.offset.hero.runSpeed, baseSpeed * speed)
+    if boostStats then
+      writeInteger(hero + DCT.offset.hero.tactics, target)
+      writeInteger(hero + DCT.offset.hero.brutality, target)
+      writeInteger(hero + DCT.offset.hero.survival, target)
+    end
+  end
+  return data ~= nil or hero ~= nil
+end
+
+restoreCurrentValues = function()
+  local data, hero = currentObjects()
+  if data then
+    local original = DCT.dataOriginal[data]
+    if original then
+      writeInteger(data + DCT.offset.data.tactics, original.tactics or 1)
+      writeInteger(data + DCT.offset.data.brutality, original.brutality or 1)
+      writeInteger(data + DCT.offset.data.survival, original.survival or 1)
+    end
+  end
+  if hero then
+    local original = DCT.heroOriginal[hero]
+    if original then
+      writeDouble(hero + DCT.offset.hero.runSpeed, original.runSpeed or 0.23)
+      writeInteger(hero + DCT.offset.hero.tactics, original.tactics or 1)
+      writeInteger(hero + DCT.offset.hero.brutality, original.brutality or 1)
+      writeInteger(hero + DCT.offset.hero.survival, original.survival or 1)
+    end
+  end
+end
+
+local list = getAddressList()
+for i = list.Count - 1, 0, -1 do
+  local record = list[i]
+  if record and tostring(record.Description):match(&apos;^DC:&apos;) then record.destroy() end
+end
+
+local root = list.getMemoryRecordByDescription(&apos;Dead Cells Trainer - Activate&apos;)
+if not root then
+  root = list.createMemoryRecord()
+  root.Description = &apos;DC: Live Trainer Controls&apos;
+  root.IsGroupHeader = true
+end
+
+local function makeRecord(description, address, valueType)
+  local record = list.createMemoryRecord()
+  record.Description = description
+  record.Address = valid(address) and string.format(&apos;%X&apos;, address) or &apos;0&apos;
+  record.VarType = valueType
+  record.ShowAsHex = false
+  record.appendToEntry(root)
+  return record
+end
+
+local function makeToggle(description, address, callback)
+  local record = makeRecord(description, address, vtByte)
+  record.DropDownList.Text = &apos;0:Disabled\n1:Enabled&apos;
+  record.DropDownReadOnly = true
+  record.DropDownDescriptionOnly = true
+  record.DisplayAsDropDownListItem = true
+  record.Value = &apos;1&apos;
+  record.OnValueChangedByUser = function(_, _, newValue)
+    local enabled = (tonumber(newValue) or 0) ~= 0
+    writeBytes(address, enabled and 1 or 0)
+    callback(enabled)
+  end
+  return record
+end
+
+makeToggle(&apos;DC: No Damage&apos;, DCT.control.noDamage, function() DCTApply(true) end)
+makeToggle(&apos;DC: Unlimited Jump&apos;, DCT.control.unlimitedJump, function() end)
+makeToggle(&apos;DC: One-Hit Kill&apos;, DCT.control.oneHit, function() end)
+
+local gain = makeRecord(
+  &apos;DC: Gold + Cells Gain Multiplier&apos;, DCT.control.gain, vtDword)
+gain.Value = &apos;10&apos;
+gain.OnValueChangedByUser = function(_, _, value)
+  writeInteger(DCT.control.gain,
+    math.max(1, math.min(100, math.floor(tonumber(value) or 1))))
+end
+
+local speed = makeRecord(
+  &apos;DC: Character Speed Multiplier&apos;, DCT.control.speed, vtDouble)
+speed.Value = &apos;2&apos;
+speed.OnValueChangedByUser = function(_, _, value)
+  writeDouble(DCT.control.speed,
+    math.max(0.1, math.min(10.0, tonumber(value) or 1.0)))
+  DCTApply(true)
+end
+
+makeToggle(&apos;DC: Boost All Scroll Stats&apos;, DCT.control.boostStats,
+  function() DCTApply(true) end)
+
+local statTarget = makeRecord(
+  &apos;DC: Scroll Stat Target&apos;, DCT.control.statTarget, vtDword)
+statTarget.Value = &apos;50&apos;
+statTarget.OnValueChangedByUser = function(_, _, value)
+  writeInteger(DCT.control.statTarget,
+    math.max(1, math.min(200, math.floor(tonumber(value) or 1))))
+  DCTApply(true)
+end
+
+local data, hero = currentObjects()
+DCT.records.gold = makeRecord(&apos;DC: Gold (Live)&apos;,
+  data and data + DCT.offset.data.money, vtDword)
+DCT.records.cells = makeRecord(&apos;DC: Cells (Live)&apos;,
+  hero and hero + DCT.offset.hero.cells, vtDword)
+DCT.records.flask = makeRecord(&apos;DC: Flask Charges (Live)&apos;,
+  data and data + DCT.offset.data.healings, vtDword)
+DCT.records.life = makeRecord(&apos;DC: Current Life (Live)&apos;,
+  hero and hero + DCT.offset.hero.life, vtDword)
+DCT.records.maxLife = makeRecord(&apos;DC: Max Life (Live)&apos;,
+  hero and hero + DCT.offset.hero.maxLife, vtDword)
+DCT.records.tactics = makeRecord(&apos;DC: Tactics (Live)&apos;,
+  hero and hero + DCT.offset.hero.tactics, vtDword)
+DCT.records.brutality = makeRecord(&apos;DC: Brutality (Live)&apos;,
+  hero and hero + DCT.offset.hero.brutality, vtDword)
+DCT.records.survival = makeRecord(&apos;DC: Survival (Live)&apos;,
+  hero and hero + DCT.offset.hero.survival, vtDword)
+DCT.records.curse = makeRecord(&apos;DC: Curse Counter (Live)&apos;,
+  hero and hero + DCT.offset.hero.curse, vtDword)
+DCT.records.runSpeed = makeRecord(&apos;DC: Effective Run Speed (Live)&apos;,
+  hero and hero + DCT.offset.hero.runSpeed, vtDouble)
+
+DCT.records.cells.OnValueChangedByUser = function(_, _, value)
+  local currentData, currentHero = currentObjects()
+  local amount = math.max(0, math.floor(tonumber(value) or 0))
+  if currentData then writeInteger(currentData + DCT.offset.data.cells, amount) end
+  if currentHero then writeInteger(currentHero + DCT.offset.hero.cells, amount) end
+end
+DCT.records.curse.OnValueChangedByUser = function(_, _, value)
+  local currentData, currentHero = currentObjects()
+  local amount = math.max(0, math.floor(tonumber(value) or 0))
+  if currentData then writeInteger(currentData + DCT.offset.data.curse, amount) end
+  if currentHero then writeInteger(currentHero + DCT.offset.hero.curse, amount) end
+end
+
+root.Collapsed = false
+DCTApply(true)
+
+DCT_KEEPER_BUSY = false
+DCT_KEEPER = createTimer(nil, false)
+DCT_KEEPER.Interval = DCT.keeperInterval
+DCT_KEEPER.OnTimer = function()
+  if DCT_KEEPER_BUSY or not DCT then return end
+  DCT_KEEPER_BUSY = true
+  local ok, err = pcall(function() DCTApply(false) end)
+  if not ok and DCT then DCT.lastError = tostring(err) end
+  DCT_KEEPER_BUSY = false
+end
+DCT_KEEPER.Enabled = true
+end
+
+local activationOk, activationError = xpcall(
+  finishActivation, function(message) return tostring(message) end)
+if not activationOk then
+  pcall(function() DeadCellsTrainerStop(true) end)
+  error(&apos;Dead Cells: activation failed: &apos; .. activationError)
+end
+
+print(&apos;[Dead Cells] trainer active; metadata-only resolver; keeper = 3000 ms&apos;)
+{$asm}
+
+[DISABLE]
+{$lua}
+if syntaxcheck then return end
+if DeadCellsTrainerStop then DeadCellsTrainerStop(true) end
+print(&apos;[Dead Cells] trainer stopped; hooks and runtime modifiers restored&apos;)
+{$asm}</AssemblerScript>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

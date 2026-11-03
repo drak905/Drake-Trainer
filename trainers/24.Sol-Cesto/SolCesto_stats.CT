@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="52">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Gold (V8 SMI - value x2)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"HP (V8 SMI - value x2)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F4C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Max HP (V8 SMI - value x2)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F50</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Special Skill charge (V8 SMI - value x2)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F60</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Special Skill max (V8 SMI - value x2)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F64</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Gate unlock counter (V8 SMI - value x2)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F5C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Attack (V8 SMI - value x2)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F40</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"Magic Attack (V8 SMI - value x2)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F44</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Gold Multiplier (V8 SMI - value x2)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F58</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"== STRUCT BASE (stats at +0x40..+0x68) =="</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0x1FD03C71F00</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
