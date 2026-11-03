@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Drake Trainer — High-Performance Game Trainers & In-Game Overlays</title>
+  <meta name="description" content="Preserved suite of custom game trainers, native DLL proxies, BepInEx Harmony plugins, ImGui overlays, and portable patches for 16+ games by Drake.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="navbar">
+    <div class="nav-container">
+      <div class="brand">
+        <span class="brand-icon">⚡</span>
+        <div>
+          <span class="brand-title">Drake Trainer</span>
+          <span class="brand-badge">v1.0.0</span>
+        </div>
+      </div>
+      <div class="nav-links">
+        <a href="#catalog" class="nav-link active">Trainers (<span id="total-count-nav">16</span>)</a>
+        <a href="#translations" class="nav-link">Translations (7)</a>
+        <a href="#tech" class="nav-link">Architecture</a>
+        <a href="https://github.com/drak905/Drake-Trainer/releases" target="_blank" class="nav-link">Downloads</a>
+        <a href="https://github.com/drak905/Drake-Trainer" target="_blank" class="btn-github">
+          <svg height="18" width="18" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+          GitHub
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-glow"></div>
+    <div class="container hero-content">
+      <div class="pill-badge">
+        <span class="pulsing-dot"></span> 100% Standalone • Zero External Tools • Dual 1-Click Launchers
+      </div>
+      <h1 class="hero-title">High-Performance Game Trainers<br><span class="gradient-text">Engineered for Perfection</span></h1>
+      <p class="hero-subtitle">
+        Preserving 16 custom in-game trainers, native DLL proxies, BepInEx Harmony plugins, and bytecode patches. Every release is portable, non-destructive, and comes with full rebuildable source code.
+      </p>
+
+      <!-- Search Bar -->
+      <div class="search-wrapper">
+        <div class="search-box">
+          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+          <input type="text" id="search-input" placeholder="Search by game name, engine, feature (e.g. God Mode, ImGui, Unity, Jump)..." autocomplete="off">
+          <button id="clear-search" class="clear-btn" title="Clear search">✕</button>
+        </div>
+      </div>
+
+      <!-- Filter Chips -->
+      <div class="filter-chips">
+        <button class="chip active" data-filter="all">All (<span id="count-all">16</span>)</button>
+        <button class="chip" data-filter="Unity">Unity</button>
+        <button class="chip" data-filter="Unreal">Unreal Engine</button>
+        <button class="chip" data-filter="Java">Java / LWJGL</button>
+        <button class="chip" data-filter="GameMaker">GameMaker</button>
+        <button class="chip" data-filter="Chowdren">Chowdren</button>
+        <button class="chip" data-filter="HashLink">HashLink</button>
+        <button class="chip" data-filter="Has Translation">Has VI Translation (7)</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Catalog Grid -->
+  <main class="container catalog-section" id="catalog">
+    <div class="section-header">
+      <div>
+        <h2 class="section-title">Trainer Catalog</h2>
+        <p class="section-desc">Showing <span id="filtered-count">16</span> of <span id="total-count">16</span> supported games</p>
+      </div>
+      <div class="section-actions">
+        <button id="btn-web-search-modal" class="btn-secondary" title="Search web for any future trainer or game">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+          Search Web for Game
+        </button>
+        <a href="https://github.com/drak905/Drake-Trainer/issues/new?title=%5BTrainer+Request%5D+&body=Game+Name%3A+%0APlatform%3A+Steam+%2F+Epic+%2F+GOG%0AEngine%3A+%0ADesired+Features%3A+" target="_blank" class="btn-primary">
+          + Request New Trainer
+        </a>
+      </div>
+    </div>
+
+    <!-- Cards Container -->
+    <div class="cards-grid" id="cards-grid">
+      <!-- Populated via JavaScript -->
+    </div>
+
+    <!-- Web Search & No Match Fallback Card -->
+    <div id="no-match-card" class="no-match-card hidden">
+      <div class="no-match-icon">🔎</div>
+      <h3>No local trainer found for "<span id="no-match-query"></span>"</h3>
+      <p>This game isn't in our current catalog yet, but you can search the web or request a custom trainer below:</p>
+      <div class="no-match-buttons">
+        <a id="btn-search-google" href="#" target="_blank" class="btn-web">
+          🌐 Search Google
+        </a>
+        <a id="btn-search-steam" href="#" target="_blank" class="btn-web">
+          🎮 Search Steam Store
+        </a>
+        <a id="btn-search-pcgw" href="#" target="_blank" class="btn-web">
+          📖 Search PCGamingWiki
+        </a>
+        <a id="btn-request-issue" href="#" target="_blank" class="btn-request">
+          💡 Request This Trainer on GitHub
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <!-- Preserved Translations Section -->
+  <section class="container translations-section" id="translations">
+    <div class="section-header">
+      <div>
+        <h2 class="section-title">Preserved Vietnamese Localization Packs</h2>
+        <p class="section-desc">7 complete localization patches built alongside the reverse engineering suite</p>
+      </div>
+    </div>
+
+    <div class="translations-grid">
+      <div class="trans-card">
+        <div class="trans-header">
+          <span class="trans-badge">Unreal Engine 4</span>
+          <span class="trans-ver">v3.1.0</span>
+        </div>
+        <h4>Afterimage</h4>
+        <p>Dynamic rich-text hook preventing language flickering, multi-language UI, and full quest string translation.</p>
+        <a href="https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Afterimage-Vietnamese-v3.1.zip" class="trans-link">Download VI Pack (.zip) →</a>
+      </div>
+
+      <div class="trans-card">
+        <div class="trans-header">
+          <span class="trans-badge">Unity Mono</span>
+          <span class="trans-ver">v1.0.0</span>
+        </div>
+        <h4>Bō: Path of the Teal Lotus</h4>
+        <p>TextMeshPro Vietnamese diacritics font injector and dialog string dictionary.</p>
+        <a href="https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Bo-Vietnamese-v1.zip" class="trans-link">Download VI Pack (.zip) →</a>
+      </div>
+
+      <div class="trans-card">
+        <div class="trans-header">
+          <span class="trans-badge">HashLink</span>
+          <span class="trans-ver">v1.0.0</span>
+        </div>
+        <h4>Dead Cells</h4>
+        <p>PAK archive asset injection with custom Vietnamese bitmap font glyphs.</p>
+        <a href="https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/DeadCells-Vietnamese-v1.zip" class="trans-link">Download VI Pack (.zip) →</a>
+      </div>
+
+      <div class="trans-card">
+        <div class="trans-header">
+          <span class="trans-badge">Unity IL2CPP</span>
+          <span class="trans-ver">v1.0.0</span>
+        </div>
+        <h4>Ghost Song</h4>
+        <p>Unity TextMeshPro sub-mesh font fallback with custom Latin-extended character sets.</p>
+        <a href="https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/GhostSong-Vietnamese-v1.zip" class="trans-link">Download VI Pack (.zip) →</a>
+      </div>
+
+      <div class="trans-card">
+        <div class="trans-header">
+          <span class="trans-badge">Custom C++</span>
+          <span class="trans-ver">v1.0.0</span>
+        </div>
+        <h4>Guacamelee! STCE</h4>
+        <p>Bitmap font atlas replacement and in-memory text dictionary substitution.</p>
+        <a href="https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Guacamelee-STCE-Vietnamese-v1.zip" class="trans-link">Download VI Pack (.zip) →</a>
+      </div>
+
+      <div class="trans-card">
+        <div class="trans-header">
+          <span class="trans-badge">Unity Mono</span>
+          <span class="trans-ver">v1.0.0</span>
+        </div>
+        <h4>9 Years of Shadows</h4>
+        <p>BepInEx font replacer and complete story dialog translation.</p>
+        <a href="https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/NineYearsOfShadows-Vietnamese-v1.zip" class="trans-link">Download VI Pack (.zip) →</a>
+      </div>
+
+      <div class="trans-card">
+        <div class="trans-header">
+          <span class="trans-badge">Unity Mono</span>
+          <span class="trans-ver">v1.0.0</span>
+        </div>
+        <h4>Voidwrought</h4>
+        <p>BepInEx localization table interceptor and Vietnamese font atlas loader.</p>
+        <a href="https://github.com/drak905/Drake-Trainer/releases/download/v1.0.0/Voidwrought-Vietnamese-v1.zip" class="trans-link">Download VI Pack (.zip) →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Technical Highlights -->
+  <section class="container tech-section" id="tech">
+    <div class="section-header">
+      <div>
+        <h2 class="section-title">Reverse Engineering Architecture</h2>
+        <p class="section-desc">Why Drake Trainers are safe, non-destructive, and 100% portable</p>
+      </div>
+    </div>
+
+    <div class="tech-grid">
+      <div class="tech-box">
+        <span class="tech-icon">🚪</span>
+        <h3>Unity Doorstop & HarmonyX</h3>
+        <p>Injects through Windows <code>winhttp.dll</code> before Mono initializes. Applies runtime IL detours in memory with zero permanent modification to original game files.</p>
+      </div>
+      <div class="tech-box">
+        <span class="tech-icon">🎯</span>
+        <h3>Native DLL Proxies & ImGui</h3>
+        <p>Proxies system exports (<code>version.dll</code>, <code>winmm.dll</code>, <code>xinput1_3.dll</code>). Hooks DirectX 11 <code>Present</code> to render full hardware-accelerated Dear ImGui HUDs.</p>
+      </div>
+      <div class="tech-box">
+        <span class="tech-icon">☕</span>
+        <h3>ClassLoader Classpath Prepend</h3>
+        <p>In Packr Java games, our custom JAR is prepended to the <code>URLClassLoader</code> classpath via <code>config.json</code>, resolving patched classes first while leaving DAT archives 100% untouched.</p>
+      </div>
+      <div class="tech-box">
+        <span class="tech-icon">🛡️</span>
+        <h3>Clean Rollback & Backups</h3>
+        <p>Every installer automatically backs up pristine vanilla files with a <code>.VANILLA</code> extension. Double-clicking <code>Uninstall.bat</code> instantly restores the vanilla state.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Modal for Game Details & Hotkeys -->
+  <div id="detail-modal" class="modal-backdrop hidden">
+    <div class="modal-container">
+      <button id="modal-close" class="modal-close-btn">&times;</button>
+      <div class="modal-banner-wrapper">
+        <img id="modal-img" src="" alt="Game Banner" class="modal-banner">
+        <div class="modal-banner-overlay">
+          <div class="modal-tags" id="modal-tags"></div>
+          <h2 id="modal-title" class="modal-title"></h2>
+          <div class="modal-meta" id="modal-meta"></div>
+        </div>
+      </div>
+      
+      <div class="modal-body">
+        <div class="modal-section">
+          <h3>🎮 Hotkeys & Trainer Controls</h3>
+          <div class="table-responsive">
+            <table class="hotkey-table">
+              <thead>
+                <tr>
+                  <th style="width: 25%;">Hotkey</th>
+                  <th>Feature / In-Game Effect</th>
+                </tr>
+              </thead>
+              <tbody id="modal-hotkeys-tbody">
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <div class="modal-section">
+          <h3>⚡ How to Install & Use</h3>
+          <ol class="step-list">
+            <li>Download the portable ZIP archive using the button below.</li>
+            <li>Extract the folder anywhere on your PC.</li>
+            <li>Double-click <code>Install.bat</code> (or right-click <code>install.ps1</code> → <strong>Run with PowerShell</strong>).</li>
+            <li>Launch the game and use the hotkeys shown above.</li>
+          </ol>
+          <p class="uninstall-note">
+            💡 <strong>To uninstall:</strong> Double-click <code>Uninstall.bat</code>. Your original game files will be cleanly restored.
+          </p>
+        </div>
+
+        <div class="modal-footer">
+          <a id="modal-download-btn" href="#" target="_blank" class="btn-download-lg">
+            ⬇️ Download Standalone ZIP
+          </a>
+          <a id="modal-github-btn" href="#" target="_blank" class="btn-folder">
+            📂 View Source on GitHub
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Web Search Modal -->
+  <div id="web-search-modal" class="modal-backdrop hidden">
+    <div class="modal-container modal-sm">
+      <button id="web-modal-close" class="modal-close-btn">&times;</button>
+      <div class="modal-body" style="padding-top: 2rem;">
+        <h2 style="font-size: 1.4rem; margin-bottom: 0.5rem;">🌐 Search Web for Any Game</h2>
+        <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.25rem;">
+          Type any game title to search Google, Steam Store, PCGamingWiki, or request a custom trainer:
+        </p>
+        <div class="search-box" style="margin-bottom: 1.5rem;">
+          <input type="text" id="web-search-input" placeholder="e.g. Hollow Knight, Elden Ring, Blasphemous..." autocomplete="off">
+        </div>
+        <div class="web-search-actions">
+          <button id="modal-btn-google" class="btn-web-full">Search Google for Trainer</button>
+          <button id="modal-btn-steam" class="btn-web-full">Check Steam Store Page</button>
+          <button id="modal-btn-pcgw" class="btn-web-full">Lookup on PCGamingWiki</button>
+          <button id="modal-btn-req" class="btn-request-full">Request Trainer on GitHub Issues</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-content">
+      <div class="footer-brand">
+        <span class="brand-icon">⚡</span>
+        <div>
+          <span class="brand-title">Drake Trainer</span>
+          <p class="footer-desc">Curated game trainer preservation suite • Open Source (MIT)</p>
+        </div>
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/drak905/Drake-Trainer" target="_blank">GitHub Repository</a>
+        <a href="https://github.com/drak905/Drake-Trainer/releases" target="_blank">Releases & Downloads</a>
+        <a href="https://github.com/drak905/Drake-Trainer/blob/main/docs/REVERSE_ENGINEERING_NOTES.md" target="_blank">Reversing Documentation</a>
+        <a href="https://github.com/drak905/Drake-Trainer/issues" target="_blank">Report Issue / Request Game</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
