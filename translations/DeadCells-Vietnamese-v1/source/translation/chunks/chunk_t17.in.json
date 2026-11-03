@@ -1,0 +1,340 @@
+[
+{
+"id": 2435,
+"en": "Don't think that you just have to wield your ancestor's weapon to defeat me!",
+"ctx": "DLCP_DOOKU_HIT_VK_BOURVIL_2"
+},
+{
+"id": 2436,
+"en": "This Vampire Killer again...",
+"ctx": "DLCP_DOOKU_HIT_VK_BOURVIL_3"
+},
+{
+"id": 2437,
+"en": "Cursed be Leon your forebear for creating this weapon!",
+"ctx": "DLCP_DOOKU_HIT_VK_BOURVIL_4"
+},
+{
+"id": 2438,
+"en": "Argl! This accursed weapon!",
+"ctx": "DLCP_DOOKU_HIT_VK_1"
+},
+{
+"id": 2439,
+"en": "I had forgotten the bite of this despicable whip...",
+"ctx": "DLCP_DOOKU_HIT_VK_2"
+},
+{
+"id": 2440,
+"en": "Raaaaah! I'll make you pay for this!",
+"ctx": "DLCP_DOOKU_HIT_VK_3"
+},
+{
+"id": 2441,
+"en": "When I've slaughtered you, I'll destroy this whip forever.",
+"ctx": "DLCP_DOOKU_HIT_VK_4"
+},
+{
+"id": 2442,
+"en": "I am disappointed, Belmont.",
+"ctx": "DLCP_DOOKU_BOURVIL_DEATH_1"
+},
+{
+"id": 2443,
+"en": "I had high hopes for this fight...",
+"ctx": "DLCP_DOOKU_BOURVIL_DEATH_2"
+},
+{
+"id": 2444,
+"en": "I'll wait for your descendant then.",
+"ctx": "DLCP_DOOKU_BOURVIL_DEATH_3"
+},
+{
+"id": 2445,
+"en": "Unworthy of your family name!",
+"ctx": "DLCP_DOOKU_BOURVIL_DEATH_4"
+},
+{
+"id": 2446,
+"en": "Go back to sleep, my son.",
+"ctx": "DLCP_DOOKU_ALUCARD_DEATH_1"
+},
+{
+"id": 2447,
+"en": "I guess I'll see you in a few centuries?",
+"ctx": "DLCP_DOOKU_ALUCARD_DEATH_2"
+},
+{
+"id": 2448,
+"en": "You could have reigned over the world at my side... what a waste.",
+"ctx": "DLCP_DOOKU_ALUCARD_DEATH_3"
+},
+{
+"id": 2449,
+"en": "The night is still young, Adrian.",
+"ctx": "DLCP_DOOKU_ALUCARD_DEATH_4"
+},
+{
+"id": 2450,
+"en": "What the hell am I doing here?!"
+},
+{
+"id": 2451,
+"en": "Enough with this!"
+},
+{
+"id": 2452,
+"en": "Stop hiding!"
+},
+{
+"id": 2453,
+"en": "Try parrying this..."
+},
+{
+"id": 2454,
+"en": "Fight for real now!"
+},
+{
+"id": 2455,
+"en": "Is that all you got?"
+},
+{
+"id": 2456,
+"en": "Pathetic..."
+},
+{
+"id": 2457,
+"en": "Run away. Now."
+},
+{
+"id": 2458,
+"en": "Shall I send you back?"
+},
+{
+"id": 2459,
+"en": "Does my liege need a break?"
+},
+{
+"id": 2460,
+"en": "Stop that!"
+},
+{
+"id": 2461,
+"en": "You'll pay for that!"
+},
+{
+"id": 2462,
+"en": "That was not pleasant."
+},
+{
+"id": 2463,
+"en": "What a clever use of your environment, you should be proud."
+},
+{
+"id": 2464,
+"en": "Come here, you!"
+},
+{
+"id": 2465,
+"en": "Let's finish this!"
+},
+{
+"id": 2466,
+"en": "This won't end well..."
+},
+{
+"id": 2467,
+"en": "You have been initiated into the secrets of the Architects."
+},
+{
+"id": 2468,
+"en": "Long press to empty the backpack."
+},
+{
+"id": 2470,
+"en": "Shoots at ::count:: nearby enemies at the same time. Each shot inflicts ::+dps:: DPS."
+},
+{
+"id": 2472,
+"en": "Fires spinning blades at nearby enemies, inflicting {bleeding@BL} (::+dps2:: DPS for ::duration:: sec)."
+},
+{
+"id": 2474,
+"en": "Shoots at nearby enemies. You inflict +::prct::% more damage if you're near the turret."
+},
+{
+"id": 2476,
+"en": "Shoots enemies who pass beneath it, dealing {critical damage@CC} to poisoned enemies."
+},
+{
+"id": 2478,
+"en": "{Burns@FI} nearby enemies (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 2480,
+"en": "Inflicts {bleeding@BL} (::+dotDps:: DPS for ::duration:: sec) on enemies that walk over it."
+},
+{
+"id": 2482,
+"en": "Launches ::count:: traps that {root@RO} enemies increasing damage they take by ::+dps:: DPS for ::duration:: seconds."
+},
+{
+"id": 2484,
+"en": "{Slows down@IC} then violently crushes enemies caught in its zone."
+},
+{
+"id": 2486,
+"en": "Turns you invisible for ::duration:: sec and attracts nearby enemies. Explodes after ::duration:: sec or upon reactivation."
+},
+{
+"id": 2488,
+"en": "Deploys an ethereal door."
+},
+{
+"id": 2490,
+"en": "Shoots lightning at nearby enemies and inflicts {shock@EL}."
+},
+{
+"id": 2492,
+"en": "Shoots heavy cannonballs at nearby enemies. Short activation range and slow rate of fire."
+},
+{
+"id": 2493,
+"en": "They don't need it anymore.",
+"ctx": "DLC3_WEAPON_CANNON_AMBIANTDESC"
+},
+{
+"id": 2495,
+"en": "Lights up your path."
+},
+{
+"id": 2497,
+"en": "Causes a large explosion."
+},
+{
+"id": 2499,
+"en": "Quick to use, but not super powerful."
+},
+{
+"id": 2501,
+"en": "Breaks into ::count:: bombs (::+power:: damage each)."
+},
+{
+"id": 2503,
+"en": "Attracts enemies in a large area for a few moments, then explode, dealing {electrical@EL} damage."
+},
+{
+"id": 2505,
+"en": "Stuns enemies (::duration:: sec)."
+},
+{
+"id": 2507,
+"en": "{Freezes@IC} its victims."
+},
+{
+"id": 2510,
+"en": "{Roots@RO} nearby enemies causing ::+dps:: DPS for ::duration:: seconds."
+},
+{
+"id": 2512,
+"en": "Spreads {inflammable oil@FI} in its area of effect."
+},
+{
+"id": 2514,
+"en": "Summons ::count:: biter to serve you (cumulative up to ::ammo:: max)"
+},
+{
+"id": 2516,
+"en": "Use this to annoy a monster. When its health is down to ::prct::% or less, use \"Blueprint Extractor\"."
+},
+{
+"id": 2517,
+"en": "Catch 'em all!"
+},
+{
+"id": 2519,
+"en": "Toss a holy water vial on the ground, creating a pillar of fire dealing damage quickly and {burning@FI} the enemies it hits.",
+"ctx": "DLCP_HOLY_WATER_DESC"
+},
+{
+"id": 2520,
+"en": "I can holy take so much water!",
+"ctx": "DLCP_HOLY_WATER_AMBIANT"
+},
+{
+"id": 2522,
+"en": "Summon an ally to attack nearby enemies."
+},
+{
+"id": 2524,
+"en": "Creates a slow-moving but devastating orb."
+},
+{
+"id": 2526,
+"en": "Inflicts damage on all targets caught inside. Changes direction when it hits a wall."
+},
+{
+"id": 2528,
+"en": "Launches a storm of knives around you, causing {bleeding@BL} (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 2530,
+"en": "Increase the damage you deal by +::prct2::% for ::duration:: sec. You take +::prct::% damage during this time."
+},
+{
+"id": 2532,
+"en": "Sacrifices ::*prct::% of your maximum health to recover ::prct2::% of your HP per melee attack and a speed boost for ::duration2:: seconds."
+},
+{
+"id": 2534,
+"en": "Grants you ::*prct::% of your missing health as {bonus health@SH}. Reduces damage taken by ::prct2::% for ::duration:: seconds."
+},
+{
+"id": 2536,
+"en": "Destroys all nearby projectiles. The enemy who fired the projectile takes ::+power:: damage and is stunned for ::effectCharge:: seconds."
+},
+{
+"id": 2538,
+"en": "Pulls an enemy towards you. The next attack on this enemy inflicts +::*prct::% damage and stuns for ::duration:: sec."
+},
+{
+"id": 2539,
+"en": "Yes, just like Scorpion..."
+},
+{
+"id": 2541,
+"en": "Teleports you behind the enemy. The next attack inflicts +::+power:: damage."
+},
+{
+"id": 2543,
+"en": "Slows down all enemies for ::duration:: sec."
+},
+{
+"id": 2545,
+"en": "Creates a toxic cloud that lasts ::aoeDuration:: sec, inflicting bleed and poison damage (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 2547,
+"en": "Inflicts damage on nearby targets."
+},
+{
+"id": 2549,
+"en": "Repels all nearby enemies. If an enemy is thrown against a wall, it takes +::+power2:: damage."
+},
+{
+"id": 2551,
+"en": "Causes you to float in the air for ::duration:: seconds. Inflicts {electrical@EL} damage as well as {shock@EL} effect (::+dps2:: DPS for ::*ShockAffectDuration:: seconds) under you."
+},
+{
+"id": 2552,
+"en": "Craaaawwwww!"
+},
+{
+"id": 2555,
+"en": "Use this on an enemy transformed by the \"Hunter's Grenade\" that has less than ::prct::% health left."
+},
+{
+"id": 2557,
+"en": "Reveals your surroundings. Only works once."
+}
+]

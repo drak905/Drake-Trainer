@@ -1,0 +1,390 @@
+[
+{
+"id": 3641,
+"en": "In theory, this head could exist. It has yet to be proven, though.",
+"ctx": "U35_HEAD_BLACKHOLEWHITE_AMBIANTDESC"
+},
+{
+"id": 3643,
+"en": "The Beheaded's flame has had a lot of different forms since its first appearance.",
+"ctx": "U35_HEAD_BLACKHOLEVIOLET_AMBIANTDESC"
+},
+{
+"id": 3645,
+"en": "Start collecting heads!",
+"ctx": "U35_HEAD_BLACKHOLERED_HINT"
+},
+{
+"id": 3646,
+"en": "Its red glow sets the tone: things are going to be bloody!",
+"ctx": "U35_HEAD_BLACKHOLERED_AMBIANTDESC"
+},
+{
+"id": 3648,
+"en": "Offered to accomplished item collectors only.",
+"ctx": "U35_HEAD_BLACKHOLEGREEN_HINT"
+},
+{
+"id": 3649,
+"en": "So inextinguishable it can keep burning on the water without dwindling.",
+"ctx": "U35_HEAD_BLACKHOLEGREEN_AMBIANTDESC"
+},
+{
+"id": 3651,
+"en": "Runes, upgrades, ... you'll need everything to be prepared for what's to come.",
+"ctx": "U35_HEAD_BLACKHOLEBLUE_HINT"
+},
+{
+"id": 3652,
+"en": "Maintained by the residual energy of all the cells you've offered to the Collector.",
+"ctx": "U35_HEAD_BLACKHOLEBLUE_AMBIANTDESC"
+},
+{
+"id": 3654,
+"en": "Help them bite the Hand that feeds them.",
+"ctx": "U35_HEAD_BITTER_HINT"
+},
+{
+"id": 3655,
+"en": "Awwwww look at this cute little ribbon!",
+"ctx": "U35_HEAD_BITTER_AMBIANTDESC"
+},
+{
+"id": 3657,
+"en": "You have a weird déjà-vu with this head. Where have you seen it before?",
+"ctx": "U35_HEAD_VORTEXDARNESS_AMBIANTDESC"
+},
+{
+"id": 3659,
+"en": "Perfectly clear one biome.",
+"ctx": "U35_HEAD_VORTEXBADSEED_HINT"
+},
+{
+"id": 3660,
+"en": "Oh no, don't be afraid. All this blood on my clothes isn't mine.",
+"ctx": "U35_HEAD_VORTEXBADSEED_AMBIANTDESC"
+},
+{
+"id": 3662,
+"en": "You heard of monster kill streak, but have you heard of island clear streak? ",
+"ctx": "U35_HEAD_VORTEXSEA_HINT"
+},
+{
+"id": 3663,
+"en": "Brought back from the aphotic depths.",
+"ctx": "U35_HEAD_VORTEXSEA_AMBIANTDESC"
+},
+{
+"id": 3665,
+"en": "Your head collection is deepening. ",
+"ctx": "U35_HEAD_VORTEXFOUNDRY_HINT"
+},
+{
+"id": 3666,
+"en": "Everything is better in purple, according to the Makers.",
+"ctx": "U35_HEAD_VORTEXFOUNDRY_AMBIANTDESC"
+},
+{
+"id": 3668,
+"en": "Gotta meet 'em all!",
+"ctx": "U35_HEAD_GUILLAIN_HINT"
+},
+{
+"id": 3669,
+"en": "Guillains, meet the Guillains!",
+"ctx": "U35_HEAD_GUILLAIN_AMBIANTDESC"
+},
+{
+"id": 3671,
+"en": "You're either the Fisherman's old pal or you like collecting head cosmetics. No other way around.",
+"ctx": "U35_HEAD_FISHERMAN_HINT"
+},
+{
+"id": 3672,
+"en": "The perfect hood to roam the island's coasts. There's even a half fish in one of its inner folds if you're hungry.",
+"ctx": "U35_HEAD_FISHERMAN_AMBIANTDESC"
+},
+{
+"id": 3674,
+"en": "We wish they'd never grow up, right? ",
+"ctx": "U35_HEAD_LEGHUGGER_HINT"
+},
+{
+"id": 3675,
+"en": "Well, that's a really close relationship with your pet!",
+"ctx": "U35_HEAD_LEGHUGGER_AMBIANTDESC"
+},
+{
+"id": 3677,
+"en": "Flawlessly crush every boss there is.",
+"ctx": "U35_HEAD_FLAWLESS_HINT"
+},
+{
+"id": 3678,
+"en": "Eternally shines of your glory in combat.",
+"ctx": "U35_HEAD_FLAWLESS_AMBIANTDESC"
+},
+{
+"id": 3680,
+"en": "The Collector seems certain that cells can have interesting... consequences when gathered in astronomical quantities.",
+"ctx": "U35_HEAD_CELL_HINT"
+},
+{
+"id": 3681,
+"en": "They say you are what you eat... why did you eat cells?!",
+"ctx": "U35_HEAD_CELL_AMBIANTDESC"
+},
+{
+"id": 3683,
+"en": "Who has the time to read this?!",
+"ctx": "U35_HEAD_EVILEMPIRE_HINT"
+},
+{
+"id": 3684,
+"en": "You're one of us now.",
+"ctx": "U35_HEAD_EVILEMPIRE_AMBIANTDESC"
+},
+{
+"id": 3686,
+"en": "Die from a short illness.",
+"ctx": "U35_HEAD_BLOBBYFLAME_HINT"
+},
+{
+"id": 3687,
+"en": "The poison seems to have altered the structure of your head. You'll get used to the smell, after a while.",
+"ctx": "U35_HEAD_BLOBBYFLAME_AMBIANTDESC"
+},
+{
+"id": 3689,
+"en": "See a real* glitch (*one that the Makers planned for). ",
+"ctx": "U35_GLITCHY_HEAD_HINT"
+},
+{
+"id": 3690,
+"en": "hcSu a riedw ahde, tihs neo...",
+"ctx": "U35_GLITCHY_HEAD_AMBIANTDESC"
+},
+{
+"id": 3692,
+"en": "You can't hurt these poor little things!",
+"ctx": "U35_HEAD_MUSHROOMBOI_HINT"
+},
+{
+"id": 3693,
+"en": "Damp and smelly but so iconic.",
+"ctx": "U35_HEAD_MUSHROOMBOI_AMBIANTDESC"
+},
+{
+"id": 3695,
+"en": "Fun fact: Dead Cells was a tower defense game, once. Reach the Throne and pay homage to this heritage.",
+"ctx": "U35_HEAD_HORDESZERO_HINT"
+},
+{
+"id": 3696,
+"en": "A relic from an ancient time, from a reality that could have been.",
+"ctx": "U35_HEAD_HORDESZERO_AMBIANTDESC"
+},
+{
+"id": 3698,
+"en": "Why not take a last good, warm bath?",
+"ctx": "U35_HEAD_BLOBBYFLAMEMAGMA_HINT"
+},
+{
+"id": 3699,
+"en": "Such a hot-head.",
+"ctx": "U35_HEAD_BLOBBYFLAMEMAGMA_AMBIANTDESC"
+},
+{
+"id": 3701,
+"en": "You don't want to know what lurks in the Darkness. ",
+"ctx": "U35_HEAD_BLOBBYFLAMEMALAISE_HINT"
+},
+{
+"id": 3702,
+"en": "Now that you know, you'd rather be it than its prey.",
+"ctx": "U35_HEAD_BLOBBYFLAMEMALAISE_AMBIANTDESC"
+},
+{
+"id": 3704,
+"en": "Biters, biters everywhere!",
+"ctx": "U35_HEAD_BLOBBYFLAMEGUM_HINT"
+},
+{
+"id": 3705,
+"en": "Is it cotton candy? Chewing gum? A living organism?",
+"ctx": "U35_HEAD_BLOBBYFLAMEGUM_AMBIANTDESC"
+},
+{
+"id": 3707,
+"en": "You're a true head collector!",
+"ctx": "U35_GLITCHY_HEAD_DEEPSPACE_HINT"
+},
+{
+"id": 3708,
+"en": ".noitnetni raelc yna tuohtiw ,gnignahc reve si mrof stI",
+"ctx": "U35_GLITCHY_HEAD_DEEPSPACE_AMBIANTDESC"
+},
+{
+"id": 3710,
+"en": "In the end, you're still cursed.",
+"ctx": "U35_GLITCHY_HEAD_RED_HINT"
+},
+{
+"id": 3711,
+"en": "It'S pRobABLY hAzARdoUS To Carry This on YouR ShoulDERS, BuT AfTer aLl you've bEEN THrOUGH, WHO REALlY CaREs?",
+"ctx": "U35_GLITCHY_HEAD_RED_AMBIANTDESC"
+},
+{
+"id": 3713,
+"en": "Triumph over a major threat on the razor's edge.",
+"ctx": "U35_HEAD_BLOWTORCH_BLACK_HINT"
+},
+{
+"id": 3714,
+"en": "Rather than emitting, it seems to be absorbing it.",
+"ctx": "U35_HEAD_BLOWTORCH_BLACK_AMBIANTDESC"
+},
+{
+"id": 3716,
+"en": "Hot hot hot!",
+"ctx": "U35_HEAD_BLOWTORCH_AMBIANTDESC"
+},
+{
+"id": 3718,
+"en": "Only accessible to filthy rich individuals.",
+"ctx": "U35_HEAD_BLOWTORCH_GOLD_HINT"
+},
+{
+"id": 3719,
+"en": "Burn through your money!",
+"ctx": "U35_HEAD_BLOWTORCH_GOLD_AMBIANTDESC"
+},
+{
+"id": 3721,
+"en": "Spit fire on a boss.",
+"ctx": "U35_HEAD_BLOWTORCH_RED_HINT"
+},
+{
+"id": 3722,
+"en": "Colder but not safer.",
+"ctx": "U35_HEAD_BLOWTORCH_RED_AMBIANTDESC"
+},
+{
+"id": 3724,
+"en": "Gotta catch 'em all!",
+"ctx": "U35_HEAD_BOSSCELL_HINT"
+},
+{
+"id": 3725,
+"en": "You saw red when you learned that there are only five of these.",
+"ctx": "U35_HEAD_BOSSCELL_AMBIANTDESC"
+},
+{
+"id": 3727,
+"en": "Each attack on a bleeding target heals ::prct::% of your max health."
+},
+{
+"id": 3729,
+"en": "Dive attacks and fall damage deal ::prct::% more damage to enemies."
+},
+{
+"id": 3731,
+"en": "Enemies take heavy damage when you break their freeze (::power:: base)."
+},
+{
+"id": 3733,
+"en": "Poison no longer affects you. In fact it slowly heals you when standing in a gas cloud or poison pool."
+},
+{
+"id": 3735,
+"en": "You are invincible if you still have HP that can be recovered. You deal bonus damage in proportion to the amount of HP you are missing."
+},
+{
+"id": 3737,
+"en": "While you have an active speed buff you take ::prct::% less damage and deal ::prct2::% more. Speed buffs last ::count:: times as long."
+},
+{
+"id": 3739,
+"en": "Reduce deployable traps cooldown to ::cooldown:: sec."
+},
+{
+"id": 3741,
+"en": "Flames deal +::prct::% damage, violet flames deal +::prct2::% damage."
+},
+{
+"id": 3743,
+"en": "Deal +::prct::% damage per active pet (+::prct2::% per biter)."
+},
+{
+"id": 3745,
+"en": "Killing an enemy with a grenade resets its cooldown."
+},
+{
+"id": 3747,
+"en": "Electric DoTs rapidly bounce back and forth to nearby enemies, increasing their damage by 50% every time they jump to a new target."
+},
+{
+"id": 3749,
+"en": "First attack while invisible instantly kills its non-boss target(s)."
+},
+{
+"id": 3751,
+"en": "Cursed chest spawn rate is doubled. Curses don't kill you anymore, but double the damage you take and deal."
+},
+{
+"id": 3880,
+"en": "Colorless (the highest level applies)."
+},
+{
+"id": 3883,
+"en": "Reduces your infection level by ::prct::%."
+},
+{
+"id": 3885,
+"en": "{Unique item@CC}"
+},
+{
+"id": 3886,
+"en": "Cannot be interrupted by an enemy's attack."
+},
+{
+"id": 3887,
+"en": "+::prct::% damage to a {burning@FI} target."
+},
+{
+"id": 3888,
+"en": "+::prct::% damage on {electrified@EL} targets."
+},
+{
+"id": 3889,
+"en": "+::prct::% damage"
+},
+{
+"id": 3890,
+"en": "{Critical hits@CC} +::prct::% damage."
+},
+{
+"id": 3891,
+"en": "Victims slow down all nearby enemies when they die."
+},
+{
+"id": 3892,
+"en": "+::prct::% damage to a {bleeding@BL} target."
+},
+{
+"id": 3893,
+"en": "+::prct::% damage to a {frozen@IC} target ."
+},
+{
+"id": 3894,
+"en": "+::prct::% damage to a {slowed-down@IC} target."
+},
+{
+"id": 3895,
+"en": "+::prct::% damage to a {poisoned@TO} target."
+},
+{
+"id": 3896,
+"en": "+::prct::% damage to a stunned target."
+}
+]

@@ -1,0 +1,23 @@
+# Temporary & build artifacts
+*.tmp
+*.bak
+*.log
+*.suo
+*.user
+
+# IDE / Editor folders
+.vs/
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store

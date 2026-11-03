@@ -1,0 +1,542 @@
+[
+{
+"id": 1852,
+"en": "“Where have you been? Who were you with?”"
+},
+{
+"id": 1854,
+"en": "“I’m not letting you out of my sight ever again.”"
+},
+{
+"id": 1855,
+"en": "“It’s just me and you from now on.”"
+},
+{
+"id": 1856,
+"en": "“It’s so much better when we’re together.”"
+},
+{
+"id": 1857,
+"en": "Is there something wrong?"
+},
+{
+"id": 1858,
+"en": "I feel like the island has changed a bit... Nah, I must be imagining things."
+},
+{
+"id": 1859,
+"en": "That last monster was kinda spicy..."
+},
+{
+"id": 1860,
+"en": "At least the landscape is nice."
+},
+{
+"id": 1861,
+"en": "I'm glad I don't have a sense of smell."
+},
+{
+"id": 1862,
+"en": "Come on, hit something!"
+},
+{
+"id": 1863,
+"en": "I'm boooored..."
+},
+{
+"id": 1864,
+"en": "Give me monsters!!!"
+},
+{
+"id": 1865,
+"en": "Where's the fight ?"
+},
+{
+"id": 1866,
+"en": "You never use me anyway! I'm off."
+},
+{
+"id": 1867,
+"en": "You're boring, ciao!"
+},
+{
+"id": 1868,
+"en": "Wake me up when there's some action."
+},
+{
+"id": 1870,
+"en": "“Why can’t we kill things together!?”"
+},
+{
+"id": 1871,
+"en": "“We don’t kill like we used to anymore...”"
+},
+{
+"id": 1872,
+"en": "Yes! Let's kill them!"
+},
+{
+"id": 1873,
+"en": "Come on! Kill them!"
+},
+{
+"id": 1874,
+"en": "“Nobody handles me like you do.”"
+},
+{
+"id": 1875,
+"en": "Let's go hunt some more!"
+},
+{
+"id": 1876,
+"en": "I'm preparing this one!"
+},
+{
+"id": 1877,
+"en": "Hey oh~ hey oh~ !"
+},
+{
+"id": 1878,
+"en": "Tayauuh!"
+},
+{
+"id": 1879,
+"en": "Your blood is mine!"
+},
+{
+"id": 1880,
+"en": "Yummy!"
+},
+{
+"id": 1881,
+"en": "Feels good, doesn't it?"
+},
+{
+"id": 1882,
+"en": "This one is ready, let's kill it!"
+},
+{
+"id": 1883,
+"en": "Consume the marks!"
+},
+{
+"id": 1884,
+"en": "Yes!"
+},
+{
+"id": 1885,
+"en": "Hit them!"
+},
+{
+"id": 1886,
+"en": "More!"
+},
+{
+"id": 1887,
+"en": "Ahaha!"
+},
+{
+"id": 1888,
+"en": "Focus on the marked ones!"
+},
+{
+"id": 1889,
+"en": "I didn't mark this one!"
+},
+{
+"id": 1890,
+"en": "Wrong target!"
+},
+{
+"id": 1891,
+"en": "Lemme mark them first!"
+},
+{
+"id": 1892,
+"en": "Let me at it!"
+},
+{
+"id": 1893,
+"en": "I wanna eat it!"
+},
+{
+"id": 1894,
+"en": "Release me now!"
+},
+{
+"id": 1895,
+"en": "Never try that again!",
+"ctx": "U30_SERENADE_NOPAT"
+},
+{
+"id": 1896,
+"en": "No touching!",
+"ctx": "U30_SERENADE_PAT_1"
+},
+{
+"id": 1897,
+"en": "If you go looking to get sliced, you'll get it...",
+"ctx": "U30_SERENADE_PAT_2"
+},
+{
+"id": 1898,
+"en": "Okay, we're on!",
+"ctx": "U30_SERENADE_PAT_3"
+},
+{
+"id": 1899,
+"en": "So long, dummy.",
+"ctx": "U30_SERENADE_PAT_4"
+},
+{
+"id": 1900,
+"en": "STAY ALIVE..!",
+"ctx": "U32_ROR_STAY_ALIVE"
+},
+{
+"id": 1901,
+"en": "Hey you!"
+},
+{
+"id": 1908,
+"en": "Health flask filled and HP restored"
+},
+{
+"id": 1913,
+"en": "::user:: didn't take up the mantle of Captain Chicken, probably they're AFK..."
+},
+{
+"id": 1914,
+"en": "Captain Chicken ::user:: failed to respond. A new Captain Chicken is being chosen!"
+},
+{
+"id": 1915,
+"en": "Heal me ::user::! (try ::n::)"
+},
+{
+"id": 1916,
+"en": "Captain Chicken ::user::, I need healing! Choose \"::cmdYes::\" or \"::cmdNo::\""
+},
+{
+"id": 1920,
+"en": "Would you like to be the Boss?"
+},
+{
+"id": 1921,
+"en": "::user:: was the first to put his hand up!"
+},
+{
+"id": 1922,
+"en": "::num:: people entered the draw!"
+},
+{
+"id": 1924,
+"en": "The boss is ::user::!"
+},
+{
+"id": 1925,
+"en": "::user:: is The Boss! They can launch a special attack every ::t:: seconds (commands: ::cmds::)!"
+},
+{
+"id": 1926,
+"en": "Would you like to be Captain Chicken for this level?"
+},
+{
+"id": 1927,
+"en": "Do you want to be Captain Chicken for the \"::level::\" level?"
+},
+{
+"id": 1928,
+"en": "::user:: has been named Captain Chicken for this level!"
+},
+{
+"id": 1929,
+"en": "::user:: has become Captain Chicken! They can type \"::cmdYes::\" to heal the hero, \"::cmdNo::\" to reject a healing request or \"::cmdResign::\" to chicken... out... of being Captain Chicken. Last but not least, they can write \"@::player::\" before their messages in chat to make Captain Chicken speak in-game!"
+},
+{
+"id": 1930,
+"en": "Modifier of the next level:"
+},
+{
+"id": 1931,
+"en": "WHICH MODIFIER WOULD YOU LIKE TO SEE IN THE NEXT LEVEL?"
+},
+{
+"id": 1932,
+"en": "@::user:: voted first!"
+},
+{
+"id": 1933,
+"en": "Improvement:"
+},
+{
+"id": 1934,
+"en": "CHOOSE AN IMPROVEMENT!"
+},
+{
+"id": 1935,
+"en": "::user:: voted first."
+},
+{
+"id": 1936,
+"en": "Viewers have chosen ::item:: (::b::% Brutality, ::t::% Tactics and ::s::% Survival)"
+},
+{
+"id": 1937,
+"en": "Permanent improvement of the hero:"
+},
+{
+"id": 1938,
+"en": "WHAT WILL BE THE NEXT PERMANENT BONUS GRANTED TO THE HERO?"
+},
+{
+"id": 1939,
+"en": "Your Amulet has been improved:"
+},
+{
+"id": 1940,
+"en": "Noooo!"
+},
+{
+"id": 1942,
+"en": "Chin up!"
+},
+{
+"id": 1943,
+"en": "Good luck!"
+},
+{
+"id": 1944,
+"en": "DO IT!"
+},
+{
+"id": 1946,
+"en": "Nice dive!"
+},
+{
+"id": 1947,
+"en": "Ha ha!"
+},
+{
+"id": 1948,
+"en": "Next level:"
+},
+{
+"id": 1949,
+"en": "The level is plunged into darkness"
+},
+{
+"id": 1952,
+"en": "Where would you like to go next?"
+},
+{
+"id": 1953,
+"en": "WHICH LEVEL AFTER THIS ONE?"
+},
+{
+"id": 1954,
+"en": "Open the chest:"
+},
+{
+"id": 1966,
+"en": "OPEN THE CHEST!"
+},
+{
+"id": 1967,
+"en": "First blow dealt by @::user::"
+},
+{
+"id": 1968,
+"en": "...secret?"
+},
+{
+"id": 1969,
+"en": "Secret!"
+},
+{
+"id": 1970,
+"en": "SECRET!"
+},
+{
+"id": 1977,
+"en": "Watch out for flies when you teleport..."
+},
+{
+"id": 1980,
+"en": "Return to the title screen?"
+},
+{
+"id": 1985,
+"en": "Biome depth: ::v::"
+},
+{
+"id": 1986,
+"en": "Mobs level: ::v::"
+},
+{
+"id": 1987,
+"en": "Recommended scrolls: ::v::"
+},
+{
+"id": 1988,
+"en": "Gear level: ::v::"
+},
+{
+"id": 2002,
+"en": "Do you wish to start a Boss Rush run with the current selection?",
+"ctx": "U34_CONFIRM_BR_CUSTOM"
+},
+{
+"id": 2012,
+"en": "Hey, you left your liver here."
+},
+{
+"id": 2013,
+"en": "Not looking so regal now, uh?"
+},
+{
+"id": 2015,
+"en": "You owe ::moneyLeftToPay:: {iconCoin@img}"
+},
+{
+"id": 2016,
+"en": "Not enough gold to pay your debt back",
+"ctx": "U28_MONEY_CHECKDOOR_REFUSAL"
+},
+{
+"id": 2017,
+"en": "Debt paid!",
+"ctx": "U28_MONEY_CHECKDOOR_FINALPAY"
+},
+{
+"id": 2020,
+"en": "Key required: ::name::"
+},
+{
+"id": 2021,
+"en": "Opened with: ::key::!"
+},
+{
+"id": 2022,
+"en": "\"Pay the tribute or turn back!\""
+},
+{
+"id": 2024,
+"en": "This door has to be opened from somewhere else."
+},
+{
+"id": 2025,
+"en": "I can't open it from here."
+},
+{
+"id": 2026,
+"en": "This door is locked..."
+},
+{
+"id": 2027,
+"en": "A mechanism is keeping the door locked."
+},
+{
+"id": 2028,
+"en": "This door was sealed ::time:: ago. Pity..."
+},
+{
+"id": 2029,
+"en": "Timed door unlocked!"
+},
+{
+"id": 2030,
+"en": "Timed Door open!"
+},
+{
+"id": 2031,
+"en": "This door will not unlock until you have spent ALL your cells."
+},
+{
+"id": 2032,
+"en": "This door won't open until you've chosen your Mutations."
+},
+{
+"id": 2033,
+"en": "Activate the altar to continue.",
+"ctx": "U31_BOSSRUSH_TIER_DOOR_HINT"
+},
+{
+"id": 2037,
+"en": "Yeah, this won't budge. Damned magic Castle...",
+"ctx": "DLCP_ELEVATOR_BLOCKED_ALUCARD"
+},
+{
+"id": 2038,
+"en": "So you came!"
+},
+{
+"id": 2039,
+"en": "We'll set sail as soon as you're ready."
+},
+{
+"id": 2040,
+"en": "Be advised that what's lurking in the Shipwreck is really... unsavory, even by my standards."
+},
+{
+"id": 2041,
+"en": "But I'm sure you didn't come that far to get cold feet, did you?"
+},
+{
+"id": 2042,
+"en": "Ready to go?"
+},
+{
+"id": 2043,
+"en": "Sail to ::destName::"
+},
+{
+"id": 2044,
+"en": "Back already?"
+},
+{
+"id": 2045,
+"en": "Once more, I have to stop my father. When will it truly end?",
+"ctx": "DLCP_MET_ALUCARD_NPC_TALK_1"
+},
+{
+"id": 2046,
+"en": "Take the elevator and get inside the Castle, quickly!",
+"ctx": "DLCP_MET_ALUCARD_NPC_TALK_2"
+},
+{
+"id": 2047,
+"en": "Go ahead, I need to prepare first. Where is my shield ? I am sure to have been buried with it...",
+"ctx": "DLCP_MET_ALUCARD_NPC_TALK_3"
+},
+{
+"id": 2048,
+"en": "Traitor in the eyes of the creatures of the night, monster in those of the humans... it's hard being a dhampir!",
+"ctx": "DLCP_MET_ALUCARD_NPC_TALK_4"
+},
+{
+"id": 2049,
+"en": "Ohhh I really need to stretch... centuries without moving sure stiffens the muscles!",
+"ctx": "DLCP_MET_ALUCARD_NPC_TALK_5"
+},
+{
+"id": 2050,
+"en": "I need time to devise a new plan.",
+"ctx": "DLCP_DEATH_ALUCARD_NPC_TALK_1"
+},
+{
+"id": 2051,
+"en": "Death is my father's right hand and a vicious foe. I wouldn't be surprised to see him come back eventually...",
+"ctx": "DLCP_DEATH_ALUCARD_NPC_TALK_2"
+},
+{
+"id": 2052,
+"en": "Strangely, he didn't remove all your powers and equipments...",
+"ctx": "DLCP_DEATH_ALUCARD_NPC_TALK_3"
+},
+{
+"id": 2053,
+"en": "You triumphed in this fight to the Death, congratulations.",
+"ctx": "DLCP_DEATH_ALUCARD_NPC_TALK_4"
+}
+]

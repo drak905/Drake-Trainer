@@ -1,0 +1,189 @@
+[
+{
+"id": 3212,
+"en": "+::*prct::% damage dealt for ::duration:: seconds and -::prct2::% damage taken for ::duration2:: seconds after being wounded."
+},
+{
+"id": 3214,
+"en": "Melee attacks slow down enemies for ::+duration:: sec."
+},
+{
+"id": 3216,
+"en": "Melee attacks inflict {bleeding@BL} (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 3218,
+"en": "Using a health flask adds +::*prct::% damage to your attacks for ::duration:: sec. If you have at least one empty flask charge, it will refill a charge after killing ::*count:: Elite enemies. Also cause 1 more Elite to spawn in each biome.",
+"ctx": "U34_P_CORRUPTEDHEALING_GAMEPLAYDESC"
+},
+{
+"id": 3220,
+"en": "Melee attacks restore a small amount of HP depending on attack damage for ::duration:: sec after dodging an attack at the last moment."
+},
+{
+"id": 3222,
+"en": "Melee attacks restore a small amount of HP depending on attack damage as long as you have an active speed buff."
+},
+{
+"id": 3224,
+"en": "Your next melee attack after using a skill inflicts +::+power:: damage."
+},
+{
+"id": 3225,
+"en": "-::cdrg::% cooldown time on grenades."
+},
+{
+"id": 3227,
+"en": "Your first melee attack on an enemy inflicts +::+power:: damage."
+},
+{
+"id": 3229,
+"en": "Melee kills make you invisible for ::+duration:: sec."
+},
+{
+"id": 3231,
+"en": "Rolling through enemies attacks them with the melee weapon in your {backpack@BA} dealing ::*prct::% of the weapon's base damage."
+},
+{
+"id": 3233,
+"en": "+::*prct::% damage if you're close to a deployed skill."
+},
+{
+"id": 3235,
+"en": "Causes a bomb (::+power:: damage) to appear when you kill an enemy with a ranged attack."
+},
+{
+"id": 3237,
+"en": "+::*prct::% damage if there are no enemies near you."
+},
+{
+"id": 3239,
+"en": "Melee attacks cause ::count:: projectiles stuck in the enemy to fall out, each one dealing ::+power:: damage."
+},
+{
+"id": 3241,
+"en": "Your next ranged attack after using a skill inflicts +::+power:: damage."
+},
+{
+"id": 3243,
+"en": "Inflicts ::+dps:: dps per arrow stuck to enemies."
+},
+{
+"id": 3245,
+"en": "Close-ranged ranged attacks inflict ::*prct::% bonus damage."
+},
+{
+"id": 3246,
+"en": "-::cdr::% cooldown time on skills (except grenades)."
+},
+{
+"id": 3248,
+"en": "Enemies hit with a ranged attack are marked for ::duration:: sec. Marked targets share ::+prct::% of the damage they receive.",
+"ctx": "U34_P_NETWORKING_GAMEPLAYDESC"
+},
+{
+"id": 3250,
+"en": "Rolling leaves ::ammo:: crow's feet behind you (with a maximum of ::count::), inflicting ::+power:: damage and slowing the enemies for ::duration:: sec."
+},
+{
+"id": 3252,
+"en": "Dodging an attack at the last moment slows down nearby enemies for ::+duration:: sec."
+},
+{
+"id": 3254,
+"en": "Ranged kills reduce skill cooldowns by ::actcdr:: sec."
+},
+{
+"id": 3256,
+"en": "Attacking, with a ranged weapon, after rolling with a ranged weapon in your {backpack@BA} fires a projectile of said weapon, dealing ::*prct::% of the usual damages."
+},
+{
+"id": 3258,
+"en": "Increase your health by +::+prct::%."
+},
+{
+"id": 3260,
+"en": "Killing an enemy with a melee attack reduces the damage you take by ::+prct::% for ::duration:: sec. Can stack up to ::prct2::%. Also makes you immune to stuns.",
+"ctx": "U34_P_BERSERK_GAMEPLAYDESC"
+},
+{
+"id": 3262,
+"en": "Successful {parries@PA} reduce skill cooldowns by ::actcdr:: sec."
+},
+{
+"id": 3264,
+"en": "The attack following a successful {parry@PA} inflicts +::+power:: damage."
+},
+{
+"id": 3266,
+"en": "Recover ::+prct::% HP after {parrying@PA} a melee attack."
+},
+{
+"id": 3268,
+"en": "Recover ::+prct::% of your max health after killing an enemy. This effect scales with the victim's max health and is reduced as as you get closer to full health.",
+"ctx": "U34_P_NECROMANCY_GAMEPLAYDESC"
+},
+{
+"id": 3270,
+"en": "Your health flask restores ::prct2::% HP and the effect is spread over ::duration:: sec. While healing you deal +::*prct::% more damage."
+},
+{
+"id": 3272,
+"en": "The effect of food increases by +::prct2::%. If you recycle food you deal +::*prct::% damage for ::duration:: seconds."
+},
+{
+"id": 3274,
+"en": "Successful parries and reflected shots inflict ::+power:: damage."
+},
+{
+"id": 3276,
+"en": "Attacking a {slowed@IC}, stunned, {frozen@IC} or {rooted@RO} enemy at close range reduces skill cooldowns by ::actcdr:: sec. Works with both melee and ranged weapons.",
+"ctx": "U34_P_HEARTOFICE_GAMEPLAYDESC"
+},
+{
+"id": 3278,
+"en": "Alternate weapons to increase your attack speed by ::*prct::%."
+},
+{
+"id": 3280,
+"en": "Rolling also parries attacks and projectiles with the shield in your {backpack@BA}, dealing ::*prct::% of its base damage."
+},
+{
+"id": 3282,
+"en": "Saves you ONE TIME if you die prematurely while not cursed. Cannot be picked up after first mutation selection. Cannot be dropped once picked up, even if used."
+},
+{
+"id": 3283,
+"en": "No effect. Cannot be removed."
+},
+{
+"id": 3285,
+"en": "Enemies suffer ::+dps:: DPS per stack of {slow@IC} applied on them. {Frozen@IC} targets count as having max stacks for this effect.",
+"ctx": "U34_P_FROSTBITE_GAMEPLAYDESC"
+},
+{
+"id": 3287,
+"en": "Time available to recover your health after being hit is now ::count:: times as long."
+},
+{
+"id": 3289,
+"en": "Health flasks only restore ::prct2::% HP but their use speed is increased by ::prct::% and they completely protect you from damage for ::duration:: sec."
+},
+{
+"id": 3291,
+"en": "Speed buff after multiple kills is now ::count:: times as long."
+},
+{
+"id": 3293,
+"en": "Increases your maximum health by ::prct::%, but deactivates all sources of healing except for {recovery@RA}.",
+"ctx": "U34_DEADINSIDE_GAMEPLAYDESC"
+},
+{
+"id": 3295,
+"en": "Upon clearing a curse of at least ::min:: stacks, you are healed based on the amount of curse stacks you had. Also increases the number of kills required to lift the curse by ::prct2::%."
+},
+{
+"id": 3297,
+"en": "Amount of kills required to remove a curse is reduced by ::prct::%, but consuming food curses you."
+}
+]

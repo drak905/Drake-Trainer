@@ -1,0 +1,383 @@
+[
+{
+"id": 4228,
+"en": "Imposing. Sinister. Sprawling. Red. All these adjectives fit this place."
+},
+{
+"id": 4230,
+"en": "That's a LOT of dead people.",
+"ctx": "DEATH_ARENA_LOREDESC0"
+},
+{
+"id": 4231,
+"en": "Yes, the situation is positively dire but at least the sky is gorgeous!",
+"ctx": "DEATH_ARENA_LOREDESC1"
+},
+{
+"id": 4232,
+"en": "Thousands of humans pulled from their eternal slumber to fuel an unholy ritual. Death must be stopped!",
+"ctx": "DEATH_ARENA_LOREDESC2"
+},
+{
+"id": 4233,
+"en": "This site has been at the center of funeral rites for centuries. Now, it serves as a catalyst for the return of pure evil.",
+"ctx": "DEATH_ARENA_LOREDESC3"
+},
+{
+"id": 4235,
+"en": "The tension is so high, you can almost touch it. Nobody's welcome here.",
+"ctx": "DLCP_DOOKU_LOREDESC_1"
+},
+{
+"id": 4236,
+"en": "One needs an iron will when facing the Castle Master's imperious presence.",
+"ctx": "DLCP_DOOKU_LOREDESC_2"
+},
+{
+"id": 4237,
+"en": "Wooden stake: check. Garlic : at the ready. Silver: the banker said no.",
+"ctx": "DLCP_DOOKU_LOREDESC_3"
+},
+{
+"id": 4238,
+"en": "Ignoring for a moment the horrors fought on the way there and the problematic personality of its owner, this part of the Castle is magnificient!",
+"ctx": "DLCP_DOOKU_LOREDESC_4"
+},
+{
+"id": 4239,
+"en": "This room of the Castle has had its fair share of epic fights between Good and Evil.",
+"ctx": "DLCP_DOOKU_LOREDESC_5"
+},
+{
+"id": 4240,
+"en": "Passage to the Promenade of the Condemned"
+},
+{
+"id": 4247,
+"en": "Passage to the Morass of the Banished"
+},
+{
+"id": 4252,
+"en": "Passage to the Stilt Village and the Slumbering Sanctuary"
+},
+{
+"id": 4253,
+"en": "Passage to the Stilt Village and the Graveyard"
+},
+{
+"id": 4261,
+"en": "Passage to the High Peak Castle and the Derelict Distillery"
+},
+{
+"id": 4275,
+"en": "Passage to the Stilt Village, the Slumbering Sanctuary and the Graveyard",
+"ctx": "U35_AFTERDEATH_TRANSITION_NAME"
+},
+{
+"id": 4295,
+"en": "This part of the Castle don't look familiar at all. How did Richter get there?",
+"ctx": "DLCP_RICHTERCASTLE_LOREDESC_1"
+},
+{
+"id": 4296,
+"en": "Life in Richter's shoes is basically the same. You just have to be sure before you jump.",
+"ctx": "DLCP_RICHTERCASTLE_LOREDESC_2"
+},
+{
+"id": 4297,
+"en": "In a world of darkness, the people are defended by one vampire-hunting clan member: Richter Belmont who fights Dracula's plan to control the world. This is his story. DUN DUN!",
+"ctx": "DLCP_RICHTERCASTLE_LOREDESC_3"
+},
+{
+"id": 4310,
+"en": "\"Tom's Place\""
+},
+{
+"id": 4311,
+"en": "\"Prisoner and Doctor of Mushroomology\""
+},
+{
+"id": 4312,
+"en": "Abandoned ages ago."
+},
+{
+"id": 4313,
+"en": "Oh."
+},
+{
+"id": 4314,
+"en": "Actually, a family of rats seems to call the place home these days."
+},
+{
+"id": 4315,
+"en": "The devious little fellow made a passage for himself through the wall..."
+},
+{
+"id": 4316,
+"en": "Seems to be where the Mushroomologist stashed the profits from his little business."
+},
+{
+"id": 4317,
+"en": "A variety of differently shaped mushrooms are proliferating in these jars."
+},
+{
+"id": 4318,
+"en": "By the looks of them, they should have some interesting psychotropic properties."
+},
+{
+"id": 4319,
+"en": "Good ol' Doctor Tom here must have been supplying the whole prison."
+},
+{
+"id": 4320,
+"en": "All kinds of mushrooms have been carefully ground down into fine multicolored powders."
+},
+{
+"id": 4321,
+"en": "Pretty sure they weren’t using these to flavor the soup."
+},
+{
+"id": 4322,
+"en": "I don't understand a thing..."
+},
+{
+"id": 4323,
+"en": "But the King is quite dead..."
+},
+{
+"id": 4324,
+"en": "Why didn't anything change!?"
+},
+{
+"id": 4325,
+"en": "WHAT DOES IT MEAN!?"
+},
+{
+"id": 4326,
+"en": "...What does it mean?"
+},
+{
+"id": 4332,
+"en": "Guess he wanted to choose the time of his death."
+},
+{
+"id": 4333,
+"en": "He's holding a faded flower between his fingers."
+},
+{
+"id": 4334,
+"en": "A moment of silence..."
+},
+{
+"id": 4335,
+"en": "Nah! I've got better things to do!"
+},
+{
+"id": 4336,
+"en": "A whole bunch of plants that seem to have been a bit underwatered recently."
+},
+{
+"id": 4337,
+"en": "Looks like this guy loved flowers."
+},
+{
+"id": 4338,
+"en": "There's a label on the pot:"
+},
+{
+"id": 4339,
+"en": "\"Do not water after midnight!\""
+},
+{
+"id": 4340,
+"en": "That thing planted there looks less like a flower than an experiment gone horribly wrong."
+},
+{
+"id": 4341,
+"en": "There are seeds on the window ledge."
+},
+{
+"id": 4342,
+"en": "That must be where he got his supply from."
+},
+{
+"id": 4343,
+"en": "All the fabric from the bed seems to have been torn up and used elsewhere."
+},
+{
+"id": 4347,
+"en": "This campfire was abandoned by an earlier visitor..."
+},
+{
+"id": 4348,
+"en": "I'm sure it couldn't hurt to take a little rest."
+},
+{
+"id": 4349,
+"en": "Hmm. Something's changed."
+},
+{
+"id": 4350,
+"en": "Words written on the wall:"
+},
+{
+"id": 4351,
+"en": "\"GIT GUD\""
+},
+{
+"id": 4352,
+"en": "Must be some sort of incantation."
+},
+{
+"id": 4353,
+"en": "A guy in armor, been dead for a while."
+},
+{
+"id": 4357,
+"en": "Oh. It's... \"you\"."
+},
+{
+"id": 4358,
+"en": "Looks like I'm on the right side of the door for once!"
+},
+{
+"id": 4359,
+"en": "HA HA HA!"
+},
+{
+"id": 4360,
+"en": "Damn, they didn't mess around..."
+},
+{
+"id": 4361,
+"en": "No answer."
+},
+{
+"id": 4362,
+"en": "Been abandoned here for some time."
+},
+{
+"id": 4363,
+"en": "Someone's groaning on the other side."
+},
+{
+"id": 4365,
+"en": "Get out of here, you freak!"
+},
+{
+"id": 4366,
+"en": "Leave me alone!"
+},
+{
+"id": 4367,
+"en": "There's water running through my cell!"
+},
+{
+"id": 4368,
+"en": "I think something in the water touched my leg!"
+},
+{
+"id": 4369,
+"en": "HELP!!"
+},
+{
+"id": 4372,
+"en": "Whole lot of prisoners piled up here."
+},
+{
+"id": 4373,
+"en": "Some of them have been here for a very long time."
+},
+{
+"id": 4374,
+"en": "One of them is holding on to something..."
+},
+{
+"id": 4375,
+"en": "It's the King’s coat of arms."
+},
+{
+"id": 4376,
+"en": "That's one way of dealing with the prison overpopulation problem."
+},
+{
+"id": 4379,
+"en": "This prisoner's stay was cut short."
+},
+{
+"id": 4380,
+"en": "Can’t say whether it's a man or a woman."
+},
+{
+"id": 4381,
+"en": "The crows already worked this one over pretty good."
+},
+{
+"id": 4382,
+"en": "\"By order of the King, all persons presenting behavioral disorders or noticeable deteriorations in their appearance...\""
+},
+{
+"id": 4383,
+"en": "\"... shall be imprisoned, and hanged by the neck until dead.\""
+},
+{
+"id": 4384,
+"en": "\"... (if the prison doctor confirms the diagnosis of Infection).\""
+},
+{
+"id": 4385,
+"en": "Glad they added that. For a second there, I really thought we were talking about genocide."
+},
+{
+"id": 4386,
+"en": "A young woman."
+},
+{
+"id": 4387,
+"en": "\"Prisoner 6541\""
+},
+{
+"id": 4388,
+"en": "She's clutching something in her fist."
+},
+{
+"id": 4391,
+"en": "A man, about forty years old."
+},
+{
+"id": 4392,
+"en": "Can't really be sure."
+},
+{
+"id": 4393,
+"en": "\"Suspected infection\""
+},
+{
+"id": 4394,
+"en": "This one was either a dwarf, or she was no more than 10 or 12 years old."
+},
+{
+"id": 4395,
+"en": "Let's just say she was a dwarf."
+},
+{
+"id": 4396,
+"en": "It was supposed to burn, but a few things seem to have survived."
+},
+{
+"id": 4397,
+"en": "Oh, interesting."
+},
+{
+"id": 4400,
+"en": "A woman who opted for the fast method."
+},
+{
+"id": 4401,
+"en": "Strange, she doesn't seem to be infected."
+},
+{
+"id": 4402,
+"en": "Must be her last words."
+}
+]

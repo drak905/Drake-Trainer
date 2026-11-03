@@ -1,0 +1,824 @@
+[
+{
+"id": 2,
+"en": "Wireless controller disconnected",
+"ctx": "PS4 terminology"
+},
+{
+"id": 4,
+"en": "Controller disconnected"
+},
+{
+"id": 5,
+"en": "Continue"
+},
+{
+"id": 7,
+"en": "Quit game"
+},
+{
+"id": 8,
+"en": "Whip Sword",
+"ctx": "DLCP_SNAKE_SWORD_UNLOCK_NAME"
+},
+{
+"id": 9,
+"en": "Scythe Claw"
+},
+{
+"id": 12,
+"en": "Classic font",
+"ctx": "U29_FONT_CLASSIC"
+},
+{
+"id": 13,
+"en": "Pixelated font",
+"ctx": "U29_FONT_LEGACY"
+},
+{
+"id": 14,
+"en": "Dyslexia-friendly font",
+"ctx": "U29_FONT_ADYS"
+},
+{
+"id": 15,
+"en": "Brutality"
+},
+{
+"id": 16,
+"en": "Tactics"
+},
+{
+"id": 17,
+"en": "Survival"
+},
+{
+"id": 18,
+"en": "Shields"
+},
+{
+"id": 19,
+"en": "Deployable traps"
+},
+{
+"id": 20,
+"en": "Grenades"
+},
+{
+"id": 21,
+"en": "Ranged weapons"
+},
+{
+"id": 22,
+"en": "Allies"
+},
+{
+"id": 23,
+"en": "Powers"
+},
+{
+"id": 24,
+"en": "Melee weapons"
+},
+{
+"id": 25,
+"en": "Pendants"
+},
+{
+"id": 26,
+"en": "Other"
+},
+{
+"id": 27,
+"en": "General upgrades"
+},
+{
+"id": 28,
+"en": "Consumables"
+},
+{
+"id": 29,
+"en": "Precious items"
+},
+{
+"id": 30,
+"en": "Mutations"
+},
+{
+"id": 31,
+"en": "Outfits"
+},
+{
+"id": 32,
+"en": "Heads"
+},
+{
+"id": 33,
+"en": "Aspects"
+},
+{
+"id": 34,
+"en": "Statue parts",
+"ctx": "U31_STATUE_UNLOCK_GROUP_NAME"
+},
+{
+"id": 35,
+"en": "Shield"
+},
+{
+"id": 36,
+"en": "Deployable trap"
+},
+{
+"id": 37,
+"en": "Grenade"
+},
+{
+"id": 38,
+"en": "Ranged weapon"
+},
+{
+"id": 39,
+"en": "Ally"
+},
+{
+"id": 40,
+"en": "Power"
+},
+{
+"id": 41,
+"en": "Melee weapon"
+},
+{
+"id": 42,
+"en": "Pendant"
+},
+{
+"id": 43,
+"en": "General upgrade"
+},
+{
+"id": 44,
+"en": "Consumable"
+},
+{
+"id": 45,
+"en": "Precious item"
+},
+{
+"id": 46,
+"en": "Mutation"
+},
+{
+"id": 47,
+"en": "Outfit"
+},
+{
+"id": 48,
+"en": "Head"
+},
+{
+"id": 49,
+"en": "Aspect"
+},
+{
+"id": 65,
+"en": "Smells like burned flesh"
+},
+{
+"id": 75,
+"en": "High drama"
+},
+{
+"id": 82,
+"en": "La Brute"
+},
+{
+"id": 83,
+"en": "The Fat and The Furious"
+},
+{
+"id": 87,
+"en": "Blade Master"
+},
+{
+"id": 88,
+"en": "The Dance"
+},
+{
+"id": 91,
+"en": "Not so tough"
+},
+{
+"id": 94,
+"en": "Never fallen"
+},
+{
+"id": 98,
+"en": "Shrewd sleuth"
+},
+{
+"id": 99,
+"en": "Surgical extraction"
+},
+{
+"id": 100,
+"en": "Masterful extraction"
+},
+{
+"id": 101,
+"en": "Artful extraction"
+},
+{
+"id": 102,
+"en": "Deft extraction"
+},
+{
+"id": 105,
+"en": "Harder Better Faster Stronger"
+},
+{
+"id": 113,
+"en": "Absolution"
+},
+{
+"id": 115,
+"en": "Perfect extraction"
+},
+{
+"id": 116,
+"en": "Size doesn't matter"
+},
+{
+"id": 118,
+"en": "You dig"
+},
+{
+"id": 119,
+"en": "Hot and cold"
+},
+{
+"id": 120,
+"en": "Life on the edge"
+},
+{
+"id": 121,
+"en": "Stargazing"
+},
+{
+"id": 127,
+"en": "Bound for Hell"
+},
+{
+"id": 128,
+"en": "Pact with the devil"
+},
+{
+"id": 129,
+"en": "Gentleman"
+},
+{
+"id": 135,
+"en": "Born sapper"
+},
+{
+"id": 136,
+"en": "Return to sender"
+},
+{
+"id": 137,
+"en": "Blades N' Roses"
+},
+{
+"id": 139,
+"en": "Sky Fall"
+},
+{
+"id": 142,
+"en": "Green thumbs"
+},
+{
+"id": 143,
+"en": "First aid"
+},
+{
+"id": 145,
+"en": "Pool Party"
+},
+{
+"id": 146,
+"en": "A cut above"
+},
+{
+"id": 147,
+"en": "Trapped Trapper"
+},
+{
+"id": 150,
+"en": "8th wonder"
+},
+{
+"id": 151,
+"en": "A sparkle in the night"
+},
+{
+"id": 152,
+"en": "Her Majesty"
+},
+{
+"id": 153,
+"en": "Lilibet"
+},
+{
+"id": 154,
+"en": "Long live the Queen"
+},
+{
+"id": 155,
+"en": "Full house"
+},
+{
+"id": 156,
+"en": "On Her Majesty's Secret Service"
+},
+{
+"id": 158,
+"en": "Black flag"
+},
+{
+"id": 160,
+"en": "Plank walk"
+},
+{
+"id": 162,
+"en": "Infiltration"
+},
+{
+"id": 163,
+"en": "Herder"
+},
+{
+"id": 164,
+"en": "You're not my family"
+},
+{
+"id": 165,
+"en": "Firefighter"
+},
+{
+"id": 166,
+"en": "Unwavering loyalty"
+},
+{
+"id": 169,
+"en": "Bag of Tricks",
+"ctx": "U28_ACHIEV_TITLE_FIGHT_BEAT_MIMIC"
+},
+{
+"id": 171,
+"en": "Into the vampire's den",
+"ctx": "DLCP_ACHIEV_TITLE_BIOME_REACHED_PCASTLE"
+},
+{
+"id": 172,
+"en": "Don't fear the Reaper",
+"ctx": "DLCP_ACHIEV_TITLE_BIOME_REACHED_DEATH"
+},
+{
+"id": 175,
+"en": "Honorary Belmont",
+"ctx": "DLCP_ACHIEV_TITLE_FIGHT_BEAT_DOOKU_NO_DAMAGE"
+},
+{
+"id": 178,
+"en": "See you in 100 years",
+"ctx": "DLCP_ACHIEV_TITLE_FIGHT_BEAT_DOOKU_BEAST"
+},
+{
+"id": 179,
+"en": "I still have 8 lives",
+"ctx": "DLCP_ACHIEV_TITLE_FEAT_CAT_KILL_DEATH"
+},
+{
+"id": 182,
+"en": "Knowledge is power",
+"ctx": "DLCP_ACHIEV_TITLE_FEAT_BIBLE_MULTI_HIT"
+},
+{
+"id": 279,
+"en": "Get the Leghugger to evolve"
+},
+{
+"id": 306,
+"en": "Speed Run"
+},
+{
+"id": 307,
+"en": "I love Brutality"
+},
+{
+"id": 308,
+"en": "Tactics for the win"
+},
+{
+"id": 309,
+"en": "Survival is my jam"
+},
+{
+"id": 310,
+"en": "Closer to the danger"
+},
+{
+"id": 311,
+"en": "Careful hunter"
+},
+{
+"id": 312,
+"en": "One hit, one kill (yours)"
+},
+{
+"id": 313,
+"en": "The plague"
+},
+{
+"id": 328,
+"en": "Warning"
+},
+{
+"id": 330,
+"en": "Failed"
+},
+{
+"id": 333,
+"en": "Backspace",
+"ctx": "Backspace key"
+},
+{
+"id": 334,
+"en": "Tab"
+},
+{
+"id": 335,
+"en": "Enter"
+},
+{
+"id": 336,
+"en": "Esc"
+},
+{
+"id": 337,
+"en": "Space"
+},
+{
+"id": 338,
+"en": "PgUp"
+},
+{
+"id": 339,
+"en": "PgDn"
+},
+{
+"id": 340,
+"en": "End"
+},
+{
+"id": 341,
+"en": "Home"
+},
+{
+"id": 342,
+"en": "Left"
+},
+{
+"id": 343,
+"en": "Up"
+},
+{
+"id": 344,
+"en": "Right"
+},
+{
+"id": 345,
+"en": "Down"
+},
+{
+"id": 346,
+"en": "Insert"
+},
+{
+"id": 347,
+"en": "Delete"
+},
+{
+"id": 348,
+"en": "Num 0"
+},
+{
+"id": 349,
+"en": "Num 1"
+},
+{
+"id": 350,
+"en": "Num 2"
+},
+{
+"id": 351,
+"en": "Num 3"
+},
+{
+"id": 352,
+"en": "Num 4"
+},
+{
+"id": 353,
+"en": "Num 5"
+},
+{
+"id": 354,
+"en": "Num 6"
+},
+{
+"id": 355,
+"en": "Num 7"
+},
+{
+"id": 356,
+"en": "Num 8"
+},
+{
+"id": 357,
+"en": "Num 9"
+},
+{
+"id": 358,
+"en": "Num *"
+},
+{
+"id": 359,
+"en": "Num +"
+},
+{
+"id": 360,
+"en": "Num Enter"
+},
+{
+"id": 361,
+"en": "Num -"
+},
+{
+"id": 363,
+"en": "Num /"
+},
+{
+"id": 364,
+"en": "Shift"
+},
+{
+"id": 365,
+"en": "Ctrl"
+},
+{
+"id": 366,
+"en": "Alt"
+},
+{
+"id": 367,
+"en": "L Shift"
+},
+{
+"id": 368,
+"en": "R Shift"
+},
+{
+"id": 369,
+"en": "L Ctrl"
+},
+{
+"id": 370,
+"en": "R Ctrl"
+},
+{
+"id": 371,
+"en": "L Alt"
+},
+{
+"id": 372,
+"en": "R Alt"
+},
+{
+"id": 373,
+"en": "L click"
+},
+{
+"id": 374,
+"en": "R click"
+},
+{
+"id": 375,
+"en": "Middle click"
+},
+{
+"id": 376,
+"en": "Forward click"
+},
+{
+"id": 377,
+"en": "Back click"
+},
+{
+"id": 397,
+"en": "“Condemned to protect our dead.”"
+},
+{
+"id": 438,
+"en": "*Armor plates creaking",
+"ctx": "DLCP_DOOKU_HM_INTRO_1"
+},
+{
+"id": 440,
+"en": "*Joints squeaking",
+"ctx": "DLCP_DOOKU_HM_INTRO_3"
+},
+{
+"id": 442,
+"en": "*Detached visor squealing",
+"ctx": "DLCP_DOOKU_HM_INTRO_5"
+},
+{
+"id": 492,
+"en": "Death by infection"
+},
+{
+"id": 493,
+"en": "Death by curse"
+},
+{
+"id": 494,
+"en": "Body desecrated! (damage x4)"
+},
+{
+"id": 495,
+"en": "Body desecrated! (damage x2)"
+},
+{
+"id": 545,
+"en": "Final stage",
+"ctx": "DLCP_FINAL_STAGE"
+},
+{
+"id": 546,
+"en": "Challenge rift found"
+},
+{
+"id": 567,
+"en": "Malaise infection reduced"
+},
+{
+"id": 574,
+"en": "No effect"
+},
+{
+"id": 576,
+"en": "Food infected by the Malaise"
+},
+{
+"id": 579,
+"en": "Corruption interrupted"
+},
+{
+"id": 591,
+"en": "Explorer's Instinct"
+},
+{
+"id": 593,
+"en": "Malaise cleared"
+},
+{
+"id": 598,
+"en": "Resist"
+},
+{
+"id": 599,
+"en": "Slowed"
+},
+{
+"id": 601,
+"en": "Pet",
+"ctx": "U30_PAT_ACTION"
+},
+{
+"id": 602,
+"en": "Decapitated body"
+},
+{
+"id": 605,
+"en": "No target"
+},
+{
+"id": 608,
+"en": "New blueprint found"
+},
+{
+"id": 609,
+"en": "No new blueprints"
+},
+{
+"id": 610,
+"en": "Interruption"
+},
+{
+"id": 624,
+"en": "Accept"
+},
+{
+"id": 633,
+"en": "Daily Challenge"
+},
+{
+"id": 634,
+"en": "Modifier selected by the viewers"
+},
+{
+"id": 635,
+"en": "Incentivized biomes",
+"ctx": "Incentive popup on enter level"
+},
+{
+"id": 639,
+"en": "Boss dead ahead"
+},
+{
+"id": 647,
+"en": "The Servants",
+"ctx": "U28_SERVANTS"
+},
+{
+"id": 651,
+"en": "Save Slots"
+},
+{
+"id": 652,
+"en": "Ignore"
+},
+{
+"id": 653,
+"en": "Cannot access saved game"
+},
+{
+"id": 658,
+"en": "Back"
+},
+{
+"id": 659,
+"en": "Refresh"
+},
+{
+"id": 660,
+"en": "My score"
+},
+{
+"id": 661,
+"en": "Translated by a player"
+},
+{
+"id": 663,
+"en": "Play"
+},
+{
+"id": 664,
+"en": "Options"
+},
+{
+"id": 667,
+"en": "Patch notes"
+},
+{
+"id": 668,
+"en": "Change user"
+},
+{
+"id": 669,
+"en": "Change profile"
+},
+{
+"id": 670,
+"en": "Downloadable Content",
+"ctx": "Switch terminology for DLC (Downloadable Content)"
+},
+{
+"id": 671,
+"en": "Add-Ons"
+},
+{
+"id": 674,
+"en": "Continue (Custom Mode - Streaming)"
+},
+{
+"id": 675,
+"en": "Continue (Normal Mode - Streaming)"
+},
+{
+"id": 677,
+"en": "Continue (Custom Mode)"
+}
+]

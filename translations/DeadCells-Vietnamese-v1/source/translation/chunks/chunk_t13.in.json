@@ -1,0 +1,386 @@
+[
+{
+"id": 2054,
+"en": "It will only get worse from now on. Prepare yourself for a long-fought battle.",
+"ctx": "DLCP_PRISON_ALUCARD_NPC_TALK_1"
+},
+{
+"id": 2055,
+"en": "You'll need to go through the Castle again, but this time, we'll go straight there.",
+"ctx": "DLCP_PRISON_ALUCARD_NPC_TALK_2"
+},
+{
+"id": 2056,
+"en": "Have you seen my sword? I can't find it anywhere...",
+"ctx": "DLCP_PRISON_ALUCARD_NPC_TALK_3"
+},
+{
+"id": 2057,
+"en": "One can't really kill Death itself. There won't be any respite for the mortals...",
+"ctx": "DLCP_PRISON_ALUCARD_NPC_TALK_4"
+},
+{
+"id": 2058,
+"en": "Don't be discouraged by your previous failure. You can do it!",
+"ctx": "DLCP_PRISON_AFTER_CLOCK_ALUCARD_NPC_TALK_1"
+},
+{
+"id": 2059,
+"en": "Meet me in the Clock Room once more. You'll succeed this time!",
+"ctx": "DLCP_PRISON_AFTER_CLOCK_ALUCARD_NPC_TALK_2"
+},
+{
+"id": 2060,
+"en": "The Castle may be full of danger, but you can't falter now.",
+"ctx": "DLCP_PRISON_AFTER_CLOCK_ALUCARD_NPC_TALK_3"
+},
+{
+"id": 2061,
+"en": "I'm not against some backtracking in a castle, I'm used to it.",
+"ctx": "DLCP_PRISON_AFTER_CLOCK_ALUCARD_NPC_TALK_4"
+},
+{
+"id": 2062,
+"en": "We're almost there. To think that I'll see my father again just to stop him once more...",
+"ctx": "DLCP_CLOCK_ALUCARD_NPC_TALK_1"
+},
+{
+"id": 2063,
+"en": "Your Clock is really impressive! Something is off, though...",
+"ctx": "DLCP_CLOCK_ALUCARD_NPC_TALK_2"
+},
+{
+"id": 2064,
+"en": "Still, what a wonderful coincidence that your island too has a Clock Tower. As luck would have it indeed!",
+"ctx": "DLCP_CLOCK_ALUCARD_NPC_TALK_3"
+},
+{
+"id": 2065,
+"en": "Do you also need two rings to reach the secrets of your Clock Room? No? Lucky you...",
+"ctx": "DLCP_CLOCK_ALUCARD_NPC_TALK_4"
+},
+{
+"id": 2066,
+"en": "I understand your fear, but you have to go stop my father!",
+"ctx": "DLCP_DOOKU_ALUCARD_NPC_TALK_1"
+},
+{
+"id": 2067,
+"en": "I am sorry to leave this responsibility to you like this.",
+"ctx": "DLCP_DOOKU_ALUCARD_NPC_TALK_2"
+},
+{
+"id": 2068,
+"en": "May your victory also solve my father issues.",
+"ctx": "DLCP_DOOKU_ALUCARD_NPC_TALK_3"
+},
+{
+"id": 2069,
+"en": "This Castle is sturdy, don't hestitate to give it your all during the fight, it's safe.",
+"ctx": "DLCP_DOOKU_ALUCARD_NPC_TALK_4"
+},
+{
+"id": 2070,
+"en": "You can only enter the Return to Castlevania DLC once per run.",
+"ctx": "DLCP_ALUCARD_POPUP"
+},
+{
+"id": 2071,
+"en": "If you enter the prison, I can't help you anymore!",
+"ctx": "U35_ASPECTMASTER_NOTAVAILABLE"
+},
+{
+"id": 2072,
+"en": "Hello! I just arrived here!"
+},
+{
+"id": 2073,
+"en": "I'm the new doctor."
+},
+{
+"id": 2074,
+"en": "I noticed that you've been having a hard time surviving on the island and I'm looking for a new guine... ahem... collaborator, to help me with some experiments! I call them Aspects."
+},
+{
+"id": 2075,
+"en": "They are incredible enhancements, designed to make their host much stronger."
+},
+{
+"id": 2076,
+"en": "Would you like to try one? Come on, it's free!"
+},
+{
+"id": 2077,
+"en": "I mean, I owe you that much, considering that I developed them using your corp... errrm, I mean, some old stuff that I found laying around."
+},
+{
+"id": 2078,
+"en": "Oh and come back often! I tend to develop new Aspects with each new... delivery of material!"
+},
+{
+"id": 2079,
+"en": "Howdy, science friend! How are we going to enhance you today?"
+},
+{
+"id": 2080,
+"en": "Over here! Come give your body to science!"
+},
+{
+"id": 2081,
+"en": "My other collaborators? Let's just say that they... HAD to quit."
+},
+{
+"id": 2082,
+"en": "Go ahead and clean the vaults, will you?",
+"ctx": "U28_BANKER_DIALOG_1"
+},
+{
+"id": 2083,
+"en": "Don't forget to pay back what you owe, okay?",
+"ctx": "U28_BANKER_DIALOG_2"
+},
+{
+"id": 2084,
+"en": "I hope that these intruders will go away someday... This heist is bad for business.",
+"ctx": "U28_BANKER_DIALOG_3"
+},
+{
+"id": 2085,
+"en": "Still there? Don't you have something to do, like saving our glorious Bank?",
+"ctx": "U28_BANKER_DIALOG_4"
+},
+{
+"id": 2086,
+"en": "That door won't open if you don't have the key I just gave you.",
+"ctx": "U28_BANKER_DIALOG_NEED_KEY_1"
+},
+{
+"id": 2087,
+"en": "Don't ask me how it works. I just know that it's a way to make sure you'll have it when it's needed.",
+"ctx": "U28_BANKER_DIALOG_NEED_KEY_2"
+},
+{
+"id": 2088,
+"en": "No key, no vault. Take. The. Key. It's not that hard.",
+"ctx": "U28_BANKER_DIALOG_NEED_KEY_3"
+},
+{
+"id": 2089,
+"en": "Come on, it's getting embarrassing now.",
+"ctx": "U28_BANKER_DIALOG_NEED_KEY_4"
+},
+{
+"id": 2090,
+"en": "Hey there, customer! How loyal of you to come back!",
+"ctx": "U28_BANKER_GREET_1"
+},
+{
+"id": 2091,
+"en": "Hello, dear customer! We still seem to be suffering from a heist situation!",
+"ctx": "U28_BANKER_GREET_2"
+},
+{
+"id": 2092,
+"en": "Oh, it's you again! You know the way.",
+"ctx": "U28_BANKER_GREET_3"
+},
+{
+"id": 2093,
+"en": "Congratulations!\nDo you want to leave this run?",
+"ctx": "U31_BOSSRUSH_CONFIRMATION_END"
+},
+{
+"id": 2094,
+"en": "Do you want to abandon this Boss Rush run?",
+"ctx": "U31_BOSSRUSH_CONFIRMATION_QUIT"
+},
+{
+"id": 2095,
+"en": "Welcome to the Proving Grounds!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_ENTER_1"
+},
+{
+"id": 2096,
+"en": "Ready for the next showdown?",
+"ctx": "U31_BOSSRUSH_NPC_TALK_ENTER_2"
+},
+{
+"id": 2097,
+"en": "Glad to see such a determined face... or whatever it is that sits on your shoulders.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_ENTER_3"
+},
+{
+"id": 2098,
+"en": "Go forth, prisonner, and prove your worth in battle!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_ENTER_4"
+},
+{
+"id": 2099,
+"en": "Craving for thrills? You've come to the right place!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_ENTER_5"
+},
+{
+"id": 2100,
+"en": "You're back to the crucible of combat!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_BEGIN_1"
+},
+{
+"id": 2101,
+"en": "Glad to see that you're not afraid to face some challenge.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_BEGIN_2"
+},
+{
+"id": 2102,
+"en": "What will you try this time?",
+"ctx": "U31_BOSSRUSH_NPC_TALK_BEGIN_3"
+},
+{
+"id": 2103,
+"en": "Time to choose your weapons!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_BEGIN_4"
+},
+{
+"id": 2104,
+"en": "How far will you go this time?",
+"ctx": "U31_BOSSRUSH_NPC_TALK_BEGIN_5"
+},
+{
+"id": 2105,
+"en": "Well fought! But don't rest on your laurels, your next challenge awaits!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_CONTINUE_1"
+},
+{
+"id": 2106,
+"en": "One down! Onto the next.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_CONTINUE_2"
+},
+{
+"id": 2107,
+"en": "You killed it!\n... Got it? Anyway, next!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_CONTINUE_3"
+},
+{
+"id": 2108,
+"en": "Who will you face of against next? Fate will tell.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_CONTINUE_4"
+},
+{
+"id": 2109,
+"en": "Keep going!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_CONTINUE_5"
+},
+{
+"id": 2110,
+"en": "To the victor, the spoils!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FINISH_1"
+},
+{
+"id": 2111,
+"en": "Congratulations! Here's your well-deserved reward.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FINISH_2"
+},
+{
+"id": 2112,
+"en": "Impressive work for a skinny one like you!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FINISH_3"
+},
+{
+"id": 2113,
+"en": "You triumphed over impossible odds, you can be proud of yourself.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FINISH_4"
+},
+{
+"id": 2114,
+"en": "It's a victory for the prisonner! Who would have thought?!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FINISH_5"
+},
+{
+"id": 2115,
+"en": "What a dismal defeat. Do better.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_DEATH_1"
+},
+{
+"id": 2116,
+"en": "You can't win them all... but at least try!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_DEATH_2"
+},
+{
+"id": 2117,
+"en": "This one was painful...",
+"ctx": "U31_BOSSRUSH_NPC_TALK_DEATH_3"
+},
+{
+"id": 2118,
+"en": "Better luck next time... but remember that luck isn't everything.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_DEATH_4"
+},
+{
+"id": 2119,
+"en": "Win or win not, there is no try.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_DEATH_5"
+},
+{
+"id": 2120,
+"en": "BOO!"
+},
+{
+"id": 2121,
+"en": "NYAH HA HA HA HA HA HA HA HA HA HA HA!"
+},
+{
+"id": 2122,
+"en": "So you've stumbled through a rift, eh..."
+},
+{
+"id": 2123,
+"en": "Bet you'd like to take these little beauties with you, now wouldn't you?"
+},
+{
+"id": 2124,
+"en": "Well, if you do decide to take them... Getting out won't be anything like getting in..."
+},
+{
+"id": 2125,
+"en": "Good luck... NYAH HA HA HA HA HA HA!"
+},
+{
+"id": 2126,
+"en": "Well, well, look who's here..."
+},
+{
+"id": 2127,
+"en": "Hello!"
+},
+{
+"id": 2128,
+"en": "Greetings, friend of the Order.",
+"ctx": "DLCP_SHANOA_GREET_1"
+},
+{
+"id": 2129,
+"en": "Our sole purpose is to destroy Dracula so people can look to dawn without fearing the darkness.",
+"ctx": "DLCP_SHANOA_GREET_2"
+},
+{
+"id": 2130,
+"en": "My specialty is glyphs rather than alchemy but I should be able to help nonetheless.",
+"ctx": "DLCP_SHANOA_GREET_3"
+},
+{
+"id": 2131,
+"en": "Are you the morning sun, come to vanquish this horrible night?",
+"ctx": "DLCP_SHANOA_GREET_4"
+},
+{
+"id": 2132,
+"en": "Follow the light."
+},
+{
+"id": 2133,
+"en": "So this is the anomaly she's looking for..."
+},
+{
+"id": 2134,
+"en": "You've come a long way down beneath the surface, Fallen One."
+}
+]

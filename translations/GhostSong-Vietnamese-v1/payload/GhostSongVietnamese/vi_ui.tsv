@@ -1,0 +1,569 @@
+upkey	Lên
+downkey	Xuống
+leftkey	Trái
+rightkey	Phải
+cycle1	Đổi Blaster Trái
+cycle2	Đổi Blaster Phải
+resettodefault	Đặt Lại Mặc Định
+unassigned	(Chưa gán)
+presskeytoremap	Nhấn một phím để gán lại:
+customizekeys	Tùy Chỉnh Phím Bàn Phím
+cd_deadsuit	Deadsuit
+cd_thedeadsuit	The Deadsuit
+ngp_desc	Khởi chạy New Game+ cho phép bạn chơi lại game từ đầu, đồng thời giữ lại chỉ số, trang bị và vật phẩm, trừ những thứ quan trọng với tiến trình game. Ở chế độ này, kẻ địch sẽ mạnh hơn và có thêm một số thử thách khác. Tiếp tục?
+ngp_launch	Khởi Chạy New Game+
+ngp_notification	New Game+ có sẵn ở các ô lưu đã hoàn thành game. Chế độ này cho phép bạn chơi lại với thêm thử thách, đồng thời giữ lại phần lớn vật phẩm và trang bị.
+ngp_proceed	Tiếp tục
+ngp_title	New Game+
+languageheading	Tiếng Việt
+gamesettings	Cài Đặt Game
+on	Bật
+off	Tắt
+show	Hiện
+hide	Ẩn
+dynamic	Động
+damagenumbers	Số Sát Thương
+highlight	Làm Nổi Nhân Vật
+hud	HUD
+vibration	Rung
+back	Quay lại
+languageword	Ngôn ngữ
+highlightmdesc	Thêm vầng sáng phía sau nhân vật chính, dành cho người chơi khó theo dõi vị trí của mình trên màn hình.
+audioheading	Âm Thanh
+master	Tổng
+sfx	Hiệu ứng
+voice	Giọng nói
+music	Nhạc
+display	Hiển Thị
+resolution	Độ Phân Giải
+screen	Màn Hình
+vsync	Vsync
+brightness	Độ Sáng
+windowed	Cửa Sổ
+fullscreen	Toàn Màn Hình
+settings	Cài đặt
+game	Game
+controls	Điều Khiển
+records	Hồ sơ
+playtime	Thời Gian Chơi:
+timesdied	Số Lần Chết:
+damagetaken	Sát Thương Nhận:
+damagedealt	Sát Thương Gây Ra:
+enemieskilled	Kẻ Địch Hạ Gục:
+consumablesused	Vật Tiêu Hao Đã Dùng:
+timeshealed	Số Lần Hồi Máu:
+roomstraveled	Số Phòng Đã Đi:
+itemslooted	Vật Phẩm Nhặt Được:
+flipsperformed	Số Lần Lộn Người:
+stepstaken	Số Bước Chân:
+plantsgrown	Cây Đã Trồng:
+nanogelgained	Nanogel Nhận Được:
+nanogellost	Nanogel Mất Đi:
+bugbloodgained	Máu Bọ Nhận Được:
+items	Vật phẩm:
+controllermessage	Game này được thiết kế để chơi bằng tay cầm hai cần analog.
+fplaygame	Chơi Game
+fsettings	Cài đặt
+fcredits	Đội Ngũ Làm Game
+fquit	Thoát
+pup_check	Kiểm tra
+pup_talk	Nói chuyện
+pup_use	Dùng
+pup_absorb	Hấp thụ
+pup_save	Lưu
+statusscreen	Màn Hình Trạng Thái
+aimmode	Chế Độ Ngắm
+heal	Hồi máu
+move	Di chuyển
+interact	Tương tác
+cycleblasters	Đổi Blaster Phụ
+shutdown	Tắt Máy (giữ)
+systemmenu	Menu Hệ Thống
+sprint	Chạy nước rút
+dash	Lướt
+altblaster	Blaster Phụ
+melee	Cận chiến
+jump	Nhảy
+basicblaster	Blaster Cơ Bản
+influencecamera	Xoay Camera
+viewkeyboard	Tùy Chỉnh Phím Bàn Phím:
+viewgamepad	Xem phím tay cầm:
+resume	Tiếp tục
+quit	Thoát
+yes	Có
+no	Không
+reallyquit	Thoát thật không?
+quitwarning	Tiến trình sẽ được lưu.
+quitwarning0	Mọi tiến trình chưa lưu sẽ mất.
+gunner	Xạ Thủ
+scrapper	Thợ Nhặt
+lostsoul	Linh Hồn Lạc
+berserker	Cuồng Chiến
+delete	Xóa
+areyousure	Xóa bản lưu này - Bạn chắc chứ?
+selectsavefile	Chọn Bản Lưu
+newgame	Game Mới
+holdconfirm	Giữ nút xác nhận ở 'Có' vài giây để xóa!
+blastermods	Mô-đun Blaster:
+suitmods	Mô-đun Giáp:
+poweruse	Điện năng dùng:
+modules	Mô-đun
+map	Bản đồ
+inventory	Kho đồ
+suitlevel	Cấp giáp: 
+install	Lắp         
+remove	Gỡ         
+needsafe	Bạn phải tắt máy Deadsuit trước khi đổi mô-đun.
+needsafe2	GIỮ (khi đang chơi)
+needreqs	Chưa đủ điều kiện.
+gunpower	Hỏa lực
+vigor	Sinh lực
+resolve	Ý chí
+powercost	Điện năng cần:
+poweravail	Điện năng còn:
+currentarea	Khu vực hiện tại: 
+zoomlevel	Chỉnh thu phóng:
+placemarker	Đặt/xóa đánh dấu
+removemarker	Xóa đánh dấu
+holdmarker	(Giữ)
+nomapdata	Bạn đang ngoài bản đồ đã biết. Cần dữ liệu bản đồ để hiển thị khu vực hiện tại.
+stclass	Lớp
+stlvl	Cấp
+sthp	HP
+stenergy	Năng lượng
+ststam	Thể lực
+stgp	Hỏa lực
+stvig	Sinh lực
+stres	Ý chí
+stcond	Tình trạng
+stmod	Mô-đun
+stluck	May mắn
+damaged1	Hư hại nhẹ
+damaged2	Hư hại
+damaged3	Hư hại nặng
+stammo	Đạn
+stheat	Nhiệt
+stcap	Sức Chứa Điện
+iall	Tất cả
+iconsumables	Tiêu hao
+iweaps	Vũ khí
+itech	Công nghệ
+imisc	Khác
+stsec	Kỹ năng phụ
+stblaster	Blaster
+desc_class	Thể hiện cấu hình hiện tại của bạn.
+desc_level	Cấp giáp chủ yếu quyết định số mô-đun bạn có thể trang bị. Nó cũng là hệ số nhân cho một số thưởng của mô-đun.
+desc_hp	HP quyết định khả năng sống sót của bạn.
+desc_hp2	Deadsuit đã bị hư hại. HP tối đa đã giảm
+desc_energy	Năng lượng được tiêu hao khi bắn các chế độ bắn của blaster.
+desc_stamina	Thể lực được tiêu hao khi dùng các kỹ năng thể chất như chạy nước rút, lướt và cận chiến.
+desc_gunpower	quyết định sát thương của bạn với súng và vũ khí nổ.
+desc_vigor	giúp bạn trâu bò hơn, ảnh hưởng đến sát thương vật lý và HP tối đa.
+desc_resolve	ảnh hưởng đến lượng năng lượng, thể lực, HP, và thỉnh thoảng tăng sát thương với một số vũ khí nhất định.
+desc_condition	Deadsuit có thể chịu hư hại lâu dài, làm giảm máu tối đa và giảm hiệu quả tản nhiệt.
+desc_modules	Mô-đun là loại trang bị đặc biệt cắm thẳng vào bộ giáp, và được quản lý riêng với vật phẩm thường.
+desc_modules2	Mỗi mô-đun cần một lượng điện để trang bị, và bạn có thể trang bị bao nhiêu tùy lượng điện còn lại.
+desc_modules3	Xem trang Mô-đun để quản lý mô-đun của bạn.
+desc_luck	Một nét khó nắm bắt, khiến mọi việc xuôi theo ý bạn thường xuyên hơn.
+desc_blaster	Blaster cơ bản là nguồn sát thương đáng tin cậy. Tầm bắn khá ngắn, nhưng hiệu quả với nhiều loại kẻ địch, nhất là khi nhắm vào điểm yếu.
+desc_ammo	Đạn dùng để bắn vũ khí đặc biệt. Pháo cơ bản của bạn không cần đạn.
+desc_heat	Bắn hầu hết vũ khí sẽ làm blaster nóng lên. Khi blaster đỏ rực, sát thương cận chiến tăng mạnh, tạo sự phối hợp giữa súng và cận chiến.
+desc_secondary	Vũ khí đặc biệt đang trang bị, nếu có.
+itemempty	Trống
+itemnoinfo	Không có thông tin.
+itemdesc_airjump	Cho phép nhảy giữa không trung.
+itemdesc_shield	Dùng để chặn đòn. Đôi khi bị vỡ. Chẳng mấy hữu dụng trong nhiều tình huống thực tế, nhưng chắc chắn có người đã bỏ nhiều công chế tạo nó.
+itemdesc_shield2	Độ bền khiên: 
+itemdesc_warriorheart	Trái tim vẫn còn đập của một con thú Roslock già.
+itemdesc_scraper	Cho phép thu hoạch các bộ phận cơ thể Roslock.
+itemdesc_dash	Cho phép lướt. Người dùng bất khả xâm phạm khi lướt, nhưng hiệu ứng này có thời gian hồi ngắn.
+itemdesc_nanogel	Một chất quý giá.
+itemdesc_bugblood	Tinh chất máu đặc quánh, có tính axit của những con thú Roslock đã ngã xuống.
+itemdesc_healingcore	Cho một lượt hồi máu. Nạp lại gần điểm lưu.
+itemdesc_parasite	Những thứ dính nhớp. Ở trạng thái hiện tại thì chẳng có ích mấy.
+itemdesc_motivator	Cho phép chạy nước rút.
+itemdesc_ammocon	Nhận nanogel định kỳ sẽ giúp đạn tự bổ sung.
+itemdesc_hammer	Một chiếc búa tạ cực lớn có thể tích điện, gây cả sát thương va đập lẫn sát thương điện. \n\nChủ cũ của nó tin rằng nó đặc biệt hiệu quả với bọ Roslock, dù ai cũng biết loài này kháng được điện.
+itemdesc_powerfist	Một nắm đấm kim loại khổng lồ. Có gai gắn động cơ dọc các khớp ngón, khiến nó càng hiểm ác.
+itemdesc_food	thức ăn
+itemdesc_godseedred	Hạt thần màu đỏ. Tăng vĩnh viễn Sinh lực.
+itemdesc_godseedorange	Hạt thần màu cam. Tăng vĩnh viễn Hỏa lực.
+itemdesc_godseedpurple	Hạt thần màu tím. Tăng vĩnh viễn Ý chí.
+itemdesc_godseedgreen	Hạt thần xanh lục may mắn. Tăng vĩnh viễn May mắn.
+itemdesc_mapdroid	Con droid nhỏ kỳ lạ, không rõ nguồn gốc.
+itemdesc_tinycarp	Loài cá nhỏ thường thấy trong ao hang động.
+itemdesc_anklespikes	Bật nhảy từ tường.
+itemdesc_watermovement	Giúp người dùng di chuyển cực tốt khi ngâm dưới nước, nhờ đó có thể lên tới những nơi cao hơn.
+itemdesc_ammogen	Dùng để hồi đạn.
+itemdesc_egg	Một quả Trứng Skippo còn nguyên. Nó đang rung.
+itemdesc_missile	Một quả tên lửa. Dùng cho mô-đun blaster Bệ Phóng Tên Lửa.
+itemdesc_skelpod	Nang Skel dùng cho mô-đun blaster Máy Gieo Skel.
+itemdesc_blobbase	Vật liệu sền sệt kỳ lạ.
+itemdesc_dolly	Một android nhỏ. Có vẻ không có ý thức.
+itemdesc_gau	Đơn vị Đạn Dược Tổng Hợp. Vật chất dùng làm đạn cho hầu hết chế độ bắn phụ.
+itemdesc_coreamp	Tăng sức hồi phục của các lõi hồi máu.
+itemdesc_ammotank	Tăng sức chứa đạn tối đa.
+itemdesc_fallprotector	Bảo vệ người dùng khỏi sát thương rơi.
+itemdesc_painwheel	Bánh xe gai tàn bạo, ném ra sẽ quay về tay người dùng.
+itemdesc_hazardblade	Kiếm của bậc thầy, hoặc của kẻ ngốc.
+itemdesc_gilisgun	Quà của Gili. Bắn đạn tốc độ cao.
+itemdesc_spear	Tầm với xa, hữu ích khi đối phó đám đông.
+itemdesc_legbrace	Hấp thụ sát thương khi rơi từ độ cao lớn. Vật phẩm sẽ bị hủy sau đó.
+itemdesc_mapper	Cho phép người dùng ghi lại bản đồ xung quanh.
+itemdesc_bugmapper	Cho phép người dùng ghi lại bản đồ cả những khu vực nguy hiểm nhất.
+itemdesc_healthnug	Viên thuốc kim loại nhỏ. Tạm thời tăng hồi Máu.
+itemdesc_energynug	Viên thuốc kim loại nhỏ. Tạm thời tăng hồi Năng lượng.
+itemdesc_stamnug	Viên thuốc kim loại nhỏ. Tạm thời tăng hồi Thể lực.
+itemdesc_acidprot	chống axit
+itemdesc_parasiteremover	Chế tạo để gỡ bỏ ký sinh trùng bám dính một cách êm thấm.
+itemdesc_looseparasites	Giờ chúng có thể hữu ích.
+itemdesc_ghostbubbles	Mô tả bong bóng ma ở đây.
+itemdesc_workhorse	Molly Sanderson. Ngựa Thồ Sau Giờ Làm. Sắt Vụn và Dây Điện. Không rõ năm.
+itemdesc_delicateextractor	Thiết bị có đủ hiểu biết và sự khéo léo để tháo các bộ phận từ android đã chết.
+itemdesc_pebbleofper	Viên sỏi này khao khát ngọn núi.
+itemdesc_primedestel	Raven có thể thấy thứ này hữu ích.
+itemdesc_clockwise	Raven có thể thấy thứ này hữu ích.
+itemdesc_ortoch	Raven có thể thấy thứ này hữu ích.
+itemdesc_warmseed	Nó rù rù với hơi ấm thân thiện.
+itemdesc_malformed	Quà của Gambler. Cho thêm một lần nhảy.
+itemdesc_poisonpit	Nặng bất thường so với kích thước. Không an toàn để ăn!
+itemdesc_dreamseed	Hạt của dây leo wick-wick. Gặp điều kiện thích hợp, nó có thể mọc.
+itemdesc_juddpole	Một hạt đậu cho mọi cái bụng.
+itemdesc_workmans	May mắn của người thợ, đã mất vào lòng đất.
+itemdesc_fatfruit	Mọng và nặng trĩu.
+itemdesc_gamblersembrace	Một loài hoa cực hiếm.
+itemdesc_zadaslong	Một đóa hoa xanh ma mị.
+itemdesc_wickwick	Quả khó ưa của dây leo wick-wick.
+itemdesc_coescrown	Được đất tốt xoa dịu.
+itemdesc_whisperofdistant	Hoa tử thần.
+itemdesc_gizmo	Một thiết bị kỳ quái nào đó. Chẳng thấy công dụng gì.
+itemdesc_axe	Chiếc rìu lớn của chiến binh Kinzle, người ngã xuống trong cuộc giao đấu với quái thú Xorogon, kẻ đã nuốt chửng cô. \n\nRìu được tôi bằng plasma, sẽ phóng ra đạn plasma khi vung nếu người dùng đủ sức mạnh.
+noneequipped	Không có
+difficulty	Độ khó
+dif_normal	Gốc
+dif_easy	Khám phá
+dif_notice	Không thể đổi cài đặt này sau khi bắt đầu, trừ khi bạn chơi lại từ đầu.
+dif_normaldesc1	Cách chơi nguyên bản. Mang lại thử thách. Hoàn thành sẽ mở khóa thêm phần thưởng.
+dif_normaldesc1b	Cách chơi nguyên bản. Mang lại thử thách.
+dif_normaldesc2	Nếu bạn là người chơi giàu kinh nghiệm, hãy chọn chế độ này.
+dif_easydesc1	Chế độ này giảm hình phạt khi chết. Mất Nanogel rất ít và bộ giáp không bị hư hại lâu dài. Một số điều chỉnh khác cũng giúp chế độ này dễ tiếp cận hơn.
+dif_easydesc2	Game đôi lúc vẫn có thể khó, nhưng thất bại đỡ đau hơn. Nếu chưa chắc, hãy chọn chế độ này.
+dif_backdesc	Quay lại màn hình trước.
+desc_cloudburst	Vũ khí tốt, chính xác và hiệu quả.
+desc_heartbreaker	Từng thuộc về một Hoàng tử.
+desc_scatterburst	Bắn chùm đạn viên theo hình nón. Sát thương rất lớn ở cự ly gần.
+desc_chillingburst	Bắn đạn lạnh, làm nguội nòng blaster khi bắn, và có thêm hiệu ứng nếu bắn từ nòng nóng đỏ.
+desc_moltenblast	Bắn đạn lửa lớn phát nổ khi chạm, văng kim loại nóng chảy vào kẻ địch.
+desc_planter	Phóng nang skel và mọc skel trợ thủ nơi chúng rơi xuống -- nếu địa hình cho phép.
+desc_firefly	Vũ khí nhanh, giật điện.
+desc_revenger	Súng điện từ mạnh mẽ, xuyên được lớp giáp dày nhất.
+desc_eggblaster	Bắn ra những quả trứng kỳ lạ.
+desc_skab	Vũ khí sát thương thấp.
+desc_soulfire	Vũ khí của linh hồn. Có thể nạp năng lượng để thêm hiệu ứng. Đôi khi nhổ hoa lên khỏi đất.
+desc_prismblast	Chuỗi màu sắc rực rỡ.
+desc_plasma	Bắn đạn siêu nóng có thể thiêu cháy một số kẻ địch.
+desc_panicshot	Phải nạp trước khi bắn. Dùng hết đạn còn lại trong một vụ nổ lớn và tạo khiên sát thương tạm thời.
+desc_missiles	Bệ phóng tên lửa cao cấp. Phá vỡ một số rào chắn.
+desc_livingblobs1	Bắn ra các blobling đồng minh.
+desc_livingblobs2	Bắn ra các blobling đồng minh nóng đỏ.
+desc_thesprinkler	Phóng thiết bị lăn tròn, phun đạn lên phía trên.
+desc_sporeshot	Bắn bào tử sinh ra nấm dễ nổ.
+desc_heartoffire	Cộng thêm Hỏa lực, tăng theo cấp bộ giáp.
+desc_heartofstrength	Cộng thêm Sinh lực, tăng theo cấp bộ giáp.
+desc_heartofsteadiness	Cộng thêm Ý chí, tăng theo cấp bộ giáp.
+desc_nanoretainer	Giảm lượng Nanogel rơi ra khi bị hạ gục.
+desc_nanoattractor	Hút Nanogel rơi vãi về phía người dùng ngay lập tức, xuyên qua vật thể và địa hình.
+desc_nanoaccumulator	Tăng tốc độ nhận Nanogel.
+desc_berserker	Tăng sát thương cận chiến và loại bỏ tác hại của nhiệt nòng khi người dùng sắp hết HP.
+desc_longshot	Tăng tầm bắn của đạn blaster cơ bản.
+desc_mollystweak	Molly hy vọng cái này giúp chống quá nhiệt. Có lẽ nó sẽ làm ngược lại.
+desc_heatsink	Giảm tích tụ nhiệt.
+desc_backlash	Tích trữ điện tích, phóng ra trong bán kính ngắn khi người dùng chịu sát thương.
+desc_ogre	Ban sức mạnh siêu phàm. Cho phép tụ lực đòn cận chiến để vung mạnh hơn.
+desc_shell	Biến hình khi ngồi xổm, chống chịu hầu hết sát thương.
+desc_speedster	Tăng tốc độ di chuyển.
+desc_harmonizer	Giảm năng lượng tiêu hao khi tấn công.
+desc_decoydash	Khi lướt, để lại một mồi nhử thu hút sự chú ý của kẻ địch.
+desc_spiritsembrace	Biến đổi blaster, khiến đạn cơ bản gây sát thương linh hồn.
+desc_fishmaster	Mũi tiêm hồi máu cũng hồi phục năng lượng.
+desc_corruption	Biến đổi lõi hồi máu thành vũ khí chết người với kẻ địch. Giảm hiệu quả hồi máu.
+desc_insight	Hiển thị thông tin máu của kẻ địch.
+desc_headhelpers	Triệu hồi những cái đầu hút máu để tấn công kẻ địch.
+desc_regenerator	Chạy nhanh sẽ dần hồi phục năng lượng.
+desc_lifebringer	Thỉnh thoảng có hoa hồi máu mọc ngẫu nhiên gần người dùng.
+desc_electrify	Thêm sát thương điện cho đòn tay không.
+desc_adamstweak	Tăng sát thương cận chiến và sát thương điện. Đồng thời tăng sát thương phải chịu.
+desc_burningdash	Thêm sát thương lửa cho cú lướt pha.
+desc_vampirictouch	Thêm hiệu ứng hút máu cho đòn cận chiến.
+desc_roboticheart	Giảm tích tụ nhiệt và cho giáp siêu cứng ngắn hạn sau khi lướt.
+desc_roboticheart2	Giảm mạnh tích tụ nhiệt và miễn nhiễm đạn bay trong thời gian ngắn sau khi lướt.
+desc_modulenotfound	Không tìm thấy mô-đun.
+desc_triplejump	Cho phép nhảy thêm một lần trên không.
+desc_bughunter	Tăng nhẹ sát thương cận chiến, đồng thời tăng nhẹ sát thương phải chịu.
+desc_bugwarrior	Tăng nhẹ sát thương súng, đồng thời tăng nhẹ sát thương phải chịu.
+desc_bugveteran	Kéo dài thời gian bất khả xâm phạm sau khi chịu sát thương.
+desc_smallnanocluster	Dùng để nhận một ít Nanogel.
+desc_mediumnanocluster	Dùng để nhận một lượng Nanogel vừa phải.
+desc_largenanocluster	Dùng để nhận nhiều Nanogel.
+itemuse	Dùng
+itemequip	Trang bị
+itemunequip	Gỡ
+pebblemsg	Đã có thêm góc nhìn.
+healthnuggetmsg	Đã kích hoạt trạng thái hồi máu.
+stamnugmsg	Đã kích hoạt trạng thái hồi thể lực.
+energynugmsg	Đã kích hoạt trạng thái hồi năng lượng.
+workmansflowermsg	May mắn tăng 1.
+juddmsg	Máu giảm xuống còn 1.
+poisonmsg	Máu giảm xuống còn 0.
+looseparamsg	Đã kích hoạt trạng thái hồi máu.
+fatfruitmsg	Máu tối đa đã tăng.
+zadasmsg	Năng lượng tối đa đã tăng.
+wickwickmsg	Sinh lực tăng 1.
+coesmsg	Máu tối đa đã tăng.
+orangeseedmsg	Hỏa lực tăng 1.
+purpleseedmsg	Ý chí tăng 1.
+greenseedmsg	May mắn tăng 1.
+redseedmsg	Sinh lực tăng 1.
+bankedmaprooms	Các phòng đã được thêm vào bản đồ.
+log_saved	Đã lưu game.
+parasitesremovedmsg	Ký sinh trùng đã bị vô hiệu hóa.
+bigbot_exit	Thoát
+bigbot_recon	Dịch chuyển nhanh
+bigbot_levelup	Lên cấp
+bigbot_repair	Sửa chữa
+bigbot_favored	Thuộc tính ưu tiên:
+bigbot_nextlevel	Cấp tiếp theo:
+bigbot_fullrepair	Sửa chữa toàn bộ
+bigbot_choosedest	Chọn điểm đến
+returnpart	Trả linh kiện tàu?
+retconfirm	Xác nhận
+henriettsub	Thợ Săn Uyên Bác
+henriettsub2	Kẻ Giác Ngộ
+leafsub	Hoàng Tử Coldwater
+pennicksub	Kẻ Bị Trục Xuất
+devilwinksub	Kẻ Biến Mất
+dollysub	Kẻ Nghiền Nát
+filisub	Người Lính Lạc Lối
+phasedashtitle	Lướt Pha
+phasedashtext1b	Lướt tới trước để tránh sát thương và đến nơi mới.
+phasedashtext2b	Giữ nút lâu để lướt xa, nhả sớm để lướt ngắn.
+phasedashtext3b	Khi lướt, bạn miễn nhiễm sát thương. Thử lướt xuyên kẻ địch và đạn.
+phasedashtext1	Giữ nút lâu để lướt xa, nhả sớm để lướt ngắn.
+phasedashtext2	Cú lướt đầu tiên giúp bạn bất khả xâm phạm trong lúc lướt.
+phasedashtext3	Hiệu ứng bất khả xâm phạm có thời gian hồi nhỏ.
+healcoretxt	Nhấn để hồi máu. Số lần sạc hiển thị phía trên thanh máu và được nạp lại khi ghé điểm lưu.
+boostbootstitle	Giày Tăng Lực
+boostbootstext1	Cho phép nhảy trên không.
+boostbootstext2	Nhảy lần nữa khi đang ở trên không.
+tut_modules	Bạn nhận được một mô-đun. Mở menu trạng thái và chuyển sang tab mô-đun để trang bị.
+tut_map	Mở menu trạng thái và chuyển sang bản đồ. Các phòng sẽ được thêm vào bản đồ khi bạn khám phá.
+tut_shoot	Bắn blaster cơ bản. Bắn sinh nhiệt, ảnh hưởng đến hiệu suất blaster. Càng gần mục tiêu, sát thương càng cao.
+tut_aim	Giữ nút và di chuyển cần analog trái để ngắm tại chỗ.
+tut_aim_switch	Giữ nút và di chuyển Cần Trái để ngắm tại chỗ.
+tut_aim_xbox	Giữ nút và di chuyển Cần Trái để ngắm tại chỗ.
+tut_aim_sony	Giữ nút và di chuyển Cần Trái để ngắm tại chỗ.
+tut_sprint	Giữ nút khi chạy để chạy nước rút. Tiêu hao thể lực.
+tut_altfire	Bắn chế độ blaster đặc biệt đang trang bị.
+tut_melee	Thực hiện đòn cận chiến. Đòn cận chiến mạnh hơn khi nòng súng nóng đỏ, hãy thử kết hợp linh hoạt.
+tut_healyourself	Mũi Tiêm Hồi Máu
+tut_cycle	Đổi blaster đặc biệt đang dùng khi trang bị nhiều hơn một.
+tut_roper	Nói chuyện với Roper.
+tut_already	Bạn đang mang một linh kiện. Hãy đưa nó cho Roper.
+tut_returnpart	Giao linh kiện cho Roper tại Crashsite. Bạn không thể dịch chuyển nhanh khi đang mang linh kiện.
+tut_returnpart_alt	Giao linh kiện cho Roper tại Crashsite.
+tut_returnpart2	Bạn chỉ mang được một linh kiện tàu mỗi lần. Hãy giao linh kiện trước khi tìm cái khác.
+tut_partsonmap	Vị trí các linh kiện đã được thêm vào bản đồ.
+tut_gambler	Vào tàu và nói chuyện với nó.
+tut_walljumptitle	Gai Cổ Chân
+tut_walljumptext1	Cho phép nhảy từ tường để đến khu vực mới.
+tut_walljumptext2	Lao vào tường khi đang trên không rồi nhấn nút nhảy.
+tut_walljumptext3	Có thể dùng liên tục trên cùng một bức tường.
+tut_hold	Giữ nút để bắn blaster cơ bản liên tục.
+introtext1	Deadsuit.
+introtext2	Im lặng suốt nhiều năm...
+introtext3	Hôm nay, có thứ gì đó thức tỉnh bên trong.
+introtext4	Một điều mới mẻ...
+introtext5	Mặt trăng lạc lối, Lorian V
+note_z1	Giữ nút bắn để bắn blaster cơ bản liên tục.
+note_z2	Đây là dòng thứ hai. Được rồi, xong rồi.
+tut_nanitesrecovered	Đã thu hồi Nanogel.
+tut_parts1	Đã đến lúc khám phá bản đồ và tìm các linh kiện tàu cho Roper. Đôi khi bạn phải quay lại những khu vực cũ để tìm đường mới.
+tut_parts2	Nếu cần giúp, hãy xem biểu tượng linh kiện tàu trên bản đồ, kèm thứ tự gợi ý. Thứ tự này chỉ là gợi ý, không bắt buộc.
+tut_parts2b	Hãy xem các biểu tượng trên bản đồ. Nên tìm biểu tượng màu xanh lá trước.
+tut_iframes	Lướt giúp bạn bất tử trong suốt thời gian lướt. Hiệu ứng này có thời gian hồi ngắn.
+nsub1	Thợ Săn Lạc Lối
+nsub2	Kẻ Biến Đổi
+nsub3	Yêu Khổng Lồ
+nsub4	An Ninh Blister Rock
+nsub5	Công Ty Khai Thác Tellru
+nsub6	Nhà Thơ
+nsub7	Cục Nhầy Đỏ
+nsub8	Cục Nhầy Xanh
+nsub9	Kẻ Đào Ngũ
+nsub10	Kẻ Hận Thù
+nsub11	Bàn Tay Nặng
+nsub12	Kẻ Đập Đầu
+nsub13	Kẻ Lang Thang
+nsub14	Kỹ Sư Điên
+nsub15	Kẻ Bất Bại
+ItemName_1	Súng Trường Cloudburst
+ItemName_2	Kẻ Đoạn Tâm
+ItemName_3	Chùm Tán Xạ
+ItemName_4	Nghiền Băng
+ItemName_5	Skel Planter
+ItemName_6	Firefly
+ItemName_7	Revenger
+ItemName_8	Thiết Bị Skab
+ItemName_9	Flowersong
+ItemName_10	Kẻ Đoạn Tâm Tối Thượng
+ItemName_11	Đầu Đốt Plasma
+ItemName_12	Súng Phóng Coburn
+ItemName_13	Blob-Bloom
+ItemName_14	Blob-Bloom H
+ItemName_15	Máy Phun Mưa
+ItemName_16	Trái Tim Lửa
+ItemName_17	Trái Tim Sức Mạnh
+ItemName_18	Trái Tim Vững Vàng
+ItemName_19	Clutcher
+ItemName_20	Five-Fingers
+ItemName_21	Nano Boost
+ItemName_22	Thiết Bị Berserker
+ItemName_23	Ngôi Sao Xa
+ItemName_24	Chỉnh Sửa Của Molly
+ItemName_25	HeatHawk
+ItemName_26	Backlash
+ItemName_27	Thiết Bị Ogre
+ItemName_28	Bước Hè
+ItemName_29	Hòa Âm Xạ Thủ
+ItemName_30	Lướt Mồi Ramstone
+ItemName_31	Ánh Sáng Người Cá
+ItemName_32	Tầm Nhìn Của Lord
+ItemName_33	Nhảy Thêm
+ItemName_34	Liferun
+ItemName_35	Bước Hoa
+ItemName_36	Còi Sốc
+ItemName_37	Chỉnh Sửa Của Adam
+ItemName_38	Suntouch
+ItemName_39	Trái Tim Robot
+ItemName_40	Hypersledge
+ItemName_41	Nắm Đấm Khổng Lồ
+ItemName_42	Lưỡi Hazard
+ItemName_43	Giáo Magma
+ItemName_44	Khiên Chống Nổ
+ItemName_45	Dolly
+ItemName_46	Hudson Thiện Xạ
+ItemName_47	Painwheel
+ItemName_48	Godseed Đỏ
+ItemName_49	Godseed Cam
+ItemName_50	Godseed Tím
+ItemName_51	Godseed Xanh
+ItemName_52	Sửa Tim
+ItemName_53	Sửa Năng Lượng
+ItemName_54	Sửa Thể Lực
+ItemName_55	Giày Tăng Tốc
+ItemName_56	Lướt Pha
+ItemName_57	Lõi Hồi Phục
+ItemName_58	Motivator
+ItemName_59	Gai Mắt Cá
+ItemName_60	Di Chuyển Dưới Nước
+ItemName_61	Bộ Khuếch Đại Lõi
+ItemName_62	Chống Axit
+ItemName_63	Diệt Ký Sinh
+ItemName_64	Món Đồ Lạ
+ItemName_65	Ký Sinh Trùng
+ItemName_66	Ký Sinh Lỏng Lẻo
+ItemName_67	NanoGel
+ItemName_68	Tượng Ngựa
+ItemName_69	Sỏi Góc Nhìn
+ItemName_70	Hạt Ấm
+ItemName_71	Godseed Dị Dạng
+ItemName_72	Hố Độc
+ItemName_73	Hạt Mộng
+ItemName_74	Đậu Juddpole
+ItemName_75	Hoa Thợ
+ItemName_76	Quả Lớn
+ItemName_77	Cái Ôm Tuyệt Vời
+ItemName_78	Giấc Ngủ Dài Của Zada
+ItemName_79	Quả Wick-wick
+ItemName_80	Vương Miện Vui Vẻ
+ItemName_81	Lời Thì Thầm Nơi Xa
+ItemName_82	Cụm NanoGel Nhỏ
+ItemName_83	Cụm NanoGel Vừa
+ItemName_84	Cụm NanoGel Lớn
+ItemName_85	Vỏ Cuồng Loạn
+ItemName_86	Vỏ Bất Ổn
+ItemName_87	Vỏ Cứng Hóa
+ItemName_88	Bộ Lập Bản Đồ
+ItemName_89	Rìu Kinzy
+shopbuy	Mua
+shopheld	Đang có:
+shopstock	Tồn kho:
+shopsoldout	Hết Hàng
+shopequippableitem	Vật Phẩm Trang Bị
+shopequippableitem2	Trang Bị
+shopconsumable	Tiêu Hao
+shopmodule	Mô-đun
+dataproc	Xử Lý Dữ Liệu
+dagree	Đồng ý
+ddecline	Từ chối
+skiphold	Bỏ qua (Giữ)
+rlupoto	Lupoto
+rcut	Máy Cắt
+rcrashsite	Crashsite
+rjunkpit	Junkpit
+rstoffbloom	Stoffbloom
+rtoler	Toler Dưới Chân
+rrote	Rote-Shotter
+rblake	Dạo Bước Của Blake
+rsixfinger	Rừng Sáu Ngón
+rnorb	Phòng Thí Nghiệm Norberg
+rhuttle	Huttle Drop
+rstumble	Stumbledeep
+rlesker	Phòng Thí Nghiệm Lesker-Eight
+rcentaur	Phòng Thí Nghiệm Centaur
+rmurky	Hồ Đục
+ralpha	Roslock Drift Anpha
+rbeta	Roslock Drift Bêta
+rgamma	Roslock Drift Gam-ma
+rdelta	Roslock Drift Đenta
+repsilon	Roslock Drift Êpxilon
+rzeta	Roslock Drift Zêta
+reta	Roslock Drift Êta
+rprime	Roslock Chính
+rflesh	Mê Cung Thịt
+rrow	Row Retreat Bảy Mươi Tư
+rsap	Sap-Stone
+rekman	Ngã Ba Ekman
+rcity	Thành Phố Của Những Bức Tường
+xolg01	Một bộ Deadsuit!
+xolg02	Ngươi không có thật! Đây không phải thật!
+xolg03	Làm gì có Deadsuit nào có thật!
+xolg04	Mọi người đâu hết rồi!?
+xolg05	Họ đâu rồi!?
+xolg06	Sao ta không nghe thấy họ?
+xolg07	Trái tim già, sao ta không nghe thấy họ?
+xolg08	Ngươi đã mơ về điều này, hỡi quái thú già.
+xolg09	Tỉnh dậy đi, quái thú già!
+xolg10	Trái tim già, tỉnh dậy đi!
+xolg11	Trái tim già, quái thú già!
+xolg12	Vết thương cũ... Vẫn còn tươi... Vẫn còn tươi... Vẫn còn tươi, tươi, tươi...
+xolg13	Kellunhelk..
+xolg14	Thứ xanh bé nhỏ...
+xolg15	Thứ xanh bé nhỏ!
+xolg16	Ngươi đã hứa!!
+xolg17	Đồ dối trá!
+xolg18	Hắn đã cướp nó khỏi ta! Kellunhelk!
+xolg19	KELLUNHELK!
+xolg20	Ta sẽ đòi lại nó!
+xolg21	Hắn đã gây ra chuyện này cho ta!
+xolg22	Tỉnh dậy đi, quái thú già, tỉnh dậy!
+xolg23	Tỉnh dậy!
+xolg24	Ai cũng đã nói dối!
+xolg25	Điểm kết thúc ở đâu... Ta tìm một sự kết thúc!
+xolg26	Ngươi có cảm nhận được không, trái tim già?
+xolg27	Trái tim già, quái thú già...
+xolg28	Hãy mang đến sự kết thúc!
+xolg29	Ta đã mất... Ta đã mất, mất, mất.
+xolg30	Ta đã lạc đường...
+leafadd	Chính là ta... Leaf, Hoàng Tử Coldwater!
+gamesighttextbody	Bằng việc chọn “Đồng ý”, bạn cho phép Old Moon và Humble Games thu thập và xử lý các thông tin như địa chỉ IP và dữ liệu người chơi ẩn danh như hệ điều hành đang dùng, múi giờ, độ phân giải và ngôn ngữ hệ thống. Toàn bộ thông tin được xem xét ở dạng tổng hợp và giúp chúng tôi hiểu mức độ tương tác của người chơi nhằm cải thiện trải nghiệm chơi game của bạn. Chúng tôi có thể dùng bên xử lý thứ ba, chẳng hạn như các nền tảng phân tích, để hỗ trợ phân tích dữ liệu thu thập được.  Tuy nhiên, chúng tôi sẽ không bao giờ bán dữ liệu của bạn cho bên thứ ba nếu không có sự đồng ý của bạn.\n\nBạn có thể thay đổi cài đặt chia sẻ bất cứ lúc nào trong menu tùy chọn của game.\n\nĐể biết thêm thông tin, vui lòng xem <color=#61AFF0><b>https://www.humblebundle.com/privacy</b></color>.

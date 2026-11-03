@@ -1,0 +1,814 @@
+[
+{
+"id": 4452,
+"en": "sarcophagus"
+},
+{
+"id": 4453,
+"en": "corpse"
+},
+{
+"id": 4454,
+"en": "old rope"
+},
+{
+"id": 4461,
+"en": "Alcove of Mathieu I"
+},
+{
+"id": 4462,
+"en": "Alcove of Mathieu II"
+},
+{
+"id": 4463,
+"en": "Thomas's Alcove"
+},
+{
+"id": 4464,
+"en": "Gwenaël's Alcove"
+},
+{
+"id": 4465,
+"en": "Pascal's Alcove"
+},
+{
+"id": 4466,
+"en": "Christophe's Alcove"
+},
+{
+"id": 4467,
+"en": "Sébastien's Alcove"
+},
+{
+"id": 4468,
+"en": "Steve's Alcove"
+},
+{
+"id": 4469,
+"en": "Joan's Alcove"
+},
+{
+"id": 4470,
+"en": "Yoann's Alcove"
+},
+{
+"id": 4471,
+"en": "Noémie's Alcove"
+},
+{
+"id": 4472,
+"en": "Altar"
+},
+{
+"id": 4473,
+"en": "Ben's Alcove"
+},
+{
+"id": 4516,
+"en": "Rack"
+},
+{
+"id": 4523,
+"en": "Arrows"
+},
+{
+"id": 4530,
+"en": "Oubliette"
+},
+{
+"id": 4531,
+"en": "Single corpse"
+},
+{
+"id": 4532,
+"en": "Sheets of paper"
+},
+{
+"id": 4558,
+"en": "Plaque"
+},
+{
+"id": 4559,
+"en": "Dead guard"
+},
+{
+"id": 4560,
+"en": "Message"
+},
+{
+"id": 4561,
+"en": "Cesspool"
+},
+{
+"id": 4582,
+"en": "Boxes"
+},
+{
+"id": 4586,
+"en": "Crystals"
+},
+{
+"id": 4587,
+"en": "Dining table"
+},
+{
+"id": 4593,
+"en": "Blocked passageway"
+},
+{
+"id": 4596,
+"en": "Statue"
+},
+{
+"id": 4597,
+"en": "Animal head"
+},
+{
+"id": 4616,
+"en": "King statue"
+},
+{
+"id": 4617,
+"en": "Crystal box"
+},
+{
+"id": 4621,
+"en": "Big pile of corpses"
+},
+{
+"id": 4622,
+"en": "Huge pile"
+},
+{
+"id": 4626,
+"en": "Mess"
+},
+{
+"id": 4627,
+"en": "Millstone"
+},
+{
+"id": 4633,
+"en": "Forced door"
+},
+{
+"id": 4634,
+"en": "Small bag"
+},
+{
+"id": 4644,
+"en": "Order of the King"
+},
+{
+"id": 4653,
+"en": "King's coat of arms"
+},
+{
+"id": 4662,
+"en": "Public message"
+},
+{
+"id": 4667,
+"en": "Vandalized banner"
+},
+{
+"id": 4679,
+"en": "Painting"
+},
+{
+"id": 4688,
+"en": "Break room"
+},
+{
+"id": 4695,
+"en": "Desk"
+},
+{
+"id": 4704,
+"en": "Rotten corpse"
+},
+{
+"id": 4716,
+"en": "Hidden box"
+},
+{
+"id": 4722,
+"en": "Mangled body"
+},
+{
+"id": 4723,
+"en": "Small hole"
+},
+{
+"id": 4724,
+"en": "Trail of green goo"
+},
+{
+"id": 4730,
+"en": "Hole"
+},
+{
+"id": 4748,
+"en": "Crate of weapons"
+},
+{
+"id": 4749,
+"en": "Giant hole"
+},
+{
+"id": 4762,
+"en": "Guard's things"
+},
+{
+"id": 4777,
+"en": "Alchemy equipment"
+},
+{
+"id": 4778,
+"en": "Stock"
+},
+{
+"id": 4779,
+"en": "Letters on the floor"
+},
+{
+"id": 4790,
+"en": "Royal order"
+},
+{
+"id": 4791,
+"en": "Soiled royal order"
+},
+{
+"id": 4797,
+"en": "Grimoire"
+},
+{
+"id": 4798,
+"en": "Plants"
+},
+{
+"id": 4799,
+"en": "- Research Notebook -"
+},
+{
+"id": 4804,
+"en": "Mushrooms"
+},
+{
+"id": 4808,
+"en": "Flask"
+},
+{
+"id": 4809,
+"en": "Shelf"
+},
+{
+"id": 4823,
+"en": "Wall"
+},
+{
+"id": 4829,
+"en": "Insects"
+},
+{
+"id": 4837,
+"en": "Burned bodies"
+},
+{
+"id": 4838,
+"en": "Flasks"
+},
+{
+"id": 4847,
+"en": "Corpses"
+},
+{
+"id": 4862,
+"en": "Notes"
+},
+{
+"id": 4870,
+"en": "Cages"
+},
+{
+"id": 4871,
+"en": "Solution"
+},
+{
+"id": 4890,
+"en": "Telescope"
+},
+{
+"id": 4901,
+"en": "Grave"
+},
+{
+"id": 4906,
+"en": "Rotten cargo"
+},
+{
+"id": 4907,
+"en": "Stores"
+},
+{
+"id": 4942,
+"en": "Drawer"
+},
+{
+"id": 4943,
+"en": "Swords"
+},
+{
+"id": 4944,
+"en": "More swords"
+},
+{
+"id": 4945,
+"en": "Wow, a sword"
+},
+{
+"id": 4946,
+"en": "Room"
+},
+{
+"id": 4958,
+"en": "Order"
+},
+{
+"id": 4959,
+"en": "Private crate"
+},
+{
+"id": 4960,
+"en": "Books"
+},
+{
+"id": 4973,
+"en": "Crate of provisions"
+},
+{
+"id": 4998,
+"en": "Safe"
+},
+{
+"id": 4999,
+"en": "Debris"
+},
+{
+"id": 5000,
+"en": "Body parts"
+},
+{
+"id": 5001,
+"en": "Exploded door"
+},
+{
+"id": 5014,
+"en": "Document"
+},
+{
+"id": 5020,
+"en": "Guard Guitou"
+},
+{
+"id": 5023,
+"en": "Chunk of metal"
+},
+{
+"id": 5033,
+"en": "Small chest"
+},
+{
+"id": 5039,
+"en": "Back room"
+},
+{
+"id": 5042,
+"en": "Chopping block"
+},
+{
+"id": 5044,
+"en": "Giant skeleton"
+},
+{
+"id": 5045,
+"en": "Skull"
+},
+{
+"id": 5050,
+"en": "Claw marks"
+},
+{
+"id": 5051,
+"en": "Lava pit"
+},
+{
+"id": 5062,
+"en": "Botanical Beaker"
+},
+{
+"id": 5070,
+"en": "Trunk"
+},
+{
+"id": 5076,
+"en": "Scribbled note"
+},
+{
+"id": 5079,
+"en": "Luxurious chaise lounge"
+},
+{
+"id": 5080,
+"en": "Chaise longue"
+},
+{
+"id": 5088,
+"en": "Cellar"
+},
+{
+"id": 5095,
+"en": "Noxious Stink"
+},
+{
+"id": 5096,
+"en": "Pipe"
+},
+{
+"id": 5109,
+"en": "Inanimated body"
+},
+{
+"id": 5122,
+"en": "Wreath of plants"
+},
+{
+"id": 5133,
+"en": "Journal"
+},
+{
+"id": 5139,
+"en": "Empty tank"
+},
+{
+"id": 5144,
+"en": "Boat"
+},
+{
+"id": 5154,
+"en": "Bug"
+},
+{
+"id": 5161,
+"en": "Door"
+},
+{
+"id": 5163,
+"en": "Tank"
+},
+{
+"id": 5192,
+"en": "Trident"
+},
+{
+"id": 5197,
+"en": "Security notice"
+},
+{
+"id": 5198,
+"en": "The Philosopher's Stone: A history"
+},
+{
+"id": 5199,
+"en": "The Wealth of Kingdoms"
+},
+{
+"id": 5200,
+"en": "An old book"
+},
+{
+"id": 5209,
+"en": "Pile of ripped bags"
+},
+{
+"id": 5210,
+"en": "Heap of punctured bags"
+},
+{
+"id": 5213,
+"en": "Pick up the receiver",
+"ctx": "U32_ANSWER_PHONE"
+},
+{
+"id": 5250,
+"en": "Search",
+"ctx": "DLCP_LORE_LABEL_SEARCH"
+},
+{
+"id": 5251,
+"en": "Observe",
+"ctx": "DLCP_LORE_LABEL_STATUE"
+},
+{
+"id": 5258,
+"en": "Cursed altar",
+"ctx": "U35_CURSED_ALTAR"
+},
+{
+"id": 5259,
+"en": "Curser mask",
+"ctx": "U35_CURSER_MASK"
+},
+{
+"id": 5263,
+"en": "Grim mage",
+"ctx": "U35_STATUE_PLAGUE_INQUISITORS"
+},
+{
+"id": 5264,
+"en": "Supplicants",
+"ctx": "U35_STATUE_FAITHFULS"
+},
+{
+"id": 5265,
+"en": "Small deacon",
+"ctx": "U35_STATUE_SORELOOSER"
+},
+{
+"id": 5275,
+"en": "Wall panel",
+"ctx": "U35_OLD_CURSED_WOMAN_ROOM_WALL"
+},
+{
+"id": 5276,
+"en": "Shabby bed",
+"ctx": "U35_OLD_CURSED_WOMAN_ROOM_RINGS"
+},
+{
+"id": 5283,
+"en": "Classic"
+},
+{
+"id": 5285,
+"en": "8-Bits"
+},
+{
+"id": 5286,
+"en": "Beep Boop Beep"
+},
+{
+"id": 5287,
+"en": "Castlevania",
+"ctx": "MUSIC_AVRIL_CLASSIC_NAME"
+},
+{
+"id": 5289,
+"en": "Faster enemies movement 1"
+},
+{
+"id": 5290,
+"en": "Faster enemies movement 2"
+},
+{
+"id": 5291,
+"en": "Faster enemies movement 3"
+},
+{
+"id": 5292,
+"en": "More reactive enemies"
+},
+{
+"id": 5294,
+"en": "Faster enemy teleport 1"
+},
+{
+"id": 5295,
+"en": "Faster enemy teleport 2"
+},
+{
+"id": 5296,
+"en": "Faster enemy teleport 3"
+},
+{
+"id": 5297,
+"en": "More damage hero 1"
+},
+{
+"id": 5298,
+"en": "More damage hero 2"
+},
+{
+"id": 5299,
+"en": "More damage hero 3"
+},
+{
+"id": 5300,
+"en": "Enemies deal more damage 1"
+},
+{
+"id": 5301,
+"en": "Enemies deal more damage 2"
+},
+{
+"id": 5302,
+"en": "Enemies deal more damage 3"
+},
+{
+"id": 5303,
+"en": "Enemies turn into elites"
+},
+{
+"id": 5304,
+"en": "More enemies turn into elites"
+},
+{
+"id": 5306,
+"en": "Enemies spawn around you"
+},
+{
+"id": 5307,
+"en": "More enemies spawn around you"
+},
+{
+"id": 5309,
+"en": "Enemies teleport by groups"
+},
+{
+"id": 5310,
+"en": "Enemies teleport by bigger groups"
+},
+{
+"id": 5311,
+"en": "The Beheaded"
+},
+{
+"id": 5312,
+"en": "Richter Belmont"
+},
+{
+"id": 5313,
+"en": "Jack Frost"
+},
+{
+"id": 5315,
+"en": "Mathieu \"Tipyx\" PISTOL"
+},
+{
+"id": 5316,
+"en": "Streaming Mode"
+},
+{
+"id": 5318,
+"en": "Despair"
+},
+{
+"id": 5319,
+"en": "Swiftness"
+},
+{
+"id": 5320,
+"en": "Toxic Cloud"
+},
+{
+"id": 5324,
+"en": "CONFIGURATION OF BUTTONS"
+},
+{
+"id": 5326,
+"en": "Barbed Arrow"
+},
+{
+"id": 5328,
+"en": "\"Indie Catapult\" Business Marketing"
+},
+{
+"id": 5329,
+"en": "Abuse"
+},
+{
+"id": 5330,
+"en": "Hemlock"
+},
+{
+"id": 5334,
+"en": "Pyromaniac"
+},
+{
+"id": 5335,
+"en": "Murderous"
+},
+{
+"id": 5336,
+"en": "Duplex Bow"
+},
+{
+"id": 5337,
+"en": "Tactician"
+},
+{
+"id": 5339,
+"en": "Cryostasis"
+},
+{
+"id": 5345,
+"en": "Yoann \"Valmont\" LAULAN"
+},
+{
+"id": 5347,
+"en": "Frozen Archer"
+},
+{
+"id": 5348,
+"en": "Sanctuary (depleted)"
+},
+{
+"id": 5349,
+"en": "Bernie"
+},
+{
+"id": 5350,
+"en": "Sadism"
+},
+{
+"id": 5351,
+"en": "Periodic AOE"
+},
+{
+"id": 5356,
+"en": "Swiftspear"
+},
+{
+"id": 5358,
+"en": "Alter Ego"
+},
+{
+"id": 5359,
+"en": "Vampirism (empty)"
+},
+{
+"id": 5361,
+"en": "Miracle Tonic"
+},
+{
+"id": 5362,
+"en": "Havoc"
+},
+{
+"id": 5363,
+"en": "Continue (Streaming Mode)"
+},
+{
+"id": 5364,
+"en": "UNUSED",
+"ctx": "UNUSED"
+},
+{
+"id": 5367,
+"en": "Ghost"
+},
+{
+"id": 5371,
+"en": "BossRune5"
+},
+{
+"id": 5373,
+"en": "Premonition"
+},
+{
+"id": 5374,
+"en": "Seb test"
+},
+{
+"id": 5377,
+"en": "Bow of the Earth"
+},
+{
+"id": 5378,
+"en": "Tough Nut"
+},
+{
+"id": 5384,
+"en": "Catch Me If You Can"
+},
+{
+"id": 5385,
+"en": "Ice Shard"
+},
+{
+"id": 5387,
+"en": "Greedo"
+},
+{
+"id": 5388,
+"en": "(empty)"
+},
+{
+"id": 5389,
+"en": "Pascal \"Skool\" PÉRIDONT"
+},
+{
+"id": 5390,
+"en": "Contempt"
+}
+]

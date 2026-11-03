@@ -1,0 +1,268 @@
+[
+{
+"id": 3063,
+"en": "This {permanent@PE} rune causes climbing vines to grow."
+},
+{
+"id": 3065,
+"en": "This {permanent@PE} rune lets you use teleportation monoliths."
+},
+{
+"id": 3067,
+"en": "This {permanent@PE} rune provides access to the daily challenge (Prisoners' Quarters)."
+},
+{
+"id": 3069,
+"en": "This {permanent@PE} rune unlocks the Custom Mode."
+},
+{
+"id": 3071,
+"en": "This {permanent@PE} rune lets you break through certain floors."
+},
+{
+"id": 3073,
+"en": "This {permanent@PE} rune lets you cling to walls."
+},
+{
+"id": 3075,
+"en": "This {permanent@PE} rune lets you leave your body."
+},
+{
+"id": 3077,
+"en": "This {permanent@PE} rune reveals the whole map and its points of interest (scrolls, merchants, etc.) once you've explored most of the level."
+},
+{
+"id": 3079,
+"en": "This {permanent@PE} upgrade allows you to carry a weapon or shield in your backpack."
+},
+{
+"id": 3080,
+"en": "You can now use the High Jump! Press up while jumping to perform it.",
+"ctx": "DLCP_UPPERCUT_RUNE_DESC"
+},
+{
+"id": 3081,
+"en": "You can now use the dodge! Press roll to perform it. Can be used while airborne.",
+"ctx": "DLCP_DASH_RUNE_DESC"
+},
+{
+"id": 3083,
+"en": "Unlocks a health potion that can be used at any time."
+},
+{
+"id": 3085,
+"en": "The health potion can be used 2 times."
+},
+{
+"id": 3087,
+"en": "The health potion can be used 3 times."
+},
+{
+"id": 3089,
+"en": "The health potion can be used 4 times."
+},
+{
+"id": 3091,
+"en": "Preserves up to ::power:: {iconCoin@img} when you die."
+},
+{
+"id": 3097,
+"en": "The starter bow is drawn at random from your unlocked bows."
+},
+{
+"id": 3099,
+"en": "The starter shield is drawn at random from your unlocked shields."
+},
+{
+"id": 3101,
+"en": "The starter melee weapon is drawn at random from your unlocked weapons."
+},
+{
+"id": 3103,
+"en": "Transforms objects found on the ground or in chests into gold."
+},
+{
+"id": 3105,
+"en": "Transforms objects found on the ground or in chests into gold. More than the previous version."
+},
+{
+"id": 3107,
+"en": "Refreshes a shop's stocks at a very reasonable price."
+},
+{
+"id": 3109,
+"en": "The merchants will offer a wider range of categories."
+},
+{
+"id": 3111,
+"en": "Unlocks a special shop in the Prisoner's Cells. There you'll find all sorts of rare and expensive oddities for only the most experienced and discerning shoppers."
+},
+{
+"id": 3113,
+"en": "Unlocks a mirror near the Scribe that may come in handy during your hunts."
+},
+{
+"id": 3115,
+"en": "You're gonna need a bigger wallet!",
+"ctx": "U28_BANK_UNLOCK_DESC"
+},
+{
+"id": 3117,
+"en": "You hear the clamor of combat and the call to glory. You should go look behind the underground door not too far ahead.",
+"ctx": "U31_BOSSRUSH_UNLOCK_DESC"
+},
+{
+"id": 3119,
+"en": "Allows you to choose between a few sets of starting equipment, each containing a melee weapon, ranged weapon, shield and two skills."
+},
+{
+"id": 3121,
+"en": "Allows you to carry a spare weapon. Hold the interact button to empty the backpack."
+},
+{
+"id": 3123,
+"en": "Unlocks the Training Room."
+},
+{
+"id": 3125,
+"en": "You can increase the quality of an object at the forge twice instead of once."
+},
+{
+"id": 3127,
+"en": "Modifies the difficulty level and unlocks new options."
+},
+{
+"id": 3133,
+"en": "Upgrades any one of your 3 stats!"
+},
+{
+"id": 3135,
+"en": "Upgrades your Brutality or Tactics stat."
+},
+{
+"id": 3137,
+"en": "Upgrades your Brutality or Survival stat."
+},
+{
+"id": 3139,
+"en": "Upgrades your Tactics or Survival stat."
+},
+{
+"id": 3141,
+"en": "Upgrades all 3 of your stats. That's right, all 3!"
+},
+{
+"id": 3142,
+"en": "Old reliable... Shield, big heavy beast of a weapon. Parry, attack. Kill rhythm."
+},
+{
+"id": 3143,
+"en": "The jack of all trades, deal elemental damage from afar, then finish the job with your trusty sword!"
+},
+{
+"id": 3144,
+"en": "The agile assassin, become blur and kill before they know you're there."
+},
+{
+"id": 3150,
+"en": "Contains the gold you were carrying the last time you... tried."
+},
+{
+"id": 3152,
+"en": "This bag contains the cells left over from your previous victory. They will be lost if you don't pick them up.",
+"ctx": "DEATH_CELLS_BAG"
+},
+{
+"id": 3155,
+"en": "Restores ::prct::% of your health."
+},
+{
+"id": 3165,
+"en": "\"Le Croissant\""
+},
+{
+"id": 3166,
+"en": "\"La Baguette\""
+},
+{
+"id": 3172,
+"en": "Restores 1 health flask charge."
+},
+{
+"id": 3175,
+"en": "Reduces your Malaise infection level by ::prct::%."
+},
+{
+"id": 3177,
+"en": "Reduces your Malaise infection level by ::power::%."
+},
+{
+"id": 3181,
+"en": "You earn one extra cell when you eliminate an enemy. This bonus lasts for ::duration:: seconds."
+},
+{
+"id": 3183,
+"en": "You're officially the richest creature on the island. This absolutely perfect little jewel is worth ::$power:: {iconCoin@img}!"
+},
+{
+"id": 3185,
+"en": "A precious stone of truly exceptional purity that will fetch you the modest sum of ::$power:: {iconCoin@img}!"
+},
+{
+"id": 3187,
+"en": "A magnificent stone worth ::$power:: {iconCoin@img}!"
+},
+{
+"id": 3189,
+"en": "This pretty stone will fetch you ::$power:: {iconCoin@img}! My precccioussss..."
+},
+{
+"id": 3191,
+"en": "Quite common, but you shouldn't have any trouble getting ::$power:: {iconCoin@img} for it."
+},
+{
+"id": 3193,
+"en": "Totally and utterly worthless. You’re not gonna pick that thing up, are you?"
+},
+{
+"id": 3195,
+"en": "Pretty easy to sell. You should be able to get at least ::$power:: {iconCoin@img} for it."
+},
+{
+"id": 3197,
+"en": "A tooth worth ::$power:: {iconCoin@img}. He was asking for it..."
+},
+{
+"id": 3199,
+"en": "A little gold cell worth ::$power:: {iconCoin@img}."
+},
+{
+"id": 3201,
+"en": "A transmuted arrow worth ::$power:: {iconCoin@img}. When you care enough to shoot the very best."
+},
+{
+"id": 3202,
+"en": "A magnificent stone worth ::$power:: points!"
+},
+{
+"id": 3203,
+"en": "This pretty stone will fetch you ::$power:: points! My precccioussss..."
+},
+{
+"id": 3204,
+"en": "Quite common, but you shouldn't have any trouble getting ::$power:: points for it."
+},
+{
+"id": 3206,
+"en": "This object is worth ::$power:: {iconCoin@img}, but if you pick it up, you'll be cursed."
+},
+{
+"id": 3208,
+"en": "Melee kills reduce skill cooldowns by ::actcdr:: sec."
+},
+{
+"id": 3210,
+"en": "Each consecutive hit that connects continues your combo, increasing your damage dealt. The combo expires after ::duration:: sec or if you are dealt damage.",
+"ctx": "U34_P_DMGKILL_GAMEPLAYDESC"
+}
+]

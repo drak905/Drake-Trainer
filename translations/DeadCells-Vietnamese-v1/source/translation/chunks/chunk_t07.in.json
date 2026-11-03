@@ -1,0 +1,295 @@
+[
+{
+"id": 1180,
+"en": "Display the percentage of life left"
+},
+{
+"id": 1181,
+"en": "The life bar will display the percentage of life left next to the actual number of health points."
+},
+{
+"id": 1182,
+"en": "Display the number of enemies killed without being hit"
+},
+{
+"id": 1184,
+"en": "Game time will show milliseconds in game and between levels."
+},
+{
+"id": 1186,
+"en": "Displays seed and debug information above the minimap."
+},
+{
+"id": 1188,
+"en": "Enable full-screen bright flashes. Warning: if you disable this option, there will still be some explosions and other bright effects for the purpose of the gameplay visibility.",
+"ctx": "U29_ENABLE_BRIGHT_FLASHES_DESC"
+},
+{
+"id": 1191,
+"en": "Remove all blood splashes and bloodied assets",
+"ctx": "NO_BLOOD_OPTION_DESC"
+},
+{
+"id": 1192,
+"en": "You can't toggle No Blood mode during a run",
+"ctx": "NO_BLOOD_OPTION_IMPOSSIBLE"
+},
+{
+"id": 1194,
+"en": "Reduce the concealment of secret zone entrances.",
+"ctx": "U29_ALT_FAKE_BLACK_WALLS_OPTION_DESC"
+},
+{
+"id": 1196,
+"en": "Adjust Color, Saturation and opacity of the background",
+"ctx": "U29_BG_FILTER_DESC"
+},
+{
+"id": 1206,
+"en": "Enables all screen shakes. Disable this option if screen shakes  (explosions, cutscenes, etc.) may pose a health risk.",
+"ctx": "U29_ENABLE_SCREEN_SHAKE_DESC"
+},
+{
+"id": 1207,
+"en": "Influence of the player's movements on the camera",
+"ctx": "U35_CAMERA_PLAYER_MOVEMENT_INFLUENCE"
+},
+{
+"id": 1208,
+"en": "Influence of enemies in combat on the camera",
+"ctx": "U35_CAMERA_COMBAT_INFLUENCE"
+},
+{
+"id": 1209,
+"en": "Speed of the camera following the player",
+"ctx": "U35_PLAYER_CAMERA_SPEED"
+},
+{
+"id": 1210,
+"en": "Speed of the camera following various points of interest",
+"ctx": "U35_POI_CAMERA_SPEED"
+},
+{
+"id": 1213,
+"en": "Add an outline to the hero",
+"ctx": "U29_HERO_OUTLINE_DESC"
+},
+{
+"id": 1215,
+"en": "Add an outline to the enemies",
+"ctx": "U29_MOBS_OUTLINE_DESC"
+},
+{
+"id": 1217,
+"en": "Add an outline to the NPCs",
+"ctx": "U29_NPCS_OUTLINE_DESC"
+},
+{
+"id": 1219,
+"en": "Add an outline to the player's active skills (pets and deployables)",
+"ctx": "U29_ACTIVES_OUTLINE_DESC"
+},
+{
+"id": 1225,
+"en": "Add an outline on spike traps",
+"ctx": "U35_SPIKES_OUTLINE_DESC"
+},
+{
+"id": 1227,
+"en": "Display stats icons in addition to their color",
+"ctx": "U29_HUD_TIER_ICONS"
+},
+{
+"id": 1228,
+"en": "Customize {Brutality@BR} color"
+},
+{
+"id": 1229,
+"en": "Customize {Tactic@TA} color"
+},
+{
+"id": 1230,
+"en": "Customize {Survival@SU} color"
+},
+{
+"id": 1242,
+"en": "Entering a shop interrupts the biome's music."
+},
+{
+"id": 1244,
+"en": "Entering the Bank's elevator interrupts the biome's music.",
+"ctx": "U28_PLAY_ELEVATOR_MUSIC_DESC"
+},
+{
+"id": 1246,
+"en": "Choose the soundtrack."
+},
+{
+"id": 1247,
+"en": "Soundtrack changes are only allowed on the title screen."
+},
+{
+"id": 1249,
+"en": "Customize sound effects volume separately",
+"ctx": "U29_SFX_VOLUMES_OPTIONS"
+},
+{
+"id": 1266,
+"en": "Reduces the amount of sound effects played at the same time during gameplay",
+"ctx": "U29_SFX_REDUCTION_WIDGET_DESC"
+},
+{
+"id": 1270,
+"en": "Effects with a higher priority will be less likely to be cut off by the sound effects reduction option above",
+"ctx": "U29_SFX_PRIO_PRESET_DESC"
+},
+{
+"id": 1276,
+"en": "Non-playable characters sound effects priority",
+"ctx": "U29_NPC_PRIORITY"
+},
+{
+"id": 1280,
+"en": "You must be in the start screen to change the language."
+},
+{
+"id": 1283,
+"en": "You can change the appearance of the food found in the game. This change is purely aesthetic."
+},
+{
+"id": 1285,
+"en": "Randomize the appearance of food in your runs. You know what they say about a balanced diet."
+},
+{
+"id": 1295,
+"en": "New mod subscriptions may take a little while to appear here."
+},
+{
+"id": 1296,
+"en": "Warning: This mod may automatically unlock certain items."
+},
+{
+"id": 1297,
+"en": "This mod is not compatible with others that are already active"
+},
+{
+"id": 1301,
+"en": "With participation from the Fonds d'Aide aux Jeux Vidéo, thanks to the Centre National du Cinéma et de l'Image Animée and the Ministère de l'Économie, de l'Industrie et du Numérique."
+},
+{
+"id": 1302,
+"en": "A big thanks to the players who helped us improve the game during early access, and to Jérémy Vitry, Alexis Rives, David Fjalarsson, Derek Lieu and Bastien Sanchez."
+},
+{
+"id": 1303,
+"en": "We would also like to thank our friends and families for their support all through this adventure!"
+},
+{
+"id": 1304,
+"en": "Dead Cells uses open source software. More information on https://dead-cells.com/oss"
+},
+{
+"id": 1307,
+"en": "Loading error: ::e::"
+},
+{
+"id": 1308,
+"en": "Some changes will only be applied when you start a new run."
+},
+{
+"id": 1310,
+"en": "There are no streaming accounts connected with the game."
+},
+{
+"id": 1311,
+"en": "::service:: account connected: ::nickname::"
+},
+{
+"id": 1314,
+"en": "Votes and other interactions will use the widget rather than the chat. Requires the installation of the Dead Cells streaming extension on your Twitch channel."
+},
+{
+"id": 1316,
+"en": "A viewer will be randomly selected from those who volunteer. They will then be in charge of your health potion!"
+},
+{
+"id": 1317,
+"en": "Allow The Chicken to heal you without an explicit request from you."
+},
+{
+"id": 1318,
+"en": "The Chicken will have to wait for your request if you deactivate this."
+},
+{
+"id": 1319,
+"en": "Authorize Captain Chicken to speak."
+},
+{
+"id": 1320,
+"en": "The viewer controlling the Chicken will be able to make it speak (his message will be displayed in game)."
+},
+{
+"id": 1321,
+"en": "Banish the current Chicken Captain!"
+},
+{
+"id": 1322,
+"en": "::user:: has been banished as Captain Chicken."
+},
+{
+"id": 1323,
+"en": "::user::, you have been banished as Captain Chicken, with great power 'came' great responsibility... A new Captain is being chosen."
+},
+{
+"id": 1324,
+"en": "Activate control of the Boss."
+},
+{
+"id": 1325,
+"en": "A random spectator chosen from the volunteers will be the Boss and will be able to launch some special attacks!"
+},
+{
+"id": 1326,
+"en": "Activate level modifiers."
+},
+{
+"id": 1327,
+"en": "Between each level, viewers choose a modifier (good or bad) for the next level!"
+},
+{
+"id": 1329,
+"en": "Viewers choose the type of the scrolls (Brutality, Tactics or Survival)"
+},
+{
+"id": 1331,
+"en": "Viewers will try to open these special chests while you're fighting!"
+},
+{
+"id": 1332,
+"en": "Activate Community help to spot Secrets"
+},
+{
+"id": 1333,
+"en": "Viewers can let you know that they spotted a secret. But not the exact location ;p"
+},
+{
+"id": 1334,
+"en": "Activate permanent improvement for the Talisman"
+},
+{
+"id": 1335,
+"en": "Between each level chat will decide which improvements your Amulet receives."
+},
+{
+"id": 1337,
+"en": "Viewers can celebrate your feats and failures through comments displayed on screen."
+},
+{
+"id": 1339,
+"en": "Chat will be able to vote on which level to take on next (but it's you who will decide which way to go)."
+},
+{
+"id": 1341,
+"en": "Vote windows will be on the left if deactivated."
+}
+]

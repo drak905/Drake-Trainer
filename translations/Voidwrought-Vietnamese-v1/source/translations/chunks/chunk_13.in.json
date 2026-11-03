@@ -1,0 +1,492 @@
+[
+ {
+  "id": 1376,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_all_upgrades01",
+  "en": "The last Vault crumbles... Our vessels are reborn, complete once more."
+ },
+ {
+  "id": 1377,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_all_upgrades02",
+  "en": "<b>FEAST UPON THEM!</b>"
+ },
+ {
+  "id": 1378,
+  "ctx": "term Dialogue/npc_alchemist_boss_intro_01",
+  "en": "Hehe, another one for the vats..."
+ },
+ {
+  "id": 1379,
+  "ctx": "term Dialogue/npc_skychild_boss_intro_01",
+  "en": "Specks of light... Contained... Shifting within... "
+ },
+ {
+  "id": 1380,
+  "ctx": "term Dialogue/npc_skychild_boss_intro_02",
+  "en": "The pain remains... The Seal... Endures..."
+ },
+ {
+  "id": 1381,
+  "ctx": "term Dialogue/npc_skychild_boss_intro_03",
+  "en": "No... Stay away... Please..."
+ },
+ {
+  "id": 1382,
+  "ctx": "term Dialogue/npc_skychild_boss_defeated01",
+  "en": "I... can see..."
+ },
+ {
+  "id": 1383,
+  "ctx": "term Dialogue/npc_skychild_boss_defeated02",
+  "en": "The Light has left."
+ },
+ {
+  "id": 1384,
+  "ctx": "term Dialogue/npc_skychild_boss_defeated03",
+  "en": "I am... Hollow."
+ },
+ {
+  "id": 1385,
+  "ctx": "term Dialogue/npc_skychild_boss_reward01",
+  "en": "I have little to give... But it is yours..."
+ },
+ {
+  "id": 1386,
+  "ctx": "term Dialogue/npc_astronomer_boss_intro_01",
+  "en": "The Light surges..."
+ },
+ {
+  "id": 1387,
+  "ctx": "term Dialogue/npc_astronomer_boss_intro_02",
+  "en": "An infiltrator approaches... Yes. An aberration. "
+ },
+ {
+  "id": 1388,
+  "ctx": "term Dialogue/npc_astronomer_boss_intro_03",
+  "en": "I am prepared to serve."
+ },
+ {
+  "id": 1389,
+  "ctx": "term Dialogue/npc_astronomer_boss_intro_04",
+  "en": "Channel your violent grace onto me. Let it wash over my flesh until it lays seared and pure!"
+ },
+ {
+  "id": 1390,
+  "ctx": "term Dialogue/npc_astronomer_boss_defeated_01",
+  "en": "NO... THE CRADLE...  MUST REMAIN..."
+ },
+ {
+  "id": 1391,
+  "ctx": "term Dialogue/npc_astronomer_boss_defeated_02",
+  "en": "SISTER... FORGIVE ME..."
+ },
+ {
+  "id": 1392,
+  "ctx": "term Dialogue/npc_husk_talk_01",
+  "en": "Dried remains, lingering in perpetuity."
+ },
+ {
+  "id": 1393,
+  "ctx": "term Dialogue/npc_corpsestone_talk_01",
+  "en": "The surface of the stone has taken on a darker hue."
+ },
+ {
+  "id": 1394,
+  "ctx": "term Dialogue/npc_corpsestone_talk_01_choice01",
+  "en": "Sacrifice Salt Receptacle"
+ },
+ {
+  "id": 1395,
+  "ctx": "term Dialogue/lore_stone_west_commons",
+  "en": "The Faithful"
+ },
+ {
+  "id": 1396,
+  "ctx": "term Dialogue/lore_stone_west_commons_01",
+  "en": "To be born is to be of the faithful."
+ },
+ {
+  "id": 1397,
+  "ctx": "term Dialogue/lore_stone_west_commons_02",
+  "en": "No god demanded worship of themselves above their siblings, and the faithful would each seek their deity among the pantheon."
+ },
+ {
+  "id": 1398,
+  "ctx": "term Dialogue/lore_stone_west_commons_03",
+  "en": "But that was long ago. The gods since vanished, and to be faithful is to despair."
+ },
+ {
+  "id": 1399,
+  "ctx": "term Dialogue/lore_stone_west_commons_04",
+  "en": "Countless fell into bleak sorrow. A few yet linger, trusting that the gods are never truly gone."
+ },
+ {
+  "id": 1400,
+  "ctx": "term Dialogue/lore_stone_west_commons_05",
+  "en": "They cling to every sign, hoping to be rewarded for their faith."
+ },
+ {
+  "id": 1401,
+  "ctx": "term Dialogue/lore_stone_east_commons",
+  "en": "Calamity"
+ },
+ {
+  "id": 1402,
+  "ctx": "term Dialogue/lore_stone_east_commons_01",
+  "en": "As the Light scorched the world above, the oceans boiled, and the earth crumbled. Life was driven beneath."
+ },
+ {
+  "id": 1403,
+  "ctx": "term Dialogue/lore_stone_east_commons_02",
+  "en": "To the lament of all, once sunlit and jovial halls were cast into silent darkness. Those who remained fell to their knees, posing questions born of fear and indignation."
+ },
+ {
+  "id": 1404,
+  "ctx": "term Dialogue/lore_stone_east_commons_03",
+  "en": "They had been dutiful. They had sacrificed. They had eaten. They recited holy words and endured the adjoining hardship."
+ },
+ {
+  "id": 1405,
+  "ctx": "term Dialogue/lore_stone_east_commons_04",
+  "en": "And yet they were granted no answer. The gods were gone. The City had gone gray and silent."
+ },
+ {
+  "id": 1406,
+  "ctx": "term Dialogue/lore_stone_old_waters",
+  "en": "Hidden Oceans"
+ },
+ {
+  "id": 1407,
+  "ctx": "term Dialogue/lore_stone_old_waters_01",
+  "en": "A glimpse into the minds of gods."
+ },
+ {
+  "id": 1408,
+  "ctx": "term Dialogue/lore_stone_old_waters_02",
+  "en": "The primeval brine from which the first gods once crawled, and in which life was shaped, nurtured, and punished. What finally rose to its feet in the mud cried out, demanding more."
+ },
+ {
+  "id": 1409,
+  "ctx": "term Dialogue/lore_stone_old_waters_03",
+  "en": "Now the sea of life lays frozen, its labyrinthian tunnels testament to the workings of long-dead Progenitors."
+ },
+ {
+  "id": 1410,
+  "ctx": "term Dialogue/lore_stone_old_waters_04",
+  "en": "Their pathways wind as the stalks of minds belonging to creatures far ascended mortality."
+ },
+ {
+  "id": 1411,
+  "ctx": "term Dialogue/lore_stone_old_waters_2",
+  "en": "Rebirth"
+ },
+ {
+  "id": 1412,
+  "ctx": "term Dialogue/lore_stone_old_waters_2_01",
+  "en": "The Progenitors crawled through these caverns once. One by one, they emerged, seeking the song that woke them."
+ },
+ {
+  "id": 1413,
+  "ctx": "term Dialogue/lore_stone_old_waters_2_02",
+  "en": "Those with sight feared them. Those who heard them succumbed. Those who tasted their Flesh raised tabernacles in their names. "
+ },
+ {
+  "id": 1414,
+  "ctx": "term Dialogue/lore_stone_old_waters_2_03",
+  "en": "As their following grew, so did their forms. Bloated and full as they became, their shrines could contain them no longer, and the zealots reveled before the end."
+ },
+ {
+  "id": 1415,
+  "ctx": "term Dialogue/lore_stone_old_waters_2_04",
+  "en": "Yet, through their demise, the blessed Ichor flowed, and long-dormant husks festered with new life."
+ },
+ {
+  "id": 1416,
+  "ctx": "term Dialogue/lore_stone_the_surface_1",
+  "en": "Life Before the Star"
+ },
+ {
+  "id": 1417,
+  "ctx": "term Dialogue/lore_stone_the_surface_1_01",
+  "en": "Above, where the new light bathes all in hues of crimson, we once lived. That is what those who lost themselves say."
+ },
+ {
+  "id": 1418,
+  "ctx": "term Dialogue/lore_stone_the_surface_1_02",
+  "en": "The lesson—according to those who rule in the name of the gods—is that faith is not concerned with earthly matters of hearth and home."
+ },
+ {
+  "id": 1419,
+  "ctx": "term Dialogue/lore_stone_the_surface_1_03",
+  "en": "Faith alone is where we must live. It is the warmth we require and the shelter we need. To fail this lesson is to be without a place to belong."
+ },
+ {
+  "id": 1420,
+  "ctx": "term Dialogue/lore_stone_the_surface_1_04",
+  "en": "If those who lost themselves were ever to reach the surface, they would lament the loss of our city below. They are forever transient in search of a destination they lack the will to find."
+ },
+ {
+  "id": 1421,
+  "ctx": "term Dialogue/lore_stone_the_surface_2",
+  "en": "The Red Star"
+ },
+ {
+  "id": 1422,
+  "ctx": "term Dialogue/lore_stone_the_surface_2_01",
+  "en": "The crimson Light danced from the majesty that had pierced the firmament."
+ },
+ {
+  "id": 1423,
+  "ctx": "term Dialogue/lore_stone_the_surface_2_02",
+  "en": "Many were so blinded by Its magnificence that they remained until their feet melted into the rock."
+ },
+ {
+  "id": 1424,
+  "ctx": "term Dialogue/lore_stone_the_surface_2_03",
+  "en": "Countless joined in bliss, forever remaining in the Light."
+ },
+ {
+  "id": 1425,
+  "ctx": "term Dialogue/lore_stone_the_surface_2_04",
+  "en": "It had blessed them for their dedication, re-sculpting them just as it had the world around them. The Light made no distinction."
+ },
+ {
+  "id": 1426,
+  "ctx": "term Dialogue/lore_stone_the_surface_2_05",
+  "en": "The Light can still be felt reaching into the stone of the world below."
+ },
+ {
+  "id": 1427,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_1",
+  "en": "Outsiders"
+ },
+ {
+  "id": 1428,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_1_01",
+  "en": "They came from far away, journeying across the waters on a vessel of steel."
+ },
+ {
+  "id": 1429,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_1_02",
+  "en": "Through the ice they broke, guided beneath the Light, yet they were found lacking in both faith and understanding."
+ },
+ {
+  "id": 1430,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_1_03",
+  "en": "Some ventured below in search of salvation, yet their avarice would not permit them such."
+ },
+ {
+  "id": 1431,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_1_04",
+  "en": "Within the ice, the beast has remained, festering with confusion wrought by the ignorant."
+ },
+ {
+  "id": 1432,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_1_05",
+  "en": "The merging of god and steel."
+ },
+ {
+  "id": 1433,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_2",
+  "en": "Journey's End"
+ },
+ {
+  "id": 1434,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_2_01",
+  "en": "The bloated beast lay dying within the ice, struggling to breathe, unable to carry its masters further."
+ },
+ {
+  "id": 1435,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_2_02",
+  "en": "Its steel hide had been struck and tortured, seared by flame, and pierced by jagged nails. Blackened blood seeped into the stone below."
+ },
+ {
+  "id": 1436,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_2_03",
+  "en": "The cries that once reverberated through its veins grew hollow, replaced by a dull patting against its skin."
+ },
+ {
+  "id": 1437,
+  "ctx": "term Dialogue/lore_stone_abandoned_expedition_2_04",
+  "en": "As it lay at the brink of death, an unfamiliar voice called out from within. Life returned to its scorched shell, and the metal began to sing."
+ },
+ {
+  "id": 1438,
+  "ctx": "term Dialogue/lore_stone_lost_garden_1",
+  "en": "Cultivation"
+ },
+ {
+  "id": 1439,
+  "ctx": "term Dialogue/lore_stone_lost_garden_1_01",
+  "en": "The soil of the city was fertile and eager to be cultivated. So it was that the people gathered in the fields, offering seeds of the gods to the earth."
+ },
+ {
+  "id": 1440,
+  "ctx": "term Dialogue/lore_stone_lost_garden_1_02",
+  "en": "They watered them with holy secretions, drained directly from the bodies of their benevolent deities, and waited in anticipation for signs of growth."
+ },
+ {
+  "id": 1441,
+  "ctx": "term Dialogue/lore_stone_lost_garden_1_03",
+  "en": "Plants, trees, and flora soon burst into life, and the great Gardens were born. Their plateaus provided all with food, shade, and most importantly, the possibility for growth."
+ },
+ {
+  "id": 1442,
+  "ctx": "term Dialogue/lore_stone_lost_garden_1_04",
+  "en": "Those who tended the vibrant groves turned their minds towards the future. Great works of alchemy were conducted, ensuring that the cycle of life left nothing to spoil."
+ },
+ {
+  "id": 1443,
+  "ctx": "term Dialogue/lore_stone_lost_garden_2",
+  "en": "The Vats"
+ },
+ {
+  "id": 1444,
+  "ctx": "term Dialogue/lore_stone_lost_garden_2_01",
+  "en": "The alchemists of the Gardens watched their cultivations grow, and lamented."
+ },
+ {
+  "id": 1445,
+  "ctx": "term Dialogue/lore_stone_lost_garden_2_02",
+  "en": "They understood what would sprout, when it would grow, and what each bud would unveil. The Gardens, the living jewel of the city, had become stagnant, devoid of change."
+ },
+ {
+  "id": 1446,
+  "ctx": "term Dialogue/lore_stone_lost_garden_2_03",
+  "en": "In time, they called the first of the anointed to bring her teachings to the plateaus, to further their creations for the benefit of all."
+ },
+ {
+  "id": 1447,
+  "ctx": "term Dialogue/lore_stone_lost_garden_2_04",
+  "en": "By their hands, the great vats were constructed, and the husks of the dead were granted new purpose."
+ },
+ {
+  "id": 1448,
+  "ctx": "term Dialogue/lore_stone_lost_garden_2_05",
+  "en": "Life was created."
+ },
+ {
+  "id": 1449,
+  "ctx": "term Dialogue/lore_stone_the_court_1",
+  "en": "A Child Is Born"
+ },
+ {
+  "id": 1450,
+  "ctx": "term Dialogue/lore_stone_the_court_1_01",
+  "en": "As the Red Star rose above, a royal heir was held up to receive its blessed Light—a miracle birthed from the barren womb of an aged queen. The Court reveled."
+ },
+ {
+  "id": 1451,
+  "ctx": "term Dialogue/lore_stone_the_court_1_02",
+  "en": "The king decreed that delights should be brought from the far reaches of the world, by ship and by caravan, to please the young heir."
+ },
+ {
+  "id": 1452,
+  "ctx": "term Dialogue/lore_stone_the_court_1_03",
+  "en": "Yet none seemed to sustain the child. No exotic fruits, spiced meats, nor sweet nectar nourished him. He remained malcontent, his body weak and slowly wasting."
+ },
+ {
+  "id": 1453,
+  "ctx": "term Dialogue/lore_stone_the_court_1_04",
+  "en": "Desperate, the king and queen beseeched the gods for aid and brought their blessed Flesh before the Court."
+ },
+ {
+  "id": 1454,
+  "ctx": "term Dialogue/lore_stone_the_court_1_05",
+  "en": "From that day forth, the child became the epitome of joy, his belly round and full."
+ },
+ {
+  "id": 1455,
+  "ctx": "term Dialogue/lore_stone_the_court_2",
+  "en": "Lack of Faith "
+ },
+ {
+  "id": 1456,
+  "ctx": "term Dialogue/lore_stone_the_court_2_01",
+  "en": "These enclosed halls stand as a testament to the cowardice uncertainty provokes."
+ },
+ {
+  "id": 1457,
+  "ctx": "term Dialogue/lore_stone_the_court_2_02",
+  "en": "As the city collapsed into the earth, the people screamed and wailed. They hid behind thick doors and walls of stone, hoping to avoid calamity, trusting only that which they could see and touch."
+ },
+ {
+  "id": 1458,
+  "ctx": "term Dialogue/lore_stone_the_court_2_03",
+  "en": "Their lack of devotion would not go unpunished."
+ },
+ {
+  "id": 1459,
+  "ctx": "term Dialogue/lore_stone_the_court_2_04",
+  "en": "In the same cold dark in which they cowered, something began to stir. Ancient fauna, brought to the great Court from many lands all across the world, grew strange, transforming into something new."
+ },
+ {
+  "id": 1460,
+  "ctx": "term Dialogue/lore_stone_the_court_2_05",
+  "en": "The faithless became sustenance for those who dared to change their fates, and now, forever, stand as husks—eerie but beautiful testaments to their lack of faith."
+ },
+ {
+  "id": 1461,
+  "ctx": "term Dialogue/lore_stone_the_repository",
+  "en": "To Know All"
+ },
+ {
+  "id": 1462,
+  "ctx": "term Dialogue/lore_stone_the_repository_01",
+  "en": "Existence is simple to those of simple minds, and knowing remains disjointed from understanding. "
+ },
+ {
+  "id": 1463,
+  "ctx": "term Dialogue/lore_stone_the_repository_02",
+  "en": "Few are those who can truly perceive the strings that lead between worlds—the net that encompasses all."
+ },
+ {
+  "id": 1464,
+  "ctx": "term Dialogue/lore_stone_the_repository_03",
+  "en": "Yet there are those for whom such concepts appear as but a natural part of being, an unseen guiding hand steering others towards the ever-expanding borders of the known."
+ },
+ {
+  "id": 1465,
+  "ctx": "term Dialogue/lore_stone_the_repository_04",
+  "en": "Some do come to see, to share their pursuits, as halls of endless knowledge beckon the ambitious and foolish alike."
+ },
+ {
+  "id": 1466,
+  "ctx": "term Dialogue/lore_stone_the_mirrorways",
+  "en": "Memories"
+ },
+ {
+  "id": 1467,
+  "ctx": "term Dialogue/lore_stone_the_mirrorways_01",
+  "en": "All of my memories."
+ },
+ {
+  "id": 1468,
+  "ctx": "term Dialogue/lore_stone_the_mirrorways_02",
+  "en": "I remember them perfectly. The sky above. The tall spires. The dazzling vistas in every direction."
+ },
+ {
+  "id": 1469,
+  "ctx": "term Dialogue/lore_stone_the_mirrorways_03",
+  "en": "I remember most of it. A city spanning so vast it put even nature to shame, dwarfing forests, lakes, and mountains."
+ },
+ {
+  "id": 1470,
+  "ctx": "term Dialogue/lore_stone_the_mirrorways_04",
+  "en": "I remember some of it. Hazy mists obscuring what lies below. Stone, metal, and wood, but no faces. No movements."
+ },
+ {
+  "id": 1471,
+  "ctx": "term Dialogue/lore_stone_the_mirrorways_05",
+  "en": "I barely remember any of it. Muffled sounds. Dull colors. The absence of life."
+ },
+ {
+  "id": 1472,
+  "ctx": "term Dialogue/lore_stone_the_mirrorways_06",
+  "en": "I have forgotten."
+ },
+ {
+  "id": 1473,
+  "ctx": "term Dialogue/lore_stone_sacral_tower",
+  "en": "Stars Without Number"
+ }
+]

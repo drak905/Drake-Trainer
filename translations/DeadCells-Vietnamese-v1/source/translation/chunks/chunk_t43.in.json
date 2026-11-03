@@ -1,0 +1,226 @@
+[
+{
+"id": 5463,
+"en": "Increases your movement speed for ::duration:: sec after a critical hit."
+},
+{
+"id": 5466,
+"en": "A forge that runs on cells. First time I've seen that!"
+},
+{
+"id": 5467,
+"en": "+::+dps:: DPS if there is no enemy near you."
+},
+{
+"id": 5469,
+"en": "Eating food provides +::+dps:: DPS for ::duration:: sec. The food's effect increases by ::prct::%."
+},
+{
+"id": 5470,
+"en": "Collects gold and cells over an unlimited distance."
+},
+{
+"id": 5471,
+"en": "Creates a large cloud of poison (::duration:: sec)."
+},
+{
+"id": 5472,
+"en": "Critical hits deal +::prct::% damage."
+},
+{
+"id": 5473,
+"en": "Roots nearby enemies to the ground (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 5479,
+"en": "Absorbs more damage. Generates a force field for ::duration:: sec on a successful {parry@PA}."
+},
+{
+"id": 5483,
+"en": "Carefully balanced for rapid attack sequences."
+},
+{
+"id": 5484,
+"en": "+::+dps:: DPS if a nearby enemy is {bleeding@BL}, {poisoned@TO} or {burned@FI}."
+},
+{
+"id": 5485,
+"en": "Turns off bright flashes that affect the game screen (explosions, wounds, etc.). Use this option if these flashes bother you or pose a health risk."
+},
+{
+"id": 5486,
+"en": "Inflicts {a critical hit@CC} immediately after a roll."
+},
+{
+"id": 5488,
+"en": "Regenerates in the next level."
+},
+{
+"id": 5492,
+"en": "Slow and steady wins the race."
+},
+{
+"id": 5494,
+"en": "Douses the enemy with {inflammable oil@FI}."
+},
+{
+"id": 5497,
+"en": "Taking care of one's equipment is of utmost importance..."
+},
+{
+"id": 5498,
+"en": "+::prct::% HP."
+},
+{
+"id": 5503,
+"en": "Saves you ONCE in the event of a premature death."
+},
+{
+"id": 5504,
+"en": "Removes all health fountains (but leaves a few single health flask recharges)"
+},
+{
+"id": 5506,
+"en": "Victims {freeze@IC} other enemies for ::duration:: sec"
+},
+{
+"id": 5509,
+"en": "Attracts everything nearby."
+},
+{
+"id": 5510,
+"en": "Congratulations! You've beaten the boss for this demo!"
+},
+{
+"id": 5515,
+"en": "Defense broken!"
+},
+{
+"id": 5518,
+"en": "Using a health potion adds +::+dps:: DPS for ::duration:: sec."
+},
+{
+"id": 5519,
+"en": "Tap to {freeze@IC} enemies. Hold to inflict {critical damage@CC}."
+},
+{
+"id": 5524,
+"en": "Could the Malaise have spared this part of the island?"
+},
+{
+"id": 5525,
+"en": "{Early Access@CC}"
+},
+{
+"id": 5526,
+"en": "{Slows down@IC} enemies. Inflicts {critical damage@CC} on targets in water or covered in {oil@FI}."
+},
+{
+"id": 5527,
+"en": "v1.0 (::version::)"
+},
+{
+"id": 5529,
+"en": "+::+dps:: DPS for ::duration:: sec after being wounded."
+},
+{
+"id": 5530,
+"en": "Summons a swarm of small biting creatures to attack for you."
+},
+{
+"id": 5532,
+"en": "Does massive damage."
+},
+{
+"id": 5535,
+"en": "A melee attack on a nearby enemy with a projectile stuck in it causes the projectile to fall out and inflicts ::+power:: damage."
+},
+{
+"id": 5541,
+"en": "Lets you get behind your enemy."
+},
+{
+"id": 5542,
+"en": "Throws ::count:: traps that immobilize enemies and increase the damage they take (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 5544,
+"en": "Recovers ::+power:: of HP after a {parry@PA}."
+},
+{
+"id": 5545,
+"en": "Lets you float in the air and inflict damage on enemies below you."
+},
+{
+"id": 5547,
+"en": "I'm not really supposed to be here though, you know..."
+},
+{
+"id": 5550,
+"en": "Inflicts moderate damage."
+},
+{
+"id": 5553,
+"en": "Cells are a rare and precious resource. Almost worth dying for."
+},
+{
+"id": 5556,
+"en": "Early access (::version::)"
+},
+{
+"id": 5559,
+"en": "Find and kill the boss!"
+},
+{
+"id": 5567,
+"en": "Unlocks the \"Hunter's Grenade\" in the Prisoners' Quarters. This grenade makes it easier to hunt for rare Blueprints."
+},
+{
+"id": 5569,
+"en": "At last, a little rest..."
+},
+{
+"id": 5570,
+"en": "DON'T MOVE!"
+},
+{
+"id": 5571,
+"en": "Reset mutations ({::gold::@GO} {iconCoin@img})"
+},
+{
+"id": 5572,
+"en": "+::prct::% damage with {PURPLE@TA} items."
+},
+{
+"id": 5574,
+"en": "Inflicts a {critical hit@CC} if you have recently taken damage."
+},
+{
+"id": 5575,
+"en": "{Burns@FI} enemies and the ground nearby."
+},
+{
+"id": 5578,
+"en": "Reduces the damage inflicted by traps by ::prct::%."
+},
+{
+"id": 5579,
+"en": "(::d::/::m::/::y:: ::hour::)"
+},
+{
+"id": 5580,
+"en": "Absorbs more damage. Cannot {parry@PA}."
+},
+{
+"id": 5582,
+"en": "She is dead."
+},
+{
+"id": 5584,
+"en": "Unlimited ammo."
+},
+{
+"id": 5593,
+"en": "Drags an enemy to you. The next (melee) attack on the enemy inflicts +::prct::% DPS."
+}
+]

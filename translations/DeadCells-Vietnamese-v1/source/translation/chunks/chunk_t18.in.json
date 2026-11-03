@@ -1,0 +1,179 @@
+[
+{
+"id": 2559,
+"en": "Summon a Great Owl pet (::+dps:: damage/sec). Activating this skill again will anger the Great Owl (::+dps2:: damage/sec). The Great Owl disappears if you take any damage."
+},
+{
+"id": 2560,
+"en": "Hoo hoo hoooo."
+},
+{
+"id": 2561,
+"en": "Infernal Chicken!"
+},
+{
+"id": 2564,
+"en": "Increase your movement speed by ::+prct::% for ::+duration:: sec when you kill an enemy."
+},
+{
+"id": 2566,
+"en": "Dash forward and inflicts ::+power:: damage to the enemies on the way. Activate again to dash back."
+},
+{
+"id": 2567,
+"en": "Look behind you!"
+},
+{
+"id": 2568,
+"en": "I said \"Behind\"."
+},
+{
+"id": 2570,
+"en": "Inflict ::+power:: damage to the most dangerous enemy around... most dangerous ACCORDING to the Giant."
+},
+{
+"id": 2571,
+"en": "Give me five!"
+},
+{
+"id": 2573,
+"en": "Leap in the air and violently land back on the ground to inflict ::+power:: damage to the enemies around."
+},
+{
+"id": 2574,
+"en": "Ready to rumble?"
+},
+{
+"id": 2576,
+"en": "Spin the syringe around you to inflict damage. Activate again to add ::+dps:: damage/sec (up to 5 time) and ::duration:: secs, for a mere few cells."
+},
+{
+"id": 2577,
+"en": "Become the Spin Doctor."
+},
+{
+"id": 2579,
+"en": "Releases a cloud of smoke making you invisible for ::duration:: seconds. The first invisible attack inflicts +::*prct::% damage."
+},
+{
+"id": 2580,
+"en": "Mushroom Boi!"
+},
+{
+"id": 2581,
+"en": "Spawns a friendly mushroom boi which charges and interrupts enemies inflicting ::+power:: damage and ::+power2:: extra damage if the enemy hits a wall. Trigger it again to inflict ::+power3:: damage and violate your soul."
+},
+{
+"id": 2583,
+"en": "Covers you in ice that absorbs one attack and explodes {freezing@IC} nearby enemies. If you don't take a hit it explodes after ::duration2:: seconds."
+},
+{
+"id": 2585,
+"en": "Place up to ::count:: lightning rods to attract lightning that strikes all enemies in between."
+},
+{
+"id": 2587,
+"en": "Comes back to you automatically. Inflicts increasingly severe {critical hits@CC} after each hit."
+},
+{
+"id": 2588,
+"en": "Perfect for pruning everything that sticks out."
+},
+{
+"id": 2590,
+"en": "Summons a flying sword that will mark enemies, trigger it again to inflict critical hits on them while holding the weapon, and vice-versa! The sword will vanish after ::duration2:: sec if you don't hit the marked enemies."
+},
+{
+"id": 2591,
+"en": "Grab Serenade to deal {critical damage@CC} on marked enemies."
+},
+{
+"id": 2593,
+"en": "Parries all around you dealing ::+power:: damage. A successful parry resets the cooldown."
+},
+{
+"id": 2595,
+"en": "Crush a flask on your forehead, dealing low damage to yourself.",
+"ctx": "U26_FACEFLASK_GAMEPLAYDESC"
+},
+{
+"id": 2596,
+"en": "Smashing red stuff in your own face is NEVER a good idea, ask the people of Tristram.",
+"ctx": "U26_FACEFLASK_AMBIANTDESC"
+},
+{
+"id": 2598,
+"en": "Turn into a chicken for a brief moment, firing several explosive eggs around you.",
+"ctx": "U26_POLLOPOWER_GAMEPLAYDESC"
+},
+{
+"id": 2599,
+"en": "The cluck is ticking.",
+"ctx": "U26_POLLOPOWER_AMBIANTDESC"
+},
+{
+"id": 2601,
+"en": "Summon a Leghugger that attacks your enemies, inflicting {critical hits@CC} on bleeding targets. Re-activate to make it attack in a circle around itself, making enemies hit {bleed@BL}.\n\nThe creature feeds by attacking your enemies. Once sated, it evolves into its stronger adult state."
+},
+{
+"id": 2602,
+"en": "Bloodthirsty and cute, what more could you ask?",
+"ctx": "DLC3_WEAPON_SPAWNLILSTAPHY_AMBIANTDESC"
+},
+{
+"id": 2604,
+"en": "Summon an adult Leghugger that attacks your enemies, inflicting {critical hits@CC} on bleeding targets. Re-activate to make it attack in a circle around itself, making enemies hit {bleed@BL}."
+},
+{
+"id": 2608,
+"en": "{Draw@CC}: you gain ::*life:: {bonus health@SH} that persists indefinitely. \n{Passive@CC}: Each successful {parry@PA} grants ::*count:: {bonus health@SH} for ::duration2:: sec and deal ::prct::% more damage.\n{Discard@CC}: remove all current {bonus health@SH} and deal damage depending on the quantity removed."
+},
+{
+"id": 2609,
+"en": "At the core of an ancient strategy called \"the 999 block\"."
+},
+{
+"id": 2611,
+"en": "{Passive@CC}: Your melee attacks {poison@TO} the enemies they hit.\n{Discard@CC}: nearby enemies lose all their damage-over-time stacks then are dealt the remaining damage of these effects."
+},
+{
+"id": 2612,
+"en": "You can wait for the last straw to break the camel back... or push the poor beast yourself!"
+},
+{
+"id": 2614,
+"en": "{Draw@CC}: creates a lightning orb that gravitates around you, dealing ::+power:: damage on impact.\n{Passive@CC}: Each time you use your other skill, creates an additional orb (max: ::limit:: orbs).\n{Discard@CC}: destroys all your active orbs. Thunder strikes a nearby enemy for each orb destroyed that way, dealing ::+power2:: damage."
+},
+{
+"id": 2615,
+"en": "Less hazardous when wearing a Faraday Outfit."
+},
+{
+"id": 2617,
+"en": "{Passive@CC}: You avoid the first damage source dealt to you. This effect recharges when you kill ::count:: enemies.\n{Discard@CC}: you become immune to all sources of damage for ::duration:: sec."
+},
+{
+"id": 2618,
+"en": "You don't even know that I'm still not dead!"
+},
+{
+"id": 2620,
+"en": "Taunts an enemy, causing it to frantically pursue you for ::duration2:: sec but take ::prct::% more damage from your melee attacks.",
+"ctx": "U31_TAUNT_GAMEPLAYDESC"
+},
+{
+"id": 2621,
+"en": "Requires Language (Old times) or Language (Foul) mastery.",
+"ctx": "U31_TAUNT_AMBIANTDESC"
+},
+{
+"id": 2623,
+"en": "Throws a magic stone that bounces on surfaces and moves faster after each bounce. Deals {critical hits@CC} and accelerates sharply after passing through you.",
+"ctx": "DLCP_BOUCING_STONE_DESC"
+},
+{
+"id": 2624,
+"en": "The words \"Digital Video Disc\" are engraved on the stone. Probably some sort of unholy incantation. Oddly satisfying when it hits corners.",
+"ctx": "DLCP_BOUCING_STONE_AMBIANTDESC"
+}
+]

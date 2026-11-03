@@ -1,0 +1,120 @@
+# Afterimage Vietnamese UI dictionary.  Format: <English source><TAB><Vietnamese>
+# Use <NL> for a line break (CRLF) inside a string. Lines starting with # are ignored.
+# Keys must match the game's on-screen English EXACTLY. Generated -> AI_Vietnamese/Scripts/vi_data.lua
+# ---- main menu / flow ----
+START GAME	BẮT ĐẦU
+OPTIONS	TÙY CHỌN
+QUIT GAME	THOÁT GAME
+QUIT GAME?	THOÁT GAME?
+TRIAL OF SOUL	THỬ THÁCH LINH HỒN
+NEWGAME+ UNLOCKED	ĐÃ MỞ KHÓA NEW GAME+
+SELECT PROFILE	CHỌN HỒ SƠ
+NEW GAME	CHƠI MỚI
+CLEAR SAVE	XÓA DỮ LIỆU
+CLEAR SAVE?	XÓA DỮ LIỆU?
+BACK TO TITLE	VỀ MÀN HÌNH CHÍNH
+BACK TO TITLE?	VỀ MÀN HÌNH CHÍNH?
+THE PROGRESS WILL BE AUTOMATICALLY SAVED	TIẾN TRÌNH SẼ ĐƯỢC LƯU TỰ ĐỘNG
+COMPLETION:	ĐỘ HOÀN THÀNH:
+PLAYER	NGƯỜI CHƠI
+# ---- common buttons / prompts ----
+CONFIRM	XÁC NHẬN
+YES	CÓ
+NO	KHÔNG
+SELECT	CHỌN
+BACK	QUAY LẠI
+NAVIGATE	DI CHUYỂN
+CANCEL	HỦY
+APPLY	ÁP DỤNG
+RESET TO DEFAULT	ĐẶT LẠI MẶC ĐỊNH
+# ---- options tabs ----
+GAME	TRÒ CHƠI
+AUDIO	ÂM THANH
+VIDEO	HÌNH ẢNH
+CONTROLS	ĐIỀU KHIỂN
+UI CONTROLS	ĐIỀU KHIỂN GIAO DIỆN
+# ---- game settings ----
+LANGUAGE	NGÔN NGỮ
+AUDIO LANGUAGE	NGÔN NGỮ LỒNG TIẾNG
+CAMERA SHAKE	RUNG CAMERA
+VIBRATION	RUNG
+FONT SIZE	CỠ CHỮ
+CONTROLLER TYPE	LOẠI TAY CẦM
+DIFFICULTY	ĐỘ KHÓ
+NORMAL	Thường
+ON	BẬT
+OFF	TẮT
+English	Tiếng Việt
+# ---- audio settings ----
+MASTER VOLUME	ÂM LƯỢNG TỔNG
+MUSIC VOLUME	ÂM LƯỢNG NHẠC
+SOUND VOLUME	ÂM LƯỢNG HIỆU ỨNG
+SPEECH VOLUME	ÂM LƯỢNG LỜI THOẠI
+# ---- video settings ----
+Resolution：	Độ phân giải：
+Using a controller is highly recommended	Nên sử dụng tay cầm để có trải nghiệm tốt nhất
+This game saves data automatically at certain progress.<NL>Please do not turn off the game while this icon is displayed.	Trò chơi tự động lưu dữ liệu tại một số mốc tiến trình.<NL>Vui lòng không tắt game khi biểu tượng này đang hiển thị.
+# ---- controls ----
+KEYBOARD	BÀN PHÍM
+CONTROLLER	TAY CẦM
+ACTIONS	HÀNH ĐỘNG
+ATTACK	TẤN CÔNG
+JUMP	NHẢY
+DASH/EVADE	LƯỚT/NÉ
+HEAL	HỒI MÁU
+SUBWEAPON	VŨ KHÍ PHỤ
+WEAPON 1	VŨ KHÍ 1
+WEAPON 2	VŨ KHÍ 2
+SPECIAL MOVE 1	CHIÊU ĐẶC BIỆT 1
+SPECIAL MOVE 2	CHIÊU ĐẶC BIỆT 2
+SPECIAL MOVE 3	CHIÊU ĐẶC BIỆT 3
+SPECIAL MOVE 4	CHIÊU ĐẶC BIỆT 4
+SPECIAL MOVE 5	CHIÊU ĐẶC BIỆT 5
+SPECIAL MOVE 6	CHIÊU ĐẶC BIỆT 6
+QUICKSLOT 1	Ô NHANH 1
+QUICKSLOT 2	Ô NHANH 2
+QUICKSLOT 3	Ô NHANH 3
+QUICKSLOT 4	Ô NHANH 4
+CAMERA UP	CAMERA LÊN
+CAMERA DOWN	CAMERA XUỐNG
+SCROLL	CUỘN
+MOVE MODE	CHẾ ĐỘ DI CHUYỂN
+UP	LÊN
+DOWN	XUỐNG
+LEFT	TRÁI
+RIGHT	PHẢI
+OVERWRITE CONTROLLER AXIS IS NOT ALLOWED	KHÔNG THỂ GHI ĐÈ TRỤC TAY CẦM
+PRESS THE KEY YOU WANT TO BIND TO THE QUICK SLOT	NHẤN PHÍM BẠN MUỐN GÁN CHO Ô NHANH
+# ---- gameplay HUD / menus ----
+TALENT	THIÊN PHÚ
+TALENT POINTS:	ĐIỂM THIÊN PHÚ:
+Reset Talent	ĐẶT LẠI THIÊN PHÚ
+Use 1 Point	DÙNG 1 ĐIỂM
+CHARACTER INFO	THÔNG TIN NHÂN VẬT
+ITEM ACQUIRED	NHẬN VẬT PHẨM
+AFTERIMAGE ACQUIRED	NHẬN AFTERIMAGE
+MAP UPDATED	ĐÃ CẬP NHẬT BẢN ĐỒ
+MARKED	ĐÃ ĐÁNH DẤU
+MERCHANTS/CONJURORS	THƯƠNG NHÂN/PHÁP SƯ
+IMPORTANT NPCS	NPC QUAN TRỌNG
+CONFLUENCE	HỢP LƯU
+REST	NGHỈ NGƠI
+COMPLETED	HOÀN THÀNH
+IN PROGRESS	ĐANG THỰC HIỆN
+REQUIRES	YÊU CẦU
+PRICE	GIÁ
+PURCHASE FAILED	MUA THẤT BẠI
+CAN'T SELL	KHÔNG THỂ BÁN
+CAN'T EQUIP	KHÔNG THỂ TRANG BỊ
+CAN'T USE	KHÔNG THỂ DÙNG
+ENHANCE REQUIREMENT	YÊU CẦU CƯỜNG HÓA
+INSUFFICIENT MATERIAL	THIẾU NGUYÊN LIỆU
+INGREDIENT REQUIRED	CẦN NGUYÊN LIỆU
+Insufficient ingredients	Không đủ nguyên liệu
+DROPLIST	DANH SÁCH RƠI RA
+SAVEPOINT	ĐIỂM LƯU
+After first-time consumption:	Sau lần dùng đầu tiên:
+You can alter your Afterimage activation at CONFLUENCES.	Bạn có thể thay đổi kích hoạt Afterimage tại các HỢP LƯU.
+Read certain secret art scroll to unlock this skill.	Đọc một cuộn bí kíp nào đó để mở khóa kỹ năng này.
+Your soul will immediately return to the Stream.<NL>Consume?	Linh hồn của bạn sẽ lập tức trở về Dòng Chảy.<NL>Sử dụng?
+Cannot buy a key item back after selling it.<NL>Do you still wish to sell the item?	Không thể mua lại vật phẩm quan trọng sau khi đã bán.<NL>Bạn vẫn muốn bán chứ?

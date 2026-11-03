@@ -1,0 +1,292 @@
+[
+ {
+  "id": 424,
+  "ctx": "term Data/compendium_emissary_desc",
+  "en": "Otherworldly inhabitants of the Obsidian Observatory, this race of beings was initially observed following first contact with the Void. They linger there still, viciously tending to the shimmering mycelium-like growths overtaking its halls."
+ },
+ {
+  "id": 425,
+  "ctx": "term Data/compendium_sentrygate",
+  "en": "Archaic Ward"
+ },
+ {
+  "id": 426,
+  "ctx": "term Data/compendium_sentrygate_desc",
+  "en": "Silent wards crafted to defend the depths of the Gray City. Many secrets seep from the old stone, and these ancient constructs have borne witness to all."
+ },
+ {
+  "id": 427,
+  "ctx": "term Data/compendium_time-lost_scholar",
+  "en": "Time-lost Scholar"
+ },
+ {
+  "id": 428,
+  "ctx": "term Data/compendium_time-lost_scholar_desc",
+  "en": "Among the learned, hushed voices told of those whose thirst for knowledge surpassed even the offerings of the greatest libraries. Recklessly reaching beyond the borders of the known, some were never to be seen again."
+ },
+ {
+  "id": 429,
+  "ctx": "term Data/compendium_observer",
+  "en": "Observer"
+ },
+ {
+  "id": 430,
+  "ctx": "term Data/compendium_observer_desc",
+  "en": "An intricate learning device, appearing to retain information by mimicking the movements of whoever it documents."
+ },
+ {
+  "id": 431,
+  "ctx": "term Data/compendium_drone_laser",
+  "en": "Proto-anomaly"
+ },
+ {
+  "id": 432,
+  "ctx": "term Data/compendium_drone_laser_desc",
+  "en": "Anomalies remained a common occurrence within the Observatory after the opening of the first Gate. They were considered but a planar byproduct until they began to react to the flows of the Void."
+ },
+ {
+  "id": 433,
+  "ctx": "term Data/compendium_drone_auto",
+  "en": "Protector"
+ },
+ {
+  "id": 434,
+  "ctx": "term Data/compendium_drone_auto_desc",
+  "en": "Commissioned by the royal house, these creations were artificed not merely as a means of protection, but as a force of subjugation."
+ },
+ {
+  "id": 435,
+  "ctx": "term Data/compendium_subjugated",
+  "en": "Subjugated"
+ },
+ {
+  "id": 436,
+  "ctx": "term Data/compendium_subjugated_desc",
+  "en": "Heretics and apostates cast into servitude long ago. Their mutated forms lumber forth in search of an end to their agony."
+ },
+ {
+  "id": 437,
+  "ctx": "term Data/compendium_ballista",
+  "en": "Ballista"
+ },
+ {
+  "id": 438,
+  "ctx": "term Data/compendium_ballista_desc",
+  "en": "The more advanced defensive constructs of the Gray City were artificed not as a means of protection against outsiders, but to ward off the disillusioned masses."
+ },
+ {
+  "id": 439,
+  "ctx": "term Data/compendium_zealot",
+  "en": "Lightbearer"
+ },
+ {
+  "id": 440,
+  "ctx": "term Data/compendium_zealot_desc",
+  "en": "Few of the zealots remained following the crumbling of the sky, yet some emerged beneath the stone in new forms, blessed by the Light. Their incessant proclamations of the gods' abandonment still echo across the City."
+ },
+ {
+  "id": 441,
+  "ctx": "term Data/compendium_botanist",
+  "en": "Botanist"
+ },
+ {
+  "id": 442,
+  "ctx": "term Data/compendium_botanist_desc",
+  "en": "Intricate is the process of cultivation, and even more so the careful implantation of seed into willing flesh."
+ },
+ {
+  "id": 443,
+  "ctx": "term Data/compendium_corpse_pile",
+  "en": "Corpse Mound"
+ },
+ {
+  "id": 444,
+  "ctx": "term Data/compendium_corpse_pile_desc",
+  "en": "Many sought purpose in the Salt, and piled atop one another were the bodies of those deemed unfit for the great vats."
+ },
+ {
+  "id": 445,
+  "ctx": "term Data/compendium_hive",
+  "en": "Hive"
+ },
+ {
+  "id": 446,
+  "ctx": "term Data/compendium_hive_desc",
+  "en": "Nothing goes to waste within the Gardens, each supple carcass sinking into the grass consumed and regurgitated, growing the swarm."
+ },
+ {
+  "id": 447,
+  "ctx": "term Data/compendium_grinder",
+  "en": "Grinder"
+ },
+ {
+  "id": 448,
+  "ctx": "term Data/compendium_growth",
+  "en": "Growth"
+ },
+ {
+  "id": 449,
+  "ctx": "term Data/compendium_npc_caretaker (+1 more)",
+  "en": "The Shrine Keeper"
+ },
+ {
+  "id": 450,
+  "ctx": "term Data/compendium_npc_caretaker_desc",
+  "en": "Through all of time, devotion has lingered at the precipice of madness. There is no telling how long this misshapen being has kept vigil at the Shrine. Ancient murals and crumbling scrolls depict tireless sermons held by the devout before the halls of the Gray Pyramid fell silent. \n\nWith its Seal broken, even such lowly creatures can be put to purpose once more, and the secrets buried within the Pyramid begin to be unearthed."
+ },
+ {
+  "id": 451,
+  "ctx": "term Data/compendium_npc_merchant (+1 more)",
+  "en": "Qagat the Burdened"
+ },
+ {
+  "id": 452,
+  "ctx": "term Data/compendium_npc_merchant_desc",
+  "en": "If this hunched being once stood among the nameless merchants of the Grand Bazaar, such recounts have long since crumbled to dust. Those who once peddled the many currencies of the living now tirelessly seek only one: the Ichor of the gods.\n\nThe hunchback carries with him a vast accumulation of wares, implying journeys throughout the numerous recesses of the Gray City, or perhaps a desperate search for those willing to barter."
+ },
+ {
+  "id": 453,
+  "ctx": "term Data/compendium_npc_void_priest_so_venat (+1 more)",
+  "en": "So-Venat"
+ },
+ {
+  "id": 454,
+  "ctx": "term Data/compendium_npc_void_priest_so_venat_desc",
+  "en": "Of all the children attuned to the energies of the Void, So-Venat remained the most afflicted by its whispers. The third to be anointed, his power stems from a deep understanding of the Voidal strands hiding within the weave of all, as well as his delicate touch in their application. He considers the Void itself a form of deity quite different from that of Progenitor gods—one that is perhaps, in some ways, their direct opposite. An unwavering balancing scale of the universe. Such a force cannot be bent to one's will or commanded, but might be attracted through soft seduction."
+ },
+ {
+  "id": 455,
+  "ctx": "term Data/compendium_npc_void_priest_namun (+1 more)",
+  "en": "Namun"
+ },
+ {
+  "id": 456,
+  "ctx": "term Data/compendium_npc_void_priest_namun_desc",
+  "en": "The first to be anointed by the Sisters, Namun was born through the Void, a stillborn child whose dark eyes were granted new light. Once, she brought the blessings of life to the Gray City, granting longevity to all through her wondrous crimson Salt.\n\nFollowing her rebirth, she came to understand the potential of the Void, as well as the delicate balance between order and chaos within. Unlike her brothers, she perceives it as something akin to a parent, equally her protector and nurturer."
+ },
+ {
+  "id": 457,
+  "ctx": "term Data/compendium_npc_void_priest_rahtek (+1 more)",
+  "en": "Rahtek"
+ },
+ {
+  "id": 458,
+  "ctx": "term Data/compendium_npc_void_priest_rahtek_desc",
+  "en": "The second to be anointed, Rahtek proved to be the child most enraptured by the chaotic streams of the Void. Through sheer force of will, he tore into the Voidal flows, causing its waves to grow violent and unpredictable. Yet, through the ensuing storm, he walked upon the water unscathed.\n\nTo the Sisters' consternation, the child's capacity continued to grow with no end in sight. His body slowly became twisted by the unrelenting forces washing over it. Eventually, it was decided that such overwhelming power must be sealed away, lest it become his undoing. "
+ },
+ {
+  "id": 459,
+  "ctx": "term Data/compendium_npc_congregation",
+  "en": "The Devoted"
+ },
+ {
+  "id": 460,
+  "ctx": "term Data/compendium_npc_congregation_desc",
+  "en": "Countless were those who came to pray at the Shrine of the gods at the center of the Gray City. In the time before the fall, the devoted traveled from afar to walk the Pyramid, venerating its halls through gifts of nacre and myrrh.\n\nIts seal broken and long-deserted chambers exposed, some have begun hearing the call of their faith once more. Unliving remnants of their former selves scattered throughout the ruins of the City, they yearn to return to the Shrine and lend their withered limbs to holy purpose."
+ },
+ {
+  "id": 461,
+  "ctx": "term Data/compendium_npc_vizier (+1 more)",
+  "en": "The Vizier"
+ },
+ {
+  "id": 462,
+  "ctx": "term Data/compendium_npc_vizier_desc",
+  "en": "Adorned in the garb and geometric designs of the Void Priests, she stands proud, her features barely touched by the ravages of time. In her enigmatic presence, time seems to grind to a halt; motes of dust hang suspended in the air, and no wind moves to caress one's skin."
+ },
+ {
+  "id": 463,
+  "ctx": "term Data/compendium_npc_learned (+1 more)",
+  "en": "The Cerebrum"
+ },
+ {
+  "id": 464,
+  "ctx": "term Data/compendium_npc_learned_desc",
+  "en": "Standing in its presence confuses the senses. An extraordinary life form, it is impossible to discern its true capabilities or the reaches of its knowledge. Existing as part of the Repository, it appears to observe, calculate, and memorize as if deconstructing and cataloging all things perceived, communicating only through discordant melodies of mechanical noise."
+ },
+ {
+  "id": 465,
+  "ctx": "term Data/compendium_npc_gourmet (+1 more)",
+  "en": "The Gilded Emporium"
+ },
+ {
+  "id": 466,
+  "ctx": "term Data/compendium_npc_gourmet_desc",
+  "en": "Once an expansive hall of trade, the Emporium must now be considered a creature in its own right. In a joining of stone, goods, and gray flesh, its former master—clad in dated, decrepit gold and rotting silk—is splayed gorged upon a collapsing throne, part of the very hall it once lorded over."
+ },
+ {
+  "id": 467,
+  "ctx": "term Data/compendium_npc_crewman",
+  "en": "The Lone Crewman"
+ },
+ {
+  "id": 468,
+  "ctx": "term Data/compendium_npc_crewman_desc",
+  "en": "Emaciated nearly to the point of death, this young member of the vessel's crew seems partially coherent. Incessantly searching for something, he claws at the dark, his half-disintegrated eyes darting about nervously."
+ },
+ {
+  "id": 469,
+  "ctx": "term Data/compendium_npc_achretis (+1 more)",
+  "en": "Achretis"
+ },
+ {
+  "id": 470,
+  "ctx": "term Data/compendium_npc_achretis_desc",
+  "en": "Found at the center of the great Salt fermentation vats of the Gardens, this engorged amalgamation of plant and man exudes both a childlike glee and an aura of oppressive majesty. Its body twists and undulates unrelentingly, reacting to every little change around it. Flesh-like appendices sprout from beneath and intertwine with anything they touch, shivering with what looks eerily like excitement."
+ },
+ {
+  "id": 471,
+  "ctx": "term Data/compendium_npc_ose (+1 more)",
+  "en": "Ose the Archaeologist"
+ },
+ {
+  "id": 472,
+  "ctx": "term Data/compendium_npc_ose_desc",
+  "en": "A small, stocky woman clad in foreign garb, wearing a multitude of gear to supposedly help with adventuring and cataloging.\n\nHer backpack is filled to the brim with clanking instruments, binoculars of varying sizes, spoons, rulers, pencils, and scrolls—all of which flop and jangle about as the eccentric woman darts from one discovery to another."
+ },
+ {
+  "id": 473,
+  "ctx": "term Data/compendium_npc_surface_hermit",
+  "en": "The Strange Stalk"
+ },
+ {
+  "id": 474,
+  "ctx": "term Data/compendium_npc_surface_hermit_desc",
+  "en": "This peculiar growth flourishes in the light of the Red Star, stretching towards the sky in an uneasy display of shimmering tissue and sprouting limbs.\n\nUnlike other flora of this world, it appears to perceive all stimuli as one entity through various appendages sprouting all across the scorched Surface."
+ },
+ {
+  "id": 475,
+  "ctx": "term Data/compendium_npc_forge_desc",
+  "en": "The grandest of the Sisters' designs and the greatest achievement of the City's artificers, it is part monument and part wondrous tool. Infused by the energies of the void, it offered near-limitless potential for creation; its unveiling marked the dawning of the golden age of the First Civilization during the time of the Progenitors.\n\nSuch times would not last. When the gods vanished, so did their followers, and what was once venerated now lies torn apart and scattered. Yet the broken construct still appears to display a glimmer of sentience after being unearthed, a glint of purpose flickering now and again across its metallic orbs."
+ },
+ {
+  "id": 476,
+  "ctx": "term Data/compendium_npc_yantir (+1 more)",
+  "en": "Yantir the Apostate"
+ },
+ {
+  "id": 477,
+  "ctx": "term Data/compendium_npc_yantir_desc",
+  "en": "A wayward soul once believed to have been lost beyond the Gate. The enigmatic texts of Yantir the Apostate are shrouded in speculation and half-truths, studied only by a scarce few who dared explore what was once decreed apocryphal in nature. While little of his writings remain, zealots still claim Yantir's words hide truths of the Void few long to hear."
+ },
+ {
+  "id": 478,
+  "ctx": "term Data/compendium_sur_desc",
+  "en": "\"Once we believed the Surface of the world to be ours. An archipelago gifted by the gods, so vast and vibrant, brimming with life and fertile ground. How arrogant we were! We were not forced below as the Red Star tore the skies apart and melted the stone! We were ousted from where we did not belong! Oh, our insolence! The Surface was never meant for us.\n\nIt is the domain of the Star, a world wrought by Its Light from beyond the Void. An empty canvas, a limitless supply of clay for Its eternal creations. We had the gall to stumble about Its reaches in our worship of the gods, dragging our filth and mud across Its wondrous creation. Hubris! Even the gods knew the truth, as they one by one vanished beneath Its Light!\" \n\n- Uut the Screamer"
+ },
+ {
+  "id": 479,
+  "ctx": "term Data/compendium_aba_desc",
+  "en": "\"We do not know if the vessel of steel and its strange people arrived from beyond the skies or across the oceans, for its presence was recorded only long after the fall and our exodus below. If they sailed in Its Light, then perhaps the Red Star saw fit to punish them for defying Its command to stay below. They defied It for the sake of greed alone, bumbling about our old domiciles and holy tabernacles like common thieves, taking what does not belong in their hands.\n\nThey were never welcome here. Their vessel of steel remains encased in ice to this day, and its people now roam in forms twisted and vile—reborn by the gods.\"\n\n- The Exemplar"
+ },
+ {
+  "id": 480,
+  "ctx": "term Data/compendium_crt_desc",
+  "en": "\"As the city sank, the masses flooded our beautiful Court in search of refuge. We believed it to be an impenetrable bastion able to withstand even a barrage of stone crashing down from above. Some made it past the closing seal; others were felled by their desperate advance. Those of us who gathered within sang praise to the gods as stone struck stone.\n\nAlas, our faith proved futile. The gods no longer heard our cries, for within the inner chambers only their husks remained, still brimming with holy Ichor. Throughout the centuries, their carcasses sustained us, until at last a new order of life began. When the husks ran dry, predators set upon prey, and terrible sounds stemmed from within our once-gilded halls. Now, all is quiet.\"\n\n- Gol of the Fifth Echelon"
+ },
+ {
+  "id": 481,
+  "ctx": "term Data/compendium_shrine_desc",
+  "en": "\"Some things remain true in perpetuity. Such is the nature of our Shrine, that all who once knelt at its great murals still hear the hollow call of its halls.\n\nChange is merciless, unpredictable, and ever-present, but not here. Within the Gray Pyramid, we find refuge. It is where those of faith are called to renewed purpose. It is here they will learn that there is hope for the future of our once-great City. Here, the seed of a new tomorrow has been sown.\"\n\n- Namun, wrought by the Void"
+ }
+]

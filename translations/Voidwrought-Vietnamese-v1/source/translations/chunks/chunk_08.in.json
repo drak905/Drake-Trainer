@@ -1,0 +1,492 @@
+[
+ {
+  "id": 832,
+  "ctx": "term Dialogue/demo_ending01",
+  "en": "Thank you for trying out the demo for Voidwrought. We hope you enjoyed it!"
+ },
+ {
+  "id": 833,
+  "ctx": "term Dialogue/demo_ending02",
+  "en": "The game is still in development, and we'd love to hear from you."
+ },
+ {
+  "id": 834,
+  "ctx": "term Dialogue/demo_ending03",
+  "en": "You can find us in the following places:"
+ },
+ {
+  "id": 835,
+  "ctx": "term Dialogue/demo_ending04",
+  "en": "Make sure to wishlist us to stay up to date with all things Voidwrought!"
+ },
+ {
+  "id": 836,
+  "ctx": "term Dialogue/npc_caretaker_encounter_1_01",
+  "en": "Hallowed Advent! *hrk* At last, the seal crumbles. At last, you are here. Long have I tended the candleflames, awaiting your arrival."
+ },
+ {
+  "id": 837,
+  "ctx": "term Dialogue/npc_caretaker_encounter_1_02",
+  "en": "Please, do not avert your eyes from this hideous shell, for I exist to serve. Our holy mission is at hand. *hrk* The City festers with the unclean."
+ },
+ {
+  "id": 838,
+  "ctx": "term Dialogue/npc_caretaker_encounter_1_03",
+  "en": "Far below, the Council of Elders still remains. Their guidance heralded the First Emergence of the Red Star—and our subsequent fall beneath the seas."
+ },
+ {
+  "id": 839,
+  "ctx": "term Dialogue/npc_caretaker_encounter_1_04",
+  "en": "You must descend. With their tongues silenced, the City's rebirth may finally commence."
+ },
+ {
+  "id": 840,
+  "ctx": "term Dialogue/npc_caretaker_encounter_1_05",
+  "en": "I will mark their chamber on your map. Meanwhile, I shall prepare the Shrine for your return. Others must be made aware. Many souls will surely come."
+ },
+ {
+  "id": 841,
+  "ctx": "term Dialogue/noc_caretaker_encounter_1_context_reply",
+  "en": "The Council still remains... Silence their wicked tongues so that the City's rebirth may finally commence. Return when the deed is done."
+ },
+ {
+  "id": 842,
+  "ctx": "term Dialogue/npc_trader_generic_shopgreeting",
+  "en": "Oh tender stranger, we meet again. While these halls pale in comparison to those of the Grand Bazaar, one must venture where one is needed. Please, peruse my collection freely..."
+ },
+ {
+  "id": 843,
+  "ctx": "term Dialogue/npc_trader_encounter_1_01",
+  "en": "Hmm. Yes, I suppose you'll do."
+ },
+ {
+  "id": 844,
+  "ctx": "term Dialogue/npc_trader_encounter_1_02",
+  "en": "Just run along for now."
+ },
+ {
+  "id": 845,
+  "ctx": "term Dialogue/npc_trader_encounter_1_03",
+  "en": "I'll be here. Waiting. Patiently."
+ },
+ {
+  "id": 846,
+  "ctx": "term Dialogue/npc_trader_encounter_2_01",
+  "en": "Make way!"
+ },
+ {
+  "id": 847,
+  "ctx": "term Dialogue/npc_trader_encounter_2_02",
+  "en": "Oh tender stranger, would you spare but a moment for a poor, unfortunate soul? "
+ },
+ {
+  "id": 848,
+  "ctx": "term Dialogue/npc_trader_encounter_2_03",
+  "en": "Worry not, for I am not like the others, although my burdens remain great. "
+ },
+ {
+  "id": 849,
+  "ctx": "term Dialogue/npc_trader_encounter_2_04",
+  "en": "Here, come close and feel the stone. Yes, a pungent draft seeps from below."
+ },
+ {
+  "id": 850,
+  "ctx": "term Dialogue/npc_trader_encounter_2_05",
+  "en": "If you could jump and strike the debris at the right moment, it might give way. Go ahead."
+ },
+ {
+  "id": 851,
+  "ctx": "term Dialogue/npc_trader_encounter_3_01",
+  "en": "Well done, kind stranger. I shall venture forth and see what can be gained within."
+ },
+ {
+  "id": 852,
+  "ctx": "term Dialogue/npc_trader_encounter_3_02",
+  "en": "I collect many things, you see, yet long for nothing more than the blessed Ichor. The very lifeblood of our long-dead gods; equally sacred and profane. I sense it upon you as well..."
+ },
+ {
+  "id": 853,
+  "ctx": "term Dialogue/npc_trader_encounter_3_03",
+  "en": "Would you not see fit to lighten the load of a poor, covetous soul?"
+ },
+ {
+  "id": 854,
+  "ctx": "term Dialogue/npc_trader_encounter_4_01",
+  "en": "Oh, tender stranger, do you see the lethal spikes littering that pit? On the other side lies a gleaming prize..."
+ },
+ {
+  "id": 855,
+  "ctx": "term Dialogue/npc_trader_encounter_4_02",
+  "en": "Hehe, fret not. What if I told you there is a way for someone less burdened than I to cross such dangers safely?"
+ },
+ {
+  "id": 856,
+  "ctx": "term Dialogue/npc_trader_encounter_4_03",
+  "en": "Simply leap above the pit and strike downwards onto the spikes! The sheer force of the impact will propel you upwards..."
+ },
+ {
+  "id": 857,
+  "ctx": "term Dialogue/npc_trader_encounter_4_04",
+  "en": "This holds true for all things sharp and pointy, as well as those who now roam the City."
+ },
+ {
+  "id": 858,
+  "ctx": "term Dialogue/npc_trader_encounter_4_05",
+  "en": "I will remain to observe..."
+ },
+ {
+  "id": 859,
+  "ctx": "term Dialogue/npc_trader_encounter_4_06",
+  "en": "Well done, capable stranger... Please do seek me out and tell of the wonders you find, so that we may barter."
+ },
+ {
+  "id": 860,
+  "ctx": "term Dialogue/npc_trader_encounter_5_01",
+  "en": "Oh tender stranger, we meet again."
+ },
+ {
+  "id": 861,
+  "ctx": "term Dialogue/npc_trader_encounter_5_02",
+  "en": "I hear the Gray Pyramid has been unsealed, perhaps I'll make my way there before too long. "
+ },
+ {
+  "id": 862,
+  "ctx": "term Dialogue/npc_yantir_greeting01",
+  "en": "The path again lies open. How curious..."
+ },
+ {
+  "id": 863,
+  "ctx": "term Dialogue/npc_yantir_greeting02",
+  "en": "You are as much part of this desolate realm as I... Perhaps even more so."
+ },
+ {
+  "id": 864,
+  "ctx": "term Dialogue/npc_yantir_greeting03",
+  "en": "Do not worry yourself. I am as much a threat to you as you are to me. A balance of spirit."
+ },
+ {
+  "id": 865,
+  "ctx": "term Dialogue/npc_yantir_greeting04",
+  "en": "What brings you into this realm?"
+ },
+ {
+  "id": 866,
+  "ctx": "term Dialogue/npc_yantir_choice01",
+  "en": "Trade"
+ },
+ {
+  "id": 867,
+  "ctx": "term Dialogue/npc_yantir_choice04",
+  "en": "The Progenitors"
+ },
+ {
+  "id": 868,
+  "ctx": "term Dialogue/npc_yantir_choice_02_talk01",
+  "en": "Ah... how astute."
+ },
+ {
+  "id": 869,
+  "ctx": "term Dialogue/npc_yantir_choice_02_talk02",
+  "en": "Indeed, we are not alone here. Do you sense them?"
+ },
+ {
+  "id": 870,
+  "ctx": "term Dialogue/npc_yantir_choice_02_talk03",
+  "en": "Echoes drifting beyond the veil, hiding within the gray stone, bound by fading memories."
+ },
+ {
+  "id": 871,
+  "ctx": "term Dialogue/npc_yantir_choice_02_talk04",
+  "en": "They can yet be called upon by those who know how to harness their energies. People like you and I."
+ },
+ {
+  "id": 872,
+  "ctx": "term Dialogue/npc_yantir_choice_03_talk01",
+  "en": "You are as touched by it as I am; this much is plain to see."
+ },
+ {
+  "id": 873,
+  "ctx": "term Dialogue/npc_yantir_choice_03_talk02",
+  "en": "Once, I ventured beyond the Gate. Yet what I came to understand, none would hear."
+ },
+ {
+  "id": 874,
+  "ctx": "term Dialogue/npc_yantir_choice_03_talk03",
+  "en": "I alone wandered its barren reaches. I alone listened. It is not a place for us. "
+ },
+ {
+  "id": 875,
+  "ctx": "term Dialogue/npc_yantir_choice_03_talk04",
+  "en": "From its depths, dead gods whisper. The unmade and forgotten. So they must remain."
+ },
+ {
+  "id": 876,
+  "ctx": "term Dialogue/npc_yantir_choice_03_talk05",
+  "en": "I will say no more. Do not dwell on my past teachings."
+ },
+ {
+  "id": 877,
+  "ctx": "term Dialogue/npc_yantir_choice_04_talk01",
+  "en": "The gods..."
+ },
+ {
+  "id": 878,
+  "ctx": "term Dialogue/npc_yantir_choice_04_talk02",
+  "en": "What is a god, but a mere matter of perspective?"
+ },
+ {
+  "id": 879,
+  "ctx": "term Dialogue/npc_yantir_choice_04_talk03",
+  "en": "I have come to understand their part in the tapestry of creation."
+ },
+ {
+  "id": 880,
+  "ctx": "term Dialogue/npc_yantir_choice_04_talk04",
+  "en": "Like us, they are but threads to be reclaimed by the greater weave."
+ },
+ {
+  "id": 881,
+  "ctx": "term Dialogue/npc_council_01",
+  "en": "Who stands before the Council, the eternal voices of the Light? You reek of the old ways, yet we do not recognize your form among the Sisters' flock."
+ },
+ {
+  "id": 882,
+  "ctx": "term Dialogue/npc_council_02",
+  "en": "It matters not. All who dwell beneath must serve at the behest of the Star. Your presence within our halls is an affront."
+ },
+ {
+  "id": 883,
+  "ctx": "term Dialogue/npc_council_03",
+  "en": "Oppose"
+ },
+ {
+  "id": 884,
+  "ctx": "term Dialogue/npc_council_04",
+  "en": "Fool. Then be undone by our hand."
+ },
+ {
+  "id": 885,
+  "ctx": "term Dialogue/npc_caretaker_excavation_crew_1_01",
+  "en": "The Beacons harken, and souls long adrift return to shore. It has been too long. "
+ },
+ {
+  "id": 886,
+  "ctx": "term Dialogue/npc_caretaker_excavation_crew_1_02",
+  "en": "The world is not as it was, yet the stone remembers. Please, grant us the honor of serving the Gray Pyramid once more. Grant us the purpose of devotion. We will gather there, as all once did."
+ },
+ {
+  "id": 887,
+  "ctx": "term Dialogue/npc_caretaker_excavation_crew_1_03 (+1 more)",
+  "en": "Countless souls still drift through our once great City. Light the Beacons, that they too may find their way to the Shrine."
+ },
+ {
+  "id": 888,
+  "ctx": "term Dialogue/npc_crew_name",
+  "en": "Devotee"
+ },
+ {
+  "id": 889,
+  "ctx": "term Dialogue/npc_crew_1_01",
+  "en": "To stand within these storied halls once more..."
+ },
+ {
+  "id": 890,
+  "ctx": "term Dialogue/npc_crew_1_02",
+  "en": "The world is not as it was, yet the stone remembers."
+ },
+ {
+  "id": 891,
+  "ctx": "term Dialogue/npc_crew_1_03",
+  "en": "The Beacons harken, and more wayward souls return to these buried halls. Here we gather, as all once did."
+ },
+ {
+  "id": 892,
+  "ctx": "term Dialogue/npc_crew_1_04",
+  "en": "We ask but for the honor of serving the Gray Pyramid once more, for in devotion, lies purpose."
+ },
+ {
+  "id": 893,
+  "ctx": "term Dialogue/npc_crew_2_beacons_lit_01",
+  "en": "The Beacons have been lit."
+ },
+ {
+  "id": 894,
+  "ctx": "term Dialogue/npc_crew_2_beacons_lit_02",
+  "en": "We stand as numerous as the bricks that form these very halls."
+ },
+ {
+  "id": 895,
+  "ctx": "term Dialogue/npc_crew_2_beacons_lit_03",
+  "en": "Never again shall they be allowed to crumble, for our devotion remains eternal."
+ },
+ {
+  "id": 896,
+  "ctx": "term Dialogue/npc_crew_3_boss_tracker_01",
+  "en": "Hallowed Advent. Thanks to you, we may again pay reverence to the reliquaries of the gods. Here, we remember their divine forms, a speck of each held within."
+ },
+ {
+  "id": 897,
+  "ctx": "term Dialogue/npc_crew_4_sanctum_01",
+  "en": "Hallowed Advent. Something lingers in the air. Is it true? Might the gods simply have withdrawn from our sight? "
+ },
+ {
+  "id": 898,
+  "ctx": "term Dialogue/npc_crew_4_sanctum_02",
+  "en": "This chamber bears the mark of the artificers, but I have never seen a design like this mechanism."
+ },
+ {
+  "id": 899,
+  "ctx": "term Dialogue/npc_caretaker_encounter_2_01",
+  "en": "Marvellous work, blessed Advent. As our flock grows, we may begin to unearth the past and expand our domains."
+ },
+ {
+  "id": 900,
+  "ctx": "term Dialogue/npc_caretaker_encounter_2_02",
+  "en": "Awaken all that would see your divinity, for purpose is found in devotion."
+ },
+ {
+  "id": 901,
+  "ctx": "term Dialogue/npc_caretaker_encounter_2_03",
+  "en": "Once, those of our world carried themselves with grace *hrk* and reverence."
+ },
+ {
+  "id": 902,
+  "ctx": "term Dialogue/npc_caretaker_encounter_2_04",
+  "en": "Now, they slither, crawl, and writhe in the filth, unworthy of existence."
+ },
+ {
+  "id": 903,
+  "ctx": "term Dialogue/npc_caretaker_encounter_2_05",
+  "en": "Those who still can must return to us. *hrk* They must be made aware of the breaking of the seal. I know they will return to us."
+ },
+ {
+  "id": 904,
+  "ctx": "term Dialogue/npc_caretaker_encounter_2_context_reply",
+  "en": "Light the ancient *hrk* Beacons. Let all know to gather for mass once more."
+ },
+ {
+  "id": 905,
+  "ctx": "term Dialogue/npc_caretaker_excav_saveroom01",
+  "en": "Ah... one of the ancient mirrors of the Vizier. According to the scriptures, it once allowed those of Voidal affinity to instantly travel between the holy Shrine and the elusive Chambers of Reflection."
+ },
+ {
+  "id": 906,
+  "ctx": "term Dialogue/npc_caretaker_excav_saveroom02",
+  "en": "Focus your energy, Hallowed Advent, and you may return to your last visited Chamber."
+ },
+ {
+  "id": 907,
+  "ctx": "term Dialogue/npc_caretaker_excav_forge01",
+  "en": "Marvellous... the greatest achievement of the Sisters, the Grand Artificer, still operates after all this time."
+ },
+ {
+  "id": 908,
+  "ctx": "term Dialogue/npc_caretaker_excav_forge02",
+  "en": "What wonders we will be able to create through its arcane infusion."
+ },
+ {
+  "id": 909,
+  "ctx": "term Dialogue/npc_caretaker_excav_library01",
+  "en": "It was decreed that some knowledge was to be kept away from the eyes of all."
+ },
+ {
+  "id": 910,
+  "ctx": "term Dialogue/npc_caretaker_excav_library02",
+  "en": "Heresy. The vast records of the Library belong to the flock."
+ },
+ {
+  "id": 911,
+  "ctx": "term Dialogue/npc_caretaker_excav_mausoleum01",
+  "en": "At last... The Inner Sanctum has been unearthed. I feel..."
+ },
+ {
+  "id": 912,
+  "ctx": "term Dialogue/npc_caretaker_excav_mausoleum02",
+  "en": "Echoes of the gods within... Yet they remain distant. It is as the candle flame whispered. An unknown hand is at work here."
+ },
+ {
+  "id": 913,
+  "ctx": "term Dialogue/npc_caretaker_excav_teleport01",
+  "en": "Wondrous. The Sisters' vast web of Void Gates lay at our fingertips."
+ },
+ {
+  "id": 914,
+  "ctx": "term Dialogue/npc_caretaker_excav_teleport02",
+  "en": "You hold the Anchor, but you do not yet possess the means to utilize it."
+ },
+ {
+  "id": 915,
+  "ctx": "term Dialogue/npc_caretaker_excav_teleport03",
+  "en": "Long ago, thieves arrived from beyond our world... the beast they brought fed by what they could pillage from our great ruins. *hrk*"
+ },
+ {
+  "id": 916,
+  "ctx": "term Dialogue/npc_caretaker_excav_teleport05",
+  "en": "Among what they took lies the power you require, Hallowed Advent."
+ },
+ {
+  "id": 917,
+  "ctx": "term Dialogue/npc_caretaker_excav_teleport06",
+  "en": "You must ascend beyond the Old Waters above and venture towards the east. There, you shall find it, buried within stone and ice."
+ },
+ {
+  "id": 918,
+  "ctx": "term Dialogue/npc_caretaker_excav_teleport04",
+  "en": "You possess both the Anchor and the means to unlock the Sisters' web of Void Gates. Please, go ahead."
+ },
+ {
+  "id": 919,
+  "ctx": "term Dialogue/npc_caretaker_keycomment01",
+  "en": "The first seal ruptures... Can you feel it, Hallowed Advent? The presence of the divine is returning."
+ },
+ {
+  "id": 920,
+  "ctx": "term Dialogue/npc_caretaker_keycomment02",
+  "en": "Yes! I hear them more clearly now. They cry in joyous harmony. Only one seal remains..."
+ },
+ {
+  "id": 921,
+  "ctx": "term Dialogue/npc_caretaker_keycomment03",
+  "en": "Hallowed Advent! The seal shatters! Go now and unfetter the gods!"
+ },
+ {
+  "id": 922,
+  "ctx": "term Dialogue/npc_caretaker_excav_thegods01 (+1 more)",
+  "en": "I sense the gods within..."
+ },
+ {
+  "id": 923,
+  "ctx": "term Dialogue/npc_caretaker_choice_ask",
+  "en": "Recent journeys"
+ },
+ {
+  "id": 924,
+  "ctx": "term Dialogue/npc_caretaker_choice_talk (+3 more)",
+  "en": "The Heralds"
+ },
+ {
+  "id": 925,
+  "ctx": "term Dialogue/npc_caretaker_inquire_com_01",
+  "en": "I hear you've journeyed through the streets of our beloved Commons. It is where most lived before the fall, pious and proud. *hrk*"
+ },
+ {
+  "id": 926,
+  "ctx": "term Dialogue/npc_caretaker_inquire_com_02",
+  "en": "It has always been from humble origins that the best of us arise. The further one reaches beyond the grounding stone, the more clouded the mind becomes."
+ },
+ {
+  "id": 927,
+  "ctx": "term Dialogue/npc_caretaker_inquire_com_03",
+  "en": "The carved halls of a City once bustling with life have been reduced to a labyrinthian tomb. Vacant of life, but not of faith. Not of faith. *hrk*"
+ },
+ {
+  "id": 928,
+  "ctx": "term Dialogue/npc_caretaker_inquire_old_01",
+  "en": "There was a time when our people called the archipelago their home. Surrounded by vast oceans, it was rich in both life and resources. *hrk*"
+ },
+ {
+  "id": 929,
+  "ctx": "term Dialogue/npc_caretaker_inquire_old_02",
+  "en": "Since the fall, the great tunnels from which the Progenitor gods once emerged lay frozen in perpetuity."
+ }
+]

@@ -1,0 +1,346 @@
+[
+{
+"id": 1349,
+"en": "{::name:: mutations@BR}"
+},
+{
+"id": 1350,
+"en": "{::name:: mutations@TA}"
+},
+{
+"id": 1351,
+"en": "{::name:: mutations@SU}"
+},
+{
+"id": 1354,
+"en": "Reset mutations ({::gold::@LO}{iconCoin@img})"
+},
+{
+"id": 1355,
+"en": "Reset mutations ({::gold::@GO}{iconCoin@img})"
+},
+{
+"id": 1357,
+"en": "CHOOSE ::n:: MUTATIONS"
+},
+{
+"id": 1359,
+"en": "Do you really want to reset your mutations for {::gold::@GO} {iconCoin@img}?"
+},
+{
+"id": 1362,
+"en": "New content unlocked!",
+"ctx": "NEW_META_ITEM_UNLOCKED"
+},
+{
+"id": 1363,
+"en": "NEW ITEM UNLOCKED!"
+},
+{
+"id": 1364,
+"en": "To change your outfit, you must go to the tailor's place, located near the starting room."
+},
+{
+"id": 1365,
+"en": "You hear a loud noise, like gold coins cascading continuously. It wouldn't hurt to investigate this phenomenon.",
+"ctx": "U28_BANK_UNLOCK_DESC_ADD"
+},
+{
+"id": 1366,
+"en": "Saved games from this experimental version will not be kept."
+},
+{
+"id": 1368,
+"en": "Create a 100% unlocked alpha save"
+},
+{
+"id": 1372,
+"en": "WHERE DO YOU WANT TO COPY SAVE N°0::numslot:: TO?"
+},
+{
+"id": 1373,
+"en": "Are you sure you want to import save 0::from:: as an experimental save?"
+},
+{
+"id": 1374,
+"en": "Are you sure you want to copy the save 0::from:: to the slot n° 0::to::?"
+},
+{
+"id": 1375,
+"en": "(The current save on the slot n°0::to:: will be erased!)"
+},
+{
+"id": 1376,
+"en": "Are you sure you want to delete this save?"
+},
+{
+"id": 1377,
+"en": "Are you sure you want to reset the experimental save?"
+},
+{
+"id": 1379,
+"en": "Import 0::index::"
+},
+{
+"id": 1380,
+"en": "0::index:: (active)"
+},
+{
+"id": 1381,
+"en": "0::index::"
+},
+{
+"id": 1383,
+"en": "Error while loading this save."
+},
+{
+"id": 1384,
+"en": "Saved game is incompatible with current game version"
+},
+{
+"id": 1385,
+"en": "::d::/::m::/::y:: ::hour::"
+},
+{
+"id": 1386,
+"en": "Last game:"
+},
+{
+"id": 1387,
+"en": "Number of runs:"
+},
+{
+"id": 1388,
+"en": "+::num:: bonus points!"
+},
+{
+"id": 1389,
+"en": "::n:: pt"
+},
+{
+"id": 1390,
+"en": "::n:: pts"
+},
+{
+"id": 1410,
+"en": "Weapon blueprints brought to the Collector"
+},
+{
+"id": 1412,
+"en": "Skill blueprints brought to the Collector"
+},
+{
+"id": 1414,
+"en": "Mutation blueprints brought to the Collector"
+},
+{
+"id": 1445,
+"en": "???"
+},
+{
+"id": 1446,
+"en": "You killed them:"
+},
+{
+"id": 1447,
+"en": "They killed you:"
+},
+{
+"id": 1449,
+"en": "+::prct::% damage on {BRUTALITY@BR} objects (Total: +::total::%)."
+},
+{
+"id": 1450,
+"en": "+::prct::% damage on {TACTIC@TA} objects (Total: +::total::%)."
+},
+{
+"id": 1451,
+"en": "+::prct::% damage on {SURVIVAL@SU} objects (Total: +::total::%)."
+},
+{
+"id": 1454,
+"en": "+::prct::% damage on {BRUTALITY@BR} objects."
+},
+{
+"id": 1455,
+"en": "+::prct::% damage on {TACTIC@TA} objects."
+},
+{
+"id": 1456,
+"en": "+::prct::% damage on {SURVIVAL@SU} objects."
+},
+{
+"id": 1458,
+"en": "Stats total: ::v::"
+},
+{
+"id": 1459,
+"en": "Recommended stats: ::v::"
+},
+{
+"id": 1460,
+"en": "Stats selected!",
+"ctx": "U34_SCROLLS_CHOSEN"
+},
+{
+"id": 1462,
+"en": "What's new in Dead Cells?",
+"ctx": "UPDATE_POPUP_TITLE"
+},
+{
+"id": 1463,
+"en": "Dead Cells is back... with the 35th free update The End is Near! \n\nDiscover new twists on one of our most iconic mechanics, Curse, and unlock 3 new weapons, 3 new mobs and 3 new mutations. A new biome effect, Cursed Biome, gives you the choice to enter a biome infested with the 3 new curse-related mobs in exchange for extra rewards. \n\nA bunch of new legendary affixes, reworks and rebalances, plus new & updated accessibility features are now available. \n\nPlus, don’t forget to visit the Tailor’s Daughter for more outfit options with 42 brand new heads!  \n\nMore information in Patch Notes. ",
+"ctx": "UPDATE_POPUP_DESC"
+},
+{
+"id": 1464,
+"en": "What?! I can't believe my eyes!",
+"ctx": "U31_BOSSRUSH_ARCHITECT_TALK_MET_1"
+},
+{
+"id": 1465,
+"en": "You are the Beheaded! The one that's never really dead!",
+"ctx": "U31_BOSSRUSH_ARCHITECT_TALK_MET_2"
+},
+{
+"id": 1466,
+"en": "I'm your biggest fan!.. The only one too...",
+"ctx": "U31_BOSSRUSH_ARCHITECT_TALK_MET_3"
+},
+{
+"id": 1467,
+"en": "Hum, I mean that it's an immeasurable honor to meet you! Keep up the good work, you're awesome! I know you'll go far in these trials!",
+"ctx": "U31_BOSSRUSH_ARCHITECT_TALK_MET_4"
+},
+{
+"id": 1468,
+"en": "Oh, this? Yes, I do a little bit of sculpting in my spare time, so I figured that I'd do a little something in your honor! I'll make it even more beautiful as you conquer greater challenges!",
+"ctx": "U31_BOSSRUSH_ARCHITECT_TALK_MET_5"
+},
+{
+"id": 1469,
+"en": "Ah! A new challenger! Welcome to my proving grounds!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_MET_1"
+},
+{
+"id": 1470,
+"en": "Here, you can fight your most formidable past enemies one after the other.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_MET_2"
+},
+{
+"id": 1471,
+"en": "Should you triumph, you'll receive wonderful rewards and the people (or what remains of them) will sing your praises for years to come.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_MET_3"
+},
+{
+"id": 1472,
+"en": "And if you find it too easy, your opponents have prepared new fighting techniques to surprise you!\nTry completing the challenge without getting hit!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_MET_4"
+},
+{
+"id": 1473,
+"en": "Go ahead! Test your mettle!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_MET_5"
+},
+{
+"id": 1474,
+"en": "Good, I see you chose to enter the fray!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FIRST_RUN_1"
+},
+{
+"id": 1475,
+"en": "I prepared a few items taken from my arsenal for you. Go ahead and gear up!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FIRST_RUN_2"
+},
+{
+"id": 1476,
+"en": "One of these little creatures is also there to help you.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FIRST_RUN_3"
+},
+{
+"id": 1477,
+"en": "Whenever you're ready, just go through the door at the end of the corridor. Serious business begins there!",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FIRST_RUN_4"
+},
+{
+"id": 1478,
+"en": "If you get cold feet, you can always come talk to me to abandon the challenge.",
+"ctx": "U31_BOSSRUSH_NPC_TALK_FIRST_RUN_5"
+},
+{
+"id": 1479,
+"en": "At last, it's over... What a waste!"
+},
+{
+"id": 1481,
+"en": "It looks like it's working..."
+},
+{
+"id": 1482,
+"en": "My skin... Seems to be fading... Is this the end?"
+},
+{
+"id": 1483,
+"en": "This Kingdom may be damned to eternity... But at least I won't be stuck here with it."
+},
+{
+"id": 1484,
+"en": "Farewell!"
+},
+{
+"id": 1485,
+"en": "... Aaany time now..."
+},
+{
+"id": 1486,
+"en": "Despite how little there was left... It seems to be doing something!"
+},
+{
+"id": 1487,
+"en": "My body and spirit are bound again..."
+},
+{
+"id": 1488,
+"en": "End him."
+},
+{
+"id": 1489,
+"en": "What have you done, moron..."
+},
+{
+"id": 1490,
+"en": "I've been trying to save this wretched Kingdom..."
+},
+{
+"id": 1491,
+"en": "Save it... From an ass like you!"
+},
+{
+"id": 1492,
+"en": "Oh, we're all in deep now."
+},
+{
+"id": 1493,
+"en": "I see you've managed to crawl back into your own skin."
+},
+{
+"id": 1494,
+"en": "I needed to keep you away from my research while I worked on a cure."
+},
+{
+"id": 1495,
+"en": "Today, I hope you understand why..."
+},
+{
+"id": 1496,
+"en": "Anyway, you arrived right on time! I've just completed the device which will help me create a cure for the Malaise!"
+},
+{
+"id": 1497,
+"en": "Welcome, my mute friend!"
+},
+{
+"id": 1498,
+"en": "Do you like my Catalyst? Nothing too fancy really, but a necessary tool for any aspiring Alchemist."
+}
+]

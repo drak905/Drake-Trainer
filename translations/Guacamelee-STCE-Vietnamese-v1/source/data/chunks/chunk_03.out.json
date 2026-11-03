@@ -1,0 +1,350 @@
+[
+ {
+  "id": 195,
+  "vi": "Độ khó Khó hiện đã khả dụng."
+ },
+ {
+  "id": 196,
+  "vi": "Thời gian hoàn thành:"
+ },
+ {
+  "id": 197,
+  "vi": "Bạn chưa kết nối mạng.\\nBạn phải kết nối để tải điểm\\nsố lên. Kết nối ngay?"
+ },
+ {
+  "id": 198,
+  "vi": "Bạn chưa kết nối với\\nPlayStation®Network.\\nBạn phải kết nối để tải điểm\\nsố lên. Kết nối ngay?"
+ },
+ {
+  "id": 199,
+  "vi": "Bạn đã bị ngắt kết nối.\\nĐiểm số của bạn chưa được tải lên.\\nKết nối lại và thử lại?"
+ },
+ {
+  "id": 200,
+  "vi": "Bạn đã ngắt kết nối khỏi PlayStation®Network.\\nĐiểm số chưa được tải lên.\\nKết nối lại và thử lại?"
+ },
+ {
+  "id": 201,
+  "vi": "Kết nối không thành công.\\nThử lại?"
+ },
+ {
+  "id": 202,
+  "vi": "Kết nối đến PlayStation®Network\\nkhông thành công.\\nThử lại?"
+ },
+ {
+  "id": 203,
+  "vi": "Đội ngũ Guacamelee!"
+ },
+ {
+  "id": 204,
+  "vi": "Alex \"Axila\" Smithers\\nAndrew \"Pirata Ridiculoso\" Hoculik\\nAugusto \"El Mexicano\" Quijano\\nBen \"El Gran Rojo\" Thomas"
+ },
+ {
+  "id": 205,
+  "vi": "Chris \"El Grunon Un\" Harvey\\nChris \"Palo Palido\" McQuinn\\nChris \"El Fantasma\" Stewart\\nDavid \"Caballero Mecanico\" Cheung"
+ },
+ {
+  "id": 206,
+  "vi": "David \"El Esquivador Constante\" Rusak\\nGraham \"La Jirafa\" Smith\\nJason \"Ataque del Tornillo\" Canam\\nJay \"El Animador\" Edry"
+ },
+ {
+  "id": 207,
+  "vi": "Mathew \"El Futuro Campeon\" Hijazi\\nMatthew \"El Million Peso Hombre\" Johns\\nMayuran \"El Partido Sasquatch\" Thurairatnam\\nMiche \"Muchacha Chido\" Frey"
+ },
+ {
+  "id": 208,
+  "vi": "Peter \"La Cancion\" Chapman\\nRom \"El Musico Misterioso\" Di Prisco\\nRyan \"El Bano\" MacLean\\nStephane \"El Gran Artista\" Goulet"
+ },
+ {
+  "id": 209,
+  "vi": "Tameka \"La Tormenta\" Small\\nTanya \"El Goooaaaaal\" Kozak\\nTeddy \"El Rete-o\" Lee"
+ },
+ {
+  "id": 210,
+  "vi": "Bản địa hóa bởi LocWorks\\nvà Anakan"
+ },
+ {
+  "id": 211,
+  "vi": "Công cụ âm thanh được hỗ trợ\\nbởi FMOD Ex\\n(Firelight Technologies)"
+ },
+ {
+  "id": 212,
+  "vi": "LỜI CẢM ƠN ĐẶC BIỆT"
+ },
+ {
+  "id": 213,
+  "vi": "Laurie Biderman và Telefilm, Canada Media\\nFund, Kim Gibson và OMDC, Shane\\nBettenhausen, Brian Silva, Nick Suttner,\\nMMPR, Alex Josef, Alex Van Lepp, Plan of Attack,\\nDavid Rosenbaum, Samantha Fraser, Ed McMillen,\\nSylvia Mak-Marino, IndieBiz,\\nHandEye Society, IGDA Toronto, Jean-Paul\\nAmore và George Brown Game Designers,\\nbạn bè, các tester tuyệt vời của chúng tôi...\\nvà dĩ nhiên là cả familia của chúng tôi!"
+ },
+ {
+  "id": 214,
+  "vi": "Guacamelee!\\nsử dụng thư viện Box2D và FreeType"
+ },
+ {
+  "id": 215,
+  "vi": "Được thực hiện nhờ\\nsự hỗ trợ của\\nOntario Media\\nDevelopment Corporation"
+ },
+ {
+  "id": 216,
+  "vi": "Nhảy dê"
+ },
+ {
+  "id": 217,
+  "vi": "Nhảy đôi"
+ },
+ {
+  "id": 218,
+  "vi": "Nâng luchador"
+ },
+ {
+  "id": 219,
+  "vi": "Móc xuống"
+ },
+ {
+  "id": 220,
+  "vi": "Móc gà trống"
+ },
+ {
+  "id": 221,
+  "vi": "Húc đầu Olmec"
+ },
+ {
+  "id": 222,
+  "vi": "Đập ếch"
+ },
+ {
+  "id": 223,
+  "vi": "Lao Derpderp"
+ },
+ {
+  "id": 224,
+  "vi": "Leo dê"
+ },
+ {
+  "id": 225,
+  "vi": "Bay dê"
+ },
+ {
+  "id": 226,
+  "vi": "Ném nhắm bắn"
+ },
+ {
+  "id": 227,
+  "vi": "Đòn vật: Das Boot"
+ },
+ {
+  "id": 228,
+  "vi": "Đòn vật: Piledriver"
+ },
+ {
+  "id": 229,
+  "vi": "Đòn vật: Suplex"
+ },
+ {
+  "id": 230,
+  "vi": "Không sức mạnh"
+ },
+ {
+  "id": 231,
+  "vi": "Hoán đổi chiều không gian"
+ },
+ {
+  "id": 232,
+  "vi": "(Trên tường) {A}"
+ },
+ {
+  "id": 233,
+  "vi": "{LSTICKLEFT}/{LSTICKRIGHT} (Hướng vào tường)"
+ },
+ {
+  "id": 234,
+  "vi": "(Trên không) {A}"
+ },
+ {
+  "id": 235,
+  "vi": "(Trên không) {LSTICKDOWN}+{SQUARE}"
+ },
+ {
+  "id": 236,
+  "vi": "{B} (Làm được trên không)"
+ },
+ {
+  "id": 237,
+  "vi": "{LSTICKUP}+{B} (Làm được trên không)"
+ },
+ {
+  "id": 238,
+  "vi": "(Trên không) {LSTICKDOWN}+{B}"
+ },
+ {
+  "id": 239,
+  "vi": "{LSTICKRIGHT}+{B} (Làm được trên không)"
+ },
+ {
+  "id": 240,
+  "vi": "(Trên tường) {Y}+{LSTICKUP}"
+ },
+ {
+  "id": 241,
+  "vi": "(Trên tường) {Y}+{LSTICKRIGHT}"
+ },
+ {
+  "id": 242,
+  "vi": "(Từ thế vật) {LSTICKDOWN}+{B}"
+ },
+ {
+  "id": 243,
+  "vi": "(Từ thế vật) {LSTICKLEFT}+{B}/{LSTICKUP}+{B}"
+ },
+ {
+  "id": 244,
+  "vi": "(Từ thế vật) {LSTICKRIGHT}+{B}"
+ },
+ {
+  "id": 245,
+  "vi": "Chọn khu vực {LSTICK}"
+ },
+ {
+  "id": 246,
+  "vi": "Xem bản đồ khu vực {MAPCHOOSE}"
+ },
+ {
+  "id": 247,
+  "vi": "Về bản đồ nhỏ {TOGGLEMAPMODE}"
+ },
+ {
+  "id": 248,
+  "vi": "Thu phóng {RSTICKUP}/{RSTICKDOWN}"
+ },
+ {
+  "id": 249,
+  "vi": "Cuộn bản đồ {LSTICK}"
+ },
+ {
+  "id": 250,
+  "vi": "Cuộn bản đồ {LSTICK}/Kéo"
+ },
+ {
+  "id": 251,
+  "vi": "Xem bản đồ thế giới {TOGGLEMAPMODE}"
+ },
+ {
+  "id": 252,
+  "vi": "  P$: "
+ },
+ {
+  "id": 253,
+  "vi": "      B$: "
+ },
+ {
+  "id": 254,
+  "vi": "B$"
+ },
+ {
+  "id": 255,
+  "vi": "      ++BẠC"
+ },
+ {
+  "id": 256,
+  "vi": "Quay lại {MENUCANCEL}"
+ },
+ {
+  "id": 257,
+  "vi": "Bạn cần kết nối mạng để\\ntruy cập bảng xếp hạng.\\nBạn có muốn kết nối không?"
+ },
+ {
+  "id": 258,
+  "vi": "Bạn cần kết nối với\\nPlayStation®Network để\\ntruy cập bảng xếp hạng.\\nBạn có muốn kết nối không?"
+ },
+ {
+  "id": 259,
+  "vi": "Bạn cần kết nối mạng.\\nBạn có muốn kết nối không?"
+ },
+ {
+  "id": 260,
+  "vi": "Bạn cần kết nối với\\nPlayStation®Network.\\nBạn có muốn kết nối không?"
+ },
+ {
+  "id": 261,
+  "vi": "Lưu chéo"
+ },
+ {
+  "id": 262,
+  "vi": "Nếu tải xuống bây giờ, bạn sẽ mất mọi\\ntiến trình chưa lưu của game hiện tại.\\nTiếp tục?"
+ },
+ {
+  "id": 263,
+  "vi": "Tải lên đám mây thành công!"
+ },
+ {
+  "id": 264,
+  "vi": "Tải xuống từ đám mây thành công!"
+ },
+ {
+  "id": 265,
+  "vi": "Tải xuống từ đám mây thất bại!"
+ },
+ {
+  "id": 266,
+  "vi": "Tải lên đám mây thất bại!"
+ },
+ {
+  "id": 267,
+  "vi": "Đang tải lên..."
+ },
+ {
+  "id": 268,
+  "vi": "Đang tải xuống..."
+ },
+ {
+  "id": 269,
+  "vi": "Mất kết nối với mạng!\\nBạn cần kết nối để truy cập\\nbảng xếp hạng.\\nKết nối lại ngay?"
+ },
+ {
+  "id": 270,
+  "vi": "Mất kết nối với mạng!\\nBạn cần kết nối với\\nPlayStation®Network để\\ntruy cập bảng xếp hạng.\\nKết nối lại ngay?"
+ },
+ {
+  "id": 271,
+  "vi": "Bạn đã bị ngắt kết nối khỏi Xbox Live.\\nQuay lại menu trước."
+ },
+ {
+  "id": 272,
+  "vi": "Bạn đã ngắt kết nối khỏi PlayStation®Network.\\nQuay lại menu trước."
+ },
+ {
+  "id": 273,
+  "vi": "Mỗi phím phải được gán riêng biệt"
+ },
+ {
+  "id": 274,
+  "vi": "Nhảy phụ"
+ },
+ {
+  "id": 275,
+  "vi": "Tệp lưu hiện tại mới hơn phiên bản game này hỗ trợ.\\n Vui lòng tải phiên bản game mới nhất"
+ },
+ {
+  "id": 276,
+  "vi": "Hoán đổi chiều"
+ },
+ {
+  "id": 277,
+  "vi": "Sức mạnh\\nPollo"
+ },
+ {
+  "id": 278,
+  "vi": "Bong bóng 2 người chơi"
+ },
+ {
+  "id": 279,
+  "vi": "(Nhấn trái/phải trên thiết bị nhập để gán)"
+ },
+ {
+  "id": 280,
+  "vi": "Một trong số người chơi hiện tại chưa được gán thiết bị nhập"
+ },
+ {
+  "id": 281,
+  "vi": "Mỗi người chơi chỉ được dùng một tay cầm"
+ }
+]

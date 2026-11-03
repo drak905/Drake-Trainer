@@ -1,0 +1,826 @@
+[
+{
+"id": 3807,
+"en": "Undead Archer"
+},
+{
+"id": 3808,
+"en": "Bombardier"
+},
+{
+"id": 3809,
+"en": "Scorpion"
+},
+{
+"id": 3810,
+"en": "Hammer"
+},
+{
+"id": 3811,
+"en": "Pirate Captain"
+},
+{
+"id": 3813,
+"en": "Inquisitor"
+},
+{
+"id": 3814,
+"en": "Caster"
+},
+{
+"id": 3815,
+"en": "Magistrate of Death"
+},
+{
+"id": 3816,
+"en": "Knife Thrower"
+},
+{
+"id": 3817,
+"en": "Arbiter"
+},
+{
+"id": 3818,
+"en": "Sweeper"
+},
+{
+"id": 3819,
+"en": "Yeeter"
+},
+{
+"id": 3820,
+"en": "Blowgunner"
+},
+{
+"id": 3821,
+"en": "Infected Worker"
+},
+{
+"id": 3822,
+"en": "Demolisher"
+},
+{
+"id": 3823,
+"en": "Failed Homunculus"
+},
+{
+"id": 3824,
+"en": "Dastardly Archer"
+},
+{
+"id": 3825,
+"en": "Mutineer"
+},
+{
+"id": 3826,
+"en": "Throw Master",
+"ctx": "DLCP_BONE_THROWER_NAME"
+},
+{
+"id": 3827,
+"en": "Merman",
+"ctx": "DLCP_MERMAN_NAME"
+},
+{
+"id": 3828,
+"en": "Bat"
+},
+{
+"id": 3829,
+"en": "Kamikaze"
+},
+{
+"id": 3830,
+"en": "Golden Kamikaze",
+"ctx": "U28_GOLDEN_KAMIKAZE"
+},
+{
+"id": 3831,
+"en": "Buzzcutter"
+},
+{
+"id": 3832,
+"en": "Sewer Fly"
+},
+{
+"id": 3833,
+"en": "Corpse Fly"
+},
+{
+"id": 3834,
+"en": "Screaming Skull"
+},
+{
+"id": 3835,
+"en": "Demon"
+},
+{
+"id": 3836,
+"en": "Librarian"
+},
+{
+"id": 3837,
+"en": "Myopic Crow"
+},
+{
+"id": 3838,
+"en": "Vampire Bat",
+"ctx": "DLCP_BATDASHERPURPLE_NAME"
+},
+{
+"id": 3839,
+"en": "Harpy",
+"ctx": "DLCP_HARPY_NAME"
+},
+{
+"id": 3840,
+"en": "Elite Lieutenant"
+},
+{
+"id": 3841,
+"en": "Protector"
+},
+{
+"id": 3842,
+"en": "Spawner"
+},
+{
+"id": 3843,
+"en": "Corpse Juice"
+},
+{
+"id": 3844,
+"en": "Masker"
+},
+{
+"id": 3845,
+"en": "Defender"
+},
+{
+"id": 3846,
+"en": "Apostate"
+},
+{
+"id": 3847,
+"en": "Bone Pillar",
+"ctx": "DLCP_BONEPILLAR_NAME"
+},
+{
+"id": 3848,
+"en": "Sore Loser",
+"ctx": "U35_SORELOOSER_NAME"
+},
+{
+"id": 3849,
+"en": "Doom Bringer",
+"ctx": "U35_DOOM_BRINGER_NAME"
+},
+{
+"id": 3850,
+"en": "Curser",
+"ctx": "U35_CURSER_NAME"
+},
+{
+"id": 3851,
+"en": "Giant Tick"
+},
+{
+"id": 3852,
+"en": "Stone Warden"
+},
+{
+"id": 3853,
+"en": "Mimic",
+"ctx": "U28_SHOP_MIMIC_NAME"
+},
+{
+"id": 3854,
+"en": "Medusa",
+"ctx": "DLCP_MEDUSA_NAME"
+},
+{
+"id": 3855,
+"en": "The Concierge"
+},
+{
+"id": 3856,
+"en": "Conjunctivius"
+},
+{
+"id": 3857,
+"en": "Conjunctivius' Tentacle"
+},
+{
+"id": 3858,
+"en": "Mama Tick"
+},
+{
+"id": 3859,
+"en": "The Time Keeper"
+},
+{
+"id": 3860,
+"en": "The Hand of the King"
+},
+{
+"id": 3861,
+"en": "The Giant"
+},
+{
+"id": 3862,
+"en": "The Giant's Eye"
+},
+{
+"id": 3863,
+"en": "The Giant's Hand"
+},
+{
+"id": 3864,
+"en": "The Collector"
+},
+{
+"id": 3865,
+"en": "The Scarecrow"
+},
+{
+"id": 3866,
+"en": "Calliope"
+},
+{
+"id": 3867,
+"en": "Euterpe"
+},
+{
+"id": 3868,
+"en": "Kleio"
+},
+{
+"id": 3869,
+"en": "The Queen"
+},
+{
+"id": 3870,
+"en": "Death",
+"ctx": "DLCP_DEATH_NAME"
+},
+{
+"id": 3871,
+"en": "Dracula"
+},
+{
+"id": 3872,
+"en": "Dracula - Final Form"
+},
+{
+"id": 3873,
+"en": "Elite mob"
+},
+{
+"id": 3874,
+"en": "Explosive Barrel"
+},
+{
+"id": 3876,
+"en": "SURVIVAL",
+"ctx": "SURVIE"
+},
+{
+"id": 3877,
+"en": "BRUTALITY"
+},
+{
+"id": 3878,
+"en": "TACTICS",
+"ctx": "TACTIQUE"
+},
+{
+"id": 3879,
+"en": "COLORLESS",
+"ctx": "COLORLESS"
+},
+{
+"id": 3881,
+"en": "Cannot be sold"
+},
+{
+"id": 3882,
+"en": "Food infected with the Malaise"
+},
+{
+"id": 3884,
+"en": "Defensive object (reduces damage taken)"
+},
+{
+"id": 4022,
+"en": "Taunt all enemies on sight"
+},
+{
+"id": 4060,
+"en": "Prisoners' Quarters"
+},
+{
+"id": 4064,
+"en": "Promenade of the Condemned"
+},
+{
+"id": 4068,
+"en": "Toxic Sewers"
+},
+{
+"id": 4073,
+"en": "Prison Depths"
+},
+{
+"id": 4077,
+"en": "Corrupted Prison"
+},
+{
+"id": 4081,
+"en": "Ramparts"
+},
+{
+"id": 4085,
+"en": "Ossuary"
+},
+{
+"id": 4089,
+"en": "Ancient Sewers"
+},
+{
+"id": 4094,
+"en": "Black Bridge"
+},
+{
+"id": 4099,
+"en": "Insufferable Crypt"
+},
+{
+"id": 4104,
+"en": "Stilt Village"
+},
+{
+"id": 4109,
+"en": "Slumbering Sanctuary"
+},
+{
+"id": 4113,
+"en": "Graveyard"
+},
+{
+"id": 4117,
+"en": "Clock Tower"
+},
+{
+"id": 4122,
+"en": "Forgotten Sepulcher"
+},
+{
+"id": 4126,
+"en": "Clock Room"
+},
+{
+"id": 4130,
+"en": "Cavern"
+},
+{
+"id": 4135,
+"en": "Guardian's Haven"
+},
+{
+"id": 4139,
+"en": "High Peak Castle"
+},
+{
+"id": 4144,
+"en": "Derelict Distillery"
+},
+{
+"id": 4149,
+"en": "Throne Room"
+},
+{
+"id": 4153,
+"en": "Astrolab"
+},
+{
+"id": 4158,
+"en": "Observatory"
+},
+{
+"id": 4162,
+"en": "Architects' Rest"
+},
+{
+"id": 4163,
+"en": "Pier"
+},
+{
+"id": 4166,
+"en": "Dilapidated Arboretum"
+},
+{
+"id": 4170,
+"en": "Morass of the Banished"
+},
+{
+"id": 4174,
+"en": "Nest"
+},
+{
+"id": 4178,
+"en": "Fractured Shrines"
+},
+{
+"id": 4186,
+"en": "Undying Shores"
+},
+{
+"id": 4195,
+"en": "The Mausoleum"
+},
+{
+"id": 4200,
+"en": "Infested Shipwreck"
+},
+{
+"id": 4205,
+"en": "Lighthouse"
+},
+{
+"id": 4210,
+"en": "The Crown"
+},
+{
+"id": 4216,
+"en": "Fortius quo fidelius",
+"ctx": "U28_BANK_LOREDESC_1"
+},
+{
+"id": 4221,
+"en": "Castle's Outskirts",
+"ctx": "DLCP_BIOME_FOREST"
+},
+{
+"id": 4225,
+"en": "Dracula's Castle",
+"ctx": "DLCP_BIOME_CASTLE"
+},
+{
+"id": 4229,
+"en": "Defiled Necropolis",
+"ctx": "DLCP_DEATH_ARENA_NAME"
+},
+{
+"id": 4234,
+"en": "Master's Keep"
+},
+{
+"id": 4241,
+"en": "Passage to the Toxic Sewers"
+},
+{
+"id": 4242,
+"en": "Passage to the Dilapidated Arboretum"
+},
+{
+"id": 4243,
+"en": "Passage to the Prison Depths"
+},
+{
+"id": 4244,
+"en": "Passage to the Ramparts"
+},
+{
+"id": 4245,
+"en": "Passage to the Ossuary"
+},
+{
+"id": 4246,
+"en": "Passage to the Ancient Sewers"
+},
+{
+"id": 4248,
+"en": "Passage to the Corrupted Prison"
+},
+{
+"id": 4249,
+"en": "Passage to the Black Bridge"
+},
+{
+"id": 4250,
+"en": "Passage to the Insufferable Crypt"
+},
+{
+"id": 4251,
+"en": "Passage to the Nest"
+},
+{
+"id": 4254,
+"en": "Passage to the Slumbering Sanctuary"
+},
+{
+"id": 4255,
+"en": "Passage to the Graveyard"
+},
+{
+"id": 4256,
+"en": "Passage to the Forgotten Sepulcher"
+},
+{
+"id": 4257,
+"en": "Passage to the Clock Tower"
+},
+{
+"id": 4258,
+"en": "Passage to the Cavern"
+},
+{
+"id": 4259,
+"en": "Passage to the Clock Room"
+},
+{
+"id": 4260,
+"en": "Passage to the Guardian's Haven"
+},
+{
+"id": 4262,
+"en": "Passage to the Derelict Distillery"
+},
+{
+"id": 4263,
+"en": "Passage to the Throne Room"
+},
+{
+"id": 4264,
+"en": "Passageway to the Astrolab"
+},
+{
+"id": 4265,
+"en": "Passageway to the Observatory"
+},
+{
+"id": 4266,
+"en": "Passage to the Fractured Shrines"
+},
+{
+"id": 4267,
+"en": "Passage to the Undying Shores"
+},
+{
+"id": 4268,
+"en": "Passage to the Mausoleum"
+},
+{
+"id": 4269,
+"en": "Path to the Lighthouse's Top"
+},
+{
+"id": 4270,
+"en": "Path to the Lighthouse"
+},
+{
+"id": 4271,
+"en": "Exit the Bank",
+"ctx": "U28_EXIT_BANK_NAME"
+},
+{
+"id": 4272,
+"en": "Path to the Castle's Outskirts",
+"ctx": "DLCP_PURPLEGARDEN_TRANSITION_NAME"
+},
+{
+"id": 4273,
+"en": "Path to Dracula's Castle",
+"ctx": "DLCP_DOOKUCASTLE_TRANSITION_NAME"
+},
+{
+"id": 4274,
+"en": "Path to the Master's Keep",
+"ctx": "DLCP_DOOKUARENA_TRANSITION_NAME"
+},
+{
+"id": 4276,
+"en": "Tipyx debug"
+},
+{
+"id": 4277,
+"en": "Seb debug"
+},
+{
+"id": 4278,
+"en": "LabArt"
+},
+{
+"id": 4279,
+"en": "Thomas debug"
+},
+{
+"id": 4280,
+"en": "Skool debug"
+},
+{
+"id": 4281,
+"en": "Looping debug"
+},
+{
+"id": 4282,
+"en": "Photo Room"
+},
+{
+"id": 4284,
+"en": "For the RTC"
+},
+{
+"id": 4285,
+"en": "Modded level"
+},
+{
+"id": 4286,
+"en": "Corrupted Rooftops"
+},
+{
+"id": 4287,
+"en": "Passage to the Pier"
+},
+{
+"id": 4288,
+"en": "The Well"
+},
+{
+"id": 4289,
+"en": "Debug Damien"
+},
+{
+"id": 4290,
+"en": "Challenge"
+},
+{
+"id": 4292,
+"en": "Dojo"
+},
+{
+"id": 4294,
+"en": "Richter Mode",
+"ctx": "DLCP_BIOME_RICHTER"
+},
+{
+"id": 4298,
+"en": "Normal"
+},
+{
+"id": 4299,
+"en": "Hard"
+},
+{
+"id": 4300,
+"en": "Very hard"
+},
+{
+"id": 4301,
+"en": "Expert"
+},
+{
+"id": 4302,
+"en": "Nightmare"
+},
+{
+"id": 4303,
+"en": "Hell"
+},
+{
+"id": 4304,
+"en": "Sign"
+},
+{
+"id": 4305,
+"en": "Dirty bed"
+},
+{
+"id": 4306,
+"en": "Hidden hole"
+},
+{
+"id": 4307,
+"en": "Chest"
+},
+{
+"id": 4308,
+"en": "Jar of mushrooms"
+},
+{
+"id": 4309,
+"en": "Powder"
+},
+{
+"id": 4327,
+"en": "Hanged prisoner"
+},
+{
+"id": 4328,
+"en": "Flower pots"
+},
+{
+"id": 4329,
+"en": "Large pot"
+},
+{
+"id": 4330,
+"en": "Window"
+},
+{
+"id": 4331,
+"en": "Mattress"
+},
+{
+"id": 4344,
+"en": "Campfire"
+},
+{
+"id": 4345,
+"en": "Writing"
+},
+{
+"id": 4346,
+"en": "Body"
+},
+{
+"id": 4354,
+"en": "Cell door"
+},
+{
+"id": 4355,
+"en": "Meal tray"
+},
+{
+"id": 4370,
+"en": "Pile of corpses"
+},
+{
+"id": 4371,
+"en": "Banner"
+},
+{
+"id": 4377,
+"en": "Prisoner"
+},
+{
+"id": 4378,
+"en": "Execution order"
+},
+{
+"id": 4390,
+"en": "Prisoner's personal effects"
+},
+{
+"id": 4398,
+"en": "Letter"
+},
+{
+"id": 4399,
+"en": "Bed"
+},
+{
+"id": 4406,
+"en": "Well"
+},
+{
+"id": 4407,
+"en": "Rubble"
+},
+{
+"id": 4408,
+"en": "Bag"
+},
+{
+"id": 4409,
+"en": "Spoon"
+},
+{
+"id": 4420,
+"en": "Rubbish"
+},
+{
+"id": 4421,
+"en": "Corpse"
+},
+{
+"id": 4432,
+"en": "Tunnel"
+},
+{
+"id": 4433,
+"en": "Canvas bag"
+},
+{
+"id": 4434,
+"en": "Tight passage"
+},
+{
+"id": 4440,
+"en": "Tomb of the Zéro-Hordiens"
+},
+{
+"id": 4445,
+"en": "Plate"
+}
+]

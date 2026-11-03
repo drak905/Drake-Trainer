@@ -1,0 +1,560 @@
+[
+{
+"id": 0,
+"en": "Quit current game?"
+},
+{
+"id": 1,
+"en": "(You will keep all your progress with the Collector and your runes)"
+},
+{
+"id": 3,
+"en": "DualSense wireless controller disconnected",
+"ctx": "PS5 terminology"
+},
+{
+"id": 6,
+"en": "Origin is unavailable.\n\nYour achievements won't be saved until you restart the game."
+},
+{
+"id": 10,
+"en": "{Run duration@ST}\n ::time::"
+},
+{
+"id": 11,
+"en": "::key:: (HOLD) Skip"
+},
+{
+"id": 50,
+"en": "THE CHERRY ON THE CAKE: Enemies drop a bomb when they die."
+},
+{
+"id": 51,
+"en": "TRAPPED DOORS: Doors explode."
+},
+{
+"id": 52,
+"en": "FOLLOW THE LIGHT: The level is plunged into darkness."
+},
+{
+"id": 53,
+"en": "BLOODLUST: Keep killing enemies or die."
+},
+{
+"id": 54,
+"en": "VENOMOUS: Every wound also poisons you."
+},
+{
+"id": 55,
+"en": "CHICKENTHOR: Captain Chicken will attack nearby enemies."
+},
+{
+"id": 56,
+"en": "HITCHCOCK: Birds, birds everywhere!"
+},
+{
+"id": 57,
+"en": "FOG: Warning, deadly invisible monsters may be hidden by dense fog, travel at your own risk."
+},
+{
+"id": 58,
+"en": "SHARP SHOOTERS: Take cover!"
+},
+{
+"id": 59,
+"en": "SPIKERS: Time for some mushroom hunting..."
+},
+{
+"id": 60,
+"en": "JUMPS: You can jump multiple times in the air."
+},
+{
+"id": 61,
+"en": "ADAPTATION: This item will be replaced by another one (same type) of your main color between each level"
+},
+{
+"id": 62,
+"en": "Love the serenity..."
+},
+{
+"id": 63,
+"en": "A room with a view!"
+},
+{
+"id": 64,
+"en": "Finally, a moment of rest..."
+},
+{
+"id": 66,
+"en": "What's that funky smell?"
+},
+{
+"id": 67,
+"en": "Who needs an Italian plumber?"
+},
+{
+"id": 68,
+"en": "Even the rats avoid the place..."
+},
+{
+"id": 69,
+"en": "My fish is fresh!"
+},
+{
+"id": 70,
+"en": "The dead center of the island..."
+},
+{
+"id": 71,
+"en": "Fortune and glory, kid. Fortune and Glory..."
+},
+{
+"id": 72,
+"en": "Afraid of the dark?"
+},
+{
+"id": 73,
+"en": "It rubs the lotion on its skin!"
+},
+{
+"id": 74,
+"en": "Tic... Toc..."
+},
+{
+"id": 76,
+"en": "Please leave your shoes at the entrance."
+},
+{
+"id": 77,
+"en": "Bend the knee? I think not..."
+},
+{
+"id": 78,
+"en": "Quit tickling!"
+},
+{
+"id": 79,
+"en": "What are you rubbing at anyway?"
+},
+{
+"id": 80,
+"en": "Here comes a new challenger!"
+},
+{
+"id": 81,
+"en": "Incy Wincy..."
+},
+{
+"id": 84,
+"en": "Steam rolled."
+},
+{
+"id": 85,
+"en": "Is there something in your eye?"
+},
+{
+"id": 86,
+"en": "Flawless victory."
+},
+{
+"id": 89,
+"en": "The last rampart falls..."
+},
+{
+"id": 90,
+"en": "Do you need... A hand?? Bahaha!"
+},
+{
+"id": 92,
+"en": "Slash! Slash! Roll!"
+},
+{
+"id": 93,
+"en": "Pimp my ride."
+},
+{
+"id": 95,
+"en": "I like to live dangerously..."
+},
+{
+"id": 96,
+"en": "¡Arriba, arriba! ¡Ándale, ándale!"
+},
+{
+"id": 97,
+"en": "See, that wasn't so hard now, was it?"
+},
+{
+"id": 103,
+"en": "Up, Guards, and at them again!"
+},
+{
+"id": 104,
+"en": "Finished, without fear."
+},
+{
+"id": 106,
+"en": "Let's get down to the nitty gritty..."
+},
+{
+"id": 107,
+"en": "Going down!"
+},
+{
+"id": 108,
+"en": "They came from behind!"
+},
+{
+"id": 109,
+"en": "YOLO! Or not?"
+},
+{
+"id": 110,
+"en": "Ohhhhhh! That hurt!"
+},
+{
+"id": 111,
+"en": "We've all been there before..."
+},
+{
+"id": 112,
+"en": "What? There's nothing wrong with these..."
+},
+{
+"id": 114,
+"en": "Faster than light!"
+},
+{
+"id": 117,
+"en": "I don't step on toes..."
+},
+{
+"id": 122,
+"en": "David and Goliath..."
+},
+{
+"id": 123,
+"en": "Nothing left to... collect."
+},
+{
+"id": 124,
+"en": "I've got my eyes on you..."
+},
+{
+"id": 125,
+"en": "Take that, sucker!"
+},
+{
+"id": 126,
+"en": "Who's a good boi?"
+},
+{
+"id": 130,
+"en": "Go play outside!"
+},
+{
+"id": 131,
+"en": "The mud is getting warm, so you might as well swim."
+},
+{
+"id": 132,
+"en": "Knee deep in mud..."
+},
+{
+"id": 133,
+"en": "Don't. Touch. Anything!"
+},
+{
+"id": 134,
+"en": "Cheers!"
+},
+{
+"id": 138,
+"en": "Beware the step!"
+},
+{
+"id": 140,
+"en": "In mushroom, we trust."
+},
+{
+"id": 141,
+"en": "Watering Time!"
+},
+{
+"id": 144,
+"en": "Me, jealous?"
+},
+{
+"id": 148,
+"en": "The cowl does not make the monk"
+},
+{
+"id": 149,
+"en": "Iceberg right ahead!"
+},
+{
+"id": 157,
+"en": "Oh how fast they grow!"
+},
+{
+"id": 159,
+"en": "Spare!"
+},
+{
+"id": 161,
+"en": "Put that thing back where it came from or so help me"
+},
+{
+"id": 167,
+"en": "The Bank always wins in the end",
+"ctx": "U28_ACHIEV_TITLE_BIOME_REACHED_BANK"
+},
+{
+"id": 168,
+"en": "Up to the eyeball in debt",
+"ctx": "U28_ACHIEV_TITLE_FEAT_DEBT"
+},
+{
+"id": 170,
+"en": "Am I still on the island?",
+"ctx": "DLCP_ACHIEV_TITLE_BIOME_REACHED_PGARDEN"
+},
+{
+"id": 173,
+"en": "What is a man?",
+"ctx": "DLCP_ACHIEV_TITLE_BIOME_REACHED_DOOKU"
+},
+{
+"id": 174,
+"en": "You don't belong in this world!",
+"ctx": "DLCP_ACHIEV_TITLE_FIGHT_BEAT_DOOKU"
+},
+{
+"id": 176,
+"en": "Death comes for us all... but not you!",
+"ctx": "DLCP_ACHIEV_TITLE_FIGHT_BEAT_DEATH"
+},
+{
+"id": 177,
+"en": "Dodge Death!",
+"ctx": "DLCP_ACHIEV_TITLE_FIGHT_BEAT_DEATH_NODAMAGE"
+},
+{
+"id": 180,
+"en": "Can you stop moving please?!",
+"ctx": "DLCP_ACHIEV_TITLE_FEAT_AXE_KILL_WWOLF"
+},
+{
+"id": 181,
+"en": "Does what it says on the tin",
+"ctx": "DLCP_ACHIEV_TITLE_FEAT_VKILLER_KILL_DOOKU"
+},
+{
+"id": 183,
+"en": "Nothing to say but... Bravo!"
+},
+{
+"id": 184,
+"en": "Reach the Promenade of the Condemned for the first time."
+},
+{
+"id": 185,
+"en": "Reach the Ramparts for the first time."
+},
+{
+"id": 186,
+"en": "Reach the Black Bridge for the first time."
+},
+{
+"id": 187,
+"en": "Reach the Ossuary for the first time."
+},
+{
+"id": 188,
+"en": "Reach the Toxic Sewers for the first time."
+},
+{
+"id": 189,
+"en": "Reach the Ancient Sewers for the first time."
+},
+{
+"id": 190,
+"en": "Reach the Insufferable Crypt for the first time."
+},
+{
+"id": 191,
+"en": "Reach the Stilt Village for the first time."
+},
+{
+"id": 192,
+"en": "Reach the Graveyard for the first time."
+},
+{
+"id": 193,
+"en": "Reach the Slumbering Sanctuary for the first time!"
+},
+{
+"id": 194,
+"en": "Reach the Forgotten Sepulcher for the first time!"
+},
+{
+"id": 195,
+"en": "Reach the Prison Depths for the first time."
+},
+{
+"id": 196,
+"en": "Reach the Clock Tower for the first time!"
+},
+{
+"id": 197,
+"en": "Reach the Clock Room for the first time!"
+},
+{
+"id": 198,
+"en": "Reach the Castle for the first time."
+},
+{
+"id": 199,
+"en": "Reach the Throne Room for the first time."
+},
+{
+"id": 200,
+"en": "Absorb the Vine Rune."
+},
+{
+"id": 201,
+"en": "Absorb the Teleportation rune."
+},
+{
+"id": 202,
+"en": "Absorb the Challenger Rune!"
+},
+{
+"id": 203,
+"en": "Absorb the Spider's Rune!"
+},
+{
+"id": 204,
+"en": "Absorb the Ram's Rune."
+},
+{
+"id": 205,
+"en": "You beat \"The Concierge\"!"
+},
+{
+"id": 206,
+"en": "You beat \"The Concierge\" without taking a single hit!"
+},
+{
+"id": 207,
+"en": "You beat \"Conjunctivius\"!"
+},
+{
+"id": 208,
+"en": "You beat \"Conjunctivius\" without taking a single hit!"
+},
+{
+"id": 209,
+"en": "You have beaten the \"Time Keeper\"!"
+},
+{
+"id": 210,
+"en": "You beat the \"Time Keeper\" without taking a single hit."
+},
+{
+"id": 211,
+"en": "Beat the Hand of the King."
+},
+{
+"id": 212,
+"en": "Beat the Hand of the King without taking a single hit."
+},
+{
+"id": 213,
+"en": "You slayed 100 elites. Badman."
+},
+{
+"id": 214,
+"en": "Unlock 10 weapons."
+},
+{
+"id": 215,
+"en": "Unlock 10 skills."
+},
+{
+"id": 216,
+"en": "Finish the game with \"Ygdar Orus Li Ox\" in your possession!"
+},
+{
+"id": 217,
+"en": "Against all odds, you finished the game with the Cursed Sword!"
+},
+{
+"id": 218,
+"en": "Open your first timed door."
+},
+{
+"id": 219,
+"en": "Successfully complete a Challenge Rift."
+},
+{
+"id": 220,
+"en": "Find your first secret zone."
+},
+{
+"id": 221,
+"en": "Absorb your first Boss Stem Cell"
+},
+{
+"id": 222,
+"en": "Absorb your second Boss Stem Cell"
+},
+{
+"id": 223,
+"en": "Absorb your third Boss Stem Cell"
+},
+{
+"id": 224,
+"en": "Absorb your fourth Boss Stem Cell"
+},
+{
+"id": 225,
+"en": "Finish the game with a Boss Stem Cell active."
+},
+{
+"id": 226,
+"en": "Finish the game with two Boss Stem Cells active"
+},
+{
+"id": 227,
+"en": "Finish the game with three Boss Stem Cells active"
+},
+{
+"id": 228,
+"en": "Finish the game with four Boss Stem Cells active"
+},
+{
+"id": 229,
+"en": "Kill an enemy with an elevator."
+},
+{
+"id": 230,
+"en": "Suicide by elevator."
+},
+{
+"id": 231,
+"en": "Cheat Death..."
+},
+{
+"id": 232,
+"en": "Die while carrying at least 100 cells. Burn."
+},
+{
+"id": 233,
+"en": "A downward smash attack... right into some deadly spikes!"
+},
+{
+"id": 234,
+"en": "Finish the game with the starter sword, bow or shield."
+}
+]

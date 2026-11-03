@@ -1,0 +1,542 @@
+[
+ {
+  "id": 1026,
+  "ctx": "term Dialogue/npc_vizier_orb_carried01",
+  "en": "You return. What is that you carry?"
+ },
+ {
+  "id": 1027,
+  "ctx": "term Dialogue/answer_show_device",
+  "en": "Show Mysterious Orb"
+ },
+ {
+  "id": 1028,
+  "ctx": "term Dialogue/answer_activate_device",
+  "en": "Activate Mysterious Orb"
+ },
+ {
+  "id": 1029,
+  "ctx": "term Dialogue/npc_vizier_orb_shown01",
+  "en": "This craftsmanship. I would recognize it anywhere. It must come from the halls of the Chroniclers?"
+ },
+ {
+  "id": 1030,
+  "ctx": "term Dialogue/npc_vizier_orb_shown02",
+  "en": "An insidious device. I'm relieved you chose not to activate it... Give it here."
+ },
+ {
+  "id": 1031,
+  "ctx": "term Dialogue/npc_vizier_orb_shown03",
+  "en": "It has been disarmed, in a manner of speaking."
+ },
+ {
+  "id": 1032,
+  "ctx": "term Dialogue/npc_vizier_orb_shown04",
+  "en": "Return it to its maker."
+ },
+ {
+  "id": 1033,
+  "ctx": "term Dialogue/npc_vizier_orb_activated01",
+  "en": "This craftsmanship... No! What are you doing?! Who gave you... This...?"
+ },
+ {
+  "id": 1034,
+  "ctx": "term Dialogue/npc_vizier_orb_returned01",
+  "en": "Ah, perfect! I'm not certain they truly understand what pain is, but I pray they felt it."
+ },
+ {
+  "id": 1035,
+  "ctx": "term Dialogue/npc_vizier_orb_returned02",
+  "en": "Their meddling is unwanted here."
+ },
+ {
+  "id": 1036,
+  "ctx": "term Dialogue/npc_vizier_orb_returned03",
+  "en": "Undisturbed, I will be able to recreate every grain of sand. Every mote of dust."
+ },
+ {
+  "id": 1037,
+  "ctx": "term Dialogue/npc_vizier_orb_returned04",
+  "en": "Consider me in your debt."
+ },
+ {
+  "id": 1038,
+  "ctx": "term Dialogue/npc_vizier_memory_choice01",
+  "en": "...the alabaster plaza spanned the entirety of the eastern district. But how many spires lined the horizon? What color were the gemstones...?"
+ },
+ {
+  "id": 1039,
+  "ctx": "term Dialogue/npc_vizier_memory_choice01-01",
+  "en": "Present Endless Kaleidoscope"
+ },
+ {
+  "id": 1040,
+  "ctx": "term Dialogue/npc_vizier_memory_regained01",
+  "en": "Yes! Wonderful! This is what I need. I shall expand this world, recreate the splendor that once was."
+ },
+ {
+  "id": 1041,
+  "ctx": "term Dialogue/npc_vizier_memory_regained02",
+  "en": "But... something is not right."
+ },
+ {
+  "id": 1042,
+  "ctx": "term Dialogue/npc_vizier_memory_regained03",
+  "en": "...surely that is not how it was. The spires, the grand metropolis."
+ },
+ {
+  "id": 1043,
+  "ctx": "term Dialogue/npc_vizier_memory_regained04",
+  "en": "It was magnificent. Truly magnificent."
+ },
+ {
+  "id": 1044,
+  "ctx": "term Dialogue/npc_vizier_memory_regained05",
+  "en": "Truly..."
+ },
+ {
+  "id": 1045,
+  "ctx": "term Dialogue/npc_vizier_name_ghost",
+  "en": "Echo of the Vizier"
+ },
+ {
+  "id": 1046,
+  "ctx": "term Dialogue/npc_vizier_03",
+  "en": "The reflection dims... Who are you?"
+ },
+ {
+  "id": 1047,
+  "ctx": "term Dialogue/npc_vizier_save_room_01",
+  "en": "Intriguing development."
+ },
+ {
+  "id": 1048,
+  "ctx": "term Dialogue/npc_vizier_save_room_02",
+  "en": "An aberration, to be sure... but of what nature?"
+ },
+ {
+  "id": 1049,
+  "ctx": "term Dialogue/npc_vizier_save_room_03",
+  "en": "You utilize my Mirrors, yet fail to grasp their underlying design."
+ },
+ {
+  "id": 1050,
+  "ctx": "term Dialogue/npc_vizier_save_room_04",
+  "en": "My study remains deep within the palace halls. You may seek me there."
+ },
+ {
+  "id": 1051,
+  "ctx": "term Dialogue/npc_vizier_returning_helmet_01",
+  "en": "This Helmet..."
+ },
+ {
+  "id": 1052,
+  "ctx": "term Dialogue/npc_vizier_returning_helmet_02",
+  "en": "How did it come to rest with you?"
+ },
+ {
+  "id": 1054,
+  "ctx": "term Dialogue/npc_vizier_returning_helmet_04 (+1 more)",
+  "en": "I understand."
+ },
+ {
+  "id": 1055,
+  "ctx": "term Dialogue/npc_vizier_returning_helmet_05",
+  "en": "At long last, an unlife fraught with misguided aspirations has ended. Perhaps it is for the best."
+ },
+ {
+  "id": 1056,
+  "ctx": "term Dialogue/npc_vizier_returning_helmet_06",
+  "en": "I will mourn the loss of our past."
+ },
+ {
+  "id": 1057,
+  "ctx": "term Dialogue/npc_vizier_returning_helmet_07",
+  "en": "You've shown kindness in bringing this to me. I can but reciprocate."
+ },
+ {
+  "id": 1058,
+  "ctx": "term Dialogue/npc_learned_01",
+  "en": "Unknown creation pattern. Contrasting. Hold. Irregular correlations. Spectrums of un-light."
+ },
+ {
+  "id": 1059,
+  "ctx": "term Dialogue/npc_learned_02",
+  "en": "Sensory input. Unknown. Allure. Primeval traces. Knowledge expanded. Records must be created."
+ },
+ {
+  "id": 1060,
+  "ctx": "term Dialogue/npc_learned_03",
+  "en": "Sensing the presence of another. Locate. Hunt. Fugitive. Hidden within the reflection. A window into the concept of before."
+ },
+ {
+  "id": 1061,
+  "ctx": "term Dialogue/npc_learned_04",
+  "en": "Something deflects our attempts to collect. World of glass will be understood. Indexed."
+ },
+ {
+  "id": 1062,
+  "ctx": "term Dialogue/npc_learned_05",
+  "en": "Make overtures. Transport Orb. Fugitive desires object."
+ },
+ {
+  "id": 1063,
+  "ctx": "term Dialogue/npc_learned_06",
+  "en": "Ruse. Unknown creation pattern will mediate. Fugitive will believe. Orb will neutralize. History will be created. We will study what remains."
+ },
+ {
+  "id": 1064,
+  "ctx": "term Dialogue/npc_learned_07",
+  "en": "Resources are plentiful. Rewards are generous."
+ },
+ {
+  "id": 1065,
+  "ctx": "term Dialogue/npc_learned_08",
+  "en": "Your choice has been recorded."
+ },
+ {
+  "id": 1066,
+  "ctx": "term Dialogue/npc_learned_09",
+  "en": "You return from the reflection."
+ },
+ {
+  "id": 1067,
+  "ctx": "term Dialogue/npc_learned_10",
+  "en": "Events have transpired. We must learn the cipher. Sift through the remains."
+ },
+ {
+  "id": 1068,
+  "ctx": "term Dialogue/npc_learned_11",
+  "en": "We will examine."
+ },
+ {
+  "id": 1069,
+  "ctx": "term Dialogue/npc_learned_12",
+  "en": "We will learn."
+ },
+ {
+  "id": 1070,
+  "ctx": "term Dialogue/npc_learned_13",
+  "en": "Actions recorded. Rewards dispensed."
+ },
+ {
+  "id": 1071,
+  "ctx": "term Dialogue/npc_learned_14",
+  "en": "Actions illogical."
+ },
+ {
+  "id": 1072,
+  "ctx": "term Dialogue/npc_learned_15",
+  "en": "Deception. Betrayal."
+ },
+ {
+  "id": 1073,
+  "ctx": "term Dialogue/npc_learned_16",
+  "en": "Nature of the Star."
+ },
+ {
+  "id": 1074,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_01",
+  "en": "Ah! Hello! I wasn't expecting to see someone else here."
+ },
+ {
+  "id": 1075,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_02",
+  "en": "You're not going to... pounce on me, are you? Haha..."
+ },
+ {
+  "id": 1076,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_03",
+  "en": "Ose is the name! Archaeology is my trade."
+ },
+ {
+  "id": 1077,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_04",
+  "en": "So many things to find in this place. Just when I think I’ve found something to study, I spot something else!"
+ },
+ {
+  "id": 1078,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_05",
+  "en": "Like this... Vault of sorts. I'd kill to know what trinkets might be hidden in there!"
+ },
+ {
+  "id": 1079,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_06",
+  "en": "No, not literally."
+ },
+ {
+  "id": 1080,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_07",
+  "en": "Anyway, as far as I can tell, the mechanism seems broken, but look at the wall there."
+ },
+ {
+  "id": 1081,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_08",
+  "en": "It might still unlock, provided we could get our hands on one of the intricate Ancient Ciphers created by its makers."
+ },
+ {
+  "id": 1082,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_09",
+  "en": "I've yet to find one, but there must still be some hidden within the City."
+ },
+ {
+  "id": 1083,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_repeat_01",
+  "en": "The mechanism seems broken, but it might still open, provided we can find an Ancient Cipher. There must still be some hidden within the City."
+ },
+ {
+  "id": 1084,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_1_have_cipher_01",
+  "en": "You found one! I can't believe it. Quickly, let's see what lies within!"
+ },
+ {
+  "id": 1085,
+  "ctx": "term Dialogue/npc_archaeologist_vault_opening_01",
+  "en": "Alright, it seems to accept the Cipher!"
+ },
+ {
+  "id": 1086,
+  "ctx": "term Dialogue/npc_archaeologist_vault_opening_02",
+  "en": "What happens if I do this?"
+ },
+ {
+  "id": 1087,
+  "ctx": "term Dialogue/npc_archaeologist_vault_opening_03",
+  "en": "Ah, interesting. And let's try this."
+ },
+ {
+  "id": 1088,
+  "ctx": "term Dialogue/npc_archaeologist_vault_opening_04",
+  "en": "I think I understand how this works now."
+ },
+ {
+  "id": 1089,
+  "ctx": "term Dialogue/npc_archaeologist_vault_opening_05",
+  "en": "Oh, look, look! Can you see the pattern?"
+ },
+ {
+  "id": 1090,
+  "ctx": "term Dialogue/npc_archaeologist_vault_opening_06",
+  "en": "Just one more to the left."
+ },
+ {
+  "id": 1091,
+  "ctx": "term Dialogue/npc_archaeologist_vault_opening_07",
+  "en": "There! We got it!"
+ },
+ {
+  "id": 1092,
+  "ctx": "term Dialogue/npc_archaeologist_vault_open_01",
+  "en": "What happened? What is that thing?"
+ },
+ {
+  "id": 1093,
+  "ctx": "term Dialogue/npc_archaeologist_vault_open_02",
+  "en": "The air feels... different. Tingly."
+ },
+ {
+  "id": 1094,
+  "ctx": "term Dialogue/npc_archaeologist_vault_open_03",
+  "en": "This isn't what I theorized at all. Why would they lock this away?"
+ },
+ {
+  "id": 1095,
+  "ctx": "term Dialogue/npc_archaeologist_vault_open_04",
+  "en": "I must consult the scrolls... Thank you for your assistance. Travel safely."
+ },
+ {
+  "id": 1096,
+  "ctx": "term Dialogue/npc_archaeologist_vault_open_repeat_01",
+  "en": "Why would they lock this away?"
+ },
+ {
+  "id": 1097,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_01",
+  "en": "Oh, we meet again! Splendid!"
+ },
+ {
+  "id": 1098,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_02",
+  "en": "Perhaps we can work together. Tell me, what do you think of this curious contraption?"
+ },
+ {
+  "id": 1099,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_03",
+  "en": "Beyond supposedly lies the great Court. If the stories are to be believed, it was sealed shut as the City fell. And so it remains, I'm afraid."
+ },
+ {
+  "id": 1100,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_04",
+  "en": "Oh, what discoveries lay behind this gate, I wonder...?"
+ },
+ {
+  "id": 1101,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_05",
+  "en": "It opened! Wait... YOU did that? You can operate these arcane contraptions?"
+ },
+ {
+  "id": 1102,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_06",
+  "en": "I wasn't ready for this. Everything is all over the place. You go ahead; I'll be right behind you."
+ },
+ {
+  "id": 1103,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_repeat_01",
+  "en": "Now, where did I put the magnifier...?"
+ },
+ {
+  "id": 1104,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_no_vault_01",
+  "en": "Did you ever find an Ancient Cipher?"
+ },
+ {
+  "id": 1105,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_no_vault_02",
+  "en": "After you left, I discovered this thing!"
+ },
+ {
+  "id": 1106,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_2_no_vault_03",
+  "en": "I used it as a reference to repair the other one. Well... I think I managed to repair it. Can't really be sure."
+ },
+ {
+  "id": 1107,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_01",
+  "en": "I can't believe it. Me, Ose, standing within the Gray Pyramid of the old legends."
+ },
+ {
+  "id": 1108,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_02",
+  "en": "What better place to pursue my studies than here, within the very cradle of civilization as we theorize it?"
+ },
+ {
+  "id": 1109,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_03",
+  "en": "It will take years, no, decades to catalogue every crumbling piece of forgotten past hidden away within this place."
+ },
+ {
+  "id": 1110,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_04",
+  "en": "I can't wait."
+ },
+ {
+  "id": 1111,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_05",
+  "en": "I was looking into a peculiar phenomenon. Pray tell, have you come across these stones before?"
+ },
+ {
+  "id": 1112,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_06",
+  "en": "They're quite strange. My instruments indicate some manner of energy lingering in the area. I can't quite wrap my head around it."
+ },
+ {
+  "id": 1113,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_07",
+  "en": "Wait, come again? They whisper to you?"
+ },
+ {
+  "id": 1114,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_08",
+  "en": "Incredible. Say, if you come across more, please pay attention to what they tell you. You share it with me, okay?"
+ },
+ {
+  "id": 1115,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_09",
+  "en": "Oh, and before I forget, take this. Not quite sure how it works, but I won't be needing it within these halls."
+ },
+ {
+  "id": 1116,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_repeat_01",
+  "en": "It's a pleasure to see you again, dearest friend. Well, not my dearest friend. A lifetime of friends makes it hard to choose a favorite, you know?"
+ },
+ {
+  "id": 1117,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_repeat_02",
+  "en": "Do you need something, friend?"
+ },
+ {
+  "id": 1118,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_choice_01",
+  "en": "Share Recollections"
+ },
+ {
+  "id": 1119,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_choice_03",
+  "en": "Discoveries"
+ },
+ {
+  "id": 1120,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_talk_01",
+  "en": "These records boggle the mind. Once I think I've established a truth, a conflicting account emerges to disprove it."
+ },
+ {
+  "id": 1121,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_talk_02",
+  "en": "It is the puzzle of a lifetime, history dancing at my fingertips. The Void, the Progenitor gods, the Heralds, the Red Star. So much to be understood."
+ },
+ {
+  "id": 1122,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_talk_04",
+  "en": "Sorry, lost myself there for a moment. If you need anything, you know where to find me!"
+ },
+ {
+  "id": 1123,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_relic_locations_01",
+  "en": "I've found records of something strange... Here, I'll mark the location on your map. Perhaps it could prove useful."
+ },
+ {
+  "id": 1124,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_relic_locations_02",
+  "en": "Sorry, friend. Got no new leads for you at this time."
+ },
+ {
+  "id": 1125,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_herald_locations_01",
+  "en": "Some of the scriptures with the Library... they make no sense! It's almost as if the texts are being rewritten right before my eyes. I can't explain it. "
+ },
+ {
+  "id": 1126,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_herald_locations_02",
+  "en": "It's all jumbled, past and present. They say the gods vanished, but I'm not sure that explanation suffices. During every Emergence, traces of their essence can be observed, at least in some form. The unliving have come to call them Heralds, as I understand."
+ },
+ {
+  "id": 1127,
+  "ctx": "term Dialogue/npc_archaeologist_encounter_3_herald_locations_03",
+  "en": "If they are who you seek, these texts should lead you to them. At least for now. I'll mark their locations on your map."
+ },
+ {
+  "id": 1128,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_1_01",
+  "en": "Fascinating. Truly, fascinating!"
+ },
+ {
+  "id": 1129,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_1_02",
+  "en": "Such vivid descriptions, an unfiltered look into history!"
+ },
+ {
+  "id": 1130,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_1_03",
+  "en": "I will write this down immediately. Please, I must know more!"
+ },
+ {
+  "id": 1131,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_repeated01",
+  "en": "You found another one? Fantastic work. Let me get my quill!"
+ },
+ {
+  "id": 1132,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_repeated02",
+  "en": "Quick, place it next to the others. We're nearly there... I can feel it. We stand at the cusp of a true scientific breakthrough."
+ },
+ {
+  "id": 1133,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_2_01",
+  "en": "The stones told you this? It... doesn't make scientific sense at all. The wonders of this world never cease!"
+ },
+ {
+  "id": 1134,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_2_02",
+  "en": "Truly a remarkable job, my friend."
+ }
+]

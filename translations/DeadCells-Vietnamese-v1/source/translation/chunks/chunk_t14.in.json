@@ -1,0 +1,376 @@
+[
+{
+"id": 2135,
+"en": "Dark is the path you have chosen..."
+},
+{
+"id": 2136,
+"en": "The light of the guardian monoliths will guide you."
+},
+{
+"id": 2137,
+"en": "But for how long?"
+},
+{
+"id": 2138,
+"en": "Behind you, that big LIGHT, just there!"
+},
+{
+"id": 2139,
+"en": "You wouldn't happen to be that headless fellow, would you?"
+},
+{
+"id": 2140,
+"en": "What's the matter? Cat got your tongue?"
+},
+{
+"id": 2141,
+"en": "Oh, yes. Forgive me. You've misplaced your tongue."
+},
+{
+"id": 2142,
+"en": "Anyway, it must be strange to be back from the dead..."
+},
+{
+"id": 2143,
+"en": "I mean, surely you must have noticed?"
+},
+{
+"id": 2144,
+"en": "You can no longer die."
+},
+{
+"id": 2145,
+"en": "I don't really understand it."
+},
+{
+"id": 2146,
+"en": "But you're not the first to find yourself in this situation, if that’s what you want to know..."
+},
+{
+"id": 2147,
+"en": "Shouldn't you be on your way?"
+},
+{
+"id": 2148,
+"en": "Oh. Hello."
+},
+{
+"id": 2150,
+"en": "I heard tales about a dubious yet capable being roaming around the island... I guess you’re the one?"
+},
+{
+"id": 2151,
+"en": "Well no matter what or who you are, you’re stuck in here too, right?"
+},
+{
+"id": 2152,
+"en": "Hey, I know you!"
+},
+{
+"id": 2153,
+"en": "We met on the docks and I..."
+},
+{
+"id": 2154,
+"en": "Yeah, sorry about all that impaling, I was only doing my job."
+},
+{
+"id": 2155,
+"en": "Anyhow, you’re stuck in here too, right?"
+},
+{
+"id": 2156,
+"en": "I may have an idea to get us out, but I need your help."
+},
+{
+"id": 2157,
+"en": "While I was roaming around the island, looking for a ship decent enough to go across the sea, I discovered an old extinguished lighthouse at the extreme north of the Island."
+},
+{
+"id": 2158,
+"en": "It's probably not much, but at least, that’s our best chance."
+},
+{
+"id": 2159,
+"en": "I will be waiting for you near the Castle, to bring you as close as I can... Unfortunately, the abominations hanging around mean I can’t go very close."
+},
+{
+"id": 2160,
+"en": "Oh, one last thing!"
+},
+{
+"id": 2161,
+"en": "Michel, one of the old keepers, used to live in the stilt village... Maybe you should pay a visit to his house?"
+},
+{
+"id": 2162,
+"en": "This is certainly going to be something when all the flasks are lit up."
+},
+{
+"id": 2163,
+"en": "You're working on it, aren’t you?"
+},
+{
+"id": 2164,
+"en": "Yes..."
+},
+{
+"id": 2165,
+"en": "Of course you are..."
+},
+{
+"id": 2166,
+"en": "Odd kind of place though, no matter how you look at it."
+},
+{
+"id": 2167,
+"en": "Aren't you the headless fellow that's been getting around?"
+},
+{
+"id": 2168,
+"en": "Ah yes, that's right... No tongue."
+},
+{
+"id": 2169,
+"en": "Shhhhh!",
+"ctx": "U28_LIBRARIAN_GREET_1"
+},
+{
+"id": 2170,
+"en": "Ah, you're not one of them! You scared me!",
+"ctx": "U28_GUILLAIN_MIMIC_DIALOG_1"
+},
+{
+"id": 2171,
+"en": "It ate him! Swallowed him whole!",
+"ctx": "U28_GUILLAIN_MIMIC_DIALOG_2"
+},
+{
+"id": 2172,
+"en": "So I killed them all. And not just the large ones, but the medium and small ones too.",
+"ctx": "U28_GUILLAIN_MIMIC_DIALOG_3"
+},
+{
+"id": 2173,
+"en": "Every bag I could find. But I know some survived. They are still here. They will eat us all...",
+"ctx": "U28_GUILLAIN_MIMIC_DIALOG_4"
+},
+{
+"id": 2174,
+"en": "Ahhhhhhhhhhhhhhh!",
+"ctx": "U34_GUILLAIN_MIMIC_ESCAPED_DIALOG_1"
+},
+{
+"id": 2175,
+"en": "Oh, you're not a big bag, just a headless zombie. You scared me.",
+"ctx": "U34_GUILLAIN_MIMIC_ESCAPED_DIALOG_2"
+},
+{
+"id": 2176,
+"en": "They got away! They are everywhere now!",
+"ctx": "U34_GUILLAIN_MIMIC_ESCAPED_DIALOG_3"
+},
+{
+"id": 2177,
+"en": "I spotted one in this place! I couldn't kill it but I managed to escape!",
+"ctx": "U34_GUILLAIN_MIMIC_ESCAPED_DIALOG_4"
+},
+{
+"id": 2178,
+"en": "It probably changed back to its deceiving form, now. Beware!",
+"ctx": "U34_GUILLAIN_MIMIC_ESCAPED_DIALOG_5"
+},
+{
+"id": 2179,
+"en": "Ahhhhhhh!",
+"ctx": "U28_GUILLAIN_MIMIC_GREET_1"
+},
+{
+"id": 2180,
+"en": "Oh, umm. Hello? I guess..."
+},
+{
+"id": 2181,
+"en": "Would you like to buy something?"
+},
+{
+"id": 2182,
+"en": "It's all right here."
+},
+{
+"id": 2183,
+"en": "I don't have much right now..."
+},
+{
+"id": 2184,
+"en": "One day I'll have a real shop, all of my own!"
+},
+{
+"id": 2185,
+"en": "Maybe then they'll stop calling me \"Guillain the intern\"."
+},
+{
+"id": 2186,
+"en": "Buy something, or else they'll punish me!"
+},
+{
+"id": 2187,
+"en": "C'mon, please?"
+},
+{
+"id": 2188,
+"en": "She's dead."
+},
+{
+"id": 2189,
+"en": "Seems like you've been having a rough time of it..."
+},
+{
+"id": 2190,
+"en": "Have you noticed how things seem to change each time you pass through?"
+},
+{
+"id": 2191,
+"en": "One could get to thinking that the island is alive."
+},
+{
+"id": 2192,
+"en": "It's quite ridiculous, wouldn't you say?"
+},
+{
+"id": 2193,
+"en": "I imagine this will be a sight to behold when you and the Collector have lit all the flasks up."
+},
+{
+"id": 2194,
+"en": "Obviously you're chipping away at it."
+},
+{
+"id": 2195,
+"en": "Like all the others..."
+},
+{
+"id": 2196,
+"en": "She's DEAD."
+},
+{
+"id": 2197,
+"en": "And it's recent..."
+},
+{
+"id": 2198,
+"en": "Oh... Look what I've found!"
+},
+{
+"id": 2199,
+"en": "Been dead for a while."
+},
+{
+"id": 2200,
+"en": "Oh! A visitor! I was starting to lose hope of Richter coming to free me!",
+"ctx": "DLCP_MARIA_TALK_CINE_1"
+},
+{
+"id": 2201,
+"en": "... So that I could tell him that I don't need it! I can look out for myself!",
+"ctx": "DLCP_MARIA_TALK_CINE_2"
+},
+{
+"id": 2202,
+"en": "I had sent my kitty cat Byakko on a mission to get me the key to this room but he came back empty-pawed!",
+"ctx": "DLCP_MARIA_TALK_CINE_3"
+},
+{
+"id": 2203,
+"en": "I guess I have you to thank for that... Anyway, I'm free at least!",
+"ctx": "DLCP_MARIA_TALK_CINE_4"
+},
+{
+"id": 2204,
+"en": "My cat seems to like you, don't forget to give him a little scratch behind the ears! As for me, I'll pack my things and go help Richter. What would he do without me...",
+"ctx": "DLCP_MARIA_TALK_CINE_5"
+},
+{
+"id": 2205,
+"en": "If you go on an adventure with my cat, take good care of him! If something were to happen to him, I'd throw a dove in your face!",
+"ctx": "DLCP_MARIA_TALK_AFTER_CINE_1"
+},
+{
+"id": 2206,
+"en": "Of all my imprisonments, this one was probably the least tedious. I had a teapot and my cat, at least.",
+"ctx": "DLCP_MARIA_TALK_AFTER_CINE_2"
+},
+{
+"id": 2207,
+"en": "My cat's name? Depends on who you ask!",
+"ctx": "DLCP_MARIA_TALK_AFTER_CINE_3"
+},
+{
+"id": 2208,
+"en": "Have you met Richter? He's supposed to feed my cat this week...",
+"ctx": "DLCP_MARIA_TALK_AFTER_CINE_4"
+},
+{
+"id": 2209,
+"en": "You'd be a fool to underestimate me! My pockets are full of friends and I won't hesitate to use them!",
+"ctx": "DLCP_MARIA_TALK_AFTER_CINE_5"
+},
+{
+"id": 2210,
+"en": "Hey hello!",
+"ctx": "DLCP_MARIA_GREET_1"
+},
+{
+"id": 2212,
+"en": "::n:: mutations available"
+},
+{
+"id": 2214,
+"en": "You... You c-c-can't have any mutations today!"
+},
+{
+"id": 2215,
+"en": "I'm really happy I found this great stinking pile of corpses!"
+},
+{
+"id": 2216,
+"en": "You can't even imagine all the stuff you can find in here!"
+},
+{
+"id": 2217,
+"en": "By the way, it's an odd thing to say... But you... kind of look like these guys..."
+},
+{
+"id": 2218,
+"en": "Oh yeah, sorry about the smell..."
+},
+{
+"id": 2219,
+"en": "In any case, it beats selling a bunch of old ju... Stuff... Yeah, stuff."
+},
+{
+"id": 2220,
+"en": "Well I'm going back to digging through the filth for some more goodies!"
+},
+{
+"id": 2221,
+"en": "I'll see you again, I guess..."
+},
+{
+"id": 2222,
+"en": "Errrr..."
+},
+{
+"id": 2224,
+"en": "Well, hello, Mr. Prisoner, sir!"
+},
+{
+"id": 2225,
+"en": "I know it's good, but you mustn’t overdo it..."
+},
+{
+"id": 2226,
+"en": "Ah! A customer!"
+}
+]

@@ -1,0 +1,443 @@
+[
+{
+"id": 2333,
+"en": "I'm an aspiring head dresser, not a magician!",
+"ctx": "U34_TAILORDAUGHTER_TEXT_2"
+},
+{
+"id": 2334,
+"en": "I should be able to style that head after I complete my studies. Considering the current state of the kingdom, expect a waiting time of about one or two eternities, and it's the most reasonable timeline.",
+"ctx": "U34_TAILORDAUGHTER_TEXT_3"
+},
+{
+"id": 2335,
+"en": "Oh what, are you for real?! I'm just a beginner! No way I can do anything about that, sorry.",
+"ctx": "U34_TAILORDAUGHTER_TEXT_4"
+},
+{
+"id": 2336,
+"en": "I deal in hairs, not miracles!",
+"ctx": "U34_TAILORDAUGHTER_TEXT_5"
+},
+{
+"id": 2337,
+"en": "Your sacrifice has been accepted..."
+},
+{
+"id": 2338,
+"en": "Mama has blessed you!"
+},
+{
+"id": 2339,
+"en": "A miracle... it's a miracle..."
+},
+{
+"id": 2340,
+"en": "We need more sacrifices!"
+},
+{
+"id": 2341,
+"en": "...more sacrifices..."
+},
+{
+"id": 2342,
+"en": "Welcome to our humble chapel, brother! Are you ready to make a sacrifice?"
+},
+{
+"id": 2343,
+"en": "Pray for your salvation... with a sacrifice."
+},
+{
+"id": 2344,
+"en": "Words are meaningless, only sacrifices are important..."
+},
+{
+"id": 2345,
+"en": "Are you really faithful?"
+},
+{
+"id": 2346,
+"en": "Prove your devotion!"
+},
+{
+"id": 2347,
+"en": "Mama, protect this lost child..."
+},
+{
+"id": 2348,
+"en": "Sacrifice will save you..."
+},
+{
+"id": 2349,
+"en": "A new disciple!"
+},
+{
+"id": 2350,
+"en": "Repent..."
+},
+{
+"id": 2351,
+"en": "She sees you, and she smiles!"
+},
+{
+"id": 2352,
+"en": "Come closer, my child."
+},
+{
+"id": 2353,
+"en": "You're back... So faithful!"
+},
+{
+"id": 2354,
+"en": "That hat is really heavy."
+},
+{
+"id": 2355,
+"en": "THE SACRIFICE!"
+},
+{
+"id": 2356,
+"en": "Pick which enemies you want to fight and press the button.",
+"ctx": "TutoKnight Training room tuto"
+},
+{
+"id": 2357,
+"en": "You can also select a zone and all the enemies in the room will turn into ones taken from that zone!"
+},
+{
+"id": 2358,
+"en": "Remember: you can't die here. You'll just go back to the entrance."
+},
+{
+"id": 2359,
+"en": "Give it your all!"
+},
+{
+"id": 2360,
+"en": "In case you forgot how my training room works..."
+},
+{
+"id": 2361,
+"en": "Just pick your gear, choose your mutations and go kill some enemies!"
+},
+{
+"id": 2362,
+"en": "Behind the first door, you can fight any enemy you have already encountered."
+},
+{
+"id": 2363,
+"en": "There are also big doors at the back of the room, but I don't know where they lead..."
+},
+{
+"id": 2364,
+"en": "Hello there! Welcome to the Combat Room!"
+},
+{
+"id": 2365,
+"en": "I'm handling it for my knightly friend. You can call it undead solidarity."
+},
+{
+"id": 2367,
+"en": "You can even select enemies from a specific zone of the island and instantly fill the room with them!"
+},
+{
+"id": 2368,
+"en": "Oh and don't worry: you can't die here. You'll just go back to the entrance."
+},
+{
+"id": 2369,
+"en": "Give it your all and train like crazy!"
+},
+{
+"id": 2370,
+"en": "Oh hi there. I'm not dead anymore!"
+},
+{
+"id": 2371,
+"en": "Welcome to my very own training room!"
+},
+{
+"id": 2372,
+"en": "Hello again!"
+},
+{
+"id": 2373,
+"en": "It's great to see you invested in your training!"
+},
+{
+"id": 2374,
+"en": "No pain, no gain!"
+},
+{
+"id": 2375,
+"en": "Are you still eager to practice? You're in the right place!"
+},
+{
+"id": 2376,
+"en": "It's all about training here... Kill or die trying!"
+},
+{
+"id": 2377,
+"en": "And maybe try again."
+},
+{
+"id": 2378,
+"en": "So this is where these doors lead! Neat!"
+},
+{
+"id": 2379,
+"en": "I guess it works just like the other room, so go ahead and train all you want."
+},
+{
+"id": 2380,
+"en": "Once more unto the breach, I see?"
+},
+{
+"id": 2381,
+"en": "Good training!"
+},
+{
+"id": 2382,
+"en": "And once again, don't fear death."
+},
+{
+"id": 2383,
+"en": "Condition: take no damage in the previous level."
+},
+{
+"id": 2384,
+"en": "Condition: kill ::n:: enemies without taking any damage."
+},
+{
+"id": 2385,
+"en": "::n:: boss cells required"
+},
+{
+"id": 2387,
+"en": "Go Back! Bring me more Cells!"
+},
+{
+"id": 2388,
+"en": "Just a few more!"
+},
+{
+"id": 2389,
+"en": "Don't be such a cheapskate! Share with your old pal!"
+},
+{
+"id": 2390,
+"en": "Have you ever seen anything so beautiful?"
+},
+{
+"id": 2392,
+"en": "Who's a good boy?"
+},
+{
+"id": 2393,
+"en": "Bring me more, you wretched blob!"
+},
+{
+"id": 2394,
+"en": "I need it! One last time!"
+},
+{
+"id": 2395,
+"en": "Nothing beats the thrill of fighting your archenemy!",
+"ctx": "DLCP_DOOKU_TAUNT_BOURVIL_1"
+},
+{
+"id": 2396,
+"en": "You fought well, Belmont. Gloves off it is, then.",
+"ctx": "DLCP_DOOKU_TAUNT_BOURVIL_2"
+},
+{
+"id": 2397,
+"en": "By killing you, I'll end your accursed bloodline!",
+"ctx": "DLCP_DOOKU_TAUNT_BOURVIL_3"
+},
+{
+"id": 2398,
+"en": "You Belmonts are formidable opponents.",
+"ctx": "DLCP_DOOKU_TAUNT_BOURVIL_4"
+},
+{
+"id": 2399,
+"en": "I think I'd be bored if it wasn't for your family resisting me.",
+"ctx": "DLCP_DOOKU_TAUNT_BOURVIL_5"
+},
+{
+"id": 2400,
+"en": "This Castle isn't big enough for the both of us!",
+"ctx": "DLCP_DOOKU_TAUNT_DOOKU_1"
+},
+{
+"id": 2401,
+"en": "Pushed to my limits by a mere copycat, me?!",
+"ctx": "DLCP_DOOKU_TAUNT_DOOKU_2"
+},
+{
+"id": 2402,
+"en": "You are but a bug to squash.",
+"ctx": "DLCP_DOOKU_TAUNT_1"
+},
+{
+"id": 2403,
+"en": "You're not even a Belmont.",
+"ctx": "DLCP_DOOKU_TAUNT_2"
+},
+{
+"id": 2404,
+"en": "What are you hoping to achieve? I am the Dark Lord!",
+"ctx": "DLCP_DOOKU_TAUNT_3"
+},
+{
+"id": 2405,
+"en": "Nice try. Let's see how you do against this.",
+"ctx": "DLCP_DOOKU_TAUNT_4"
+},
+{
+"id": 2406,
+"en": "Bah, what a waste of time...",
+"ctx": "DLCP_DOOKU_TAUNT_5"
+},
+{
+"id": 2407,
+"en": "It has been a long time since someone stood against me like this.",
+"ctx": "DLCP_DOOKU_TAUNT_6"
+},
+{
+"id": 2408,
+"en": "Feeling tired, Belmont?",
+"ctx": "DLCP_DOOKU_COMBAT_BOURVIL_TAUNT_1"
+},
+{
+"id": 2409,
+"en": "Your ancestor was doing way better...",
+"ctx": "DLCP_DOOKU_COMBAT_BOURVIL_TAUNT_2"
+},
+{
+"id": 2410,
+"en": "Well dodged, your predecessor would have been proud...",
+"ctx": "DLCP_DOOKU_COMBAT_BOURVIL_TAUNT_3"
+},
+{
+"id": 2411,
+"en": "I'm slightly disappointed.",
+"ctx": "DLCP_DOOKU_COMBAT_BOURVIL_TAUNT_4"
+},
+{
+"id": 2412,
+"en": "Your whole clan opposed me generation after generation and yet, here I still am.",
+"ctx": "DLCP_DOOKU_COMBAT_BOURVIL_TAUNT_5"
+},
+{
+"id": 2413,
+"en": "Our two families used to be friends, a long time ago. If only you Belmonts had more ambition...",
+"ctx": "DLCP_DOOKU_COMBAT_BOURVIL_TAUNT_6"
+},
+{
+"id": 2414,
+"en": "Give me back this outfit!",
+"ctx": "DLCP_DOOKU_COMBAT_DOOKU_TAUNT_1"
+},
+{
+"id": 2415,
+"en": "Die, usurper!",
+"ctx": "DLCP_DOOKU_COMBAT_DOOKU_TAUNT_2"
+},
+{
+"id": 2416,
+"en": "You're not on my level, small-time vampire!",
+"ctx": "DLCP_DOOKU_COMBAT_DOOKU_TAUNT_3"
+},
+{
+"id": 2417,
+"en": "The bad vampire hunter sees something and just hit it with his whip. The good vampire hunter sees something and hit it with his whip, but it's different...",
+"ctx": "DLCP_DOOKU_COMBAT_DOOKU_TAUNT_4"
+},
+{
+"id": 2418,
+"en": "You may have copied my appearance, but I'm not a mere vampire, I am Count Dracula!",
+"ctx": "DLCP_DOOKU_COMBAT_DOOKU_TAUNT_5"
+},
+{
+"id": 2419,
+"en": "Even my son can masquerade as a more convincing vampire...",
+"ctx": "DLCP_DOOKU_COMBAT_DOOKU_TAUNT_6"
+},
+{
+"id": 2420,
+"en": "I've been a good sport up until now, but this fight has been going on for too long. Die!",
+"ctx": "DLCP_DOOKU_COMBAT_TAUNT_1"
+},
+{
+"id": 2421,
+"en": "You can't compare to the Belmont.",
+"ctx": "DLCP_DOOKU_COMBAT_TAUNT_2"
+},
+{
+"id": 2422,
+"en": "I'm wasting my time, fighting with you.",
+"ctx": "DLCP_DOOKU_COMBAT_TAUNT_3"
+},
+{
+"id": 2423,
+"en": "You didn't think you could defeat me, did you?",
+"ctx": "DLCP_DOOKU_COMBAT_TAUNT_4"
+},
+{
+"id": 2424,
+"en": "So weak... how could such a worthless being defeat Death?",
+"ctx": "DLCP_DOOKU_COMBAT_TAUNT_5"
+},
+{
+"id": 2425,
+"en": "I've seen enough, time to perish now.",
+"ctx": "DLCP_DOOKU_COMBAT_TAUNT_6"
+},
+{
+"id": 2426,
+"en": "Damned feline!",
+"ctx": "DLCP_DOOKU_HIT_CAT_1"
+},
+{
+"id": 2427,
+"en": "Argh! I'll kill you 9 times to make you pay if I have to!",
+"ctx": "DLCP_DOOKU_HIT_CAT_2"
+},
+{
+"id": 2428,
+"en": "Who brings their pet to a fateful fight, seriously?",
+"ctx": "DLCP_DOOKU_HIT_CAT_3"
+},
+{
+"id": 2429,
+"en": "Wounded by a mere cat?! Me?!",
+"ctx": "DLCP_DOOKU_HIT_CAT_4"
+},
+{
+"id": 2430,
+"en": "Bold of you to summon my own magic against me.",
+"ctx": "DLCP_DOOKU_HERO_USE_BAT_1"
+},
+{
+"id": 2431,
+"en": "Leave my bats alone!",
+"ctx": "DLCP_DOOKU_HERO_USE_BAT_2"
+},
+{
+"id": 2432,
+"en": "Stop using my familiars against their master!",
+"ctx": "DLCP_DOOKU_HERO_USE_BAT_3"
+},
+{
+"id": 2433,
+"en": "My children! No!",
+"ctx": "DLCP_DOOKU_HERO_USE_BAT_4"
+},
+{
+"id": 2434,
+"en": "Rah! Those Belmonts and their accursed whip!",
+"ctx": "DLCP_DOOKU_HIT_VK_BOURVIL_1"
+}
+]

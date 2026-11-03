@@ -1,0 +1,832 @@
+[
+ {
+  "id": 1474,
+  "ctx": "term Dialogue/lore_stone_sacral_tower_01",
+  "en": "They lifted their gaze towards the umbral sky and could not look away. Spellbound by the endless, dark expanse, they struggled to understand."
+ },
+ {
+  "id": 1475,
+  "ctx": "term Dialogue/lore_stone_sacral_tower_02",
+  "en": "The further they looked, the more stars they found, and the deeper the darkness grew. Within, they found the means of creation."
+ },
+ {
+  "id": 1476,
+  "ctx": "term Dialogue/lore_stone_sacral_tower_03",
+  "en": "They drew constellations, mapped the heavens, and created splendors without equal. But as they stared into the dark, something beheld them in turn."
+ },
+ {
+  "id": 1477,
+  "ctx": "term Dialogue/lore_stone_sacral_tower_04",
+  "en": "Through the cracks of the Void, new Light emerged. A Light unlike any other, as crimson as blood."
+ },
+ {
+  "id": 1478,
+  "ctx": "term Dialogue/lore_stone_the_shrine",
+  "en": "The Whole"
+ },
+ {
+  "id": 1479,
+  "ctx": "term Dialogue/lore_stone_the_shrine_01",
+  "en": "Unmade."
+ },
+ {
+  "id": 1480,
+  "ctx": "term Dialogue/lore_stone_the_shrine_02",
+  "en": "Parts of the whole, scattered."
+ },
+ {
+  "id": 1481,
+  "ctx": "term Dialogue/lore_stone_the_shrine_03",
+  "en": "A mind caged."
+ },
+ {
+  "id": 1482,
+  "ctx": "term Dialogue/lore_stone_the_shrine_04",
+  "en": "What was shattered shall be remade."
+ },
+ {
+  "id": 1483,
+  "ctx": "term Dialogue/lore_stone_the_shrine_05",
+  "en": "Reborn."
+ },
+ {
+  "id": 1484,
+  "ctx": "term Dialogue/lore_stone_god_cradle_01",
+  "en": "Wayward spawn."
+ },
+ {
+  "id": 1485,
+  "ctx": "term Dialogue/lore_stone_god_cradle_02",
+  "en": "From whence they crawled, they shall be made to return."
+ },
+ {
+  "id": 1486,
+  "ctx": "term Dialogue/lore_stone_god_cradle_03",
+  "en": "Each part of the whole."
+ },
+ {
+  "id": 1487,
+  "ctx": "term Dialogue/lore_stone_god_cradle_04",
+  "en": "It nears."
+ },
+ {
+  "id": 1488,
+  "ctx": "term Tutorial/",
+  "en": "Press _"
+ },
+ {
+  "id": 1489,
+  "ctx": "term Tutorial/tut_artifacts_title",
+  "en": "Artifacts"
+ },
+ {
+  "id": 1490,
+  "ctx": "term Tutorial/tut_artifacts_01",
+  "en": "You have acquired an <b>Artifact</b>."
+ },
+ {
+  "id": 1491,
+  "ctx": "term Tutorial/tut_artifacts_02 (+1 more)",
+  "en": "Relics house powerful activated effects, triggered by spending Void Charges.\nVoid Charges are replenished by visiting Chambers of Reflection or by hitting enemies."
+ },
+ {
+  "id": 1492,
+  "ctx": "term Tutorial/tut_artifacts_03",
+  "en": "Void Charges are replenished by visiting Chambers of Reflection or by hitting enemies."
+ },
+ {
+  "id": 1493,
+  "ctx": "term Tutorial/tut_artifacts_04",
+  "en": "Crests offer passive boons that remain active at all times after the Crest has been equipped."
+ },
+ {
+  "id": 1494,
+  "ctx": "term Tutorial/tut_artifacts_06",
+  "en": "Navigate to the Artifact menu"
+ },
+ {
+  "id": 1495,
+  "ctx": "term Tutorial/tut_artifacts_07",
+  "en": "to equip discovered Artifacts."
+ },
+ {
+  "id": 1496,
+  "ctx": "term Tutorial/tut_relics_title",
+  "en": "You have acquired a <b>Relic</b>."
+ },
+ {
+  "id": 1497,
+  "ctx": "term Tutorial/tut_relics_02",
+  "en": "to view and Equip discovered Relics."
+ },
+ {
+  "id": 1498,
+  "ctx": "term Tutorial/tut_souls_title",
+  "en": "You have acquired a <b>Soul</b>."
+ },
+ {
+  "id": 1499,
+  "ctx": "term Tutorial/tut_souls_01",
+  "en": "The countless Souls lingering throughout the Gray City may still be called upon, providing passive boons that remain active after the Soul has been Summoned."
+ },
+ {
+  "id": 1500,
+  "ctx": "term Tutorial/tut_souls_02",
+  "en": "to view and Summon acquired Souls."
+ },
+ {
+  "id": 1501,
+  "ctx": "term Tutorial/tut_simulacrum_01",
+  "en": "You have acquired a new <b>Simulacrum</b>."
+ },
+ {
+  "id": 1502,
+  "ctx": "term Tutorial/tut_simulacrum_02",
+  "en": "You may view all acquired Simulacra in the Compendium."
+ },
+ {
+  "id": 1503,
+  "ctx": "term Tutorial/tut_healing_salt_01",
+  "en": "to restore Health by absorbing refined, crystallized vitae."
+ },
+ {
+  "id": 1504,
+  "ctx": "term Tutorial/tut_healing_salt_02",
+  "en": "Empty Salt Receptacles are replenished in Chambers of Reflection."
+ },
+ {
+  "id": 1505,
+  "ctx": "term Tutorial/tut_slide_01",
+  "en": "to Slide through small openings and reach otherwise inaccessible areas."
+ },
+ {
+  "id": 1506,
+  "ctx": "term Tutorial/tut_possession_01",
+  "en": "while near ancient technology to Possess and manipulate it."
+ },
+ {
+  "id": 1507,
+  "ctx": "term Tutorial/tut_dash_01",
+  "en": "to quickly Dash forward, traversing gaps and evading danger."
+ },
+ {
+  "id": 1508,
+  "ctx": "term Tutorial/tut_double_jump_01",
+  "en": "again while airborne to perform a second Jump, reaching higher locations."
+ },
+ {
+  "id": 1509,
+  "ctx": "term Tutorial/tut_tendril_01",
+  "en": "while airborne to latch on to nearby Hooks, breaching chasms and avoiding obstacles."
+ },
+ {
+  "id": 1510,
+  "ctx": "term Tutorial/tut_charge_attack_01",
+  "en": "until fully Charged, then release to perform a devastating Charged Attack."
+ },
+ {
+  "id": 1511,
+  "ctx": "term Tutorial/tut_charge_attack_02",
+  "en": "Charged Attacks will destroy or manipulate objects infused with Voidal energy."
+ },
+ {
+  "id": 1512,
+  "ctx": "term Tutorial/tut_void_step_01",
+  "en": "to manifest a Void Sphere."
+ },
+ {
+  "id": 1513,
+  "ctx": "term Tutorial/tut_void_step_02",
+  "en": "Release near a Void Breach to travel towards it, phasing through solid matter."
+ },
+ {
+  "id": 1514,
+  "ctx": "term Tutorial/tut_slither_01",
+  "en": "to become amorphous, capable of clinging to surfaces and slithering through narrow tunnels."
+ },
+ {
+  "id": 1515,
+  "ctx": "term Tutorial/tut_slither_02",
+  "en": "to perform a special Attack while in this form."
+ },
+ {
+  "id": 1516,
+  "ctx": "term Tutorial/tutorial_heal2",
+  "en": "to Heal"
+ },
+ {
+  "id": 1517,
+  "ctx": "term Tutorial/tutorial_doublejump_title (+1 more)",
+  "en": "Double Jump"
+ },
+ {
+  "id": 1518,
+  "ctx": "term Tutorial/tutorial_doublejump1",
+  "en": "Jump again while in mid-air to perform a second Jump."
+ },
+ {
+  "id": 1519,
+  "ctx": "term Tutorial/prompt_attack",
+  "en": "Attack"
+ },
+ {
+  "id": 1520,
+  "ctx": "term Tutorial/prompt_slide",
+  "en": "Slide"
+ },
+ {
+  "id": 1521,
+  "ctx": "term Tutorial/prompt_dash",
+  "en": "Dash"
+ },
+ {
+  "id": 1522,
+  "ctx": "term Tutorial/prompt_slither",
+  "en": "Slither"
+ },
+ {
+  "id": 1523,
+  "ctx": "term Tutorial/prompt_oneway",
+  "en": "Drop Down"
+ },
+ {
+  "id": 1524,
+  "ctx": "term Tutorial/prompt_voidstep",
+  "en": "Void Step"
+ },
+ {
+  "id": 1525,
+  "ctx": "term Tutorial/prompt_viewinventory",
+  "en": "View Inventory"
+ },
+ {
+  "id": 1526,
+  "ctx": "term Tutorial/prompt_viewcompendium",
+  "en": "View Compendium"
+ },
+ {
+  "id": 1527,
+  "ctx": "term Tutorial/prompt_viewrelics",
+  "en": "View Relics"
+ },
+ {
+  "id": 1528,
+  "ctx": "term Tutorial/prompt_viewsouls",
+  "en": "View Souls"
+ },
+ {
+  "id": 1529,
+  "ctx": "term Tutorial/tut_open_map_01",
+  "en": "Open Map"
+ },
+ {
+  "id": 1530,
+  "ctx": "term EULA/eula_01",
+  "en": "IMPORTANT: END USER LICENCE AGREEMENT & PRIVACY POLICY"
+ },
+ {
+  "id": 1531,
+  "ctx": "term EULA/eula_02",
+  "en": "As indicated prior to purchase, in order to play this game, you must agree to KWALEE's END USER LICENCE AGREEMENT and PRIVACY POLICY which you may find by entering the following URLs in a web browser:"
+ },
+ {
+  "id": 1532,
+  "ctx": "term EULA/eula_03",
+  "en": "END USER LICENCE AGREEMENT: www.kwalee.com/eula-pcc/"
+ },
+ {
+  "id": 1533,
+  "ctx": "term EULA/eula_04",
+  "en": "PRIVACY POLICY: www.kwalee.com/pp-pcc/"
+ },
+ {
+  "id": 1534,
+  "ctx": "term EULA/eula_05",
+  "en": "Please read the terms of KWALEE's END USER LICENSE AGREEMENT and PRIVACY POLICY carefully."
+ },
+ {
+  "id": 1535,
+  "ctx": "term EULA/eula_06",
+  "en": "If you select the 'ACCEPT' button below, you are agreeing to and accepting the terms of KWALEE's END USER LICENCE AGREEMENT and PRIVACY POLICY, which will be legally binding on you."
+ },
+ {
+  "id": 1536,
+  "ctx": "term EULA/eula_07",
+  "en": "If you do not agree to these terms, select the 'REJECT' button below. This will mean that you are not allowed to progress past this screen and use this software."
+ },
+ {
+  "id": 1537,
+  "ctx": "term EULA/eula_accept",
+  "en": "ACCEPT"
+ },
+ {
+  "id": 1538,
+  "ctx": "term EULA/eula_reject",
+  "en": "REJECT"
+ },
+ {
+  "id": 1539,
+  "ctx": "term EULA/eula_08",
+  "en": "If you do not agree to these terms, this will mean that you are not allowed to progress past this screen and use this software, so please close the game."
+ },
+ {
+  "id": 1540,
+  "ctx": "term Credits/credits_powersnake_header",
+  "en": "Powersnake"
+ },
+ {
+  "id": 1541,
+  "ctx": "term Credits/credits_music",
+  "en": "Music"
+ },
+ {
+  "id": 1542,
+  "ctx": "term Credits/credits_add_art",
+  "en": "Additional 2D Art"
+ },
+ {
+  "id": 1543,
+  "ctx": "term Credits/credits_add_writing",
+  "en": "Additional Writing"
+ },
+ {
+  "id": 1544,
+  "ctx": "term Credits/credits_add_sound",
+  "en": "Additional Ambient Sound"
+ },
+ {
+  "id": 1545,
+  "ctx": "term Credits/credits_add_prog",
+  "en": "Additional Programming"
+ },
+ {
+  "id": 1546,
+  "ctx": "term Credits/credits_dreamwalker",
+  "en": "Dreamwalker Studios - Hungarian Localization"
+ },
+ {
+  "id": 1547,
+  "ctx": "term Credits/credits_noumenon",
+  "en": "Noumenon Games - Nintendo Switch Port"
+ },
+ {
+  "id": 1548,
+  "ctx": "term Credits/credits_keyart",
+  "en": "Key Art"
+ },
+ {
+  "id": 1549,
+  "ctx": "term Credits/credits_kwalee_header",
+  "en": "Kwalee PC & Console Publishing Team"
+ },
+ {
+  "id": 1550,
+  "ctx": "term Credits/credits_kwalee_1",
+  "en": "CEO"
+ },
+ {
+  "id": 1551,
+  "ctx": "term Credits/credits_kwalee_2",
+  "en": "COO"
+ },
+ {
+  "id": 1552,
+  "ctx": "term Credits/credits_kwalee_3",
+  "en": "VP of PC & Console Publishing"
+ },
+ {
+  "id": 1553,
+  "ctx": "term Credits/credits_kwalee_4",
+  "en": "Head of PC & Console Production"
+ },
+ {
+  "id": 1554,
+  "ctx": "term Credits/credits_kwalee_5",
+  "en": "Senior Producer"
+ },
+ {
+  "id": 1555,
+  "ctx": "term Credits/credits_kwalee_6",
+  "en": "Associate Producer"
+ },
+ {
+  "id": 1556,
+  "ctx": "term Credits/credits_kwalee_7",
+  "en": "Technical Director"
+ },
+ {
+  "id": 1557,
+  "ctx": "term Credits/credits_kwalee_8",
+  "en": "Programmer"
+ },
+ {
+  "id": 1558,
+  "ctx": "term Credits/credits_kwalee_9",
+  "en": "Head of PC & Console Marketing"
+ },
+ {
+  "id": 1559,
+  "ctx": "term Credits/credits_kwalee_10",
+  "en": "Senior Manager of Product Marketing"
+ },
+ {
+  "id": 1560,
+  "ctx": "term Credits/credits_kwalee_11",
+  "en": "Product Marketing Manager"
+ },
+ {
+  "id": 1561,
+  "ctx": "term Credits/credits_kwalee_12",
+  "en": "Product Marketing and Content Manager"
+ },
+ {
+  "id": 1562,
+  "ctx": "term Credits/credits_kwalee_13",
+  "en": "Senior Influencer and PR Manager"
+ },
+ {
+  "id": 1563,
+  "ctx": "term Credits/credits_kwalee_14",
+  "en": "Influencer and PR Manager"
+ },
+ {
+  "id": 1564,
+  "ctx": "term Credits/credits_kwalee_15",
+  "en": "Senior Community and Social Media Manager"
+ },
+ {
+  "id": 1565,
+  "ctx": "term Credits/credits_kwalee_16",
+  "en": "Social Media Specialist"
+ },
+ {
+  "id": 1566,
+  "ctx": "term Credits/credits_kwalee_17",
+  "en": "Senior Data Analyst"
+ },
+ {
+  "id": 1567,
+  "ctx": "term Credits/credits_kwalee_18",
+  "en": "Lead Marketing Artist & Animator"
+ },
+ {
+  "id": 1568,
+  "ctx": "term Credits/credits_kwalee_19",
+  "en": "Marketing Artist"
+ },
+ {
+  "id": 1569,
+  "ctx": "term Credits/credits_kwalee_20",
+  "en": "Video Editor"
+ },
+ {
+  "id": 1570,
+  "ctx": "term Credits/credits_kwalee_21",
+  "en": "Head of Business Development"
+ },
+ {
+  "id": 1571,
+  "ctx": "term Credits/credits_kwalee_22",
+  "en": "Head of Scouting"
+ },
+ {
+  "id": 1572,
+  "ctx": "term Credits/credits_kwalee_23",
+  "en": "Senior Games Scout"
+ },
+ {
+  "id": 1573,
+  "ctx": "term Credits/credits_kwalee_24",
+  "en": "Games Scout"
+ },
+ {
+  "id": 1574,
+  "ctx": "term Credits/credits_qa_header",
+  "en": "Kwalee QA Team"
+ },
+ {
+  "id": 1575,
+  "ctx": "term Credits/credits_qa_manager",
+  "en": "QA Manager"
+ },
+ {
+  "id": 1576,
+  "ctx": "term Credits/credits_qa_leads",
+  "en": "QA Leads"
+ },
+ {
+  "id": 1577,
+  "ctx": "term Credits/credits_qa_technicians",
+  "en": "Senior QA Technicians"
+ },
+ {
+  "id": 1578,
+  "ctx": "term Credits/credits_qa_testers",
+  "en": "QA Testers"
+ },
+ {
+  "id": 1579,
+  "ctx": "term Credits/credits_special_thanks",
+  "en": "Special Thanks"
+ },
+ {
+  "id": 1580,
+  "ctx": "term Credits/credits_lionbridge_header",
+  "en": "Lionbridge Games - Localisation"
+ },
+ {
+  "id": 1581,
+  "ctx": "term Credits/credits_lionbridge_1",
+  "en": "Content Delivery Director (Region)"
+ },
+ {
+  "id": 1582,
+  "ctx": "term Credits/credits_lionbridge_2",
+  "en": "Site Manager"
+ },
+ {
+  "id": 1583,
+  "ctx": "term Credits/credits_lionbridge_3",
+  "en": "PM Team Lead"
+ },
+ {
+  "id": 1584,
+  "ctx": "term Credits/credits_lionbridge_4",
+  "en": "Localization PM"
+ },
+ {
+  "id": 1585,
+  "ctx": "term Credits/credits_lionbridge_5",
+  "en": "Language Coordinators"
+ },
+ {
+  "id": 1586,
+  "ctx": "term Credits/credits_lionbridge_6",
+  "en": "Language Team Leader"
+ },
+ {
+  "id": 1587,
+  "ctx": "term Credits/credits_lionbridge_7",
+  "en": "Global Language Lead"
+ },
+ {
+  "id": 1588,
+  "ctx": "term Credits/credits_lionbridge_8",
+  "en": "Translators"
+ },
+ {
+  "id": 1589,
+  "ctx": "term Credits/credits_lionbridge_9",
+  "en": "Reviewers"
+ },
+ {
+  "id": 1590,
+  "ctx": "term Credits/credits_lionbridge_10",
+  "en": "Narrative Designer(s)"
+ },
+ {
+  "id": 1591,
+  "ctx": "term Credits/credits_lionbridge_lqa_header",
+  "en": "Lionbridge Games - LQA"
+ },
+ {
+  "id": 1592,
+  "ctx": "term Credits/credits_lionbridge_lqa_1",
+  "en": "Test Director"
+ },
+ {
+  "id": 1593,
+  "ctx": "term Credits/credits_lionbridge_lqa_2",
+  "en": "Test Manager(s)"
+ },
+ {
+  "id": 1594,
+  "ctx": "term Credits/credits_lionbridge_lqa_3",
+  "en": "Senior Test Lead"
+ },
+ {
+  "id": 1595,
+  "ctx": "term Credits/credits_lionbridge_lqa_4",
+  "en": "Tester(s)"
+ },
+ {
+  "id": 1596,
+  "ctx": "term Credits/credits_lionbridge_lqa_5",
+  "en": "Additional LQA Support"
+ },
+ {
+  "id": 1597,
+  "ctx": "term Credits/credits_lionbridge_thanks_header",
+  "en": "Lionbridge Games - Special Thanks"
+ },
+ {
+  "id": 1598,
+  "ctx": "term Credits/credits_lionbridge_thanks_1",
+  "en": "Managing Director"
+ },
+ {
+  "id": 1599,
+  "ctx": "term Credits/credits_lionbridge_thanks_2",
+  "en": "Sr. Vice President, Games Operations"
+ },
+ {
+  "id": 1600,
+  "ctx": "term Credits/credits_lionbridge_thanks_3",
+  "en": "Vice President, Sales"
+ },
+ {
+  "id": 1601,
+  "ctx": "term Credits/credits_lionbridge_thanks_4",
+  "en": "Vice President, Global Testing"
+ },
+ {
+  "id": 1602,
+  "ctx": "term Credits/credits_lionbridge_thanks_5",
+  "en": "Sr. Director, Global Content Delivery"
+ },
+ {
+  "id": 1603,
+  "ctx": "term Credits/credits_daqa_header",
+  "en": "DAQA"
+ },
+ {
+  "id": 1604,
+  "ctx": "term Credits/credits_daqa_1",
+  "en": "DAQA Partners"
+ },
+ {
+  "id": 1605,
+  "ctx": "term Credits/credits_daqa_2",
+  "en": "DAQA Program Managers"
+ },
+ {
+  "id": 1606,
+  "ctx": "term Credits/credits_daqa_3",
+  "en": "DAQA Associate Program Managers"
+ },
+ {
+  "id": 1607,
+  "ctx": "term Credits/credits_daqa_4",
+  "en": "DAQA QA Analysts"
+ },
+ {
+  "id": 1608,
+  "ctx": "term Credits/credits_daqa_5",
+  "en": "DAQA Senior Developers"
+ },
+ {
+  "id": 1609,
+  "ctx": "term Credits/credits_daqa_6",
+  "en": "DAQA Core Team"
+ },
+ {
+  "id": 1621,
+  "ctx": "term Key Rebind/keybind_q",
+  "en": "Q"
+ },
+ {
+  "id": 1622,
+  "ctx": "term Key Rebind/keybind_w",
+  "en": "W"
+ },
+ {
+  "id": 1623,
+  "ctx": "term Key Rebind/keybind_e",
+  "en": "E"
+ },
+ {
+  "id": 1624,
+  "ctx": "term Key Rebind/keybind_r",
+  "en": "R"
+ },
+ {
+  "id": 1625,
+  "ctx": "term Key Rebind/keybind_t",
+  "en": "T"
+ },
+ {
+  "id": 1626,
+  "ctx": "term Key Rebind/keybind_y",
+  "en": "Y"
+ },
+ {
+  "id": 1627,
+  "ctx": "term Key Rebind/keybind_u",
+  "en": "U"
+ },
+ {
+  "id": 1628,
+  "ctx": "term Key Rebind/keybind_i",
+  "en": "I"
+ },
+ {
+  "id": 1629,
+  "ctx": "term Key Rebind/keybind_o",
+  "en": "O"
+ },
+ {
+  "id": 1630,
+  "ctx": "term Key Rebind/keybind_p",
+  "en": "P"
+ },
+ {
+  "id": 1634,
+  "ctx": "term Key Rebind/keybind_a",
+  "en": "A"
+ },
+ {
+  "id": 1635,
+  "ctx": "term Key Rebind/keybind_s",
+  "en": "S"
+ },
+ {
+  "id": 1636,
+  "ctx": "term Key Rebind/keybind_d",
+  "en": "D"
+ },
+ {
+  "id": 1637,
+  "ctx": "term Key Rebind/keybind_f",
+  "en": "F"
+ },
+ {
+  "id": 1638,
+  "ctx": "term Key Rebind/keybind_g",
+  "en": "G"
+ },
+ {
+  "id": 1639,
+  "ctx": "term Key Rebind/keybind_h",
+  "en": "H"
+ },
+ {
+  "id": 1640,
+  "ctx": "term Key Rebind/keybind_j",
+  "en": "J"
+ },
+ {
+  "id": 1641,
+  "ctx": "term Key Rebind/keybind_k",
+  "en": "K"
+ },
+ {
+  "id": 1642,
+  "ctx": "term Key Rebind/keybind_l",
+  "en": "L"
+ },
+ {
+  "id": 1644,
+  "ctx": "term Key Rebind/keybind_z",
+  "en": "Z"
+ },
+ {
+  "id": 1645,
+  "ctx": "term Key Rebind/keybind_x",
+  "en": "X"
+ },
+ {
+  "id": 1646,
+  "ctx": "term Key Rebind/keybind_c",
+  "en": "C"
+ },
+ {
+  "id": 1647,
+  "ctx": "term Key Rebind/keybind_v",
+  "en": "V"
+ },
+ {
+  "id": 1648,
+  "ctx": "term Key Rebind/keybind_b",
+  "en": "B"
+ },
+ {
+  "id": 1649,
+  "ctx": "term Key Rebind/keybind_n",
+  "en": "N"
+ },
+ {
+  "id": 1650,
+  "ctx": "term Key Rebind/keybind_m",
+  "en": "M"
+ },
+ {
+  "id": 1654,
+  "ctx": "term Key Rebind/keybind_left_ctrl",
+  "en": "L Ctrl"
+ },
+ {
+  "id": 1655,
+  "ctx": "term Key Rebind/keybind_right_ctrl",
+  "en": "R Ctrl"
+ },
+ {
+  "id": 1656,
+  "ctx": "term Key Rebind/keybind_left_shift",
+  "en": "L Shift"
+ },
+ {
+  "id": 1657,
+  "ctx": "term Key Rebind/keybind_right_shift",
+  "en": "R Shift"
+ }
+]

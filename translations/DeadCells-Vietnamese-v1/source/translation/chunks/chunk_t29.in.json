@@ -1,0 +1,270 @@
+[
+{
+"id": 3997,
+"en": "The third hit increases your damage done by ::multiplier::. This effect can stack but stops after ::duration:: sec or if you are dealt damage."
+},
+{
+"id": 3998,
+"en": "You deal +::prct::% damage but you can't use any other item."
+},
+{
+"id": 3999,
+"en": "The ice doesn't expire and can be kept until you get hit or reactivate it."
+},
+{
+"id": 4000,
+"en": "Stuns any enemy {parried@PA}."
+},
+{
+"id": 4001,
+"en": "Explode again after a brief moment."
+},
+{
+"id": 4002,
+"en": "Area effects created by this item are ::prct::% larger."
+},
+{
+"id": 4004,
+"en": "Lasts indefinitely."
+},
+{
+"id": 4005,
+"en": "Divides itself in two after each impact on a target (maximum: ::multiplier:: times), each new stone dealing ::prct::% less damage."
+},
+{
+"id": 4006,
+"en": "Bats turn back upon colliding with a wall."
+},
+{
+"id": 4007,
+"en": "You get the other item from Alucard's set. Can only trigger once per run."
+},
+{
+"id": 4008,
+"en": "{Roots@RO} the enemy for ::duration:: sec."
+},
+{
+"id": 4009,
+"en": "Bumps enemies on impact."
+},
+{
+"id": 4010,
+"en": "Enemies killed by ghosts become ghosts themselves."
+},
+{
+"id": 4011,
+"en": "The cat is bigger and deals more damage."
+},
+{
+"id": 4012,
+"en": "Causes a holy rain to fall and burn enemies in sight."
+},
+{
+"id": 4013,
+"en": "Causes the target to bleed upon dealing it critical damage."
+},
+{
+"id": 4014,
+"en": "You can deal critical damage for a longer window of time."
+},
+{
+"id": 4015,
+"en": "Bumps enemies even further."
+},
+{
+"id": 4016,
+"en": "Victims spread {oil@FI} around them."
+},
+{
+"id": 4017,
+"en": "Attacks are always fully charged."
+},
+{
+"id": 4018,
+"en": "Eggs spawned by this item hatch into chicks."
+},
+{
+"id": 4019,
+"en": "Pierces all targets and provides bonus gold upon killing an enemy."
+},
+{
+"id": 4020,
+"en": "Applies a random effect on hit."
+},
+{
+"id": 4021,
+"en": "Deflects bullets."
+},
+{
+"id": 4023,
+"en": "Grants overshield when this weapon deals critical damage."
+},
+{
+"id": 4024,
+"en": "Upgraded: Bonus health gained from perfect parries is now permanent."
+},
+{
+"id": 4025,
+"en": "Upgraded: Damage-over-time effects are no longer consumed upon activation."
+},
+{
+"id": 4026,
+"en": "Upgraded: Orb maximum becomes ::count::."
+},
+{
+"id": 4027,
+"en": "Upgraded: Number of enemies to kill to recharge the effect reduced to ::count::."
+},
+{
+"id": 4028,
+"en": "You are invincible as long as you spin."
+},
+{
+"id": 4029,
+"en": "Killing an enemy with a critical hit stuns nearby targets for ::duration:: seconds."
+},
+{
+"id": 4030,
+"en": "Killing an enemy recovers your base munitions."
+},
+{
+"id": 4031,
+"en": "You gain ::prct::% of your max health as {bonus health@SH} for ::duration:: seconds upon using this item."
+},
+{
+"id": 4032,
+"en": "Killing an enemy with the last attack causes ::count:: gold to rain on the player."
+},
+{
+"id": 4033,
+"en": "Only uses the last attack in the combo."
+},
+{
+"id": 4034,
+"en": "Extends the effect by ::duration:: seconds upon killing an enemy."
+},
+{
+"id": 4035,
+"en": "Enemies killed explode, dealing ::+power:: damage to nearby target."
+},
+{
+"id": 4036,
+"en": "Combines both weapons in one slot."
+},
+{
+"id": 4037,
+"en": "Each shot that hits a target increases the weapon's damage by ::prct::%. This effect stacks infinitely but expires after ::duration:: seconds or if you get hit."
+},
+{
+"id": 4038,
+"en": "The last shot of the combo absorbs nearby flames to grow and deal ::prct::% more damage per flame absorbed."
+},
+{
+"id": 4039,
+"en": "Killing an enemy while invisible refreshes the duration of the effect."
+},
+{
+"id": 4040,
+"en": "Also deals {critical damage@CC} while you are airborne. Deals additional damage if both you and the target are airborne."
+},
+{
+"id": 4041,
+"en": "Enemies killed by the special effect of this weapon count three times for your kill streak."
+},
+{
+"id": 4042,
+"en": "Killing an enemy less than ::duration:: sec after having been hit doesn't deactivate the critical hits of this weapon."
+},
+{
+"id": 4043,
+"en": "The critical damage multiplier of this weapon increases with your current gold."
+},
+{
+"id": 4044,
+"en": "Triggers the effects of the parry once more if it kills at least one enemy."
+},
+{
+"id": 4045,
+"en": "Reflect damage proportionally to any attack received while under the effect of the force field."
+},
+{
+"id": 4046,
+"en": "Each successful parry with this item reduces its cooldown the next time it starts."
+},
+{
+"id": 4047,
+"en": "The door can't be destroyed by non-boss enemies."
+},
+{
+"id": 4048,
+"en": "Increases the whirlwind's duration by ::duration:: sec for each enemy it kills."
+},
+{
+"id": 4049,
+"en": "The first attack throws ::count:: crow's feet in front of you."
+},
+{
+"id": 4050,
+"en": "If the dummy's explosion fails to hit at least 1 enemy, its cooldown is reduced to 0."
+},
+{
+"id": 4051,
+"en": "Summons ::count:: leghuggers instead of 1."
+},
+{
+"id": 4052,
+"en": "Hold the shield to launch a longer charge."
+},
+{
+"id": 4053,
+"en": "Projectiles bounce ::count:: times on the ground before disappearing."
+},
+{
+"id": 4054,
+"en": "Critical hits with this weapon create a new ammo in the quiver."
+},
+{
+"id": 4055,
+"en": "Only uses the first hit of the weapon."
+},
+{
+"id": 4056,
+"en": "Throws an additional grappling hook behind you."
+},
+{
+"id": 4057,
+"en": "This item can be used twice as much."
+},
+{
+"id": 4058,
+"en": "Doesn't curse you if any of the targets hit by the weapon dies."
+},
+{
+"id": 4059,
+"en": "Triggers the effects of the item once more if it kills at least one enemy."
+},
+{
+"id": 4061,
+"en": "In the social hierarchy of the island, there are the dogs, the rats, and just below them, the prisoners."
+},
+{
+"id": 4062,
+"en": "The lucky prisoners had a window in their cells... They ended up choking on the ashes from the Ossuary."
+},
+{
+"id": 4063,
+"en": "The prison is directly connected to the outer yard. The prisoners can choose between the rats and the crows."
+},
+{
+"id": 4065,
+"en": "It's never a good sign, being sent to the yard. Few return. When they do, they're never quite the same."
+},
+{
+"id": 4066,
+"en": "The charming countryside atmosphere of the forest has given way to a... less wholesome ambience."
+},
+{
+"id": 4067,
+"en": "Time was, you could still hear the occasional bird singing outside. Now there's nothing but the caw of the crows."
+}
+]

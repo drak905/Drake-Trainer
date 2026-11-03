@@ -1,0 +1,284 @@
+[
+{
+"id": 2925,
+"en": "Charge to shoot souls as projectiles. If more than ::count:: souls are shot at the same time, they inflict {critical hits@CC}."
+},
+{
+"id": 2927,
+"en": "Marks its targets to make Hard Light Sword deal {critical damage@CC} to them. Ammo doesn't recharge passively.",
+"ctx": "U26_HARDLIGHTGUN_GAMEPLAYDESC"
+},
+{
+"id": 2928,
+"en": "Not that clumsy or random, though.",
+"ctx": "U26_HARDLIGHTGUN_AMBIANTDESC"
+},
+{
+"id": 2930,
+"en": "Shoots cards in various patterns. The fourth hit recalls all the cards, dealing {critical damage@CC}."
+},
+{
+"id": 2931,
+"en": "Using cards as a weapon is quite the gambit...",
+"ctx": "DLC3_WEAPON_AMBIANT_DESC_THROWINGCARD"
+},
+{
+"id": 2933,
+"en": "Fires large arrows that push enemies. Stuns and inflicts {critical damage@CC} if it bumps its target into a wall or another enemy."
+},
+{
+"id": 2934,
+"en": "Surprisingly easy to use, considering the tree trunk-sized arrows it fires.",
+"ctx": "DLC3_WEAPON_HEAVYBOW_AMBIENTDESC"
+},
+{
+"id": 2936,
+"en": "Fires ::count:: gold from your pockets dealing {critical damage@CC}. Won’t fire if you can’t pay.",
+"ctx": "U28_MONEYSHOOTER_GAMEPLAYDESC"
+},
+{
+"id": 2937,
+"en": "Shut up and shoot my money!",
+"ctx": "U28_MONEYSHOOTER_AMBIENTDESC"
+},
+{
+"id": 2939,
+"en": "Fires homing arrows that deal more damage if they hit the same enemy."
+},
+{
+"id": 2940,
+"en": "Just close your eyes and shoot!"
+},
+{
+"id": 2942,
+"en": "Stuns any enemy it hits. Recharge 1 ammo every time you kill an enemy."
+},
+{
+"id": 2943,
+"en": "Vase, flower pot, bottle, knife,... No matter what you can grab, as long as you can throw it, you're game."
+},
+{
+"id": 2945,
+"en": "Bounces on nearby targets, dealing more and more damage each time and dealing {critical damage@CC} after ::bonus:: bounces.",
+"ctx": "U32_LASERGLAIVE_GAMEPLAYDESC"
+},
+{
+"id": 2946,
+"en": "Weakness in numbers.",
+"ctx": "U32_LASERGLAIVE_AMBIENTDESC"
+},
+{
+"id": 2948,
+"en": "The lower your health, the more attacks this weapon has in its combo. Deals {critical damage@CC} starting from the third hit.",
+"ctx": "U31_HYDRASPELL_GAMEPLAYDESC"
+},
+{
+"id": 2949,
+"en": "Can also double as domestic incense, even in a foul-smelling prison.",
+"ctx": "U31_HYDRASPELL_AMBIENTDESC"
+},
+{
+"id": 2951,
+"en": "Throws an axe on a parabolic trajectory, dealing {critical damage@CC} during its descent.",
+"ctx": "DLCP_THROWINGAXE_GAMEPLAYDESC"
+},
+{
+"id": 2952,
+"en": "Axe as a bridge between two universes",
+"ctx": "DLCP_THROWINGAXE_AMBIENTDESC"
+},
+{
+"id": 2954,
+"en": "Rolls the head on the ground, {petrifying@PT} enemies it hits. When it stops or upon reactivation, it yells, projecting nearby enemies in the air.",
+"ctx": "DLCP_MEDUSAHEAD_GAMEPLAYDESC"
+},
+{
+"id": 2955,
+"en": "Look me in the eyes when I'm talking to you!",
+"ctx": "DLCP_MEDUSAHEAD_AMBIENTDESC"
+},
+{
+"id": 2957,
+"en": "Fires an indirect projectile that curses you ::count:: time if it hits at least one enemy.",
+"ctx": "DLCP_ANATHEMA_GAMEPLAYDESC"
+},
+{
+"id": 2958,
+"en": "Remorses included.",
+"ctx": "DLCP_ANATHEMA_AMBIENTDESC"
+},
+{
+"id": 2960,
+"en": "Hold to absorb partial damage.\nTap to try to {parry@PA} and block all damage."
+},
+{
+"id": 2962,
+"en": "Melee attacks inflict ::prct2::% extra damage for ::duration:: seconds after a successful {parry@PA}."
+},
+{
+"id": 2963,
+"en": "The tears of the community are engraved upon the inside of this shield."
+},
+{
+"id": 2965,
+"en": "Stuns blocked enemies. Stuns last longer if a {parry@PA} is successful."
+},
+{
+"id": 2967,
+"en": "Blocked attacks inflict damage on nearby enemies. {Critical damage@CC} if {parry@PA} is successful."
+},
+{
+"id": 2969,
+"en": "Blocking attacks knocks enemies back, they take +::+power2:: damage if they hit a wall. Double damage for a {parry@PA}."
+},
+{
+"id": 2971,
+"en": "Absorbs more damage. Generates a force field for ::duration:: sec on a successful melee {parry@PA}."
+},
+{
+"id": 2973,
+"en": "Blocks attacks while charging forward."
+},
+{
+"id": 2975,
+"en": "Blocked attacks inflict {bleeding@BL} (::+dps:: DPS for ::duration:: sec). Effect extended to nearby enemies on a successful {parry@PA}."
+},
+{
+"id": 2977,
+"en": "A successful {parry@PA} knocks out enemies' teeth (1 per enemy) and transforms arrows into gold."
+},
+{
+"id": 2979,
+"en": "Inflicts major damage on blocked enemies."
+},
+{
+"id": 2981,
+"en": "Cannot be held up. Blocked grenades and shots are returned with added power."
+},
+{
+"id": 2983,
+"en": "Generates a temporary force field when held up. It regenerates slowly when the shield is not held up. {Parries@PA} speed up the process."
+},
+{
+"id": 2985,
+"en": "Inflicts ::+dps:: {electric@EL} DPS in front of you for ::duration:: seconds when blocking, or all around you after a successful {parry@PA}. Use again to stun all nearby enemies. Inflicts ::+dps2:: {shock@EL} DPS around you for ::*ShockAffectDuration:: seconds."
+},
+{
+"id": 2987,
+"en": "{Parrying@PA} an attack {freezes@IC} nearby enemies. Reflected projectiles {freeze@IC} enemies they hit."
+},
+{
+"id": 2989,
+"en": "Can be used to attack in melee. Deals {critical damage@CC} after a parry.",
+"ctx": "DLCP_ALUCARD_SHIELD_GAMEPLAYDESC"
+},
+{
+"id": 2990,
+"en": "When Alucard uses it in combat, you could say that the dhampir strikes back.",
+"ctx": "DLCP_ALUCARD_SHIELD_AMBIANTDESC"
+},
+{
+"id": 2992,
+"en": "Nothing worth mentioning, except maybe a vague whiff of dead rat..."
+},
+{
+"id": 2995,
+"en": "A beautiful object skillfully hidden under your clothes to save the artists some work."
+},
+{
+"id": 3000,
+"en": "\"Ygdar Orus Li Ox!\""
+},
+{
+"id": 3001,
+"en": "Saves your life ONCE (doesn't work against Curses)."
+},
+{
+"id": 3002,
+"en": "Who says you can't cheat death?"
+},
+{
+"id": 3008,
+"en": "Opens the gates of hell..."
+},
+{
+"id": 3010,
+"en": "It looks very old."
+},
+{
+"id": 3012,
+"en": "Found in a wall. Who knows what it’s for?"
+},
+{
+"id": 3019,
+"en": "Opens a Castle gate."
+},
+{
+"id": 3029,
+"en": "It smells."
+},
+{
+"id": 3038,
+"en": "Unnecessarily heavy.",
+"ctx": "DLCP_PETRIFIED_KEY_DESC"
+},
+{
+"id": 3039,
+"en": "Increases HP."
+},
+{
+"id": 3040,
+"en": "Increases weapon damage."
+},
+{
+"id": 3041,
+"en": "Increases damage done by active skills and reduces their cooldown time."
+},
+{
+"id": 3043,
+"en": "Gather four to increase one of your stats."
+},
+{
+"id": 3044,
+"en": "Secret potion of ???"
+},
+{
+"id": 3045,
+"en": "What might be hiding in here?"
+},
+{
+"id": 3049,
+"en": "The first accreditation level in the Bank. For interns and tellers.",
+"ctx": "U28_BANK_FLOOR1_KEYCARD_DESC"
+},
+{
+"id": 3051,
+"en": "Serious business! With this, you might be able to see the ledgers.",
+"ctx": "U28_BANK_FLOOR2_KEYCARD_DESC"
+},
+{
+"id": 3053,
+"en": "Emerald-level employees are able to enter the high-security vault, the most impregnable room of the Bank!",
+"ctx": "U28_BANK_FLOOR3_KEYCARD_DESC"
+},
+{
+"id": 3055,
+"en": "To remember this key, you needed a little paid help.",
+"ctx": "U32_STS_MERCHANT_KEY_DESC"
+},
+{
+"id": 3057,
+"en": "Taken from the clutches of a mighty enemy. Now you have to make it count.",
+"ctx": "U32_STS_ELITE_KEY_DESC"
+},
+{
+"id": 3059,
+"en": "This one required a heartbreaking decision.",
+"ctx": "U32_STS_ALTAR_KEY_DESC"
+},
+{
+"id": 3061,
+"en": "A pretty key with a small ribbon.",
+"ctx": "DLCP_MARIA_CAT_KEY_DESC"
+}
+]

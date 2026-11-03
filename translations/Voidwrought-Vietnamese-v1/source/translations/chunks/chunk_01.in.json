@@ -1,0 +1,582 @@
+[
+ {
+  "id": 144,
+  "ctx": "term Data/relic_projection_lore",
+  "en": "Legends tell of acts so unspeakable they could not be chronicled in the record of the murals—acts such as the crimes of the scavengers who pillaged blessed artifacts from the holy tombs."
+ },
+ {
+  "id": 145,
+  "ctx": "term Data/relic_rebound",
+  "en": "Astronomer's Band"
+ },
+ {
+  "id": 146,
+  "ctx": "term Data/relic_rebound_desc",
+  "en": "Summons a sphere that will ricochet off of surfaces for a time before vanishing."
+ },
+ {
+  "id": 147,
+  "ctx": "term Data/relic_rebound_lore",
+  "en": "One of many created by the Mutilants, this relic can harness the energy of the wearer's pain and reshape it into vile, corporeal form."
+ },
+ {
+  "id": 148,
+  "ctx": "term Data/relic_timestop",
+  "en": "Chrono Canister"
+ },
+ {
+  "id": 149,
+  "ctx": "term Data/relic_timestop_desc",
+  "en": "On impact, the Canister creates a bubble that slows down time. More powerful beings remain unaffected."
+ },
+ {
+  "id": 150,
+  "ctx": "term Data/relic_timestop_lore",
+  "en": "This otherwordly contraption is unlike any of the wonders created by the artificers of the Gray City. Perhaps whoever engineered it applied it as a tool of preservation... or punishment."
+ },
+ {
+  "id": 151,
+  "ctx": "term Data/relic_groundwave",
+  "en": "Serrated Gland"
+ },
+ {
+  "id": 152,
+  "ctx": "term Data/relic_groundwave_desc",
+  "en": "Releases a bi-directional wave of spikes that travels along the ground, damaging anything it touches."
+ },
+ {
+  "id": 153,
+  "ctx": "term Data/relic_groundwave_lore",
+  "en": "This bulbous mass of flesh, sinew, and bone appears ready to burst, undulating and squirming in response to physical stimuli."
+ },
+ {
+  "id": 154,
+  "ctx": "term Data/relic_blade",
+  "en": "Spectral Blade"
+ },
+ {
+  "id": 155,
+  "ctx": "term Data/relic_blade_desc",
+  "en": "Summons a blade to perform an arcing swing."
+ },
+ {
+  "id": 156,
+  "ctx": "term Data/relic_guardian_orbs",
+  "en": "Guardian Eidolon"
+ },
+ {
+  "id": 157,
+  "ctx": "term Data/relic_guardian_orbs_desc",
+  "en": "Orbs materialize and orbit around the summoner, damaging anything they touch."
+ },
+ {
+  "id": 158,
+  "ctx": "term Data/relic_guardian_orbs_lore",
+  "en": "The countless stone chimes lining the streets of the Gray City still beckon its former inhabitants."
+ },
+ {
+  "id": 159,
+  "ctx": "term Data/relic_festeringspores",
+  "en": "Festering Spores"
+ },
+ {
+  "id": 160,
+  "ctx": "term Data/relic_festeringspores_desc",
+  "en": "Releases a lingering cloud that damages foes until dissipating."
+ },
+ {
+  "id": 161,
+  "ctx": "term Data/relic_festeringspores_lore",
+  "en": "Putridity is the breeding ground of life unseen, and the alchemists pursued such studies further than any other. Strange and purposeless, it takes on new forms within the barren hives of the Gardens."
+ },
+ {
+  "id": 162,
+  "ctx": "term Data/relic_archprojectile",
+  "en": "Sky-shard"
+ },
+ {
+  "id": 163,
+  "ctx": "term Data/relic_archprojectile_desc",
+  "en": "Summons an arcing projectile that can be struck to send it flying horizontally."
+ },
+ {
+  "id": 164,
+  "ctx": "term Data/relic_archprojectile_lore",
+  "en": "As the firmament ruptured, pieces of the shattered sky showered the land, vibrating with latent energy."
+ },
+ {
+  "id": 165,
+  "ctx": "term Data/relic_stickybomb",
+  "en": "Mutated Gastropod"
+ },
+ {
+  "id": 166,
+  "ctx": "term Data/relic_stickybomb_desc",
+  "en": "Releases an explosive that sticks to surfaces, detonating after a brief duration."
+ },
+ {
+  "id": 167,
+  "ctx": "term Data/relic_stickybomb_lore",
+  "en": "Irrespective of size, no creature remained untouched by the corruption that arose within the Gardens."
+ },
+ {
+  "id": 168,
+  "ctx": "term Data/relic_bouncybomb",
+  "en": "Volatile Jar"
+ },
+ {
+  "id": 169,
+  "ctx": "term Data/relic_bouncybomb_desc",
+  "en": "Releases a bouncing explosive, lighting enemies on fire."
+ },
+ {
+  "id": 170,
+  "ctx": "term Data/relic_bouncybomb_lore",
+  "en": "It is not without reason that some of the alchemists' experiments were banished from the Gardens' plateaus."
+ },
+ {
+  "id": 171,
+  "ctx": "term Data/relic_anomaly",
+  "en": "Impossible Anomaly"
+ },
+ {
+  "id": 172,
+  "ctx": "term Data/relic_anomaly_desc",
+  "en": "Manifests an orb of Voidal energy that slowly travels forward."
+ },
+ {
+  "id": 173,
+  "ctx": "term Data/relic_anomaly_lore",
+  "en": "The anomalies observed within the Obsidian tower were long believed to be isolated phenomena, until a stable coalescence of Voidal energy breached the black stone."
+ },
+ {
+  "id": 174,
+  "ctx": "term Data/relic_barrier",
+  "en": "Condensed Light"
+ },
+ {
+  "id": 175,
+  "ctx": "term Data/relic_barrier_desc",
+  "en": "Creates a wall that lights enemies on fire."
+ },
+ {
+  "id": 176,
+  "ctx": "term Data/relic_barrier_lore",
+  "en": "Scarce attempts were made to harness the power of the crimson Light, all with intensely volatile results."
+ },
+ {
+  "id": 177,
+  "ctx": "term Data/currency_journalentry",
+  "en": "Journal Entry"
+ },
+ {
+  "id": 178,
+  "ctx": "term Data/currency_journalentry_desc (+3 more)",
+  "en": "DEBUG - This item won't show in the inventory later."
+ },
+ {
+  "id": 179,
+  "ctx": "term Data/currency_salt_max",
+  "en": "Max Amount of Healing Salt"
+ },
+ {
+  "id": 180,
+  "ctx": "term Data/currency_health_max",
+  "en": "Health Upgrade"
+ },
+ {
+  "id": 181,
+  "ctx": "term Data/currency_charge_max",
+  "en": "Void Charge Max"
+ },
+ {
+  "id": 182,
+  "ctx": "term Data/currency_charge_fraction",
+  "en": "Void Charge Fraction"
+ },
+ {
+  "id": 183,
+  "ctx": "term Data/currency_charge",
+  "en": "Void Charge"
+ },
+ {
+  "id": 184,
+  "ctx": "term Data/currency_wpnupgr",
+  "en": "Damage Upgrade"
+ },
+ {
+  "id": 185,
+  "ctx": "term Data/currency_forgepiece",
+  "en": "Construct Parts"
+ },
+ {
+  "id": 186,
+  "ctx": "term Data/currency_forgepiece_desc",
+  "en": "Amalgamations of stone and metal, these intricately artificed pieces stem from the lost technology of the First Civilization. They appear to originally have been part of a larger whole."
+ },
+ {
+  "id": 187,
+  "ctx": "term Data/currency_questorb",
+  "en": "Mysterious Orb"
+ },
+ {
+  "id": 188,
+  "ctx": "term Data/currency_questorb_desc",
+  "en": "Gazing into the Orb, its inside appears impossibly deep. Swirling patterns of stars hypnotically dance within, as if beckoning the onlooker to join. Time begins to feel almost inconsequential."
+ },
+ {
+  "id": 189,
+  "ctx": "term Data/currency_questorbfilled",
+  "en": "Sealed Orb"
+ },
+ {
+  "id": 190,
+  "ctx": "term Data/currency_questorbfilled_desc",
+  "en": "The hypnotic spiral of stars within the Mysterious Orb has settled, its surface having turned opaque and dull upon the touch of the Vizier. You still feel her presence within."
+ },
+ {
+  "id": 191,
+  "ctx": "term Data/currency_questorbcorrupt",
+  "en": "Manipulated Orb"
+ },
+ {
+  "id": 192,
+  "ctx": "term Data/currency_questorbcorrupt_desc",
+  "en": "After being tampered with, the hypnotic spiral of stars within the Mysterious Orb has settled, its surface now opaque and dull."
+ },
+ {
+  "id": 193,
+  "ctx": "term Data/currency_cnidoblast",
+  "en": "Cnidoblast Cyst"
+ },
+ {
+  "id": 194,
+  "ctx": "term Data/currency_cnidoblast_desc",
+  "en": "An engorged cyst, eager to poison anything it comes into contact with."
+ },
+ {
+  "id": 195,
+  "ctx": "term Data/currency_conduit",
+  "en": "Conduit Rod"
+ },
+ {
+  "id": 196,
+  "ctx": "term Data/currency_conduit_desc",
+  "en": "This marvel of ancient ingenuity provides an intense direct psychic connection to the gods. Once used in ritual worship, it has also functioned as a tool to punish and subdue. Present it to Void Priest So-Venat to gain an additional Void Charge."
+ },
+ {
+  "id": 197,
+  "ctx": "term Data/currency_conduit_rod_ingot",
+  "en": "Metal Ingot"
+ },
+ {
+  "id": 198,
+  "ctx": "term Data/currency_conduit_rod_ingot_desc",
+  "en": "The processed form of the metal of the gods, ready to be shaped into something useful."
+ },
+ {
+  "id": 199,
+  "ctx": "term Data/currency_ichor",
+  "en": "Ichor"
+ },
+ {
+  "id": 200,
+  "ctx": "term Data/currency_ichor_desc",
+  "en": "The eternal, living blood of the Progenitor gods. Highly valued for its divine nature, and consumed by some in efforts to commune with them."
+ },
+ {
+  "id": 201,
+  "ctx": "term Data/currency_fragment",
+  "en": "Artifact Fragment"
+ },
+ {
+  "id": 202,
+  "ctx": "term Data/currency_fragment_desc",
+  "en": "An inert piece of a long-forgotten artifact, its Voidal energies long vanished. Still, it holds value to artificers and peddlers."
+ },
+ {
+  "id": 203,
+  "ctx": "term Data/currency_salt_upgrade_item",
+  "en": "Dormant Salt Receptacle"
+ },
+ {
+  "id": 204,
+  "ctx": "term Data/currency_salt_upgrade_item_desc",
+  "en": "Created to hold replenishing vitae in its purest form, the Receptacle currently lies dormant. Present it to Void Priest Namun to gain additional Healing Salt."
+ },
+ {
+  "id": 205,
+  "ctx": "term Data/currency_remnant",
+  "en": "Divine Remnant"
+ },
+ {
+  "id": 206,
+  "ctx": "term Data/currency_remnant_desc",
+  "en": "First discovered scattered across the world during the First Emergence, these scarce phenomena are believed by some to be what remains of the ruptured souls of the Progenitor gods."
+ },
+ {
+  "id": 207,
+  "ctx": "term Data/currency_tracemetal",
+  "en": "Trace Metal"
+ },
+ {
+  "id": 208,
+  "ctx": "term Data/currency_tracemetal_desc",
+  "en": "Mined from the great cluster of ore veins sprouting from the depths beneath the Gray City. Its feint psychic properties and mesmerizing appearance once treasured by the First Civilization."
+ },
+ {
+  "id": 209,
+  "ctx": "term Data/currency_vaultkey",
+  "en": "Ancient Cipher"
+ },
+ {
+  "id": 210,
+  "ctx": "term Data/currency_vaultkey_desc",
+  "en": "Encrypted writings that can be consumed to unseal Vaults."
+ },
+ {
+  "id": 211,
+  "ctx": "term Data/currency_heraldremains",
+  "en": "Progenitor Flesh"
+ },
+ {
+  "id": 212,
+  "ctx": "term Data/currency_heraldremains_desc",
+  "en": "An everliving, writhing mass of godlike Flesh. Its eternally regenerative properties are a thing witnessed by few, yet sought by many, be it for purposes of worship, knowledge, or longevity."
+ },
+ {
+  "id": 213,
+  "ctx": "term Data/currency_voidanchor",
+  "en": "Void Anchor"
+ },
+ {
+  "id": 214,
+  "ctx": "term Data/currency_voidanchor_desc",
+  "en": "Allows for the activation of the Gray City's elaborate network of Void Gates, granting instant translocation between discovered Gates."
+ },
+ {
+  "id": 215,
+  "ctx": "term Data/currency_crew",
+  "en": "Devotees"
+ },
+ {
+  "id": 216,
+  "ctx": "term Data/currency_crew_desc",
+  "en": "Unliving followers who congregate within the Shrine of the Gray Pyramid, seeking to restore its former glory. Idle hands may be put to work excavating its inner chambers."
+ },
+ {
+  "id": 217,
+  "ctx": "term Data/currency_remains",
+  "en": "Putrid Remains"
+ },
+ {
+  "id": 218,
+  "ctx": "term Data/currency_remains_desc",
+  "en": "What appears to be the contorted Remains of a long-dead member of the crew. No resemblance of a person remains."
+ },
+ {
+  "id": 219,
+  "ctx": "term Data/currency_health_upgrade_piece",
+  "en": "Shard of Vitae"
+ },
+ {
+  "id": 220,
+  "ctx": "term Data/currency_health_upgrade_piece_desc",
+  "en": "Once enough Shards have been collected, maximum Health is increased."
+ },
+ {
+  "id": 221,
+  "ctx": "term Data/currency_sediment",
+  "en": "Vile Sediment"
+ },
+ {
+  "id": 222,
+  "ctx": "term Data/currency_sediment_desc",
+  "en": "Ashes scraped from the bottom of fermentation vessels scattered across the Lost Gardens."
+ },
+ {
+  "id": 223,
+  "ctx": "term Data/currency_astronomers_helmet",
+  "en": "Broken Helmet"
+ },
+ {
+  "id": 224,
+  "ctx": "term Data/currency_astronomers_helmet_desc",
+  "en": "What remains of the Astronomer's intricate helmet."
+ },
+ {
+  "id": 225,
+  "ctx": "term Data/compendium_lorestone",
+  "en": "Anamnestic Recollections"
+ },
+ {
+  "id": 226,
+  "ctx": "term Data/compendium_lorestone_desc",
+  "en": "Maddening recounts of places, events, and beings from the past, present, and future. Of interest only to ignorant truthseekers—or those of unsound mind."
+ },
+ {
+  "id": 227,
+  "ctx": "term Data/currency_cityrecord",
+  "en": "Endless Kaleidoscope"
+ },
+ {
+  "id": 228,
+  "ctx": "term Data/currency_cityrecord_desc",
+  "en": "An all-encompassing vision of the First Civilization, reflected in overbearing detail."
+ },
+ {
+  "id": 229,
+  "ctx": "term Data/currency_bosskey01",
+  "en": "The Key of Blood"
+ },
+ {
+  "id": 230,
+  "ctx": "term Data/currency_bosskey01_desc",
+  "en": "The Key pulses with warmth, aligning itself in the direction of the Gray Pyramid."
+ },
+ {
+  "id": 231,
+  "ctx": "term Data/currency_bosskey02",
+  "en": "The Key of Flesh"
+ },
+ {
+  "id": 232,
+  "ctx": "term Data/currency_bosskey02_desc",
+  "en": "The Key radiates an unnatural chill, aligning itself in the direction of the Gray Pyramid."
+ },
+ {
+  "id": 233,
+  "ctx": "term Data/currency_bosskey03",
+  "en": "The Key of Mind"
+ },
+ {
+  "id": 234,
+  "ctx": "term Data/currency_bosskey03_desc",
+  "en": "The Key reverberates with unseen energy, aligning itself in the direction of the Gray Pyramid."
+ },
+ {
+  "id": 235,
+  "ctx": "term Data/excavation_undiscovered",
+  "en": "Undiscovered"
+ },
+ {
+  "id": 236,
+  "ctx": "term Data/excavation_forge (+3 more)",
+  "en": "The Grand Artificer"
+ },
+ {
+  "id": 237,
+  "ctx": "term Data/excavation_forge_desc",
+  "en": "The petroglyphs speak of a great construct once raised within these halls. Perhaps it still remains."
+ },
+ {
+  "id": 238,
+  "ctx": "term Data/excavation_save_teleport",
+  "en": "Voidal Energies"
+ },
+ {
+  "id": 239,
+  "ctx": "term Data/excavation_save_teleport_desc",
+  "en": "The membrane between the planes seems particularly thin in this region. Perhaps one of the Grand Vizier's mirrors survived the fall."
+ },
+ {
+  "id": 240,
+  "ctx": "term Data/excavation_library",
+  "en": "The Shunned Library"
+ },
+ {
+  "id": 241,
+  "ctx": "term Data/excavation_library_desc",
+  "en": "Yes... This must be it. We have reached the walls of the Shunned Library, sealed by the apostates as the city fell."
+ },
+ {
+  "id": 242,
+  "ctx": "term Data/excavation_mausoleum",
+  "en": "The Inner Sanctum"
+ },
+ {
+  "id": 243,
+  "ctx": "term Data/excavation_mausoleum_desc",
+  "en": "None remember what lies within the Inner Sanctum, for it was reserved only for a select few... until now."
+ },
+ {
+  "id": 244,
+  "ctx": "term Data/excavation_relic (+1 more)",
+  "en": "Whispers"
+ },
+ {
+  "id": 245,
+  "ctx": "term Data/excavation_relic_desc",
+  "en": "Something remains on the other side of this wall. Can you hear its whispers?"
+ },
+ {
+  "id": 246,
+  "ctx": "term Data/excavation_ShaftLowerLeft (+1 more)",
+  "en": "Collapsed Passage"
+ },
+ {
+  "id": 247,
+  "ctx": "term Data/excavation_ShaftLowerLeft_desc (+1 more)",
+  "en": "These passages have crumbled like our once great city. We must press on."
+ },
+ {
+  "id": 248,
+  "ctx": "term Data/excavation_ShaftUpperLeft (+1 more)",
+  "en": "Blocked Descent"
+ },
+ {
+  "id": 249,
+  "ctx": "term Data/excavation_ShaftUpperLeft_desc (+1 more)",
+  "en": "The pathways of the Gray Pyramid run deep. We must breathe air into them once more."
+ },
+ {
+  "id": 250,
+  "ctx": "term Data/excavation_teleporter",
+  "en": "Humming Stone"
+ },
+ {
+  "id": 251,
+  "ctx": "term Data/excavation_teleporter_desc",
+  "en": "We sense a great congregation of Voidal energy within this lower chamber."
+ },
+ {
+  "id": 252,
+  "ctx": "term Data/excavation_vault",
+  "en": "Strange Seal"
+ },
+ {
+  "id": 253,
+  "ctx": "term Data/excavation_vault_desc",
+  "en": "Someone went to great lengths to seal this area of the Gray Pyramid. What secrets could such a place hold? "
+ },
+ {
+  "id": 254,
+  "ctx": "term Data/excavation_small01",
+  "en": "Crumbled Alcove"
+ },
+ {
+  "id": 255,
+  "ctx": "term Data/excavation_small02",
+  "en": "Secret Compartment"
+ },
+ {
+  "id": 256,
+  "ctx": "term Data/excavation_small03",
+  "en": "False Wall"
+ },
+ {
+  "id": 257,
+  "ctx": "term Data/excavation_small04",
+  "en": "Loose Bricks"
+ },
+ {
+  "id": 258,
+  "ctx": "term Data/excavation_small_desc",
+  "en": "Something lies hidden within."
+ },
+ {
+  "id": 259,
+  "ctx": "term Data/compendium_fermented (+1 more)",
+  "en": "The Fermented"
+ }
+]

@@ -1,0 +1,486 @@
+[
+{
+"id": 1580,
+"en": "I'm glad to see you dressed to the nines for this.",
+"ctx": "DLC3_QUEEN_INTRO_TEXT_1_KING"
+},
+{
+"id": 1581,
+"en": "Don't think it changes anything, however. I can't let you do it.",
+"ctx": "DLC3_QUEEN_INTRO_TEXT_2_KING"
+},
+{
+"id": 1582,
+"en": "And here comes my beloved husband, trying his best to save his own skin once again.",
+"ctx": "DLC3_QUEEN_INTRO_TEXT_1_FIRST_KING"
+},
+{
+"id": 1583,
+"en": "I'm sorry, my love, but I can't let you reignite the beacon. I'll stop you even if it means killing my husband and king.",
+"ctx": "DLC3_QUEEN_INTRO_TEXT_2_FIRST_KING"
+},
+{
+"id": 1584,
+"en": "You again... so stubborn.",
+"ctx": "DLC3_QUEEN_INTRO_TEXT_1"
+},
+{
+"id": 1585,
+"en": "En garde!",
+"ctx": "DLC3_QUEEN_INTRO_TEXT_2"
+},
+{
+"id": 1586,
+"en": "Here comes the interloper. After all the Malaise has done to the kingdom, you should realize that we cannot allow anything to leave the island. But I guess you're beyond reasoning now.",
+"ctx": "DLC3_QUEEN_INTRO_TEXT_1_FIRST"
+},
+{
+"id": 1587,
+"en": "I'm sorry, but I have to stop this folly right here, right now. Know that I won't take any pleasure in killing you.",
+"ctx": "DLC3_QUEEN_INTRO_TEXT_2_FIRST"
+},
+{
+"id": 1588,
+"en": "I wish things had turned out otherwise. Cursed be the Malaise!"
+},
+{
+"id": 1589,
+"en": "I guess... the die is cast then..."
+},
+{
+"id": 1590,
+"en": "Enjoy your meal.",
+"ctx": "DLCP_DOOKU_INTERACTION_CURSEFOOD_01"
+},
+{
+"id": 1591,
+"en": "With the compliments of the chef.",
+"ctx": "DLCP_DOOKU_INTERACTION_CURSEFOOD_02"
+},
+{
+"id": 1592,
+"en": "I wouldn't eat that if I were you...",
+"ctx": "DLCP_DOOKU_INTERACTION_CURSEFOOD_03"
+},
+{
+"id": 1593,
+"en": "It's rude to eat while in combat.",
+"ctx": "DLCP_DOOKU_INTERACTION_CURSEFOOD_04"
+},
+{
+"id": 1594,
+"en": "This one is a little bit too rich.",
+"ctx": "DLCP_DOOKU_INTERACTION_CURSEFOOD_05"
+},
+{
+"id": 1595,
+"en": "Staggering!",
+"ctx": "DLCP_DOOKU_INTERACTION_FLIPSCREEN_01"
+},
+{
+"id": 1596,
+"en": "I am used to turning heads.",
+"ctx": "DLCP_DOOKU_INTERACTION_FLIPSCREEN_02"
+},
+{
+"id": 1597,
+"en": "See the world in a new perspective.",
+"ctx": "DLCP_DOOKU_INTERACTION_FLIPSCREEN_03"
+},
+{
+"id": 1598,
+"en": "I reign supreme here. I even control the way you see my domain.",
+"ctx": "DLCP_DOOKU_INTERACTION_FLIPSCREEN_04"
+},
+{
+"id": 1599,
+"en": "Enjoy the view.",
+"ctx": "DLCP_DOOKU_INTERACTION_FLIPSCREEN_05"
+},
+{
+"id": 1600,
+"en": "Buying is cheating.",
+"ctx": "DLCP_DOOKU_INTERACTION_KILLMERCHANT_01"
+},
+{
+"id": 1601,
+"en": "This is the price you have to pay for standing against me.",
+"ctx": "DLCP_DOOKU_INTERACTION_KILLMERCHANT_02"
+},
+{
+"id": 1602,
+"en": "Did this old man really try to sell you items he found in MY Castle?!",
+"ctx": "DLCP_DOOKU_INTERACTION_KILLMERCHANT_03"
+},
+{
+"id": 1603,
+"en": "Keep your gold.",
+"ctx": "DLCP_DOOKU_INTERACTION_KILLMERCHANT_04"
+},
+{
+"id": 1604,
+"en": "Thank you, I didn't know he was hiding there.",
+"ctx": "DLCP_DOOKU_INTERACTION_KILLMERCHANT_05"
+},
+{
+"id": 1605,
+"en": "Dodge these.",
+"ctx": "DLCP_DOOKU_INTERACTION_PROJECTILEWAVE_01"
+},
+{
+"id": 1606,
+"en": "Enough playing around, die now.",
+"ctx": "DLCP_DOOKU_INTERACTION_PROJECTILEWAVE_02"
+},
+{
+"id": 1607,
+"en": "Burn!",
+"ctx": "DLCP_DOOKU_INTERACTION_PROJECTILEWAVE_03"
+},
+{
+"id": 1608,
+"en": "You'll never reach my throne.",
+"ctx": "DLCP_DOOKU_INTERACTION_PROJECTILEWAVE_04"
+},
+{
+"id": 1609,
+"en": "I'll destroy you.",
+"ctx": "DLCP_DOOKU_INTERACTION_PROJECTILEWAVE_05"
+},
+{
+"id": 1610,
+"en": "All my bat familiars were so eager to meet you!",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNBATS_01"
+},
+{
+"id": 1611,
+"en": "Devour them!",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNBATS_02"
+},
+{
+"id": 1612,
+"en": "Go on, my little friends, exsanguinate them.",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNBATS_03"
+},
+{
+"id": 1613,
+"en": "I love bats, don't you?",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNBATS_04"
+},
+{
+"id": 1614,
+"en": "Humanity will learn to fear my bats. Let's start with you.",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNBATS_05"
+},
+{
+"id": 1615,
+"en": "Will you be able to tell fact from fiction?",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNGHOSTENEMIES_01"
+},
+{
+"id": 1616,
+"en": "You're surrounded.",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNGHOSTENEMIES_02"
+},
+{
+"id": 1617,
+"en": "Your eyes betray you.",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNGHOSTENEMIES_03"
+},
+{
+"id": 1618,
+"en": "Reality obeys me.",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNGHOSTENEMIES_04"
+},
+{
+"id": 1619,
+"en": "Trust no one... even yourself.",
+"ctx": "DLCP_DOOKU_INTERACTION_SPAWNGHOSTENEMIES_05"
+},
+{
+"id": 1620,
+"en": "Disappointing.",
+"ctx": "DLCP_DOOKU_INTERACTION_TAUNTPLAYERDEATH_01"
+},
+{
+"id": 1621,
+"en": "You simply weren't up to the task.",
+"ctx": "DLCP_DOOKU_INTERACTION_TAUNTPLAYERDEATH_02"
+},
+{
+"id": 1622,
+"en": "You were the last, yet fragile, if I may, rampart of this world.",
+"ctx": "DLCP_DOOKU_INTERACTION_TAUNTPLAYERDEATH_03"
+},
+{
+"id": 1623,
+"en": "I win, you lose, everything is as it should be.",
+"ctx": "DLCP_DOOKU_INTERACTION_TAUNTPLAYERDEATH_04"
+},
+{
+"id": 1624,
+"en": "It's hard to find good antagonists, nowadays...",
+"ctx": "DLCP_DOOKU_INTERACTION_TAUNTPLAYERDEATH_05"
+},
+{
+"id": 1625,
+"en": "Let's raise the stakes.",
+"ctx": "DLCP_DOOKU_INTERACTION_TURNMOBINTOELITE_01"
+},
+{
+"id": 1626,
+"en": "This one looked a bit puny, I'm only giving it a fighting chance.",
+"ctx": "DLCP_DOOKU_INTERACTION_TURNMOBINTOELITE_02"
+},
+{
+"id": 1627,
+"en": "Pick on someone your own size... or slightly bigger.",
+"ctx": "DLCP_DOOKU_INTERACTION_TURNMOBINTOELITE_03"
+},
+{
+"id": 1628,
+"en": "I don't follow the rules, I only play to win.",
+"ctx": "DLCP_DOOKU_INTERACTION_TURNMOBINTOELITE_04"
+},
+{
+"id": 1629,
+"en": "You were doing too well, I had to intervene and keep this interesting.",
+"ctx": "DLCP_DOOKU_INTERACTION_TURNMOBINTOELITE_05"
+},
+{
+"id": 1630,
+"en": "This creature cannot be transformed!"
+},
+{
+"id": 1631,
+"en": "No new blueprints to be drawn from this creature."
+},
+{
+"id": 1632,
+"en": "Borrow ::amountGet:: {iconCoin@img}"
+},
+{
+"id": 1633,
+"en": "Error, you can't borrow more gold in this life.",
+"ctx": "U28_ATM_LIMIT"
+},
+{
+"id": 1634,
+"en": "Thank you for your patronage! Please come again!",
+"ctx": "U28_ATM_GIVE_MONEY_1"
+},
+{
+"id": 1635,
+"en": "Ka-ching! Here's your money.",
+"ctx": "U28_ATM_GIVE_MONEY_2"
+},
+{
+"id": 1636,
+"en": "... a loan is a binding commitment that engages your very soul and ...",
+"ctx": "U28_ATM_GIVE_MONEY_3"
+},
+{
+"id": 1637,
+"en": "Thanks! Have you considered borrowing more?",
+"ctx": "U28_ATM_GIVE_MONEY_4"
+},
+{
+"id": 1638,
+"en": "No bank teller this time.",
+"ctx": "U28_BANKER_SIGN_DIALOG_1"
+},
+{
+"id": 1639,
+"en": "Security doesn't seem to be their strong suit.",
+"ctx": "U28_BANKER_SIGN_DIALOG_2"
+},
+{
+"id": 1640,
+"en": "Let's take the key, I guess.",
+"ctx": "U28_BANKER_SIGN_DIALOG_3"
+},
+{
+"id": 1643,
+"en": "This door will open at the end of the ongoing votes."
+},
+{
+"id": 1645,
+"en": "Go back to the start of the floor",
+"ctx": "U28_END_FLOOR_TP_TEXT"
+},
+{
+"id": 1647,
+"en": "Kill nearby enemies first!"
+},
+{
+"id": 1652,
+"en": "What a strange idea, building a monument underground..."
+},
+{
+"id": 1653,
+"en": "An artifact, an artifact-shaped hole and a door... Not very subtle."
+},
+{
+"id": 1654,
+"en": "\"Please DO NOT break that door!\""
+},
+{
+"id": 1655,
+"en": "Hey! You there! Hit me!"
+},
+{
+"id": 1656,
+"en": "I've been VERY naughty."
+},
+{
+"id": 1657,
+"en": "Hit me HARD!"
+},
+{
+"id": 1658,
+"en": "I'm a naughty treasure chest that deserves to be punished..."
+},
+{
+"id": 1659,
+"en": "Hmmm... I have so much to offer you..."
+},
+{
+"id": 1660,
+"en": "I'm a very secretive little treasure chest, you know."
+},
+{
+"id": 1661,
+"en": "Don't you want to see what I have in store for you?"
+},
+{
+"id": 1662,
+"en": "Come on... Surely I deserve a little spank..."
+},
+{
+"id": 1663,
+"en": "HIT ME, DAMMIT!"
+},
+{
+"id": 1664,
+"en": "Hmmm... me-owwwww!",
+"ctx": "DLCP_CURSEDCHEST_REACT_CAT_1"
+},
+{
+"id": 1665,
+"en": "Grrrrr... come on, scratch me again!",
+"ctx": "DLCP_CURSEDCHEST_REACT_CAT_2"
+},
+{
+"id": 1666,
+"en": "Ouch, that's gonna leave a mark... good for me.",
+"ctx": "DLCP_CURSEDCHEST_REACT_CAT_3"
+},
+{
+"id": 1668,
+"en": "Cursed Chest found!"
+},
+{
+"id": 1672,
+"en": "That doesn't seem to work."
+},
+{
+"id": 1676,
+"en": "You have visited this next biome far less than the other currently available biomes."
+},
+{
+"id": 1677,
+"en": "Visiting it will provide a bonus to cell and gold drop rates."
+},
+{
+"id": 1679,
+"en": "This biome is cursed!"
+},
+{
+"id": 1680,
+"en": "Cursed monsters will appear in it. Beware of their special attacks!"
+},
+{
+"id": 1681,
+"en": "Not enough gold!"
+},
+{
+"id": 1682,
+"en": "Hey!"
+},
+{
+"id": 1683,
+"en": "What the?!"
+},
+{
+"id": 1684,
+"en": "Hey!!"
+},
+{
+"id": 1685,
+"en": "There's got to be a way to open this barrier somewhere..."
+},
+{
+"id": 1686,
+"en": "I don't need it."
+},
+{
+"id": 1689,
+"en": "This strange book tells the tale of heroes from other worlds. Some of its cryptic sentences seem to be providing clues... but for what?",
+"ctx": "U26_START_BIS_SKINUNLOCK"
+},
+{
+"id": 1690,
+"en": "I already know how all these stories end. Stupid book!",
+"ctx": "U26_ENDEDOPT_SKINUNLOCK"
+},
+{
+"id": 1691,
+"en": "This page is titled \"Blasphemous\". \" 'Cause this flask in your head is bad for your health\".",
+"ctx": "U26_BLASPHEMOUS_SKINUNLOCK"
+},
+{
+"id": 1692,
+"en": "Okay, I guess.",
+"ctx": "U26_BLASPHEMOUS_SKINUNLOCK_REACT"
+},
+{
+"id": 1693,
+"en": "This one is called \"Hyper Light Drifter\". It tells the tale of a man in a Drifter outfit and his reliable sword.",
+"ctx": "U26_HLD_SKINUNLOCK"
+},
+{
+"id": 1694,
+"en": "Clear as day.",
+"ctx": "U26_HLD_SKINUNLOCK_REACT"
+},
+{
+"id": 1695,
+"en": "The subject here is \"Hollow Knight\". \"How much can you bounce?\".",
+"ctx": "U26_HK_SKINUNLOCK"
+},
+{
+"id": 1696,
+"en": "Bounce? But how?!",
+"ctx": "U26_HK_SKINUNLOCK_REACT"
+},
+{
+"id": 1697,
+"en": "\"Guacamelee\". A story about the savior of the \"Mexiverse\" that fought countless undead wrestlers bare-handed (and footed).",
+"ctx": "U26_GUACAMELEE_SKINUNLOCK"
+},
+{
+"id": 1698,
+"en": "I'm always up for a good fight!",
+"ctx": "U26_GUACAMELEE_SKINUNLOCK_REACT"
+},
+{
+"id": 1699,
+"en": "Curse of the Dead Gods. It says that a seasoned explorer knows not to get hit by those nasty traps ONCE.",
+"ctx": "U26_COTDG_SKINUNLOCK"
+},
+{
+"id": 1700,
+"en": "Who could have thought...",
+"ctx": "U26_COTDG_SKINUNLOCK_REACT"
+}
+]

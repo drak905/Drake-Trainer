@@ -1,0 +1,400 @@
+[
+{
+"id": 235,
+"en": "Be cursed... Survive."
+},
+{
+"id": 236,
+"en": "You finished a daily challenge. Well done!"
+},
+{
+"id": 237,
+"en": "Absorb your fifth Boss Stem Cell"
+},
+{
+"id": 238,
+"en": "You beat the Giant!"
+},
+{
+"id": 239,
+"en": "You beat the Collector!"
+},
+{
+"id": 240,
+"en": "Reach the Cavern for the first time."
+},
+{
+"id": 241,
+"en": "Reach the Guardian's Haven for the first time."
+},
+{
+"id": 242,
+"en": "Reach the Astrolab for the first time."
+},
+{
+"id": 243,
+"en": "Reach the Observatory for the first time."
+},
+{
+"id": 244,
+"en": "You beat \"The Giant\" without taking a single hit!"
+},
+{
+"id": 245,
+"en": "You beat \"The Collector\" without taking a single hit!"
+},
+{
+"id": 246,
+"en": "You beat \"Mama Tick\"!"
+},
+{
+"id": 247,
+"en": "You beat \"Mama Tick\" without taking a single hit!"
+},
+{
+"id": 248,
+"en": "Finish the game without sacrificing the Mushroom Boi!"
+},
+{
+"id": 249,
+"en": "Sacrifice the Mushroom Boi."
+},
+{
+"id": 250,
+"en": "Appease \"Mama Tick's\" anger."
+},
+{
+"id": 251,
+"en": "Finish the first level without breaking a door."
+},
+{
+"id": 252,
+"en": "Reach the Arboretum for the first time."
+},
+{
+"id": 253,
+"en": "Reach the Morass of the Banished for the first time."
+},
+{
+"id": 254,
+"en": "Reach the Nest for the first time."
+},
+{
+"id": 255,
+"en": "Reach the Corrupted Prison for the first time."
+},
+{
+"id": 256,
+"en": "Reach the Derelict Distillery for the first time!"
+},
+{
+"id": 257,
+"en": "You completed the Derelict Distillery without using the Barrel Launcher!"
+},
+{
+"id": 258,
+"en": "You killed an Infected Worker with his own barrel!"
+},
+{
+"id": 259,
+"en": "Reach the Mausoleum for the first time."
+},
+{
+"id": 260,
+"en": "Reach the Undying Shores for the first time."
+},
+{
+"id": 261,
+"en": "Reach the Fractured Shrines for the first time."
+},
+{
+"id": 262,
+"en": "Defeat the Scarecrow without bouncing on any mushrooms."
+},
+{
+"id": 263,
+"en": "You beat the Scarecrow!"
+},
+{
+"id": 264,
+"en": "You beat the Scarecrow without taking a single hit!"
+},
+{
+"id": 265,
+"en": "Let an Apostate revive at least 3 souls."
+},
+{
+"id": 266,
+"en": "Try using Serenade and another pet at the same time..."
+},
+{
+"id": 267,
+"en": "Electrify an enemy with the Lightning Rods while they are in water."
+},
+{
+"id": 268,
+"en": "Defeat at least 5 enemies in a row with the Scarecrow's Sickles."
+},
+{
+"id": 269,
+"en": "Trap an enemy using the Fractured Shrines environment!"
+},
+{
+"id": 270,
+"en": "Wear the Cultist outfit to access the Undying Shores."
+},
+{
+"id": 271,
+"en": "Reach the Shipwreck for the first time!"
+},
+{
+"id": 272,
+"en": "Reach the Lighthouse for the first time!"
+},
+{
+"id": 273,
+"en": "Reach the Crown for the first time!"
+},
+{
+"id": 274,
+"en": "You beat the Queen!"
+},
+{
+"id": 275,
+"en": "You beat the Queen without taking a single hit!"
+},
+{
+"id": 276,
+"en": "Beat the Queen by pushing her into the void"
+},
+{
+"id": 277,
+"en": "Beat the Queen with the Killing Deck"
+},
+{
+"id": 278,
+"en": "Beat the Queen with a Queen outfit"
+},
+{
+"id": 280,
+"en": "Kill a Pirate Captain with the Scavenged Bombard"
+},
+{
+"id": 281,
+"en": "Kill five enemies with a single throw and recall of the Wrecking Ball"
+},
+{
+"id": 282,
+"en": "Throw an enemy into spikes using the Hand Hook"
+},
+{
+"id": 283,
+"en": "Help the shark get back to the water"
+},
+{
+"id": 284,
+"en": "Finish the Lighthouse while wearing a Servant outfit"
+},
+{
+"id": 285,
+"en": "Have 2 pets active at the same time"
+},
+{
+"id": 286,
+"en": "Get the Leghugger to kill an Armored Shrimp"
+},
+{
+"id": 287,
+"en": "You finished the Lighthouse!"
+},
+{
+"id": 288,
+"en": "You finished the Lighthouse without taking any damage!"
+},
+{
+"id": 289,
+"en": "Reach the Bank for the first time.",
+"ctx": "U28_ACHIEV_DESC_BIOME_REACHED_BANK"
+},
+{
+"id": 290,
+"en": "Beat the game with the maximum debt remaining.",
+"ctx": "U28_ACHIEV_DESC_FEAT_DEBT"
+},
+{
+"id": 291,
+"en": "Kill the Vendor Mimic.",
+"ctx": "U28_ACHIEV_DESC_FIGHT_BEAT_MIMIC"
+},
+{
+"id": 292,
+"en": "Reach the Castle's Outskirts for the first time.",
+"ctx": "DLCP_ACHIEV_DESC_BIOME_REACHED_PGARDEN"
+},
+{
+"id": 293,
+"en": "Reach Dracula's Castle for the first time.",
+"ctx": "DLCP_ACHIEV_DESC_BIOME_REACHED_PCASTLE"
+},
+{
+"id": 294,
+"en": "Reach the Defiled Necropolis for the first time.",
+"ctx": "DLCP_ACHIEV_DESC_BIOME_REACHED_DEATH"
+},
+{
+"id": 295,
+"en": "Reach the Master's Keep for the first time.",
+"ctx": "DLCP_ACHIEV_DESC_BIOME_REACHED_DOOKU"
+},
+{
+"id": 296,
+"en": "You beat Dracula!",
+"ctx": "DLCP_ACHIEV_DESC_FIGHT_BEAT_DOOKU"
+},
+{
+"id": 297,
+"en": "You beat the last encounter of Castlevania without taking a single hit!",
+"ctx": "DLCP_ACHIEV_DESC_FIGHT_BEAT_DOOKU_NO_DAMAGE"
+},
+{
+"id": 298,
+"en": "You beat Death!",
+"ctx": "DLCP_ACHIEV_DESC_FIGHT_BEAT_DEATH"
+},
+{
+"id": 299,
+"en": "You beat Death without taking a single hit!",
+"ctx": "DLCP_ACHIEV_DESC_FIGHT_BEAT_DEATH_NODAMAGE"
+},
+{
+"id": 300,
+"en": "You beat the last encounter of Castlevania!",
+"ctx": "DLCP_ACHIEV_DESC_FIGHT_BEAT_DOOKU_BEAST"
+},
+{
+"id": 301,
+"en": "Have Maria's Cat deal the last hit to Death.",
+"ctx": "DLCP_ACHIEV_DESC_FEAT_CAT_KILL_DEATH"
+},
+{
+"id": 302,
+"en": "Kill a Werewolf with a Throwing Axe",
+"ctx": "DLCP_ACHIEV_DESC_FEAT_AXE_KILL_WWOLF"
+},
+{
+"id": 303,
+"en": "You beat the last encounter of Castlevania with the Vampire Killer.",
+"ctx": "DLCP_ACHIEV_DESC_FEAT_VKILLER_KILL_DOOKU"
+},
+{
+"id": 304,
+"en": "Hit the same enemy with 5 orbiting Bibles in short succession.",
+"ctx": "DLCP_ACHIEV_DESC_FEAT_BIBLE_MULTI_HIT"
+},
+{
+"id": 305,
+"en": "You beat the game with five Boss Cells"
+},
+{
+"id": 314,
+"en": "Some men just want to watch the world burn..."
+},
+{
+"id": 315,
+"en": "Custom preset ::index::"
+},
+{
+"id": 316,
+"en": "::s::s ::ms::ms"
+},
+{
+"id": 317,
+"en": "::s::s"
+},
+{
+"id": 318,
+"en": "::m::m ::s::s ::ms::ms"
+},
+{
+"id": 319,
+"en": "::m::m ::s::s"
+},
+{
+"id": 320,
+"en": "::h::h ::m::m ::s::s ::ms::ms"
+},
+{
+"id": 321,
+"en": "::h::h ::m::m ::s::s"
+},
+{
+"id": 322,
+"en": "::s:: second(s) ::ms:: millisecond(s)"
+},
+{
+"id": 323,
+"en": "::s:: second(s)"
+},
+{
+"id": 324,
+"en": "::m:: minute(s) ::s:: second(s) ::ms:: millisecond(s)"
+},
+{
+"id": 325,
+"en": "::m:: minute(s) ::s:: second(s)"
+},
+{
+"id": 326,
+"en": "::h:: hour(s) ::m:: minute(s) ::s:: second(s) ::ms:: millisecond(s)"
+},
+{
+"id": 327,
+"en": "::h:: hour(s) ::m:: minute(s) ::s:: second(s)"
+},
+{
+"id": 329,
+"en": "Your score cannot be saved. To save it, you must be connected to ::platform::."
+},
+{
+"id": 331,
+"en": "Your version is out of date. Please update the game."
+},
+{
+"id": 332,
+"en": "There is a problem connecting to the server.\nPlease check your internet connection."
+},
+{
+"id": 362,
+"en": "Num ."
+},
+{
+"id": 378,
+"en": "We can lend you gold at the grand rate of... let me see... 0%. I guess we have to be attractive, considering the current state of affairs.",
+"ctx": "U28_BANKER_CINE_ATM_DIALOG_1"
+},
+{
+"id": 379,
+"en": "You can even contract multiple loans! Note that by borrowing money from our Bank, you tacitly agree to a contract that leaves us ample avenues of retribution in the event of a payment default on your end.",
+"ctx": "U28_BANKER_CINE_ATM_DIALOG_2"
+},
+{
+"id": 380,
+"en": "Hum? Oh it just means that we encourage you to pay back what you owe before leaving the Bank, that's all.",
+"ctx": "U28_BANKER_CINE_ATM_DIALOG_3"
+},
+{
+"id": 381,
+"en": "And then I said, \"but I don't know where your golden costume is, my good sir. It was probably stolen. Are you sure that you looked everywhere in your vault?\".",
+"ctx": "U28_BANKER_CINE_GOLDENSKIN_DIALOG_1"
+},
+{
+"id": 382,
+"en": "... Oh! A customer ! It's been so long since the last... nevermind. Welcome to our great Bank!",
+"ctx": "U28_BANKER_CINE_GOLDENSKIN_DIALOG_2"
+},
+{
+"id": 383,
+"en": "You can entrust your precious belongings to us, we'll take good... Hey wait a minute! That outfit! Where did you get it?!",
+"ctx": "U28_BANKER_CINE_GOLDENSKIN_DIALOG_3"
+}
+]

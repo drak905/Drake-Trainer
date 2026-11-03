@@ -1,0 +1,28 @@
+# Hand-verified Chinese -> Vietnamese additions found by playing (harvest mode).  Format: 中文<TAB>Tiếng Việt
+# short UI / skill / monster terms the memory scan could not pair with a record
+滑铲	Trượt Người
+蓄力猛击	Đòn Mạnh Tích Lực
+冲刺升级	Nâng Cấp Lao Tới
+点数消耗	Điểm Tiêu Hao
+前提条件	Điều Kiện Tiên Quyết
+按住	GIỮ
+游魂士兵	Lính Hồn Ma
+蟹黄堡	Burger Gạch Cua
+风领主	Lãnh Chúa Phong
+风领主简介	Giới Thiệu Lãnh Chúa Phong
+歼灭风领主	Tiêu Diệt Lãnh Chúa Phong
+目前携带数量为2（上限为5）	Hiện đang mang 2 (tối đa 5)
+# tutorial lines on the talent screen
+俯冲后，和倒地同时二次攻击。	Sau khi lao xuống, có thể tấn công lần hai ngay khi chạm đất.
+雷尼从更高的位置落地，落地的冲击力会更大。	Renee rơi xuống từ vị trí càng cao thì lực chấn động khi tiếp đất càng lớn.
+# age-rating notice (shown on the first splash screen)
+《心渊梦境》适龄提示	Khuyến Cáo Độ Tuổi Của «Afterimage»
+1）本游戏是一款横版即时动作角色扮演类游戏，适用于年满16周岁及以上的用户，未成年人无法激活、使用游戏产品。	1) Trò chơi này là game nhập vai hành động thời gian thực cuộn ngang, dành cho người dùng từ đủ 16 tuổi trở lên; người chưa thành niên không thể kích hoạt hay sử dụng sản phẩm.
+2）本游戏基于架空的故事背景和幻想世界观，剧情有一定深度且积极向上，没有基于真实历史和现实事件的改编内容。游戏玩法基于扮演游戏主角，在架空的世界中逐步探索，最终一步步了解其中的故事。	2) Trò chơi dựa trên bối cảnh hư cấu và thế giới quan huyền huyễn, cốt truyện có chiều sâu nhất định và tích cực, không có nội dung chuyển thể từ lịch sử hay sự kiện có thật. Lối chơi xoay quanh việc nhập vai nhân vật chính, từng bước khám phá thế giới hư cấu và cuối cùng dần hiểu được câu chuyện trong đó.
+3）本游戏中有用户实名认证系统，认证为未成年人的用户将接受以下管理：购买游戏时需要提交实名认证信息，未成年人将无法激活、进入游戏。	3) Trò chơi có hệ thống xác thực danh tính thật của người dùng; người dùng được xác thực là người chưa thành niên sẽ chịu sự quản lý sau: khi mua game phải nộp thông tin xác thực danh tính thật, người chưa thành niên sẽ không thể kích hoạt hay vào game.
+4）本游戏以即时制动作战斗和架空剧情故事体验为主题，游戏玩法多样，有助于锻炼玩家的大脑反应和策略思维，能够带给玩家积极愉悦的情绪体验，增强玩家的自信心。	4) Trò chơi lấy trải nghiệm chiến đấu hành động thời gian thực và cốt truyện hư cấu làm chủ đề, lối chơi đa dạng, giúp rèn luyện phản xạ và tư duy chiến lược của người chơi, mang lại cảm xúc tích cực, vui vẻ và tăng thêm sự tự tin cho người chơi.
+一张破损的面具，蕴含着一丝神秘的气息，但却早已失去它曾经的力量。	Một chiếc mặt nạ nứt vỡ, ẩn chứa chút khí tức bí ẩn nhưng đã mất từ lâu sức mạnh ngày xưa.
+# rich-text tutorial line (tags kept)
+<img id="HPMax"/>生命值<Green>+1</><img id="Up"/>	<img id="HPMax"/>HP<Green>+1</><img id="Up"/>
+<img id="MPMax"/>魔法值<Red>-1</><img id="Down"/>	<img id="MPMax"/>MP<Red>-1</><img id="Down"/>
+<MenuDefault>大战场遗迹</>	<MenuDefault>Di Tích Đại Chiến Trường</>

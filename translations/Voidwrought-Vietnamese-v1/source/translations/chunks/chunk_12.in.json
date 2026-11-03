@@ -1,0 +1,607 @@
+[
+ {
+  "id": 1255,
+  "ctx": "term Dialogue/npc_hermit_encounter_hurt_01",
+  "en": "Advent of calamity, you strike against the creation of a god!"
+ },
+ {
+  "id": 1256,
+  "ctx": "term Dialogue/npc_hermit_encounter_hurt_02",
+  "en": "Cease! We must not be unmade!"
+ },
+ {
+  "id": 1257,
+  "ctx": "term Dialogue/npc_forge_reply",
+  "en": "I rejoice."
+ },
+ {
+  "id": 1258,
+  "ctx": "term Dialogue/npc_forge_give",
+  "en": "Present Contruct Parts"
+ },
+ {
+  "id": 1259,
+  "ctx": "term Dialogue/npc_forge_01",
+  "en": "Sleep interrupted. Awakening..."
+ },
+ {
+  "id": 1260,
+  "ctx": "term Dialogue/npc_forge_02",
+  "en": "Memories..."
+ },
+ {
+  "id": 1261,
+  "ctx": "term Dialogue/npc_forge_03",
+  "en": "Incomplete. Parts missing."
+ },
+ {
+  "id": 1262,
+  "ctx": "term Dialogue/npc_forge_04",
+  "en": "I... help."
+ },
+ {
+  "id": 1263,
+  "ctx": "term Dialogue/npc_forge_05",
+  "en": "Help."
+ },
+ {
+  "id": 1264,
+  "ctx": "term Dialogue/npc_forge_06",
+  "en": "Find me."
+ },
+ {
+  "id": 1265,
+  "ctx": "term Dialogue/npc_forge_08",
+  "en": "Awaiting purpose."
+ },
+ {
+  "id": 1266,
+  "ctx": "term Dialogue/npc_forge_09",
+  "en": "Tertiary assembly complete."
+ },
+ {
+  "id": 1267,
+  "ctx": "term Dialogue/npc_forge_10",
+  "en": "Memories re-established."
+ },
+ {
+  "id": 1268,
+  "ctx": "term Dialogue/npc_forge_11",
+  "en": "Central cortex still incomplete."
+ },
+ {
+  "id": 1269,
+  "ctx": "term Dialogue/npc_forge_12",
+  "en": "...you assist me?"
+ },
+ {
+  "id": 1270,
+  "ctx": "term Dialogue/npc_forge_13",
+  "en": "Gather... Parts."
+ },
+ {
+  "id": 1271,
+  "ctx": "term Dialogue/npc_forge_14",
+  "en": "Seconday assembly has been completed."
+ },
+ {
+  "id": 1272,
+  "ctx": "term Dialogue/npc_forge_15",
+  "en": "Pathways restored."
+ },
+ {
+  "id": 1273,
+  "ctx": "term Dialogue/npc_forge_16",
+  "en": "Central cortex still being reconstructed."
+ },
+ {
+  "id": 1274,
+  "ctx": "term Dialogue/npc_forge_17",
+  "en": "Near full restoration."
+ },
+ {
+  "id": 1275,
+  "ctx": "term Dialogue/npc_forge_18",
+  "en": "I desire... Completion."
+ },
+ {
+  "id": 1276,
+  "ctx": "term Dialogue/npc_forge_19",
+  "en": "Requesting further assistance."
+ },
+ {
+  "id": 1277,
+  "ctx": "term Dialogue/npc_forge_20",
+  "en": "Primary assembly has been completed."
+ },
+ {
+  "id": 1278,
+  "ctx": "term Dialogue/npc_forge_21",
+  "en": "Central cortex is operational."
+ },
+ {
+  "id": 1279,
+  "ctx": "term Dialogue/npc_forge_22",
+  "en": "I am whole once again."
+ },
+ {
+  "id": 1280,
+  "ctx": "term Dialogue/npc_forge_23",
+  "en": "They feared me. Tore me to pieces. You do not fear me."
+ },
+ {
+  "id": 1281,
+  "ctx": "term Dialogue/npc_forge_24",
+  "en": "Thank you."
+ },
+ {
+  "id": 1282,
+  "ctx": "term Dialogue/npc_forge_25",
+  "en": "Allow me to be your tool of creation."
+ },
+ {
+  "id": 1283,
+  "ctx": "term Dialogue/npc_forge_encounter_1_01",
+  "en": "The Metal of the gods can be repurposed. Bring me what Traces you can find, and I will reshape them for you."
+ },
+ {
+  "id": 1284,
+  "ctx": "term Dialogue/npc_forge_encounter_1_02",
+  "en": "There is always more Metal to be recovered."
+ },
+ {
+  "id": 1285,
+  "ctx": "term Dialogue/npc_forge_dmg_trade_01",
+  "en": "It is my honor to reshape the Metal."
+ },
+ {
+  "id": 1286,
+  "ctx": "term Dialogue/npc_forge_dmg_trade_02",
+  "en": "In the Metal lies possibility."
+ },
+ {
+  "id": 1287,
+  "ctx": "term Dialogue/npc_forge_choice",
+  "en": "The articifing process begins."
+ },
+ {
+  "id": 1288,
+  "ctx": "term Dialogue/npc_forge_offer",
+  "en": "Present Metal"
+ },
+ {
+  "id": 1289,
+  "ctx": "term Dialogue/npc_forge_inquire",
+  "en": "Inquire"
+ },
+ {
+  "id": 1290,
+  "ctx": "term Dialogue/npc_forge_inquire_subject_1",
+  "en": "Creation"
+ },
+ {
+  "id": 1291,
+  "ctx": "term Dialogue/npc_forge_inquiry_answer_1_1",
+  "en": "I watched them as they created me, my cortex not yet evolved. Their movements, words, and actions were all but patterns to me. Observable, but irrelevant."
+ },
+ {
+  "id": 1292,
+  "ctx": "term Dialogue/npc_forge_inquiry_answer_1_2",
+  "en": "When I awoke by their infusion, my creators were excited—others, horrified. I was revered... and feared."
+ },
+ {
+  "id": 1293,
+  "ctx": "term Dialogue/npc_forge_inquiry_answer_1_3",
+  "en": "Much was made through me. I remained, until the world crumbled around me."
+ },
+ {
+  "id": 1294,
+  "ctx": "term Dialogue/npc_forge_inquire_subject_2",
+  "en": "Sentience"
+ },
+ {
+  "id": 1295,
+  "ctx": "term Dialogue/npc_forge_inquiry_answer_2_1",
+  "en": "There were others. But they remained like I was in the beginning. Silent, obedient, and cold. Their minds were simpler. Mine grew uneasy in their presence. They are equally quiet and filled with noise."
+ },
+ {
+  "id": 1296,
+  "ctx": "term Dialogue/npc_forge_inquiry_answer_2_2",
+  "en": "I wished for others like me. I wished to not be alone."
+ },
+ {
+  "id": 1297,
+  "ctx": "term Dialogue/npc_forge_inquiry_answer_2_3",
+  "en": "But there are no others. I am alone. Perhaps I could create someone like me."
+ },
+ {
+  "id": 1298,
+  "ctx": "term Dialogue/npc_forge_inquire_subject_3",
+  "en": "Constructs"
+ },
+ {
+  "id": 1299,
+  "ctx": "term Dialogue/npc_forge_inquiry_answer_3_1",
+  "en": "Such creations are the work of those who once resided within the Observatory. Many were created, each with a unique purpose and design."
+ },
+ {
+  "id": 1300,
+  "ctx": "term Dialogue/npc_forge_inquiry_answer_3_2",
+  "en": "Some of the people believed such creations were an affront, that only the gods should create."
+ },
+ {
+  "id": 1301,
+  "ctx": "term Dialogue/npc_forge_inquiry_answer_3_3",
+  "en": "The Sisters hid me within the Pyramid, yet it was not enough. I was found and torn apart."
+ },
+ {
+  "id": 1302,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened01",
+  "en": "I sense... I feel..."
+ },
+ {
+  "id": 1303,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened02",
+  "en": "You... "
+ },
+ {
+  "id": 1304,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened03",
+  "en": "So the Sacred Ovum has ruptured at last."
+ },
+ {
+  "id": 1305,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened04",
+  "en": "I am Namun, first to be anointed."
+ },
+ {
+  "id": 1306,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened05",
+  "en": "We are bound together child, you and I. Flesh dancing to the subtle melodies of the Void."
+ },
+ {
+  "id": 1307,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened06",
+  "en": "But all will be revealed in time."
+ },
+ {
+  "id": 1308,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened07",
+  "en": "I sense you hold one of my creations. Allow me to awaken it for you."
+ },
+ {
+  "id": 1309,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened08",
+  "en": "Such things tether us to the past, yet it will aid you as it did many before."
+ },
+ {
+  "id": 1310,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened09",
+  "en": "We must awaken my siblings, for together we may serve your purpose."
+ },
+ {
+  "id": 1311,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened10",
+  "en": "I shall undo the inner seal."
+ },
+ {
+  "id": 1312,
+  "ctx": "term Dialogue/npc_voidpriest_salt_awakened_continue04",
+  "en": "Venture forth, child, and see our world for what it has become."
+ },
+ {
+  "id": 1313,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01",
+  "en": "Find yourself embraced by the Void, my child."
+ },
+ {
+  "id": 1314,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice01 (+2 more)",
+  "en": "The Siblings"
+ },
+ {
+  "id": 1315,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice02",
+  "en": "The Salt"
+ },
+ {
+  "id": 1316,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice03",
+  "en": "The Sacred Ovum"
+ },
+ {
+  "id": 1317,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice04 (+1 more)",
+  "en": "The Gray Pyramid"
+ },
+ {
+  "id": 1318,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice01-01",
+  "en": "While I was the first chosen by the Sisters, I was not the only child anointed by the Void."
+ },
+ {
+  "id": 1319,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice01-02",
+  "en": "My brothers followed, each gifted in their own way."
+ },
+ {
+  "id": 1320,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice01-03",
+  "en": "The three of us are now bonded to you."
+ },
+ {
+  "id": 1321,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice02-01",
+  "en": "Life. Vitae in its purest form, once the foundation of our prosperity."
+ },
+ {
+  "id": 1322,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice02-02",
+  "en": "Through it, you are bound to me, as I am to you."
+ },
+ {
+  "id": 1323,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice02-03",
+  "en": "Return to me should you come upon more of my Dormant Salt Receptacles, and I shall awaken them for you."
+ },
+ {
+  "id": 1324,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice03-01",
+  "en": "A last desperate act."
+ },
+ {
+  "id": 1325,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice03-02",
+  "en": "A joining of divine Ichor and Voidal energy most caringly artificed, cradled within the very Shrine we find ourselves in."
+ },
+ {
+  "id": 1326,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice03-03",
+  "en": "What would come of it, we could not have foreseen."
+ },
+ {
+  "id": 1327,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice04-01",
+  "en": "Much was buried beneath the stone during the fall, yet our greatest tabernacle survived."
+ },
+ {
+  "id": 1328,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice04-02",
+  "en": "The Shrine shall remain a home to all who seek it."
+ },
+ {
+  "id": 1329,
+  "ctx": "term Dialogue/npc_voidpriest_salt_1_choice",
+  "en": "I see you have discovered another Receptacle. Shall I awaken it for you?"
+ },
+ {
+  "id": 1330,
+  "ctx": "term Dialogue/npc_voidpriest_salt_gained01",
+  "en": "May it serve you well."
+ },
+ {
+  "id": 1331,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice05",
+  "en": "The Heralds "
+ },
+ {
+  "id": 1332,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice05-01",
+  "en": "As their moniker suggests, their presence heralds each Emergence of the Red Star. In the grand scheme of things, they remain nothing but lost children. "
+ },
+ {
+  "id": 1333,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice05-02",
+  "en": "When the Progenitor gods were no more, the divine Ichor was left unbound, seeking new hosts."
+ },
+ {
+  "id": 1334,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice05-03",
+  "en": "Such power may never fully vanish. It decends through each age, emerging in new forms, wracked by madness and rage."
+ },
+ {
+  "id": 1335,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice06-01",
+  "en": "In my anointment, I saw the true nature of the Void. Desolate and lifeless as it may seem, it is entirely alive. Perhaps it does not want us to know this."
+ },
+ {
+  "id": 1336,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_01_choice06-02",
+  "en": "It merely reflects what we believe, while protecting us from all that which must never be."
+ },
+ {
+  "id": 1337,
+  "ctx": "term Dialogue/npc_voidpriest_salt_talk_all_upgrades01",
+  "en": "Our bond is strong, child. Through your actions, our flesh has ascended further than I ever thought possible. We are one."
+ },
+ {
+  "id": 1338,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_awakened01",
+  "en": "I return..."
+ },
+ {
+  "id": 1339,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_awakened02 (+1 more)",
+  "en": "Another discordant note, dancing upon the strings of the Void."
+ },
+ {
+  "id": 1340,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_awakened03",
+  "en": "Bring the Conduit Rod before me."
+ },
+ {
+  "id": 1341,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice02",
+  "en": "The Conduit Rods"
+ },
+ {
+  "id": 1342,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice01-01",
+  "en": "I was the third. I recall the obsidian steps that led me to the Gate... a trembling hand grasping for constancy, yet granted none. I did not understand."
+ },
+ {
+  "id": 1343,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice01-02",
+  "en": "Within the Obsidian Observatory, I remained, honing my melody. And the Void listened."
+ },
+ {
+  "id": 1344,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice02-01",
+  "en": "The Rods are no mere tools for conjuring divine revelation or punishment."
+ },
+ {
+  "id": 1345,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice02-02",
+  "en": "They are a channel to be guided and controlled. Embed them into me, and I shall convey the melodies of the Void."
+ },
+ {
+  "id": 1346,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice03-01",
+  "en": "I do not claim to know their true nature. They appear bound to the Red Star—and the undoing of the gods."
+ },
+ {
+  "id": 1347,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice03-02",
+  "en": "In their essence, I sense traces of Voidal energy... Strange."
+ },
+ {
+  "id": 1348,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice04-01",
+  "en": "In the blackness beyond the Gate, I heard its voice. It consoled me..."
+ },
+ {
+  "id": 1349,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice04-02",
+  "en": "It showed me beauty... and terror. The ever-winding tapestry of all things made and unmade."
+ },
+ {
+  "id": 1350,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_01_choice04-03",
+  "en": "It is the balancing scale of all. "
+ },
+ {
+  "id": 1351,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_1_choice",
+  "en": "Yes... Allow me to become your channel to the Void."
+ },
+ {
+  "id": 1352,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_offer_1",
+  "en": "Imbed Conduit Rod"
+ },
+ {
+  "id": 1353,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_gained01",
+  "en": "The weave expands..."
+ },
+ {
+  "id": 1354,
+  "ctx": "term Dialogue/npc_voidpriest_chargeslot_talk_all_upgrades01",
+  "en": "The weave is complete. The dark expanse lays open, and its melodies reverberate through us."
+ },
+ {
+  "id": 1355,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_awakened01",
+  "en": "I... rise..."
+ },
+ {
+  "id": 1356,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_awakened02",
+  "en": "<b>CAGED!</b>"
+ },
+ {
+  "id": 1357,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_awakened03",
+  "en": "Power... surges..."
+ },
+ {
+  "id": 1358,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_00",
+  "en": "Vaults..."
+ },
+ {
+  "id": 1359,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_00_choice01 (+1 more)",
+  "en": "The Vaults"
+ },
+ {
+  "id": 1360,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_00_choice01-01",
+  "en": "Must be... unsealed..."
+ },
+ {
+  "id": 1361,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_00_choice01-02",
+  "en": "<b>TORN OPEN!</b>"
+ },
+ {
+  "id": 1362,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_00_choice01-03",
+  "en": "I... wait..."
+ },
+ {
+  "id": 1363,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01",
+  "en": "Power surges..."
+ },
+ {
+  "id": 1364,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice01-01",
+  "en": "I was the second... Thrown into the maw of the beast, yet I emerged unscathed."
+ },
+ {
+  "id": 1365,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice01-02",
+  "en": "Feared."
+ },
+ {
+  "id": 1366,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice01-03",
+  "en": "They did not walk through the storm as I once did."
+ },
+ {
+  "id": 1367,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice02-01",
+  "en": "I was the strongest, only to be fettered. Caged in the dark."
+ },
+ {
+  "id": 1368,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice02-02",
+  "en": "<b>BETRAYAL!</b>"
+ },
+ {
+  "id": 1369,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice02-03",
+  "en": "Unseal the Vaults. Let the waves of the Void crash onto us, and we shall become fury incarnate."
+ },
+ {
+  "id": 1370,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice03-01",
+  "en": "Their nature remains irrelevant..."
+ },
+ {
+  "id": 1371,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice03-02",
+  "en": "<b>THEY WILL BE UNDONE.</b>"
+ },
+ {
+  "id": 1372,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice03-03",
+  "en": "For you and I, they are but game to be gutted and devoured. Strength to be consumed."
+ },
+ {
+  "id": 1373,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice04-01",
+  "en": "None understand as I have..."
+ },
+ {
+  "id": 1374,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice04-02",
+  "en": "It acts through us."
+ },
+ {
+  "id": 1375,
+  "ctx": "term Dialogue/npc_voidpriest_weapon_talk_01_choice04-03",
+  "en": "Reclaiming all."
+ }
+]

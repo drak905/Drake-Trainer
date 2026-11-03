@@ -1,0 +1,254 @@
+[
+{
+"id": 2626,
+"en": "Summons Maria's cat on your shoulder. He often leaves it to go and wander around, scratching enemies he crosses. Can be reactivated to make the cat jump in front of you and unleash a flurry of slashes dealing {critical damage@CC}.",
+"ctx": "DLCP_CAT_GAMEPLAYDESC"
+},
+{
+"id": 2627,
+"en": "Such a vase-busting, curtain-scratching, armor-defiling little creature is at peak efficiency in an old Castle like Dracula's.",
+"ctx": "DLCP_CAT_AMBIANTDESC"
+},
+{
+"id": 2629,
+"en": "Throws ::count:: bats that pierce through enemies and deal {critical damage@CC} once they have gone through at least one target.",
+"ctx": "DLCP_BAT_VOLLEY_DESC"
+},
+{
+"id": 2630,
+"en": "Quick, throw them before they fill your pockets with guano!",
+"ctx": "DLCP_BAT_VOLLEY_AMBIANTDESC"
+},
+{
+"id": 2632,
+"en": "Throws a cross in front of you. It returns after a few seconds, dealing {critical damage@CC} when spinning in place or on the way back.",
+"ctx": "DLCP_CROSS_GAMEPLAYDESC"
+},
+{
+"id": 2633,
+"en": "\"Don't you dare cross me, Belmont!\". The pun didn't save Dracula.",
+"ctx": "DLCP_CROSS_AMBIENTDESC"
+},
+{
+"id": 2635,
+"en": "Calls down a ray of vengeful light on the nearest enemy dealing {critical damage@CC} if you are not cursed. Targets killed by this skill purge you of ::count:: stacks of curse instead of 1. Summons 1 additional ray per 5 curses you have.",
+"ctx": "U35_INDULGENCE_GAMEPLAYDESC"
+},
+{
+"id": 2636,
+"en": "Whatever is up there, now would be the time to help!",
+"ctx": "U35_INDULGENCE_AMBIANTDESC"
+},
+{
+"id": 2638,
+"en": "Somewhat useful for killing people."
+},
+{
+"id": 2642,
+"en": "Damage increases up to +::prct::% when you strike repeatedly. Inflicts {critical hits@CC} after ::count:: successive hits."
+},
+{
+"id": 2644,
+"en": "Inflict a {critical hit@CC} if you took damage less than ::duration:: sec ago, or if you're cursed."
+},
+{
+"id": 2645,
+"en": "A rusty weapon that reveals its power when things get tough."
+},
+{
+"id": 2647,
+"en": "Inflicts a {critical hit@CC} when you stab your enemy in the back."
+},
+{
+"id": 2648,
+"en": "Light but deadly if you know how to use it."
+},
+{
+"id": 2650,
+"en": "Causes {bleeding@BL} (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 2652,
+"en": "Inflicts a {critical hit@CC} on the 3rd consecutive strike."
+},
+{
+"id": 2653,
+"en": "Two daggers for the price of one. Slice and dice... guaranteed to please."
+},
+{
+"id": 2655,
+"en": "The second and third hits are {critical@CC}."
+},
+{
+"id": 2656,
+"en": "Slow and heavy, but deliciously vicious."
+},
+{
+"id": 2658,
+"en": "Knocks back enemies and bombs."
+},
+{
+"id": 2659,
+"en": "Any object can become a deadly weapon if it's moving fast enough..."
+},
+{
+"id": 2661,
+"en": "One hit and you're dead."
+},
+{
+"id": 2662,
+"en": "So you like to play hardball, do ya?"
+},
+{
+"id": 2664,
+"en": "Inflicts a {critical hit@CC} if the target is {bleeding@BL} or {poisoned@TO}."
+},
+{
+"id": 2665,
+"en": "Hit 'em where it hurts."
+},
+{
+"id": 2667,
+"en": "Inflicts a {critical hit@CC} if you have an active speed buff."
+},
+{
+"id": 2668,
+"en": "Forget about taking your time. To get real results, strike hard and fast."
+},
+{
+"id": 2670,
+"en": "Inflicts a {critical hit@CC} if the victim is an elite enemy or a boss."
+},
+{
+"id": 2671,
+"en": "The bigger they are..."
+},
+{
+"id": 2673,
+"en": "Metal shards burst from the axes when you strike enemies, inflicting approximately ::+dps:: damage."
+},
+{
+"id": 2675,
+"en": "Provokes terrestrial shock waves that {root@RO} victims."
+},
+{
+"id": 2677,
+"en": "Inflicts a {critical hit@CC} when you strike several targets at the same time."
+},
+{
+"id": 2678,
+"en": "Greater range but less speed."
+},
+{
+"id": 2680,
+"en": "Inflicts a {critical hit@CC} if the victim is up against a wall."
+},
+{
+"id": 2682,
+"en": "Inflicts {critical hits@CC} for ::duration:: sec if you quickly kill ::count:: enemies with this weapon."
+},
+{
+"id": 2684,
+"en": "Inflicts a {critical hit@CC} immediately after a roll or a parry."
+},
+{
+"id": 2685,
+"en": "It’s all in the wrist."
+},
+{
+"id": 2687,
+"en": "The first attack pierces the enemy, placing you behind it. Your next attacks inflict {critical hits@CC}."
+},
+{
+"id": 2688,
+"en": "Now you see me, now you don't."
+},
+{
+"id": 2690,
+"en": "Inflicts a {critical hit@CC} if the victim is stunned, {frozen@IC} or {rooted@RO}."
+},
+{
+"id": 2692,
+"en": "Knocks back enemies, dealing damage where they land. Deals ::+power2:: extra damage if the enemy hits a wall. The final strike in the combo will knock back any enemy."
+},
+{
+"id": 2693,
+"en": "This. Is. DEAD CELLS!"
+},
+{
+"id": 2695,
+"en": "Inflicts a {critical hit@CC} if the kick interrupts an attack."
+},
+{
+"id": 2697,
+"en": "The last hit damages all enemies around you and pushes them back. ::+power2:: additional damage if they are thrown into a wall."
+},
+{
+"id": 2699,
+"en": "Inflicts {critical hits@CC} if the victim has less than ::prct::% HP."
+},
+{
+"id": 2700,
+"en": "UselessUselessUselessUselessUselessUsel..."
+},
+{
+"id": 2702,
+"en": "Ignores shields. Inflicts a {critical hit@CC} if the tip of the whip strikes the enemy."
+},
+{
+"id": 2703,
+"en": "Popularized by the well-dressed Baron Valmont du Cul."
+},
+{
+"id": 2705,
+"en": "Ignores shields, pulls victims toward you and inflicts a {critical hit@CC} on the 3rd strike."
+},
+{
+"id": 2707,
+"en": "Douses the enemy with {inflammable oil@FI} and inflict {critical hits@CC} during ::duration:: sec after hitting an enemy on fire."
+},
+{
+"id": 2709,
+"en": "{Burns@FI} your enemies (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 2710,
+"en": "Talk about mood lighting!"
+},
+{
+"id": 2712,
+"en": "Inflict a {critical hit@CC} when you have less than ::prct::% health or more than ::prct::% Malaise."
+},
+{
+"id": 2713,
+"en": "The weapon of choice for fighters who like to live dangerously."
+},
+{
+"id": 2715,
+"en": "Inflicts {critical hits@CC} if you haven't taken damage for at least ::lock:: seconds."
+},
+{
+"id": 2717,
+"en": "Hold the attack to inflict a {critical hit@CC} and create a flaming trail dealing ::+power:: damage."
+},
+{
+"id": 2718,
+"en": "The Concierge was always ready to give an extra hand."
+},
+{
+"id": 2720,
+"en": "Ignores shields and projects you towards the enemy and inflicts a {critical hit@CC} if you attack again while bumped."
+},
+{
+"id": 2721,
+"en": "Free hugs!"
+},
+{
+"id": 2723,
+"en": "Inflicts a {critical hit@CC} if the enemy is facing you."
+},
+{
+"id": 2724,
+"en": "Grill. Fry. Burn. Reheat."
+}
+]

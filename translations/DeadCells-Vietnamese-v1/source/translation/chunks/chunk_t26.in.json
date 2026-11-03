@@ -1,0 +1,350 @@
+[
+{
+"id": 3507,
+"en": "Early Slammer catches the Biter!"
+},
+{
+"id": 3509,
+"en": "Was there a fourth Servant?"
+},
+{
+"id": 3511,
+"en": "Great serving job!"
+},
+{
+"id": 3513,
+"en": "''Oh I want to break free!''"
+},
+{
+"id": 3517,
+"en": "Initially white. Contains a red sock in one of its pockets."
+},
+{
+"id": 3519,
+"en": "\"Let it go, let it go!\""
+},
+{
+"id": 3521,
+"en": "Guaranteed without anchovies and pineapple."
+},
+{
+"id": 3523,
+"en": "Flamboyantly good job!"
+},
+{
+"id": 3525,
+"en": "Have to move at a faster pace!"
+},
+{
+"id": 3527,
+"en": "With cufflinks made of fragments from the Philosopher's Stone. Deliciously decadent."
+},
+{
+"id": 3529,
+"en": "Time for a hostile takeover!"
+},
+{
+"id": 3531,
+"en": "What remains of a single-minded yet unlucky prisoner."
+},
+{
+"id": 3533,
+"en": "This armor is quite sturdy, not made just for show-vel.",
+"ctx": "U32_SHOVELSKIN_GAMEPLAYDESC"
+},
+{
+"id": 3535,
+"en": "With a large \"B\" embroidered on the chest. Bead Cells?",
+"ctx": "U32_HOTLINEMIAMISKIN_GAMEPLAYDESC"
+},
+{
+"id": 3537,
+"en": "More comfortable than the NULL uniform worn during the war.",
+"ctx": "U32_KATANAZERO_GAMEPLAYDESC"
+},
+{
+"id": 3539,
+"en": "..and so he left, with everything but his humanity.",
+"ctx": "U32_RISKOFRAIN_GAMEPLAYDESC"
+},
+{
+"id": 3541,
+"en": "Datamining this would be really meta.",
+"ctx": "U32_TERRARIA_GAMEPLAYDESC"
+},
+{
+"id": 3543,
+"en": "Its previous wearer sold their soul in exchange for demonic powers.",
+"ctx": "U32_SLAYTHESPIRE_GAMEPLAYDESC"
+},
+{
+"id": 3545,
+"en": "She taught the Tutorial Knight everything. She's like a grandmentor to you.",
+"ctx": "U31_SKIN1_DESC"
+},
+{
+"id": 3547,
+"en": "\"Raise your axe higher! You'll need to work on your evisceration, you're still too hesitant!\"",
+"ctx": "U31_SKIN2_DESC"
+},
+{
+"id": 3549,
+"en": "She couldn't be more proud of you... although...",
+"ctx": "U31_SKIN3_DESC"
+},
+{
+"id": 3551,
+"en": "\"Created by a smith named Encom\". No Clu as to what it means.",
+"ctx": "U31_SKIN4_DESC"
+},
+{
+"id": 3553,
+"en": "Your success in the arena earned you the right to wear this prestigious attire.",
+"ctx": "U31_SKIN5_DESC"
+},
+{
+"id": 3555,
+"en": "Will sweep away every adversary until the very island is in the loving grip of the Pax Bisonnica.",
+"ctx": "U31_SKIN6_DESC"
+},
+{
+"id": 3557,
+"en": "Usually worn when your mentee start to teach their first pupil.",
+"ctx": "U31_SKIN7_DESC"
+},
+{
+"id": 3559,
+"en": "You shone through with your exceptionnal abilities, now your clothes can shine too.",
+"ctx": "U31_SKIN8_DESC"
+},
+{
+"id": 3561,
+"en": "This short outfit is made to help its wearer to bend their legs and arms, including while jumping.",
+"ctx": "DLCP_SIMON_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3563,
+"en": "Regal vestments, worthy of the Dark Lord's son himself.",
+"ctx": "DLCP_ALUCARD_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3565,
+"en": "Ripping off your coat's sleeves is indeed a way to move around more easily. Not the most logical one, though.",
+"ctx": "DLCP_RICHTER_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3567,
+"en": "Traditional robes worn by the witches of the Belnades clan.",
+"ctx": "DLCP_SYPHA_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3569,
+"en": "The clothes of the most revengeful of all Belmonts. Don't call him Trevy or he could hate you even more than he hates Dracula.",
+"ctx": "DLCP_TREVOR_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3571,
+"en": "Covered in cat fur and dove feathers. Allergy sufferers beware!",
+"ctx": "DLCP_MARIA_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3573,
+"en": "He kept his Devil Forgemaster garments even after defecting.",
+"ctx": "DLCP_HECTOR_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3575,
+"en": "This kind of ornamental armor is not comfortable at all. It's almost as if you weren't alone inside it.",
+"ctx": "DLCP_HAUNTEDARMOR_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3577,
+"en": "It comes for us all.",
+"ctx": "DLCP_DEATH_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3579,
+"en": "Feel the cold grasp of Death around your neck!",
+"ctx": "DLCP_BLUEDEATH_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3581,
+"en": "Don't look under her mask.",
+"ctx": "DLCP_REDDEATH_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3583,
+"en": "Drop dead!",
+"ctx": "DLCP_DARKDEATH_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3585,
+"en": "You can't feel her, but she's there alright.",
+"ctx": "DLCP_SPECTRALDEATH_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3587,
+"en": "Defeating Death is no simple feat. Doing so unscathed is an almost impossible prowess.",
+"ctx": "DLCP_FLAWLESSDEATH_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3589,
+"en": "Dark Lord, Prince of Darkness, Demon King, Master of the Castle, Vlad Ţepeş, Mathias Cronqvist,... the original owner of this cape has had many names across the ages.",
+"ctx": "DLCP_DRACULA_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3591,
+"en": "When he was still human, Dracula cursed God for taking his beloved Elisabetha from him.",
+"ctx": "DLCP_DRACULACRONQVIST_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3593,
+"en": "Dracula reportedly spent a few months in Nepal in a strange temple and came back with this sentient cloak of levitation.",
+"ctx": "DLCP_DRACULASTRANGE_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3595,
+"en": "Evening garments destined for the most decadent receptions organised by the Master of the Castle.",
+"ctx": "DLCP_DRACULAPOMPOUS_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3597,
+"en": "You either die a hero or live long enough to see yourself become the villain, apparently.",
+"ctx": "DLCP_DRACULAVIGILANTE_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3599,
+"en": "A reward worthy only of the most skilled vampire hunters.",
+"ctx": "DLCP_FLAWLESSDRACULA_OUTFIT_GAMEPLAYDESC"
+},
+{
+"id": 3602,
+"en": "It's a flame... it's a plant... no, it's an homonculus!",
+"ctx": "U34_HEAD_BASEFLAME_AMBIANTDESC"
+},
+{
+"id": 3604,
+"en": "Previously on \"The Bad Seed trailer\"...",
+"ctx": "U35_HEAD_BOBBYFLAME_HINT"
+},
+{
+"id": 3605,
+"en": "Joyful and glad to recklessly die again and again.",
+"ctx": "U34_HEAD_BOBBYFLAME_AMBIANTDESC"
+},
+{
+"id": 3607,
+"en": "Clean everything up by killing the Concierge ::count:: times.",
+"ctx": "U35_HEAD_CONCIERGE_HINT"
+},
+{
+"id": 3608,
+"en": "It's just a flame, you can't replicate his roar.",
+"ctx": "U35_HEAD_CONCIERGE_AMBIANTDESC"
+},
+{
+"id": 3610,
+"en": "Remove the threat that lurks in the sewers by killing Conjunctivius ::count:: times.",
+"ctx": "U35_HEAD_CONJUNCTIVIUS_HINT"
+},
+{
+"id": 3611,
+"en": "Yucky, sticky, tentacly.",
+"ctx": "U35_HEAD_CONJUNCTIVIUS_AMBIANTDESC"
+},
+{
+"id": 3613,
+"en": "All your clothes will smell like an old bog, but kill Mama Tick ::count:: times nonetheless.",
+"ctx": "U35_HEAD_MAMATICK_HINT"
+},
+{
+"id": 3614,
+"en": "Forget about stereoscopy, you can now halve your glasses budget!",
+"ctx": "U35_HEAD_MAMATICK_AMBIANTDESC"
+},
+{
+"id": 3616,
+"en": "You could probably vanquish the Time Keeper an infinite number of times, but let's start with ::count::.",
+"ctx": "U35_HEAD_TIMEKEEPER_HINT"
+},
+{
+"id": 3617,
+"en": "The object seems to be floating between time periods.",
+"ctx": "U35_HEAD_TIMEKEEPER_AMBIANTDESC"
+},
+{
+"id": 3619,
+"en": "Dying once wasn't enough for him: kill the Giant ::count:: times.",
+"ctx": "U35_HEAD_GIANT_HINT"
+},
+{
+"id": 3620,
+"en": "Fortunately, it's fit for your size, not his.",
+"ctx": "U35_HEAD_GIANT_AMBIANTDESC"
+},
+{
+"id": 3622,
+"en": "Eradicate the weeds by uprooting the Scarecrow ::count:: times.",
+"ctx": "U35_HEAD_GARDENER_HINT"
+},
+{
+"id": 3623,
+"en": "A bit dingy, but really helpful against the sun, toxic sap, giant ticks and baldness.",
+"ctx": "U35_HEAD_GARDENER_AMBIANTDESC"
+},
+{
+"id": 3625,
+"en": "Depose the Hand of the King and execute him ::count:: times for good measure.",
+"ctx": "U35_HEAD_HOTK_HINT"
+},
+{
+"id": 3626,
+"en": "Combines the appeal of both a hood and a flame. So badass!",
+"ctx": "U35_HEAD_HOTK_AMBIANTDESC"
+},
+{
+"id": 3628,
+"en": "Slaughter the Servants and survive your visit to the Lighthouse ::count:: times.",
+"ctx": "U35_HEAD_SERVANT_HINT"
+},
+{
+"id": 3629,
+"en": "Maybe you were the fourth Servant from the start?",
+"ctx": "U35_HEAD_SERVANT_AMBIANTDESC"
+},
+{
+"id": 3631,
+"en": "Become a seasoned regicide by prevailing over the Queen ::count:: times.",
+"ctx": "U35_HEAD_QUEENFLAME_HINT"
+},
+{
+"id": 3632,
+"en": "Hard to believe that was the last we heard of her...",
+"ctx": "U35_HEAD_QUEENFLAME_AMBIANTDESC"
+},
+{
+"id": 3634,
+"en": "Stop the schemes of a certain villain by beating him ::count:: times.",
+"ctx": "U35_HEAD_COLLECTOR_HINT"
+},
+{
+"id": 3635,
+"en": "Guillain, we need to cook panacea.",
+"ctx": "U35_HEAD_COLLECTOR_AMBIANTDESC"
+},
+{
+"id": 3637,
+"en": "Go through the whole island untouched.",
+"ctx": "U35_HEAD_BLACKHOLE_HINT"
+},
+{
+"id": 3638,
+"en": "Extremely compact and pitch-black. Not really the best qualities for a head, but it's sooooo cool!",
+"ctx": "U35_HEAD_BLACKHOLE_AMBIANTDESC"
+},
+{
+"id": 3640,
+"en": "Be beyond damned.",
+"ctx": "U35_HEAD_BLACKHOLEWHITE_HINT"
+}
+]

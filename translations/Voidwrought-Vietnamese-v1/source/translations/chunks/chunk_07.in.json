@@ -1,0 +1,742 @@
+[
+ {
+  "id": 684,
+  "ctx": "term UI/menu_souls_soulsmenu",
+  "en": "Phylactery"
+ },
+ {
+  "id": 685,
+  "ctx": "term UI/menu_souls_equip",
+  "en": "Summon / Release"
+ },
+ {
+  "id": 686,
+  "ctx": "term UI/event_path_unlocked",
+  "en": "Path Unlocked"
+ },
+ {
+  "id": 687,
+  "ctx": "term UI/event_progress_unlocked01",
+  "en": "Something Stirs"
+ },
+ {
+  "id": 688,
+  "ctx": "term UI/event_progress_unlocked02",
+  "en": "Mechanism Activated"
+ },
+ {
+  "id": 689,
+  "ctx": "term UI/event_progress_unlocked03",
+  "en": "Something Stirs in the Distance"
+ },
+ {
+  "id": 690,
+  "ctx": "term UI/event_progress_unlocked04",
+  "en": "Seal Undone"
+ },
+ {
+  "id": 691,
+  "ctx": "term UI/event_progress_unlocked05",
+  "en": "Lift Activated"
+ },
+ {
+  "id": 692,
+  "ctx": "term UI/event_ngplus_unlocked",
+  "en": "New Game Plus Unlocked"
+ },
+ {
+  "id": 693,
+  "ctx": "term UI/possession_aba_door",
+  "en": "Breach"
+ },
+ {
+  "id": 694,
+  "ctx": "term UI/possession_unseal_door",
+  "en": "Unseal"
+ },
+ {
+  "id": 695,
+  "ctx": "term UI/possession_break",
+  "en": "Break"
+ },
+ {
+  "id": 696,
+  "ctx": "term UI/possession_shatter",
+  "en": "Shatter"
+ },
+ {
+  "id": 697,
+  "ctx": "term UI/possession_seal",
+  "en": "Seal"
+ },
+ {
+  "id": 698,
+  "ctx": "term UI/possession_crush",
+  "en": "Crush"
+ },
+ {
+  "id": 699,
+  "ctx": "term UI/possession_input_move",
+  "en": "Move Element"
+ },
+ {
+  "id": 700,
+  "ctx": "term UI/possession_input_switchtarget",
+  "en": "Switch Target"
+ },
+ {
+  "id": 701,
+  "ctx": "term UI/possession_input_return",
+  "en": "Return to Body"
+ },
+ {
+  "id": 702,
+  "ctx": "term UI/possession_input_manipulatestructure",
+  "en": "Manipulate Element"
+ },
+ {
+  "id": 703,
+  "ctx": "term UI/ui_demo_end",
+  "en": "End of Demo"
+ },
+ {
+  "id": 704,
+  "ctx": "term UI/event_stasis_breached",
+  "en": "Vault Unsealed"
+ },
+ {
+  "id": 705,
+  "ctx": "term UI/event_statsis_keyneeded",
+  "en": "Ancient Cipher Required"
+ },
+ {
+  "id": 706,
+  "ctx": "term UI/upgrade_hp",
+  "en": "Health Increased"
+ },
+ {
+  "id": 707,
+  "ctx": "term UI/upgrade_salt",
+  "en": "Awakened Salt Receptacle"
+ },
+ {
+  "id": 708,
+  "ctx": "term UI/upgrade_charge",
+  "en": "Gained Void Charge"
+ },
+ {
+  "id": 709,
+  "ctx": "term UI/upgrade_damage",
+  "en": "Damage Improved"
+ },
+ {
+  "id": 710,
+  "ctx": "term UI/downgrade_health",
+  "en": "Health Decreased"
+ },
+ {
+  "id": 711,
+  "ctx": "term UI/fiddler_death",
+  "en": "Envoy Hushed"
+ },
+ {
+  "id": 712,
+  "ctx": "term UI/action_teleport_return",
+  "en": "Return"
+ },
+ {
+  "id": 713,
+  "ctx": "term UI/action_voidfold",
+  "en": "Hold to Translocate"
+ },
+ {
+  "id": 714,
+  "ctx": "term UI/action_save",
+  "en": "Save Progress"
+ },
+ {
+  "id": 715,
+  "ctx": "term UI/event_beacon",
+  "en": "Devotees Summoned"
+ },
+ {
+  "id": 716,
+  "ctx": "term UI/event_voidgate",
+  "en": "Void Gate Discovered"
+ },
+ {
+  "id": 717,
+  "ctx": "term UI/event_voidgate_nokey",
+  "en": "Void Anchor Required"
+ },
+ {
+  "id": 718,
+  "ctx": "term UI/event_new_excavation",
+  "en": "New Excavation Available"
+ },
+ {
+  "id": 719,
+  "ctx": "term UI/event_gained_soul_slot",
+  "en": "Soul Slot Unlocked"
+ },
+ {
+  "id": 720,
+  "ctx": "term UI/event_gained_relic_slot",
+  "en": "Relic Slot Unlocked"
+ },
+ {
+  "id": 721,
+  "ctx": "term UI/choice_the_font_01",
+  "en": "Ethereal Ichor dances calmly within the Font."
+ },
+ {
+  "id": 722,
+  "ctx": "term UI/choice_the_font_02",
+  "en": "The Ichor churns within the Font."
+ },
+ {
+  "id": 723,
+  "ctx": "term UI/shopmenu_itemtype_default",
+  "en": "Item"
+ },
+ {
+  "id": 724,
+  "ctx": "term UI/shopmenu_itemtype_relic",
+  "en": "Relic"
+ },
+ {
+  "id": 725,
+  "ctx": "term UI/shopmenu_itemtype_crest",
+  "en": "Crest"
+ },
+ {
+  "id": 726,
+  "ctx": "term UI/shopmenu_itemtype_soul",
+  "en": "Soul"
+ },
+ {
+  "id": 727,
+  "ctx": "term UI/shopmenu_instock",
+  "en": "In Stock"
+ },
+ {
+  "id": 728,
+  "ctx": "term UI/shopmenu_outofstock",
+  "en": "Out of Stock"
+ },
+ {
+  "id": 729,
+  "ctx": "term UI/shopmenu_alreadyowned",
+  "en": "Already Owned"
+ },
+ {
+  "id": 730,
+  "ctx": "term UI/settings_category_game",
+  "en": "Game"
+ },
+ {
+  "id": 731,
+  "ctx": "term UI/settings_category_video",
+  "en": "Video"
+ },
+ {
+  "id": 732,
+  "ctx": "term UI/settings_category_soundmusic",
+  "en": "Audio"
+ },
+ {
+  "id": 733,
+  "ctx": "term UI/settings_category_navigate_prompt",
+  "en": "Category"
+ },
+ {
+  "id": 734,
+  "ctx": "term UI/settings_navigate_prompt",
+  "en": "Navigate"
+ },
+ {
+  "id": 735,
+  "ctx": "term UI/settings_on",
+  "en": "On"
+ },
+ {
+  "id": 736,
+  "ctx": "term UI/settings_off",
+  "en": "Off"
+ },
+ {
+  "id": 737,
+  "ctx": "term UI/settings_gamepadcontrols",
+  "en": "Gamepad Controls"
+ },
+ {
+  "id": 738,
+  "ctx": "term UI/settings_keyboardcontrols",
+  "en": "Keyboard Controls"
+ },
+ {
+  "id": 739,
+  "ctx": "term UI/settings_gamepadcontrols_desc",
+  "en": "Change gamepad controls."
+ },
+ {
+  "id": 740,
+  "ctx": "term UI/settings_keyboardcontrols_desc",
+  "en": "Change keyboard controls."
+ },
+ {
+  "id": 741,
+  "ctx": "term UI/settings_analytics",
+  "en": "Send Analytics Data"
+ },
+ {
+  "id": 742,
+  "ctx": "term UI/settings_analytics_desc",
+  "en": "Voidwrought collects gameplay data by default; this data is kept 100% anonymous. For example, we track what items you find, what secrets you uncover, where you died, and what killed you. This data will only be used to improve the game, and nothing else."
+ },
+ {
+  "id": 743,
+  "ctx": "term UI/settings_vibration",
+  "en": "Controller Vibration"
+ },
+ {
+  "id": 744,
+  "ctx": "term UI/settings_vibration_desc",
+  "en": "Enable or disable controller vibration."
+ },
+ {
+  "id": 745,
+  "ctx": "term UI/settings_camerashake (+1 more)",
+  "en": "Camera Shake"
+ },
+ {
+  "id": 746,
+  "ctx": "term UI/settings_camerashake_desc (+1 more)",
+  "en": "Adjust the camera shake amount."
+ },
+ {
+  "id": 747,
+  "ctx": "term UI/settings_language",
+  "en": "Language"
+ },
+ {
+  "id": 748,
+  "ctx": "term UI/settings_language_desc",
+  "en": "Language text is displayed in."
+ },
+ {
+  "id": 749,
+  "ctx": "term UI/settings_resolution",
+  "en": "Resolution"
+ },
+ {
+  "id": 750,
+  "ctx": "term UI/settings_resolution_desc",
+  "en": "The width and height of the game window."
+ },
+ {
+  "id": 751,
+  "ctx": "term UI/settings_screenmode",
+  "en": "Screen Mode"
+ },
+ {
+  "id": 752,
+  "ctx": "term UI/settings_screenmode_desc",
+  "en": "Sets screen mode."
+ },
+ {
+  "id": 753,
+  "ctx": "term UI/settings_refreshrate",
+  "en": "Refresh Rate"
+ },
+ {
+  "id": 754,
+  "ctx": "term UI/settings_refreshrate_desc",
+  "en": "Sets how many frames per second the game renders. V-Sync must be off for this to have an effect."
+ },
+ {
+  "id": 755,
+  "ctx": "term UI/settings_refreshrate_uncapped",
+  "en": "Uncapped"
+ },
+ {
+  "id": 756,
+  "ctx": "term UI/settings_fullscreen",
+  "en": "Fullscreen"
+ },
+ {
+  "id": 757,
+  "ctx": "term UI/settings_borderless",
+  "en": "Borderless"
+ },
+ {
+  "id": 758,
+  "ctx": "term UI/settings_windowed",
+  "en": "Windowed"
+ },
+ {
+  "id": 759,
+  "ctx": "term UI/settings_mapzoom",
+  "en": "Minimap Zoom Level"
+ },
+ {
+  "id": 760,
+  "ctx": "term UI/settings_mapzoom_desc",
+  "en": "How zoomed in the minimap is."
+ },
+ {
+  "id": 761,
+  "ctx": "term UI/settings_mapzoom_near",
+  "en": "Near"
+ },
+ {
+  "id": 762,
+  "ctx": "term UI/settings_mapzoom_medium",
+  "en": "Medium"
+ },
+ {
+  "id": 763,
+  "ctx": "term UI/settings_mapzoom_far",
+  "en": "Far"
+ },
+ {
+  "id": 764,
+  "ctx": "term UI/settings_minimap_transparency",
+  "en": "Minimap Opacity"
+ },
+ {
+  "id": 765,
+  "ctx": "term UI/settings_minimap_transparency_desc",
+  "en": "The transparency of the minimap."
+ },
+ {
+  "id": 766,
+  "ctx": "term UI/settings_vsync",
+  "en": "V-Sync"
+ },
+ {
+  "id": 767,
+  "ctx": "term UI/settings_vsync_desc",
+  "en": "Makes the game render at the same frequency as the monitor. Use this if you experience screen tearing."
+ },
+ {
+  "id": 768,
+  "ctx": "term UI/settings_volume_main",
+  "en": "Master Volume"
+ },
+ {
+  "id": 769,
+  "ctx": "term UI/settings_volume_main_desc",
+  "en": "Overall volume of the game."
+ },
+ {
+  "id": 770,
+  "ctx": "term UI/settings_volume_music",
+  "en": "Music Volume"
+ },
+ {
+  "id": 771,
+  "ctx": "term UI/settings_volume_music_desc",
+  "en": "Volume of the music."
+ },
+ {
+  "id": 772,
+  "ctx": "term UI/settings_volume_ambient",
+  "en": "Ambience Volume"
+ },
+ {
+  "id": 773,
+  "ctx": "term UI/settings_volume_ambient_desc",
+  "en": "Volume of ambient background sounds."
+ },
+ {
+  "id": 774,
+  "ctx": "term UI/settings_volume_sfx",
+  "en": "Effects Volume"
+ },
+ {
+  "id": 775,
+  "ctx": "term UI/settings_volume_sfx_desc",
+  "en": "Volume of sound effects."
+ },
+ {
+  "id": 776,
+  "ctx": "term UI/settings_volume_ui",
+  "en": "UI Volume"
+ },
+ {
+  "id": 777,
+  "ctx": "term UI/settings_volume_ui_desc",
+  "en": "Volume of interface sounds, such as buttons."
+ },
+ {
+  "id": 778,
+  "ctx": "term UI/settings_brightness",
+  "en": "Brightness"
+ },
+ {
+  "id": 779,
+  "ctx": "term UI/settings_brightness_desc",
+  "en": "Adjusts the brightness of the game."
+ },
+ {
+  "id": 780,
+  "ctx": "term UI/settingse_contrast",
+  "en": "Contrast"
+ },
+ {
+  "id": 781,
+  "ctx": "term UI/settingse_contrast_desc",
+  "en": "Adjusts the contrast of the game."
+ },
+ {
+  "id": 782,
+  "ctx": "term UI/settings_applychanges",
+  "en": "Apply changes?"
+ },
+ {
+  "id": 783,
+  "ctx": "term UI/settings_resettodefault",
+  "en": "Default Values"
+ },
+ {
+  "id": 784,
+  "ctx": "term UI/settings_resettodefaultconfirm",
+  "en": "Are you sure you want to revert everything to default values?"
+ },
+ {
+  "id": 785,
+  "ctx": "term UI/settings_rumble",
+  "en": "Rumble"
+ },
+ {
+  "id": 786,
+  "ctx": "term UI/settings_rumble_desc",
+  "en": "Turns controller rumble on/off."
+ },
+ {
+  "id": 787,
+  "ctx": "term UI/remapper_header",
+  "en": "Control Remapping"
+ },
+ {
+  "id": 788,
+  "ctx": "term UI/remapper_waitingforinput",
+  "en": "Set new input..."
+ },
+ {
+  "id": 789,
+  "ctx": "term UI/remapper_conflict",
+  "en": "Button is already in use:"
+ },
+ {
+  "id": 790,
+  "ctx": "term UI/remapper_unable",
+  "en": "Unable to rebind."
+ },
+ {
+  "id": 791,
+  "ctx": "term UI/remapper_warning1",
+  "en": "Warning! Some inputs must remain bound for the game to function correctly."
+ },
+ {
+  "id": 792,
+  "ctx": "term UI/remapper_warning2",
+  "en": "Are you certain you wish to proceed?"
+ },
+ {
+  "id": 793,
+  "ctx": "term UI/remapper_warning3",
+  "en": "Fallback input has been applied."
+ },
+ {
+  "id": 794,
+  "ctx": "term UI/remapper_player_heading",
+  "en": "In-Game Controls"
+ },
+ {
+  "id": 795,
+  "ctx": "term UI/remapper_menu_heading",
+  "en": "UI Controls"
+ },
+ {
+  "id": 796,
+  "ctx": "term UI/remapper_swap",
+  "en": "Swap"
+ },
+ {
+  "id": 797,
+  "ctx": "term Dialogue/generic_comply",
+  "en": "Comply"
+ },
+ {
+  "id": 798,
+  "ctx": "term Dialogue/generic_refuse",
+  "en": "Refuse"
+ },
+ {
+  "id": 799,
+  "ctx": "term Dialogue/answer_shrine",
+  "en": "Shrine"
+ },
+ {
+  "id": 800,
+  "ctx": "term Dialogue/choice_sacrifice_01",
+  "en": "Sacrifice"
+ },
+ {
+  "id": 801,
+  "ctx": "term Dialogue/choice_sacrifice_02",
+  "en": "Sacrifice Ichor"
+ },
+ {
+  "id": 802,
+  "ctx": "term Dialogue/choice_sacrifice_03",
+  "en": "Sacrifice Progenitor Flesh"
+ },
+ {
+  "id": 803,
+  "ctx": "term Dialogue/choice_sacrifice_04",
+  "en": "Sacrifice Divine Remnant"
+ },
+ {
+  "id": 804,
+  "ctx": "term Dialogue/choice_gather_01",
+  "en": "Gather"
+ },
+ {
+  "id": 805,
+  "ctx": "term Dialogue/intro_01",
+  "en": "Across many generations, the ice-covered straits of the Gati Archipelago have remained still. Ancient, creaking voices recount tales of a city of Progenitors long lost, dead gods buried far beneath the surface world."
+ },
+ {
+  "id": 806,
+  "ctx": "term Dialogue/intro_02",
+  "en": "At the cusp of each century, it stirs. In the times heralding the Red Star, its glaciers rupture, its ice thaws, and shimmering Ichor once more bellows forth from the husks of the Progenitors, infused with the purpose of its long-dead hosts."
+ },
+ {
+  "id": 807,
+  "ctx": "term Dialogue/intro_03",
+  "en": "At these times, some claim a seductive call summons them to the straits. The silken voices of the Progenitors worm their way across the land, beckoning each to pursue their own ambitions. To seek out the ruins below."
+ },
+ {
+  "id": 808,
+  "ctx": "term Dialogue/intro_04",
+  "en": "In the wake of their siren song, delvers set out in search of riches and fame, scholars venture to regain lost knowledge, and eccentrics consume the shimmering Ichor to gain its creators' favour. Yet, deep beneath the surface, something else stirs, aching to burst forth."
+ },
+ {
+  "id": 809,
+  "ctx": "term Dialogue/outro_01",
+  "en": "An eerie stillness settles across the Gati archipelago. A holy city of devouts and zealots behold the end of their faith; all that came before is swallowed by the silence."
+ },
+ {
+  "id": 810,
+  "ctx": "term Dialogue/outro_02",
+  "en": "In the complete absence of gods, only the raw and violent untapped potential of freed thought remains. A path with no clear destination."
+ },
+ {
+  "id": 811,
+  "ctx": "term Dialogue/intro_01_new",
+  "en": "Across many generations, the ice-covered straits of the Gati Archipelago have remained still. Ancient, creaking voices recount tales of a long-lost city buried far beneath the surface world."
+ },
+ {
+  "id": 812,
+  "ctx": "term Dialogue/intro_02_new",
+  "en": "At the cusp of each century, it stirs. In the times heralding the Red Star, its glaciers rupture, its ice thaws, and shimmering Ichor once more bellows forth from the husks of the Progenitor gods, infused with the purpose of its long-dead hosts."
+ },
+ {
+  "id": 813,
+  "ctx": "term Dialogue/intro_03_new",
+  "en": "At these times, some claim a seductive call summons them to the straits. The silken whispers of the Star worm their way across the land, beckoning each to pursue their own ambitions. To seek out the ruins below."
+ },
+ {
+  "id": 814,
+  "ctx": "term Dialogue/intro_04_new",
+  "en": "In the wake of its siren song, delvers set out in search of riches and fame, scholars venture to regain lost knowledge, and zealots consume the shimmering Ichor to gain its creators' favor. Yet, deep beneath the surface, something else stirs, aching to burst forth."
+ },
+ {
+  "id": 815,
+  "ctx": "term Dialogue/outro_01_new",
+  "en": "And so the Last Emergence was entered into the murals by hands unliving."
+ },
+ {
+  "id": 816,
+  "ctx": "term Dialogue/outro_02_new",
+  "en": "The skies remained dark, and the Red Star shone upon the world no longer."
+ },
+ {
+  "id": 817,
+  "ctx": "term Dialogue/outro_03_new",
+  "en": "An eerie stillness settled across the Gati archipelago, much of the Gray City buried beneath returning to its slumber. "
+ },
+ {
+  "id": 818,
+  "ctx": "term Dialogue/outro_04_new",
+  "en": "Where corruption once roamed, idle hands could now be put to work, and a scarce few began to make their way through the derelict halls."
+ },
+ {
+  "id": 819,
+  "ctx": "term Dialogue/outro_05_new",
+  "en": "The first strike against the crumbling stone reverberated through the spires, ushering in a new age."
+ },
+ {
+  "id": 820,
+  "ctx": "term Dialogue/outro_06_new",
+  "en": "The gods remained silent."
+ },
+ {
+  "id": 821,
+  "ctx": "term Dialogue/demo_caretaker01",
+  "en": "Hallowed advent! *hrk* At last, the seal crumbles. At last, you are here. Long have I tended the candleflames, awaiting your arrival."
+ },
+ {
+  "id": 822,
+  "ctx": "term Dialogue/demo_caretaker02",
+  "en": "Do not avert your eyes from this hideous shell, for I exist to serve. Our holy mission is at hand. *hrk* The city yet festers, polluted by the unclean."
+ },
+ {
+  "id": 823,
+  "ctx": "term Dialogue/demo_caretaker03",
+  "en": "Within the halls of the Court reside those who once wrought our doom. They ultimately sealed themselves within as calamity ensued, many centuries ago."
+ },
+ {
+  "id": 824,
+  "ctx": "term Dialogue/demo_caretaker04",
+  "en": "Its gate again lies open, and within stirs an abomination spawned by an old transgression. Once we are rid of it, this city's rebirth may finally commence."
+ },
+ {
+  "id": 825,
+  "ctx": "term Dialogue/demo_caretaker05",
+  "en": "I will mark the royal chambers on your map; let it be your guide."
+ },
+ {
+  "id": 826,
+  "ctx": "term Dialogue/demo_caretaker06",
+  "en": "Use this momentary peace to familiarize yourself with your new vessel."
+ },
+ {
+  "id": 827,
+  "ctx": "term Dialogue/demo_merchant_01",
+  "en": "Oh tender stranger, would you spare but a moment for a poor, unfortunate soul?"
+ },
+ {
+  "id": 828,
+  "ctx": "term Dialogue/demo_merchant_02",
+  "en": "Worry not, for I am not like the others, although my burdens remain great."
+ },
+ {
+  "id": 829,
+  "ctx": "term Dialogue/demo_merchant_04",
+  "en": "Weighed down by the corporeal as I am. Cursed some would say, with the compulsion to possess."
+ },
+ {
+  "id": 830,
+  "ctx": "term Dialogue/demo_merchant_05",
+  "en": "I long for nothing more than the blessed Ichor. The very lifeblood of our long-dead gods; equally sacred and profane. I sense it upon you…"
+ },
+ {
+  "id": 831,
+  "ctx": "term Dialogue/demo_merchant_06 (+1 more)",
+  "en": "Oh tender stranger, would you not see fit to lighten the load of a poor, covetous soul?"
+ }
+]

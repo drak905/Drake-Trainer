@@ -1,0 +1,302 @@
+[
+{
+"id": 5274,
+"en": "I'm sure he just wants to help and is really likeable."
+},
+{
+"id": 5277,
+"en": "An impressive board covered in papers, raging inscriptions and red yarn to link everything."
+},
+{
+"id": 5278,
+"en": "A few sentences are readable among all that mess."
+},
+{
+"id": 5279,
+"en": "\"...and that's why I remain convinced that the Malaise doesn't exist. All the people on the island are simply pretending because they were paid for it!\""
+},
+{
+"id": 5280,
+"en": "\"Who would believe that they really are undeads? Not me, that's for sure! However, did you know that our beloved Queen is in fact a serpent? No? Not surprising!\""
+},
+{
+"id": 5281,
+"en": "A rope acts as a link between this musty bed and the cluster of bells hanging above it. "
+},
+{
+"id": 5282,
+"en": "It looks like a makeshit alarm system... or a good way to never fall asleep."
+},
+{
+"id": 5284,
+"en": "Dead Cells original soundtrack !"
+},
+{
+"id": 5288,
+"en": "A bloody brilliant soundtrack!"
+},
+{
+"id": 5293,
+"en": "Even more reactive enemies!"
+},
+{
+"id": 5305,
+"en": "Even more enemies turn into elites!"
+},
+{
+"id": 5308,
+"en": "Even more enemies spawn around you!"
+},
+{
+"id": 5314,
+"en": "Move around with the directional buttons"
+},
+{
+"id": 5321,
+"en": "Attempts remaining: ::n::"
+},
+{
+"id": 5322,
+"en": "The victim emits a {toxic@TO} cloud."
+},
+{
+"id": 5323,
+"en": "Malaise infection level: CRITICAL!"
+},
+{
+"id": 5325,
+"en": "Items can be {upgraded to \"S\" quality@PE} at the Legendary Forge."
+},
+{
+"id": 5327,
+"en": "Victims emit a {toxic@TO} cloud."
+},
+{
+"id": 5331,
+"en": "Transforms items found on the ground or in treasure chests into gold (::prct::% of purchase price)."
+},
+{
+"id": 5332,
+"en": "The network linking the various parts of the island will bring you into contact with some rather... surprising individuals."
+},
+{
+"id": 5333,
+"en": "Turns you invisible for ::duration:: sec and attracts nearby enemies. Explodes after ::duration:: sec."
+},
+{
+"id": 5338,
+"en": "Inflicts a {critical hit@CC} when you have less than ::prct::% health."
+},
+{
+"id": 5340,
+"en": "Health potions heal you over time (::duration:: sec) but add +::+dps:: DPS for this period."
+},
+{
+"id": 5341,
+"en": "The Collector will provide you with invaluable assistance... if you can reach him!"
+},
+{
+"id": 5342,
+"en": "Aren't they cute with their big bags on their backs?"
+},
+{
+"id": 5343,
+"en": "+::+dps:: DPS with at least ::count:: enemies near you."
+},
+{
+"id": 5344,
+"en": "Use the directional buttons to move around"
+},
+{
+"id": 5346,
+"en": "+::+dps:: DPS if you're close to a deployed skill."
+},
+{
+"id": 5352,
+"en": "You've been infected by the Malaise."
+},
+{
+"id": 5353,
+"en": "Activate the D-pad to move around"
+},
+{
+"id": 5354,
+"en": "+::prct::% damage taken."
+},
+{
+"id": 5355,
+"en": "Hold to inflict {critical hits@CC}"
+},
+{
+"id": 5357,
+"en": "Victims {burn@FI}."
+},
+{
+"id": 5360,
+"en": "Shoots powerful hails of bolts. The machine gun of crossbows..."
+},
+{
+"id": 5365,
+"en": "Gives you ::+power:: HP for each hit you land on an enemy (::duration:: sec)."
+},
+{
+"id": 5366,
+"en": "No. Nope. Really, it doesn't smell any better here than anywhere else on the island."
+},
+{
+"id": 5368,
+"en": "Shoots enemies who pass beneath it."
+},
+{
+"id": 5370,
+"en": "Recovers ::+power:: of HP after an enemy dies."
+},
+{
+"id": 5372,
+"en": "Secondary weapon only."
+},
+{
+"id": 5375,
+"en": "The 5th strike is a {critical hit@CC}"
+},
+{
+"id": 5376,
+"en": "Automatically targets nearby enemies. Ignores shields."
+},
+{
+"id": 5379,
+"en": "::user:: answered first!"
+},
+{
+"id": 5380,
+"en": "Items can be {upgraded to \"++\" quality@PE} at the Legendary Forge."
+},
+{
+"id": 5381,
+"en": "Marks the enemy, who then takes +::+dps:: DPS for ::duration:: sec. If the enemy dies, the mark spreads."
+},
+{
+"id": 5382,
+"en": "Items can be {upgraded to \"+\" quality@PE} at the Legendary Forge."
+},
+{
+"id": 5383,
+"en": "Heals ::+power:: HP and fully protects you for ::duration:: sec."
+},
+{
+"id": 5386,
+"en": "Blocked attacks push enemies back. Effect doubled on a successful {parry@PA}."
+},
+{
+"id": 5392,
+"en": "Item unlocked: ::name::"
+},
+{
+"id": 5394,
+"en": "Last attempt failed!"
+},
+{
+"id": 5395,
+"en": "+::+dps:: DPS for ::duration:: sec after killing an enemy."
+},
+{
+"id": 5400,
+"en": "A swarm of biting worms crawls from your victims."
+},
+{
+"id": 5402,
+"en": "Delete all progress in this save"
+},
+{
+"id": 5403,
+"en": "A well-sharpened blade cuts deeper, so they say."
+},
+{
+"id": 5409,
+"en": "Import ::slot::"
+},
+{
+"id": 5410,
+"en": "Violently crushes any enemies caught in its area of effect."
+},
+{
+"id": 5411,
+"en": "::user:: voted first!"
+},
+{
+"id": 5413,
+"en": "A big thanks to the players who helped us improve the game during early access, and to Jérémy Vitry, Alexis Rives, Derek Lieu and Bastien Sanchez."
+},
+{
+"id": 5414,
+"en": "Activates a forcefield if your HP falls below ::prct::%, protecting you for ::duration:: sec. Can only be used every ::duration2:: sec."
+},
+{
+"id": 5420,
+"en": "The last kick inflicts area-of-effect damage and pushes enemies back."
+},
+{
+"id": 5421,
+"en": "Stuns targets who have more than ::prct::% health."
+},
+{
+"id": 5425,
+"en": "Returns to you automatically. Inflicts {critical hits@CC} on its way back."
+},
+{
+"id": 5427,
+"en": "Reduces by ::prct::% the number of enemies you need to eliminate to lift a curse."
+},
+{
+"id": 5428,
+"en": "Even heroes need to rest sometimes."
+},
+{
+"id": 5430,
+"en": "Mutations are precious tools. Choose carefully..."
+},
+{
+"id": 5431,
+"en": "It's not very bright, but at least there aren't any monsters here."
+},
+{
+"id": 5435,
+"en": "Reducing a curse restores ::prct::% of HP."
+},
+{
+"id": 5436,
+"en": "Reset mutations ({::gold::@LO} {iconCoin@img})"
+},
+{
+"id": 5438,
+"en": "+::prct::% damage with {RED@BR} items."
+},
+{
+"id": 5441,
+"en": "Allows chat to choose the type of build you'll use!"
+},
+{
+"id": 5444,
+"en": "Adds damage (+::+dps:: DPS for ::duration:: sec) with each attack. You take +::prct::% damage during this time."
+},
+{
+"id": 5447,
+"en": "Evolves according to the good will of The Community"
+},
+{
+"id": 5451,
+"en": "Blocked attacks make the enemy's teeth fall out (1 per enemy). Transforms arrows into gold."
+},
+{
+"id": 5452,
+"en": "+::prct::% damage with {GREEN@SU} items."
+},
+{
+"id": 5453,
+"en": "Pushes enemies back and interrupts their attacks. Additional damage if the enemy hits a wall."
+},
+{
+"id": 5454,
+"en": "A well-prepared journey is the key to success!"
+}
+]

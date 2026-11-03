@@ -1,0 +1,482 @@
+[
+ {
+  "id": 930,
+  "ctx": "term Dialogue/npc_caretaker_inquire_old_03",
+  "en": "Only old life remains there, forgotten forms revealed by the ice. *hrk* "
+ },
+ {
+  "id": 931,
+  "ctx": "term Dialogue/npc_caretaker_inquire_old_04",
+  "en": "Cold. *hrk*"
+ },
+ {
+  "id": 932,
+  "ctx": "term Dialogue/npc_caretaker_inquire_sur_01",
+  "en": "Ah... you have seen Its domain. The now-barren plains our people once called home, scorched by the Light."
+ },
+ {
+  "id": 933,
+  "ctx": "term Dialogue/npc_caretaker_inquire_sur_02",
+  "en": "Few dare venture there, for they remain the canvases of the Red Star, wracked by Its maddening whispers and unending power of creation."
+ },
+ {
+  "id": 934,
+  "ctx": "term Dialogue/npc_caretaker_inquire_sur_03",
+  "en": "During the First Emergence, some believe the gods withdrew. Vanished. Abandoned the Surface world to its fate, to be shaped by Its every whim. Heretical notion."
+ },
+ {
+  "id": 935,
+  "ctx": "term Dialogue/npc_caretaker_inquire_sur_04",
+  "en": "Still, even someone like you must be wary, for Its power remains insidious, seeping in through every crack. You must not linger in Its Light. *hrk* "
+ },
+ {
+  "id": 936,
+  "ctx": "term Dialogue/npc_caretaker_inquire_aba_01",
+  "en": "You've seen it, then... the great beast of metal and fire, trapped within the ice."
+ },
+ {
+  "id": 937,
+  "ctx": "term Dialogue/npc_caretaker_inquire_aba_02",
+  "en": "It is an affront. A monstrosity, screeching and tearing through the rock. It brought the noisy interlopers from beyond our world."
+ },
+ {
+  "id": 938,
+  "ctx": "term Dialogue/npc_caretaker_inquire_aba_03",
+  "en": "They ventured into the ruins below, pillaging as they went. But such acts bring only danger upon the ignorant. "
+ },
+ {
+  "id": 939,
+  "ctx": "term Dialogue/npc_caretaker_inquire_aba_04",
+  "en": "Their new forms are a reflection of their souls. Impure and malformed. Even the creature of steel that carried them now churns in agony. *hrk*"
+ },
+ {
+  "id": 940,
+  "ctx": "term Dialogue/npc_caretaker_inquire_tow_01",
+  "en": "Ah, how beautiful they were. Throngs of travelers once came from beyond the City merely to behold the Gardens' splendor."
+ },
+ {
+  "id": 941,
+  "ctx": "term Dialogue/npc_caretaker_inquire_tow_02",
+  "en": "Everything we could ever need grew all around us. *hrk* Food, drink, and beauty in endless supply."
+ },
+ {
+  "id": 942,
+  "ctx": "term Dialogue/npc_caretaker_inquire_tow_03",
+  "en": "Through the guidance of the gods, Namun, the first to be anointed, oversaw the alchemists' construction of the great vats and bestowed blessings of longevity and health upon our people."
+ },
+ {
+  "id": 943,
+  "ctx": "term Dialogue/npc_caretaker_inquire_tow_04",
+  "en": "Few remain who remember such times, and the Gardens have since grown wild."
+ },
+ {
+  "id": 944,
+  "ctx": "term Dialogue/npc_caretaker_inquire_tow_05",
+  "en": "The alchemists still roam the plateaus, but they too have changed. Unspeakable rituals take place there. "
+ },
+ {
+  "id": 945,
+  "ctx": "term Dialogue/npc_caretaker_inquire_com2_01",
+  "en": "The Grand Bazaar. Expansive halls of trade adorned with vibrant colors, mosaics, and shimmering gemstones, all to awe visitors from across the City—and beyond."
+ },
+ {
+  "id": 946,
+  "ctx": "term Dialogue/npc_caretaker_inquire_com2_02",
+  "en": "One might even forget that beneath it all remains the same gray stone among which our people toiled while embroiled in luxuries imported from far and wide."
+ },
+ {
+  "id": 947,
+  "ctx": "term Dialogue/npc_caretaker_inquire_com2_03",
+  "en": "An empty existence."
+ },
+ {
+  "id": 948,
+  "ctx": "term Dialogue/npc_caretaker_inquire_com2_04",
+  "en": "The merchants who once peddled their extravagant wares now lay as dust among them."
+ },
+ {
+  "id": 949,
+  "ctx": "term Dialogue/npc_caretaker_inquire_crt_01",
+  "en": "So it has been laid bare... "
+ },
+ {
+  "id": 950,
+  "ctx": "term Dialogue/npc_caretaker_inquire_crt_02",
+  "en": "You must forgive me, Hallowed Advent, for I remain ignorant of its halls. The palace of our great rulers was never meant to be trodden by those of lower birth."
+ },
+ {
+  "id": 951,
+  "ctx": "term Dialogue/npc_caretaker_inquire_crt_03",
+  "en": "It is a fickle thing, a mind unhampered by resources. As the gods crawled forth, caravans of their blessings soon slithered through our streets, all to be offered to the Court."
+ },
+ {
+  "id": 952,
+  "ctx": "term Dialogue/npc_caretaker_inquire_crt_04",
+  "en": "A feast without end. I can scarce imagine what twisted joinings of decadence and vulgarity must now lay within. *hrk*"
+ },
+ {
+  "id": 953,
+  "ctx": "term Dialogue/npc_caretaker_inquire_rep_01",
+  "en": "I... have heard tales of such a place... Endless halls of impossibly cut stone, warped metals, and the grating of indescribable devices."
+ },
+ {
+  "id": 954,
+  "ctx": "term Dialogue/npc_caretaker_inquire_rep_02",
+  "en": "The carvings tell of a race hidden within the few surviving scriptures of the first days. Traces of them can still be uncovered by the observant."
+ },
+ {
+  "id": 955,
+  "ctx": "term Dialogue/npc_caretaker_inquire_rep_03",
+  "en": "Few have been known to visit our City in the flesh. Even fewer are those of us who returned with them, venturing beyond their gate."
+ },
+ {
+  "id": 956,
+  "ctx": "term Dialogue/npc_caretaker_inquire_rep_04",
+  "en": "You must never speak to me of what lays within. *hrk*"
+ },
+ {
+  "id": 957,
+  "ctx": "term Dialogue/npc_caretaker_inquire_obs_01",
+  "en": "A shining beacon of learning, raised by the Sisters. The Observatory called only the most gifted to study within its blackened halls."
+ },
+ {
+  "id": 958,
+  "ctx": "term Dialogue/npc_caretaker_inquire_obs_02",
+  "en": "They reached so far beyond the grounding bedrock that their knowledge would appear otherwordly to most, myself included. *hrk*"
+ },
+ {
+  "id": 959,
+  "ctx": "term Dialogue/npc_caretaker_inquire_obs_03",
+  "en": "The creation of the first Gate was by their design, and wondrous were the things they artificed there, wrought by the Void. Miracles of the people, heralding our doom."
+ },
+ {
+  "id": 960,
+  "ctx": "term Dialogue/npc_caretaker_inquire_obs_04",
+  "en": "The Observatory still stretches beyond the ice, wracked by the Light. The artificers' creations are now but Relics of times long past."
+ },
+ {
+  "id": 961,
+  "ctx": "term Dialogue/npc_caretaker_inquire_voi_01",
+  "en": "How is this possible...? You walk across the pathways unscathed."
+ },
+ {
+  "id": 962,
+  "ctx": "term Dialogue/npc_caretaker_inquire_voi_02",
+  "en": "Since the First Emergence, the Void has seeped through the cracks of our City. The realm of those who were, are yet to be, and never will become."
+ },
+ {
+  "id": 963,
+  "ctx": "term Dialogue/npc_caretaker_inquire_voi_03",
+  "en": "Where all must return. *hrk*"
+ },
+ {
+  "id": 964,
+  "ctx": "term Dialogue/npc_caretaker_inquire_god_01",
+  "en": "The nacre shell... "
+ },
+ {
+  "id": 965,
+  "ctx": "term Dialogue/npc_caretaker_inquire_god_03",
+  "en": "Incredible..."
+ },
+ {
+  "id": 966,
+  "ctx": "term Dialogue/caretaker_boss_commentary_council_01",
+  "en": "The many-headed serpent. *hrk*"
+ },
+ {
+  "id": 967,
+  "ctx": "term Dialogue/caretaker_boss_commentary_council_02",
+  "en": "Apostates..."
+ },
+ {
+  "id": 968,
+  "ctx": "term Dialogue/caretaker_boss_commentary_council_03",
+  "en": "Too many of our people were seduced by their withered words after the fall, clinging to the Light. "
+ },
+ {
+  "id": 969,
+  "ctx": "term Dialogue/caretaker_boss_commentary_council_04",
+  "en": "Their wisdom must remain in the past. Entombed and forgotten."
+ },
+ {
+  "id": 970,
+  "ctx": "term Dialogue/caretaker_boss_commentary_font_01",
+  "en": "The fonts of our City once overflowed with the shimmering Ichor of the gods. Serving as gathering places for all, it was there that we communed and sought guidance."
+ },
+ {
+  "id": 971,
+  "ctx": "term Dialogue/caretaker_boss_commentary_font_02",
+  "en": "Our gods offered their forms to us, and we reveled in their bounty."
+ },
+ {
+  "id": 972,
+  "ctx": "term Dialogue/caretaker_boss_commentary_font_03",
+  "en": "We drank deep, letting nothing spill."
+ },
+ {
+  "id": 973,
+  "ctx": "term Dialogue/caretaker_boss_commentary_font_04",
+  "en": "What forms might such an existence devolve into when left unattended, gestating the dark?"
+ },
+ {
+  "id": 974,
+  "ctx": "term Dialogue/caretaker_boss_commentary_fermented_01",
+  "en": "Unimaginable..."
+ },
+ {
+  "id": 975,
+  "ctx": "term Dialogue/caretaker_boss_commentary_fermented_02",
+  "en": "A vat-born monstrosity, viscera, blood, and ash left to fester. A remnant of the alchemists' aspirations. Let it be forever forgotten."
+ },
+ {
+  "id": 976,
+  "ctx": "term Dialogue/caretaker_boss_commentary_skychild_01",
+  "en": "I ask that you not pass judgment on the choices of the desperate, Hallowed Advent."
+ },
+ {
+  "id": 977,
+  "ctx": "term Dialogue/caretaker_boss_commentary_skychild_02",
+  "en": "Within a crumbling world, each source of energy must be harnessed, for the benefit of all."
+ },
+ {
+  "id": 978,
+  "ctx": "term Dialogue/caretaker_boss_commentary_skychild_03",
+  "en": "The child was touched by the gods, whether he could comprehend it or not. Through him, the Gray Pyramid—and our faith—endured."
+ },
+ {
+  "id": 979,
+  "ctx": "term Dialogue/caretaker_boss_commentary_eternal_engine_01",
+  "en": "Unclean creature..."
+ },
+ {
+  "id": 980,
+  "ctx": "term Dialogue/caretaker_boss_commentary_eternal_engine_02",
+  "en": "An amalgamation of the divine and unclean flesh. *hrk* Such things must never be."
+ },
+ {
+  "id": 981,
+  "ctx": "term Dialogue/caretaker_boss_commentary_eternal_engine_03",
+  "en": "As they ventured into the ruins, avarice brought about their doom. The Metal of the gods belongs to our people alone."
+ },
+ {
+  "id": 982,
+  "ctx": "term Dialogue/caretaker_boss_commentary_eternal_engine_04",
+  "en": "May its flesh rot away beneath the Light."
+ },
+ {
+  "id": 983,
+  "ctx": "term Dialogue/caretaker_boss_commentary_indexer_01",
+  "en": "Dangerous are the reaches beyond our world."
+ },
+ {
+  "id": 984,
+  "ctx": "term Dialogue/caretaker_boss_commentary_indexer_02",
+  "en": "Unholy creations..."
+ },
+ {
+  "id": 985,
+  "ctx": "term Dialogue/caretaker_boss_commentary_indexer_03",
+  "en": "Perhaps to the ignorant, it might even have been considered a god in its own right, yet it was undone by your hand."
+ },
+ {
+  "id": 986,
+  "ctx": "term Dialogue/caretaker_boss_commentary_indexer_04",
+  "en": "It happened as it must have, Hallowed Advent."
+ },
+ {
+  "id": 987,
+  "ctx": "term Dialogue/caretaker_boss_commentary_indexer_05",
+  "en": "Our worlds may not coexist. "
+ },
+ {
+  "id": 988,
+  "ctx": "term Dialogue/caretaker_boss_commentary_astronomer_01",
+  "en": "It is difficult to believe that one of the Sisters still remained... "
+ },
+ {
+  "id": 989,
+  "ctx": "term Dialogue/caretaker_boss_commentary_astronomer_02",
+  "en": "Within the tower, their following gazed into the heavens, seeking to understand the endless dark above. Yet what they saw had already taken notice."
+ },
+ {
+  "id": 990,
+  "ctx": "term Dialogue/caretaker_boss_commentary_astronomer_03",
+  "en": "Through their achievements, miracles were created, raising us into an age of prosperity. But within zealous ambition lies temptation."
+ },
+ {
+  "id": 991,
+  "ctx": "term Dialogue/caretaker_boss_commentary_astronomer_04",
+  "en": "After the fall, the tower remained. Yet the gods no longer lingered within their halls, replaced by the Light. Madness. An unworthy end to a brilliant mind."
+ },
+ {
+  "id": 992,
+  "ctx": "term Dialogue/caretaker_boss_commentary_prince_01",
+  "en": "Once a mere sickly child, dying in the arms of a grieving monarch. Our royal heir..."
+ },
+ {
+  "id": 993,
+  "ctx": "term Dialogue/caretaker_boss_commentary_prince_02",
+  "en": "He sampled the most tender meats, the rarest spices, and the finest wine."
+ },
+ {
+  "id": 994,
+  "ctx": "term Dialogue/caretaker_boss_commentary_prince_03",
+  "en": "Yet none would suffice."
+ },
+ {
+  "id": 995,
+  "ctx": "term Dialogue/caretaker_boss_commentary_prince_04",
+  "en": "It was only then that the Flesh of the gods was brought before the child."
+ },
+ {
+  "id": 996,
+  "ctx": "term Dialogue/caretaker_boss_commentary_prince_05",
+  "en": "Insatiable gluttony... and life renewed."
+ },
+ {
+  "id": 997,
+  "ctx": "term Dialogue/caretaker_boss_commentary_prince_06",
+  "en": "Slaying the monstrosity was necessary, Hallowed Advent."
+ },
+ {
+  "id": 998,
+  "ctx": "term Dialogue/caretaker_boss_commentary_screamer_01",
+  "en": "After the First Emergence, zealous sermons drew the attention of many in search of answers. Peace was found in certainty."
+ },
+ {
+  "id": 999,
+  "ctx": "term Dialogue/caretaker_boss_commentary_screamer_02",
+  "en": "Yet none withstand the whispers of the Light."
+ },
+ {
+  "id": 1000,
+  "ctx": "term Dialogue/caretaker_boss_commentary_screamer_03",
+  "en": "At last, the lamentations from below have ceased. Let them be forgotten."
+ },
+ {
+  "id": 1001,
+  "ctx": "term Dialogue/caretaker_boss_commentary_weeper_01",
+  "en": "I lament its fate. "
+ },
+ {
+  "id": 1002,
+  "ctx": "term Dialogue/caretaker_boss_commentary_weeper_02",
+  "en": "During the fall, the scholars proclaimed an unsettling truth: the very Ichor of the gods had begun to vanish into the recesses below."
+ },
+ {
+  "id": 1003,
+  "ctx": "term Dialogue/caretaker_boss_commentary_weeper_03",
+  "en": "Abandoning our world."
+ },
+ {
+  "id": 1004,
+  "ctx": "term Dialogue/caretaker_boss_commentary_weeper_04",
+  "en": "Some were called below to staunch its flow, to stand vigil."
+ },
+ {
+  "id": 1005,
+  "ctx": "term Dialogue/caretaker_boss_commentary_weeper_05",
+  "en": "I did not believe then... yet what lies beneath tells the truth."
+ },
+ {
+  "id": 1006,
+  "ctx": "term Dialogue/caretaker_boss_commentary_the_first_01",
+  "en": "It is... undone. *hrk*"
+ },
+ {
+  "id": 1007,
+  "ctx": "term Dialogue/caretaker_boss_commentary_the_first_02",
+  "en": "The gods... lay within."
+ },
+ {
+  "id": 1008,
+  "ctx": "term Dialogue/caretaker_boss_commentary_the_first_03",
+  "en": "I don't understand."
+ },
+ {
+  "id": 1009,
+  "ctx": "term Dialogue/caretaker_boss_commentary_the_first_04",
+  "en": "The air has changed."
+ },
+ {
+  "id": 1010,
+  "ctx": "term Dialogue/caretaker_boss_commentary_the_first_05",
+  "en": "The City... lies silent."
+ },
+ {
+  "id": 1011,
+  "ctx": "term Dialogue/npc_vizier_01",
+  "en": "Aberration. You have found my sanctum."
+ },
+ {
+  "id": 1012,
+  "ctx": "term Dialogue/npc_vizier_02",
+  "en": "Why do you stand before me?"
+ },
+ {
+  "id": 1013,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_01-01",
+  "en": "I had a name once."
+ },
+ {
+  "id": 1014,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_01-02",
+  "en": "Such things are quickly lost when none remain to remind you of them."
+ },
+ {
+  "id": 1015,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_01-03",
+  "en": "All things drift away in time."
+ },
+ {
+  "id": 1016,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_02-01",
+  "en": "A memory, painstakingly recreated."
+ },
+ {
+  "id": 1017,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_02-02",
+  "en": "A haven thrust outside of time, where I shall remain, pursued by those who would rather lock we within a prison of their own."
+ },
+ {
+  "id": 1018,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_02-03",
+  "en": "I must expand this world, recreate what once was."
+ },
+ {
+  "id": 1019,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_02-04",
+  "en": "I simply need to remember."
+ },
+ {
+  "id": 1020,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_03-01",
+  "en": "It is everywhere... and nowhere. It seeps through the cracks within reality, observable by the gifted."
+ },
+ {
+  "id": 1021,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_03-02",
+  "en": "A neverending resource."
+ },
+ {
+  "id": 1022,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_03-03",
+  "en": "Wonders were wrought by my hand through the Void. You have managed to tap into some of my designs."
+ },
+ {
+  "id": 1023,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_03-04",
+  "en": "Yes, my Mirrors."
+ },
+ {
+  "id": 1024,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_03-05",
+  "en": "An impressive feat. I sense the touch of my kin, a cacophony of energy, within you. And yet, beneath all of that, there lurks a profound emptiness, too..."
+ },
+ {
+  "id": 1025,
+  "ctx": "term Dialogue/npc_vizier_talk_choice_03-06",
+  "en": "Most intriguing."
+ }
+]

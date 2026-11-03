@@ -1,0 +1,440 @@
+[
+{
+"id": 2227,
+"en": "You're looking a little... pale. You must have caught that disease..."
+},
+{
+"id": 2228,
+"en": "Don't worry, I know how to look after people."
+},
+{
+"id": 2229,
+"en": "I'm not like that alchemist charlatan!"
+},
+{
+"id": 2230,
+"en": "He has no idea what he's doing..."
+},
+{
+"id": 2231,
+"en": "I'm a man of science!"
+},
+{
+"id": 2232,
+"en": "Right, come here and relax - this might sting a little."
+},
+{
+"id": 2233,
+"en": "There we go! Feeling better now?"
+},
+{
+"id": 2234,
+"en": "What? A little bloodletting always does the trick!"
+},
+{
+"id": 2235,
+"en": "Oh, now don't be like that!"
+},
+{
+"id": 2236,
+"en": "Here, have some candy, it's on the house."
+},
+{
+"id": 2237,
+"en": "We really need to go!",
+"ctx": "DLCP_MET_RICHTER_NPC_TALK_1"
+},
+{
+"id": 2238,
+"en": "Evil doesn't wait!",
+"ctx": "DLCP_MET_RICHTER_NPC_TALK_2"
+},
+{
+"id": 2239,
+"en": "I see you are a specialist. Your scarf is there to protect your neck from bitings, am I right?",
+"ctx": "DLCP_MET_RICHTER_NPC_TALK_3"
+},
+{
+"id": 2240,
+"en": "If you see Maria, tell her that I won't be able to feed her cat this week.",
+"ctx": "DLCP_MET_RICHTER_NPC_TALK_5"
+},
+{
+"id": 2241,
+"en": "I'm free, at last! Thanks again!",
+"ctx": "DLCP_RICHTER_PRISON_NPC_TALK_1"
+},
+{
+"id": 2242,
+"en": "I'll have to fight him once again... It doesn't bode well.",
+"ctx": "DLCP_RICHTER_PRISON_NPC_TALK_2"
+},
+{
+"id": 2243,
+"en": "Did you meet Alucard on your way to the Castle? He's a precious ally when it comes to fighting his father!",
+"ctx": "DLCP_RICHTER_PRISON_NPC_TALK_3"
+},
+{
+"id": 2244,
+"en": "My last fight with Dracula was gruelling...",
+"ctx": "DLCP_RICHTER_PRISON_NPC_TALK_4"
+},
+{
+"id": 2245,
+"en": "Hey, it's you! Thanks again for freeing me, my decomposed friend!",
+"ctx": "DLCP_RICHTER_DOOKU_NPC_TALK_1"
+},
+{
+"id": 2246,
+"en": "Sadly, I won't be able to join you either. Dracula drained all the strength out of my body during our previous fight... Kill him for me, okay?",
+"ctx": "DLCP_RICHTER_DOOKU_NPC_TALK_2"
+},
+{
+"id": 2247,
+"en": "Seems being cursed isn’t all bad..."
+},
+{
+"id": 2248,
+"en": "I've heard the monsters get nastier and nastier as you get closer to the end..."
+},
+{
+"id": 2249,
+"en": "Apparently there are things hidden in the walls... Might REALLY be worth taking a closer look."
+},
+{
+"id": 2250,
+"en": "So you've come in search of a little challenge?"
+},
+{
+"id": 2251,
+"en": "Here, only the best of the best..."
+},
+{
+"id": 2252,
+"en": "The crème de la crème..."
+},
+{
+"id": 2253,
+"en": "Or should I say, the ELITE OF THE ELITE... can manage to rack up a respectable score!"
+},
+{
+"id": 2254,
+"en": "Do you think you're up to it?"
+},
+{
+"id": 2255,
+"en": "In that case, head down and defeat this level's boss as fast as you can while scoring as many points as you can manage."
+},
+{
+"id": 2256,
+"en": "You'll find some equipment to help you along the way, but some objects may be forbidden."
+},
+{
+"id": 2257,
+"en": "The Collector might have something to do with that, who can say..."
+},
+{
+"id": 2258,
+"en": "And don't forget, the shortest path isn't always the best..."
+},
+{
+"id": 2259,
+"en": "Dead again?"
+},
+{
+"id": 2260,
+"en": "You weren't all that good now were you..."
+},
+{
+"id": 2261,
+"en": "I've noted your... \"achievements\", if that's what you want to call them."
+},
+{
+"id": 2262,
+"en": "You. Back again. Of course."
+},
+{
+"id": 2263,
+"en": "You really aren't getting any better are you?"
+},
+{
+"id": 2264,
+"en": "Bring it back to me quick!"
+},
+{
+"id": 2265,
+"en": "It's somewhere around here! I know, I can FEEL it!"
+},
+{
+"id": 2266,
+"en": "Did you find it?"
+},
+{
+"id": 2267,
+"en": "Oh, where are you, my precious little rune?"
+},
+{
+"id": 2268,
+"en": "So? Have you got it?"
+},
+{
+"id": 2269,
+"en": "Well, what are you waiting for? Get moving!"
+},
+{
+"id": 2270,
+"en": "You're not gonna get the... my rune back by hanging around here..."
+},
+{
+"id": 2271,
+"en": "A little courage, my man!"
+},
+{
+"id": 2272,
+"en": "Show a little nerve!"
+},
+{
+"id": 2273,
+"en": "You wouldn't abandon a friend in need, now would you, huh?"
+},
+{
+"id": 2274,
+"en": "There's no one there..."
+},
+{
+"id": 2275,
+"en": "There's no one..."
+},
+{
+"id": 2276,
+"en": "HEY YOU!"
+},
+{
+"id": 2277,
+"en": "Come here a second!"
+},
+{
+"id": 2278,
+"en": "A little slow... But you seem to understand what I'm saying..."
+},
+{
+"id": 2279,
+"en": "I lost a ru.. I mean MY rune. So you see, I'm a little stuck..."
+},
+{
+"id": 2280,
+"en": "And I NEED my rune, you see..."
+},
+{
+"id": 2281,
+"en": "You wouldn't mind finding it for me, would you?"
+},
+{
+"id": 2282,
+"en": "Ho ho! Thank you! It's somewhere around here in these sewers, on your side of these bars..."
+},
+{
+"id": 2283,
+"en": "Aha! There you are!"
+},
+{
+"id": 2284,
+"en": "It's here! The... MY rune is just a little bit further on!"
+},
+{
+"id": 2285,
+"en": "What? Not at all, nothing to worry about!"
+},
+{
+"id": 2286,
+"en": "After coming this far, you’ll make short work of all that!"
+},
+{
+"id": 2287,
+"en": "So... OFF YOU GO!"
+},
+{
+"id": 2288,
+"en": "Hey, over here!"
+},
+{
+"id": 2289,
+"en": "I saw your fight. It was pretty impressive."
+},
+{
+"id": 2290,
+"en": "Did you...? Did you get it?"
+},
+{
+"id": 2291,
+"en": "Excellent! Now give it to me!"
+},
+{
+"id": 2292,
+"en": "I said..."
+},
+{
+"id": 2293,
+"en": "GIVE IT TO ME!"
+},
+{
+"id": 2294,
+"en": "I knew it... You're just like all the rest..."
+},
+{
+"id": 2295,
+"en": "You'll regret this..."
+},
+{
+"id": 2296,
+"en": "GIVE ME THE RUNE!"
+},
+{
+"id": 2297,
+"en": "It's MY rune!"
+},
+{
+"id": 2298,
+"en": "MINE!"
+},
+{
+"id": 2299,
+"en": "GRR!"
+},
+{
+"id": 2300,
+"en": "COME ON!"
+},
+{
+"id": 2301,
+"en": "I WANT my rune!"
+},
+{
+"id": 2302,
+"en": "I'll get my rune back, you'll see..."
+},
+{
+"id": 2303,
+"en": "I'll get it back, you'll see..."
+},
+{
+"id": 2304,
+"en": "You’ve nothing to lose by waiting..."
+},
+{
+"id": 2305,
+"en": "Greetings... I am... Neow...",
+"ctx": "U32_NEOW_GREET_1"
+},
+{
+"id": 2306,
+"en": "Reach the City to... wait, what... is this place?",
+"ctx": "U32_NEOW_CINE_1"
+},
+{
+"id": 2307,
+"en": "You look... different... where are your... cards?",
+"ctx": "U32_NEOW_CINE_2"
+},
+{
+"id": 2308,
+"en": "Here... take this Prismatic Shard deck...",
+"ctx": "U32_NEOW_CINE_3"
+},
+{
+"id": 2309,
+"en": "A little bit of this... a little bit of that...",
+"ctx": "U32_NEOW_CINE_4"
+},
+{
+"id": 2311,
+"en": "At last!"
+},
+{
+"id": 2312,
+"en": "Come closer! I won't cut you, don't worry."
+},
+{
+"id": 2313,
+"en": "I'm the tailor. I can fix you up with some proper clothes!"
+},
+{
+"id": 2314,
+"en": "I struck a... deal with our mutual friend, the Collector."
+},
+{
+"id": 2315,
+"en": "You bring him the templates and I will craft it for you!"
+},
+{
+"id": 2316,
+"en": "Ah, here comes my favorite customer! Know that your loyalty does not go unnoticed!",
+"ctx": "U34_UNLOCK_SCISSOR_CINE_1"
+},
+{
+"id": 2317,
+"en": "Here, take a pair of collector edition scissors as a thank you!",
+"ctx": "U34_UNLOCK_SCISSOR_CINE_2"
+},
+{
+"id": 2318,
+"en": "Oh, here you are! I actually wanted to say that...",
+"ctx": "U34_UNLOCK_COMB_CINE_1"
+},
+{
+"id": 2319,
+"en": "Your sense of style is so inspiring! I'd love to be just like you when I turn... dead?",
+"ctx": "U34_UNLOCK_COMB_CINE_2"
+},
+{
+"id": 2320,
+"en": "Here is a token of my admiration! Use it to comb-o through your enemies!",
+"ctx": "U34_UNLOCK_COMB_CINE_3"
+},
+{
+"id": 2321,
+"en": "You look... SPLENDID!"
+},
+{
+"id": 2322,
+"en": "FA-BU-LOUS!"
+},
+{
+"id": 2323,
+"en": "If only Karl could see you!"
+},
+{
+"id": 2324,
+"en": "A great choice! It really brings out your eyes."
+},
+{
+"id": 2325,
+"en": "Hey, I've got new heads for you.",
+"ctx": "U35_TAILORDAUGHTER_NEWHEADS"
+},
+{
+"id": 2327,
+"en": "No, I don't reveal my name to any random walking corpse I meet, sorry.",
+"ctx": "U34_TAILORDAUGHTER_GREET_2"
+},
+{
+"id": 2328,
+"en": "Eww ! Look at you! Someone needs a good combing!",
+"ctx": "U34_TAILORDAUGHTER_GREET_3"
+},
+{
+"id": 2329,
+"en": "Hey, I've got a new technique to try out. Can I borrow your head for a bit?",
+"ctx": "U34_TAILORDAUGHTER_GREET_4"
+},
+{
+"id": 2330,
+"en": "Nothing to do... I'd almost regret my classes...",
+"ctx": "U34_TAILORDAUGHTER_GREET_5"
+},
+{
+"id": 2332,
+"en": "Oh no, I can't comb this!",
+"ctx": "U34_TAILORDAUGHTER_TEXT_1"
+}
+]

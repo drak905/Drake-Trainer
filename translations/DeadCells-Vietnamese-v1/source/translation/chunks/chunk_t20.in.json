@@ -1,0 +1,249 @@
+[
+{
+"id": 2726,
+"en": "Repelling a projectile causes you to inflict {critical hits@CC} for ::duration:: seconds."
+},
+{
+"id": 2727,
+"en": "Use the force Luke..."
+},
+{
+"id": 2729,
+"en": "Inflicts a {critical hit@CC} if you previously used the other claw."
+},
+{
+"id": 2730,
+"en": "Recovered from the stinking carcass of Mama Tick. Might come in handy."
+},
+{
+"id": 2732,
+"en": "Pillaged from the rotting corpse of Mama Tick. Now go, give her a taste of her own medicine."
+},
+{
+"id": 2734,
+"en": "Inflicts {critical hits@CC} if you strike at the right time. The last hit repeats indefinitely if you keep the tempo going."
+},
+{
+"id": 2735,
+"en": "Hey, get rhythm when you get the blues! Come on, get rhythm when you get the blues..."
+},
+{
+"id": 2737,
+"en": "Inflict {critical hits@CC} when hitting bestial enemies or for ::duration:: seconds after destroying a door."
+},
+{
+"id": 2738,
+"en": "Surprisingly effective to get rid of parasites."
+},
+{
+"id": 2740,
+"en": "Teleports you to the nearest target. {Poisons@TO} victims (::+dps:: DPS for ::duration:: sec). Inflicts {critical hits@CC} if the target has more than ::count:: poison marks."
+},
+{
+"id": 2742,
+"en": "The first hit allows you to {parry@PA} melee hits. The combo inflicts {critical hits@CC} after a successful parry."
+},
+{
+"id": 2744,
+"en": "Kill an enemy to gather its soul. The last combo hit snatches a soul from Bosses."
+},
+{
+"id": 2746,
+"en": "Hit enemies marked by Serenade to deal {critical damage@CC}."
+},
+{
+"id": 2748,
+"en": "Hold to dash through enemies in front of you inflicting {critical hits@CC}."
+},
+{
+"id": 2750,
+"en": "Hit 'em with the crossbow."
+},
+{
+"id": 2752,
+"en": "Kill an enemy with the last hit to bury it under a tombstone and doom nearby enemies."
+},
+{
+"id": 2754,
+"en": "Repeat the last hit combo to inflict {critical damage@CC}."
+},
+{
+"id": 2756,
+"en": "Strike harder by charging your attack, but the Toothpick will be broken for ::duration:: seconds."
+},
+{
+"id": 2758,
+"en": "Reverts to initial form after ::autoTransformAfter:: seconds."
+},
+{
+"id": 2760,
+"en": "The third attack uses the pistol to bump and inflict {critical damage@CC} to nearby enemies.",
+"ctx": "U26_MACHETE_GAMEPLAYDESC"
+},
+{
+"id": 2761,
+"en": "Hack, slash and shoot!",
+"ctx": "U26_MACHETE_AMBIANTDESC"
+},
+{
+"id": 2763,
+"en": "Deals {critical damage@CC} depending on the number of gun marks on the target. Recharges Hard Light Gun's ammo.",
+"ctx": "U26_HARDLIGHTSWORD_GAMEPLAYDESC"
+},
+{
+"id": 2764,
+"en": "An elegant weapon for a more civilized age.",
+"ctx": "U26_HARDLIGHTSWORD_AMBIANTDESC"
+},
+{
+"id": 2766,
+"en": "Can attack while moving and upward. Attacking downward while airborne cause you to bounce on your enemies, dealing {critical damage@CC}.",
+"ctx": "U26_NAIL_GAMEPLAYDESC"
+},
+{
+"id": 2767,
+"en": "My life's work achieved... What more is left...?",
+"ctx": "U26_NAIL_AMBIANTDESC"
+},
+{
+"id": 2769,
+"en": "Hitting with the second attack enables a whirlwind attack that deals {critical damage@CC}.",
+"ctx": "U26_BONE_GAMEPLAYDESC"
+},
+{
+"id": 2770,
+"en": "You don't want to have one to pick with that young skeleton.",
+"ctx": "U26_BONE_AMBIANTDESC"
+},
+{
+"id": 2772,
+"en": "The second attack is a charge that inflicts {critical damage@CC} after a few moments. Interrupt it with the last attack to deal {critical damage@CC}."
+},
+{
+"id": 2773,
+"en": "Forking good weapon!",
+"ctx": "DLC3_WEAPON_TRIDENT_AMBIANTDESC"
+},
+{
+"id": 2775,
+"en": "The last attack throws the target behind you, bumping other enemies it hits. Enemies thrown on walls are dealt {critical damage@CC}."
+},
+{
+"id": 2776,
+"en": "You'll get hooked on throwing enemies on the walls!",
+"ctx": "DLC3_WEAPON_HANDHOOK_AMBIANTDESC"
+},
+{
+"id": 2778,
+"en": "The third attack throws the shark, {rooting@RO} the enemy and causing it to {bleed@BL}. Inflicts {critical hits@CC} on {rooted@RO} targets."
+},
+{
+"id": 2779,
+"en": "The first weapon that moonlights as a terrible sea predator.",
+"ctx": "DLC3_WEAPON_SHARK_AMBIANTDESC"
+},
+{
+"id": 2781,
+"en": "The first attack makes you jump forward. Hitting with this attack causes your next combo with this weapon to deal {critical damage@CC}."
+},
+{
+"id": 2782,
+"en": "Stylish yet impractical. How was she able to use it with such deadly accuracy?!",
+"ctx": "DLC3_WEAPON_ELBOWBLADES_AMBIANTDESC"
+},
+{
+"id": 2784,
+"en": "The third attack throws the ball and the fourth recalls it."
+},
+{
+"id": 2785,
+"en": "I never hit so hard in love.",
+"ctx": "DLC3_WEAPON_WRECKINGBALL_AMBIANTDESC"
+},
+{
+"id": 2787,
+"en": "Attacks that hit a target also slice through reality, hitting anything on their path again."
+},
+{
+"id": 2788,
+"en": "Graceful and deadly, just like Her.",
+"ctx": "DLC3_WEAPON_QUEENRAPIER_AMBIANTDESC"
+},
+{
+"id": 2790,
+"en": "Inflicts {critical hits@CC} for ::duration:: seconds after picking up gold.",
+"ctx": "U28_CUPIDITYDAGGER_GAMEPLAYDESC"
+},
+{
+"id": 2791,
+"en": "Stonks.",
+"ctx": "U28_CUPIDITYDAGGER_AMBIENTDESC"
+},
+{
+"id": 2793,
+"en": "Hits cause their target to drop ::count:: gold. Inflicts {critical damage@CC} if you have more than ::bonus:: gold.",
+"ctx": "U28_GOLDDIGGER_GAMEPLAYDESC"
+},
+{
+"id": 2794,
+"en": "Au-some weapon.",
+"ctx": "U28_GOLDDIGGER_AMBIENTDESC"
+},
+{
+"id": 2796,
+"en": "You charge forward. Upon hitting a target, you bounce into the air spinning. Bouncing on an enemy deals {critical damage@CC} and let's you charge again."
+},
+{
+"id": 2799,
+"en": "Attacking a stunned or {rooted@RO} enemy lets you strike frantically, dealing {critical damage@CC}."
+},
+{
+"id": 2800,
+"en": "GOTTA GET A GRIP!"
+},
+{
+"id": 2805,
+"en": "Successful attacks also create two falling stars that strike another target if possible, dealing {critical damage@CC}.",
+"ctx": "U32_STARFURY_GAMEPLAYDESC"
+},
+{
+"id": 2806,
+"en": "Along with other famous swords, this can be forged into the Zenith.",
+"ctx": "U32_STARFURY_AMBIENTDESC"
+},
+{
+"id": 2808,
+"en": "If a target is in front of you in mid range, teleports you near it and attacks it, dealing a {critical damage@CC}.",
+"ctx": "DLCP_TPSWORD_GAMEPLAYDESC"
+},
+{
+"id": 2809,
+"en": "\"Acquire the blade of the dhampir, use it against the vampire sire!\" says the proverb.",
+"ctx": "DLCP_TPSWORD_AMBIANTDESC"
+},
+{
+"id": 2811,
+"en": "A brutal whip with a star-shaped head. Can be held to spin the whip along with your movement. Deals {critical hits@CC} with the spike ball.",
+"ctx": "DLCP_WIGGLEWHIP_GAMEPLAYDESC"
+},
+{
+"id": 2812,
+"en": "Will give you a strong wrist.",
+"ctx": "DLCP_WIGGLEWHIP_AMBIANTDESC"
+},
+{
+"id": 2814,
+"en": "If the second attack of the weapon hits a target, throws a projectile on a rotary trajectory, dealing {critical damage@CC} increasing with each new hit.",
+"ctx": "U34_BIBLE_GAMEPLAYDESC"
+},
+{
+"id": 2815,
+"en": "This book can be... stunning.",
+"ctx": "DLCP_BIBLE_AMBIANTDESC"
+},
+{
+"id": 2817,
+"en": "Can be transformed in between two attacks to deal {critical damage@CC} for the next ::duration:: seconds.",
+"ctx": "DLCP_SNAKE_SWORD_GAMEPLAYDESC"
+}
+]

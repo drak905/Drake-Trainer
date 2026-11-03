@@ -1,0 +1,209 @@
+[
+{
+"id": 614,
+"en": "You're stinkier than a Corpse Fly!",
+"ctx": "POW_TAUNT_4"
+},
+{
+"id": 615,
+"en": "I'll turn you into Corpse Juice!",
+"ctx": "POW_TAUNT_5"
+},
+{
+"id": 616,
+"en": "Heinous Cannibal!",
+"ctx": "POW_TAUNT_6"
+},
+{
+"id": 617,
+"en": "Pirate!",
+"ctx": "POW_TAUNT_7"
+},
+{
+"id": 618,
+"en": "You little stampcrab!",
+"ctx": "POW_TAUNT_8"
+},
+{
+"id": 619,
+"en": "Detuned ophicleide!",
+"ctx": "POW_TAUNT_9"
+},
+{
+"id": 620,
+"en": "Tallow-catch!",
+"ctx": "POW_TAUNT_10"
+},
+{
+"id": 621,
+"en": "DON'T PANIC! Everything's going to be all right."
+},
+{
+"id": 622,
+"en": "Dead Cells is in Early Access! This means there will be bugs... Hopefully not too many bugs, but they'll be there... Some will be funny (getting your head stuck in a wall, falling through the floor etc.), others won't be (losing your save in a crash and the like)."
+},
+{
+"id": 623,
+"en": "The important part is that you have fun playing the game, while we get to work adding new content and fixing any problems..."
+},
+{
+"id": 625,
+"en": "Chat support has been disabled by the streamer. Please use the Twitch extension to vote."
+},
+{
+"id": 626,
+"en": "Captain chicken ::user:: chose to heal you!"
+},
+{
+"id": 627,
+"en": "Captain Chicken ::user:: has rejected your healing request."
+},
+{
+"id": 628,
+"en": "Captain Chicken ::user:: has resigned! Thanks for the warning :)"
+},
+{
+"id": 629,
+"en": "::user:: has resigned from their position as Captain Chicken. A new Captain is being chosen!"
+},
+{
+"id": 630,
+"en": "::user:: Wait ::t:: seconds before launching another boss attack."
+},
+{
+"id": 631,
+"en": "::user:: Boss attacks available: ::cmds::"
+},
+{
+"id": 632,
+"en": "New sub: ::user::"
+},
+{
+"id": 636,
+"en": "Mobs will drop more cells and gold here."
+},
+{
+"id": 637,
+"en": "Congratulations! You can now try a new difficulty level by interacting with the tube at the start of the game.",
+"ctx": "U30_FIRST_BC_UNLOCKED_POPUP"
+},
+{
+"id": 638,
+"en": "Our hero is dead!"
+},
+{
+"id": 640,
+"en": "Non-optimized version!"
+},
+{
+"id": 641,
+"en": "We have detected that you are using an Intel HD Graphics GPU."
+},
+{
+"id": 642,
+"en": "Dead Cells hasn't been optimized for this type of GPU yet, so you may encounter some bugs."
+},
+{
+"id": 643,
+"en": "If your computer has another video card, we recommend that you force your computer to use it for Dead Cells in the video card's settings."
+},
+{
+"id": 644,
+"en": "Something seems to have changed..."
+},
+{
+"id": 645,
+"en": "\"Under construction\"... no way through."
+},
+{
+"id": 646,
+"en": "\"UNDER CONSTRUCTION\"\nWell done! You've come to the end of the game (for now)!"
+},
+{
+"id": 648,
+"en": "Thanks for getting involved in the Early Access!"
+},
+{
+"id": 649,
+"en": "With your help, trust and confidence, we've finally made it to version 1.0. We hope that you've enjoyed the ride while we; wiped out your saves, nerfed your favorite weapons and generally figured things out as we went. We really hope that you'll enjoy the 'complete' version of the game even more! That's why we suggest that you start a fresh save, particularly if you'd like to discover all of the lore that we've added with this update."
+},
+{
+"id": 650,
+"en": "Thank you once again for all your help! From all of us here at Motion Twin, you're awesome! Also... This ain't over, we'll be back with more content post release, so stay tuned!"
+},
+{
+"id": 654,
+"en": "Your Steam Cloud save files are not currently available (offline mode or connection error)."
+},
+{
+"id": 655,
+"en": "You can start a new offline save or restart the game after checking your settings."
+},
+{
+"id": 656,
+"en": "Steam Cloud is now activated but your previous game was saved offline.\nWould you like to use Steam Cloud?"
+},
+{
+"id": 657,
+"en": "Would you like to transfer your local save files to the Steam Cloud?\nWARNING! If you already have save files in the Steam Cloud they will be permanently overwritten!"
+},
+{
+"id": 662,
+"en": "We recommend playing Dead Cells with a controller!"
+},
+{
+"id": 665,
+"en": "Slot ::index::"
+},
+{
+"id": 666,
+"en": "Save: ::name::"
+},
+{
+"id": 676,
+"en": "You need to configure a streaming service to use this game mode."
+},
+{
+"id": 681,
+"en": "Unlock this in the standard game mode."
+},
+{
+"id": 684,
+"en": "You must have an Internet connection to play in this mode."
+},
+{
+"id": 685,
+"en": "This saved game requires a more recent version of the game."
+},
+{
+"id": 688,
+"en": "Two new levels, two new bosses and stacks more content to explore and unlock... If you’re good... Real good. The most challenging installment to the game since we first threw down the gauntlet. Kill. Die. Learn. Die some more."
+},
+{
+"id": 690,
+"en": "Explore a relaxing Arboretum, wade through a noxious Morass and take on a new boss. This is early game content designed to expand the Dead Cells universe and add variety to runs for people looking to support the development of the game."
+},
+{
+"id": 692,
+"en": "Take a break on the coast! Soak up some sun as you explore the Fractured Shrines. Enjoy the view from the Undying Shores and meet the locals. We hope you'll enjoy this challenging early game content we built to add some variety to the middle of your runs.",
+"ctx": "DLC2_DESCRIPTION_TEXT"
+},
+{
+"id": 693,
+"en": "Battle your way through sunken shipwrecks, scale a burning lighthouse and confront your deadliest foe yet. If you manage to make it through all that, maybe you’ll finally get off this god-forsaken island... \nThis late-game content gives you an alternative to the High Peak Castle, Derelict Distillery and Throne Room biomes.",
+"ctx": "DLC3_DESCRIPTION_TEXT"
+},
+{
+"id": 694,
+"en": "Team up with Richter Belmont & Alucard and fight through the ancient corridors of Dracula's Castle, wielding iconic Castlevania weapons against hordes of famous monsters to reach the throne room of the Dark Lord himself.\nTwo new levels, three bosses, a soundtrack of 60 classic Castlevania tunes, a new storyline and Richter Mode!",
+"ctx": "DLCP_DESCRIPTION_TEXT"
+},
+{
+"id": 701,
+"en": "Requires ::dlcName:: DLC"
+},
+{
+"id": 707,
+"en": "{Permanent@PE} upgrade"
+}
+]

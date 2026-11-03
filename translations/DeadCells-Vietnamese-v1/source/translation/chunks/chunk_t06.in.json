@@ -1,0 +1,447 @@
+[
+{
+"id": 905,
+"en": "Total score:"
+},
+{
+"id": 906,
+"en": "Connecting to server..."
+},
+{
+"id": 910,
+"en": "Score could not be uploaded: ::reason::"
+},
+{
+"id": 911,
+"en": "Score successfully uploaded!"
+},
+{
+"id": 912,
+"en": "You have reached rank ::rng::!"
+},
+{
+"id": 913,
+"en": "You've broken your record!"
+},
+{
+"id": 914,
+"en": "You're now at rank ::rng::!"
+},
+{
+"id": 915,
+"en": "What a shame, you didn't beat your personal best for the day (::pts:: points)."
+},
+{
+"id": 916,
+"en": "You've broken your record, but not by enough to move up the ladder."
+},
+{
+"id": 917,
+"en": "You're still at rank ::rng::."
+},
+{
+"id": 919,
+"en": "Investing cells {permanently@PE} increases the drop rate of high-quality items."
+},
+{
+"id": 920,
+"en": "::pct::% of the items found will be of \"::q::\" quality."
+},
+{
+"id": 922,
+"en": "LOCKED (::num:: Boss Cell required)"
+},
+{
+"id": 923,
+"en": "LOCKED (::num:: Boss Cells required)"
+},
+{
+"id": 925,
+"en": "Reforge an equipped item to try and acquire better {modifiers@AF} or increase its power."
+},
+{
+"id": 926,
+"en": "No upgrades possible with your current equipment"
+},
+{
+"id": 927,
+"en": "Reforge {modifiers@AF}"
+},
+{
+"id": 928,
+"en": "Upgrade to \"::q::\" quality."
+},
+{
+"id": 933,
+"en": "::num:: Boss Stem Cell activated"
+},
+{
+"id": 934,
+"en": "::num:: Boss Stem Cells activated"
+},
+{
+"id": 935,
+"en": "Reduces the number of health fountains"
+},
+{
+"id": 936,
+"en": "Removes all health fountains, replacing them with single health flask recharges instead."
+},
+{
+"id": 937,
+"en": "Removes all health fountains, leaving only a few single health flask recharges instead."
+},
+{
+"id": 938,
+"en": "Removes all possible ways of refilling your health flask"
+},
+{
+"id": 939,
+"en": "2x more cells found on enemies"
+},
+{
+"id": 940,
+"en": "3x more cells found on enemies"
+},
+{
+"id": 941,
+"en": "Improve the Legendary Forge:\n{::rang1::%@PE} maximum for rank {\"::name1::\"@PE}\n{::rang2::%@PE} maximum for rank {\"::name2::\"@PE}\n{::rang3::%@PE} maximum for rank {\"::name3::\"@PE}"
+},
+{
+"id": 942,
+"en": "Improve the Legendary Forge:\n{::rang1::%@PE} maximum for rank {\"::name1::\"@PE}\n{::rang2::%@PE} maximum for rank {\"::name2::\"@PE}"
+},
+{
+"id": 943,
+"en": "Enemies have the Malaise and a lot of the food is infected!"
+},
+{
+"id": 944,
+"en": "Lets you acquire the next Boss Stem Cell!"
+},
+{
+"id": 945,
+"en": "Malaise infection level: ::level::"
+},
+{
+"id": 947,
+"en": "You lost ::n:: cells!"
+},
+{
+"id": 948,
+"en": "You only lost one cell."
+},
+{
+"id": 949,
+"en": "Seed: ::seed::"
+},
+{
+"id": 950,
+"en": "::d:: dmg/s"
+},
+{
+"id": 951,
+"en": "::val:: (::crit::) dmg/s"
+},
+{
+"id": 952,
+"en": "Ammo: ::n::"
+},
+{
+"id": 956,
+"en": "Absorbs ::v::% dmg"
+},
+{
+"id": 957,
+"en": "Inflicts ::d:: dmg"
+},
+{
+"id": 958,
+"en": "Inflicts ::d:: (::crit::) dmg"
+},
+{
+"id": 959,
+"en": "::val:: ({::crit::@CC}) DPS"
+},
+{
+"id": 960,
+"en": "::d:: damage/sec"
+},
+{
+"id": 962,
+"en": "::d:: sec cooldown time"
+},
+{
+"id": 963,
+"en": "+::n::% damage"
+},
+{
+"id": 964,
+"en": "-::n::% on all damage received"
+},
+{
+"id": 965,
+"en": "The power of this Mutation increases in proportion to your Brutality."
+},
+{
+"id": 966,
+"en": "The power of this Mutation increases in proportion to your Tactics."
+},
+{
+"id": 967,
+"en": "The power of this Mutation increases in proportion to your Survival."
+},
+{
+"id": 968,
+"en": "::m::/::d::/::y::"
+},
+{
+"id": 969,
+"en": "..."
+},
+{
+"id": 971,
+"en": "Loading..."
+},
+{
+"id": 972,
+"en": "Current time: ::time::"
+},
+{
+"id": 973,
+"en": "::name::!"
+},
+{
+"id": 974,
+"en": "Achievement: ::title::"
+},
+{
+"id": 975,
+"en": "New head unlocked!",
+"ctx": "U35_HEAD_UNLOCKLOG_TITLE"
+},
+{
+"id": 976,
+"en": "Blueprint for finishing the Daily Challenge ::num:: times:"
+},
+{
+"id": 977,
+"en": "RARE blueprint unlocked:"
+},
+{
+"id": 978,
+"en": "SECRET blueprint unlocked:",
+"ctx": "U32_ENIGMA_SKIN_UNLOCK"
+},
+{
+"id": 979,
+"en": "Blueprint unlocked:"
+},
+{
+"id": 980,
+"en": "RARE blueprint acquired:"
+},
+{
+"id": 981,
+"en": "Blueprint acquired:"
+},
+{
+"id": 982,
+"en": "{::m::@CL} mutation doesn't apply to this item."
+},
+{
+"id": 985,
+"en": "Recycle ({::v::@GO} {iconCoin@img})"
+},
+{
+"id": 986,
+"en": "Absorbs ::v::% damage"
+},
+{
+"id": 987,
+"en": "Inflicts ::d:: damage"
+},
+{
+"id": 988,
+"en": "::d:: ({::crit::@CC}) damage"
+},
+{
+"id": 989,
+"en": "::d:: DPS"
+},
+{
+"id": 990,
+"en": "{::crit::@CC} DPS"
+},
+{
+"id": 991,
+"en": "(::duration:: sec)"
+},
+{
+"id": 992,
+"en": "-::n::% damage received"
+},
+{
+"id": 1010,
+"en": "Restore default values for all settings?"
+},
+{
+"id": 1029,
+"en": "Revert to default button mapping."
+},
+{
+"id": 1039,
+"en": "Customize the input bound to the Left Stick",
+"ctx": "PS4 terminology"
+},
+{
+"id": 1046,
+"en": "Customize the input bound to the Right Stick",
+"ctx": "PS4 terminology"
+},
+{
+"id": 1054,
+"en": "Customize the input bound to the directional buttons",
+"ctx": "Switch terminology"
+},
+{
+"id": 1056,
+"en": "Customize the input bound to the D-Pad",
+"ctx": "XBox terminology"
+},
+{
+"id": 1073,
+"en": "Left Stick dead zone.",
+"ctx": "PS5 terminology"
+},
+{
+"id": 1074,
+"en": "Right Stick dead zone.",
+"ctx": "PS5 terminology"
+},
+{
+"id": 1080,
+"en": "Restores the original key bindings."
+},
+{
+"id": 1083,
+"en": "The mouse cursor cannot leave the display area while the game is active."
+},
+{
+"id": 1099,
+"en": "Hold attack button to perform combos with the weapon"
+},
+{
+"id": 1100,
+"en": "Jump as long as the Jump button is held.",
+"ctx": "Switch terminology"
+},
+{
+"id": 1101,
+"en": "Jump as long as the Jump key is held.",
+"ctx": "PS4 terminology"
+},
+{
+"id": 1105,
+"en": "Press a shield's button to toggle holding it on or off.",
+"ctx": "Switch terminology"
+},
+{
+"id": 1106,
+"en": "Press a shield's key to toggle holding it on or off.",
+"ctx": "PS4 terminology"
+},
+{
+"id": 1109,
+"en": "Hold the button to chain rolls"
+},
+{
+"id": 1111,
+"en": "Interrupts a roll if it would cause you to fall from a high platform."
+},
+{
+"id": 1116,
+"en": "Are you sure you want to turn Speedrun Mode on? This will automatically toggle certain settings on or off.",
+"ctx": "U34_SET_SPEEDRUN_MODE"
+},
+{
+"id": 1118,
+"en": "Are you sure you want to reset your Speedrun Mode times?",
+"ctx": "U34_SPEEDRUN_CONFIRM_PANEL_RESET"
+},
+{
+"id": 1121,
+"en": "Show control tips at the start of the game."
+},
+{
+"id": 1123,
+"en": "Subtle feedback indicating that the dodge skill is ready."
+},
+{
+"id": 1125,
+"en": "Displays a \"{!@CC}\" when an enemy is about to strike."
+},
+{
+"id": 1126,
+"en": "Disable the attack warning coming from offscreen enemies"
+},
+{
+"id": 1127,
+"en": "Disable the \"{!@CC}\" when a enemy is about to attack from offscreen"
+},
+{
+"id": 1130,
+"en": "Allows you to activate Chroma lighting effects on your Razer equipment."
+},
+{
+"id": 1133,
+"en": "The optional lore rooms will no longer be generated in the levels."
+},
+{
+"id": 1135,
+"en": "Automatically skip the cutscenes."
+},
+{
+"id": 1138,
+"en": "Activate Steam Cloud synchronization."
+},
+{
+"id": 1139,
+"en": "We recommend that you deactivate this function if you want to play offline."
+},
+{
+"id": 1140,
+"en": "Would you like to transfer your Steam Cloud save files to your computer?\nWarning! If you already have local save files they will be permanently overwritten!"
+},
+{
+"id": 1142,
+"en": "Shows a menu between each run allowing you to activate and disable mods."
+},
+{
+"id": 1150,
+"en": "Change title screen.",
+"ctx": "CHANGE_TITLESCREEN"
+},
+{
+"id": 1156,
+"en": "The popup explaining how curses work will not appear again."
+},
+{
+"id": 1170,
+"en": "Places the backpack next to your weapons."
+},
+{
+"id": 1171,
+"en": "Backpack icon transparency percentage."
+},
+{
+"id": 1175,
+"en": "Hides the interface buttons.",
+"ctx": "PS4 terminology"
+},
+{
+"id": 1179,
+"en": "Enable critical strike availability in the interface.",
+"ctx": "U29_CRIT_FEEDBACK"
+}
+]

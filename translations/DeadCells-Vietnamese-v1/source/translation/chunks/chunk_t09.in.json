@@ -1,0 +1,361 @@
+[
+{
+"id": 1499,
+"en": "Never mind that... How many wretches did you slay this time? How many Cells did you bring me?"
+},
+{
+"id": 1500,
+"en": "Would you be kind enough to put them in the Catalyst right there?"
+},
+{
+"id": 1501,
+"en": "Are you familiar with the myth of the Panacea?"
+},
+{
+"id": 1502,
+"en": "The cure to all disease..."
+},
+{
+"id": 1503,
+"en": "... distilled from the crude essence of life itself."
+},
+{
+"id": 1504,
+"en": "Well, if you believe the First Alchemists."
+},
+{
+"id": 1505,
+"en": "Drivel! From a bunch of senile old fools. Fairy tales for gullible children... Just look at you."
+},
+{
+"id": 1506,
+"en": "Dependence. Loss of empathy. Lust for violence. Insanity. Endless death."
+},
+{
+"id": 1507,
+"en": "Nothing good can come of messing with Cells..."
+},
+{
+"id": 1508,
+"en": "But then... I've already scoured the entire Island, scavenging from the remains of the fallen..."
+},
+{
+"id": 1509,
+"en": "... And even the bellies of the living. Few were willing to help. Many begged for mercy."
+},
+{
+"id": 1510,
+"en": "Is this all I've got left? The false hope of a bunch of children's stories..."
+},
+{
+"id": 1511,
+"en": "Pathetic."
+},
+{
+"id": 1512,
+"en": "Ouch!"
+},
+{
+"id": 1513,
+"en": "Ahhh!"
+},
+{
+"id": 1514,
+"en": "Urgh!"
+},
+{
+"id": 1515,
+"en": "You can't kill me!"
+},
+{
+"id": 1516,
+"en": "That's it? I didn't feel a thing."
+},
+{
+"id": 1517,
+"en": "Without me, you're nothing!"
+},
+{
+"id": 1518,
+"en": "You really are incapable of settling a conflict peacefully, aren't you? Pity..."
+},
+{
+"id": 1519,
+"en": "Not cool, mate! Not cool."
+},
+{
+"id": 1520,
+"en": "Mommy!"
+},
+{
+"id": 1521,
+"en": "I... I... I never noticed how cold these tiles are."
+},
+{
+"id": 1522,
+"en": "Oh my god! They killed the Collector!"
+},
+{
+"id": 1523,
+"en": "Your Princess is in another castle."
+},
+{
+"id": 1524,
+"en": "Won't be needing a dentist anymore!"
+},
+{
+"id": 1525,
+"en": "Git gu..."
+},
+{
+"id": 1526,
+"en": "Where would you be without me?"
+},
+{
+"id": 1528,
+"en": "I almost had to wait... you're here, at the very least. We can begin.",
+"ctx": "DLCP_ALUCARD_CLOCK_CINE_1"
+},
+{
+"id": 1529,
+"en": "This door goes right to my father's Castle. No undead lieutenant on the way, this time!",
+"ctx": "DLCP_ALUCARD_CLOCK_CINE_2"
+},
+{
+"id": 1530,
+"en": "Be warned though: this Castle is not just a stone building. It seems to be alive, sentient almost.",
+"ctx": "DLCP_ALUCARD_CLOCK_CINE_3"
+},
+{
+"id": 1531,
+"en": "My father knows everything that goes on within these walls and may very well prepare a... warm welcome for you.",
+"ctx": "DLCP_ALUCARD_CLOCK_CINE_4"
+},
+{
+"id": 1532,
+"en": "Good luck out there! Come find me near his throne room, we have to finish this.",
+"ctx": "DLCP_ALUCARD_CLOCK_CINE_5"
+},
+{
+"id": 1533,
+"en": "Oh you're there. Sadly, we can't access my father's Castle a second time.",
+"ctx": "DLCP_ALUCARD_CLOCK_NO_DOOR_CINE_1"
+},
+{
+"id": 1534,
+"en": "Once we leave it, he can prevent us from setting foot in the Castle again.",
+"ctx": "DLCP_ALUCARD_CLOCK_NO_DOOR_CINE_2"
+},
+{
+"id": 1535,
+"en": "You have to choose the entry you want to use: either from the prison or from this room, but never both.",
+"ctx": "DLCP_ALUCARD_CLOCK_NO_DOOR_CINE_3"
+},
+{
+"id": 1536,
+"en": "Well fought...",
+"ctx": "DLCP_ALUCARD_DEATH_CINE_1"
+},
+{
+"id": 1537,
+"en": "Sadly, the ritual went through: my father has been brought back into this world.",
+"ctx": "DLCP_ALUCARD_DEATH_CINE_2"
+},
+{
+"id": 1538,
+"en": "Even if we killed his most trusted lieutenant, the situation is dire.",
+"ctx": "DLCP_ALUCARD_DEATH_CINE_3"
+},
+{
+"id": 1539,
+"en": "I need to find a way to reach my father's sanctum.",
+"ctx": "DLCP_ALUCARD_DEATH_CINE_4"
+},
+{
+"id": 1540,
+"en": "I'll come fetch you once I figure out what to do next.",
+"ctx": "DLCP_ALUCARD_DEATH_CINE_5"
+},
+{
+"id": 1541,
+"en": "We're there.",
+"ctx": "DLCP_ALUCARD_DOOKU_CINE_1"
+},
+{
+"id": 1542,
+"en": "Behind this door lies my father's throne room.",
+"ctx": "DLCP_ALUCARD_DOOKU_CINE_2"
+},
+{
+"id": 1543,
+"en": "Regrettably, I'll have to let you fight him alone.",
+"ctx": "DLCP_ALUCARD_DOOKU_CINE_3"
+},
+{
+"id": 1544,
+"en": "I tried spilling the family blood before... it didn't go well.",
+"ctx": "DLCP_ALUCARD_DOOKU_CINE_4"
+},
+{
+"id": 1545,
+"en": "Do not waver. My father isn't invincible, you can defeat him!",
+"ctx": "DLCP_ALUCARD_DOOKU_CINE_5"
+},
+{
+"id": 1546,
+"en": "Ah, there you are! I looked for you everywhere in this sordid prison.",
+"ctx": "DLCP_ALUCARD_PRISON_CINE_1"
+},
+{
+"id": 1547,
+"en": "I found a way to reach my father's throne room, for real this time.",
+"ctx": "DLCP_ALUCARD_PRISON_CINE_2"
+},
+{
+"id": 1548,
+"en": "Your island houses a clock tower, just like my father's Castle.",
+"ctx": "DLCP_ALUCARD_PRISON_CINE_3"
+},
+{
+"id": 1549,
+"en": "We should be able to exploit this similarity and go back to my world to fight him.",
+"ctx": "DLCP_ALUCARD_PRISON_CINE_4"
+},
+{
+"id": 1550,
+"en": "I'll see you in the Clock Room. Try not to die until then...",
+"ctx": "DLCP_ALUCARD_PRISON_CINE_5"
+},
+{
+"id": 1551,
+"en": "What an extravagant fountain!",
+"ctx": "DLCP_LORE_PG_FOUNTAIN_1"
+},
+{
+"id": 1552,
+"en": "Well, it would be less sinister if it wasn't running on blood instead of water...",
+"ctx": "DLCP_LORE_PG_FOUNTAIN_2"
+},
+{
+"id": 1553,
+"en": "I'm wondering how many innocents they had to kill to fill it...",
+"ctx": "DLCP_LORE_PG_FOUNTAIN_3"
+},
+{
+"id": 1554,
+"en": "...Why are you here?",
+"ctx": "DLCP_ALUCARD_INTRO_CINE_1"
+},
+{
+"id": 1555,
+"en": "Wait, did you really awaken me by accident?!",
+"ctx": "DLCP_ALUCARD_INTRO_CINE_2"
+},
+{
+"id": 1556,
+"en": "Hum... Unfortunate, but let's at least make the best out of this... unexpected situation.",
+"ctx": "DLCP_ALUCARD_INTRO_CINE_3"
+},
+{
+"id": 1557,
+"en": "You probably don't understand where you are and we don't have the time to linger on the specifics.",
+"ctx": "DLCP_ALUCARD_INTRO_CINE_4"
+},
+{
+"id": 1558,
+"en": "Just know that my father is about to come back to life and we have to stop that from happening at any cost.",
+"ctx": "DLCP_ALUCARD_INTRO_CINE_5"
+},
+{
+"id": 1559,
+"en": "Meet me in his Castle, we'll debate how best to fight him. Oh, and if you come across a Belmont, ask him to do his accursed job!",
+"ctx": "DLCP_ALUCARD_INTRO_CINE_6"
+},
+{
+"id": 1560,
+"en": "Hello, adventurer. I request your help!",
+"ctx": "DLCP_RICHTER_INTRO_CINE_1"
+},
+{
+"id": 1561,
+"en": "... Your head is... disturbing...",
+"ctx": "DLCP_RICHTER_INTRO_CINE_2"
+},
+{
+"id": 1562,
+"en": "Anyway, my quest is too important for me to be picky.",
+"ctx": "DLCP_RICHTER_INTRO_CINE_3"
+},
+{
+"id": 1563,
+"en": "Evil is making its way back into the world. You must come with me into its heart and banish it once more.",
+"ctx": "DLCP_RICHTER_INTRO_CINE_4"
+},
+{
+"id": 1564,
+"en": "Down these stairs, you'll find a path to the Castle's outskirts. I'll meet you there.",
+"ctx": "DLCP_RICHTER_INTRO_CINE_5"
+},
+{
+"id": 1565,
+"en": "Welcome, stranger. I am Shanoa.",
+"ctx": "DLCP_SHANOA_INTRO_1"
+},
+{
+"id": 1566,
+"en": "I'm a master of Glyph magic.",
+"ctx": "DLCP_SHANOA_INTRO_2"
+},
+{
+"id": 1567,
+"en": "Alchemy is not really my strong suit, but I still might be able to help you make something of those cells you carry.",
+"ctx": "DLCP_SHANOA_INTRO_3"
+},
+{
+"id": 1568,
+"en": "Hey, you here! The suspicious undead! We met in your prison once!",
+"ctx": "DLCP_RICHTER_UPSIDE_DOWN_CINE_1"
+},
+{
+"id": 1569,
+"en": "I fought Dracula, my family's sworn enemy and bane of humanity but through a ruse, he managed to beat me and throw me in this cage instead.",
+"ctx": "DLCP_RICHTER_UPSIDE_DOWN_CINE_2"
+},
+{
+"id": 1570,
+"en": "Free me, my decrepit friend! We can still defeat the Dark Lord!",
+"ctx": "DLCP_RICHTER_UPSIDE_DOWN_CINE_3"
+},
+{
+"id": 1571,
+"en": "Woo, look at that... My body is so well conserved!"
+},
+{
+"id": 1572,
+"en": "Wooo! And this armor! Butchering monsters has never looked this good!"
+},
+{
+"id": 1573,
+"en": "WOOOOO!"
+},
+{
+"id": 1574,
+"en": "I totally forgot I could do that..."
+},
+{
+"id": 1575,
+"en": "Long live muscle memory!"
+},
+{
+"id": 1576,
+"en": "Ergh! My body is already beginning to degrade, though."
+},
+{
+"id": 1577,
+"en": "The Malaise hasn't spared my original host..."
+},
+{
+"id": 1578,
+"en": "Could there be a way to stop the decay?"
+}
+]

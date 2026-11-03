@@ -1,0 +1,858 @@
+[
+{
+"id": 678,
+"en": "Continue (Normal Mode)"
+},
+{
+"id": 679,
+"en": "Normal Mode"
+},
+{
+"id": 680,
+"en": "Custom Mode"
+},
+{
+"id": 682,
+"en": "Streaming: Enabled"
+},
+{
+"id": 683,
+"en": "Streaming: Disabled"
+},
+{
+"id": 686,
+"en": "Show the update pop-up again",
+"ctx": "UPDATE_POPUP_SHOW"
+},
+{
+"id": 687,
+"en": "Press :a: to start"
+},
+{
+"id": 689,
+"en": "Free DLC"
+},
+{
+"id": 695,
+"en": "New DLC"
+},
+{
+"id": 696,
+"en": "Rise of the Giant"
+},
+{
+"id": 697,
+"en": "The Bad Seed"
+},
+{
+"id": 698,
+"en": "Fatal Falls"
+},
+{
+"id": 699,
+"en": "The Queen and the Sea"
+},
+{
+"id": 700,
+"en": "Return to Castlevania",
+"ctx": "DLCP_NAME_TEXT"
+},
+{
+"id": 702,
+"en": "Nintendo eShop"
+},
+{
+"id": 703,
+"en": "Head over to the store",
+"ctx": "PS4 terminology for Shop"
+},
+{
+"id": 706,
+"en": "Cancel"
+},
+{
+"id": 714,
+"en": "Skill"
+},
+{
+"id": 715,
+"en": "Weapon"
+},
+{
+"id": 716,
+"en": "Reward"
+},
+{
+"id": 719,
+"en": "Out of ammo"
+},
+{
+"id": 720,
+"en": "Ammo stuck in this enemy"
+},
+{
+"id": 722,
+"en": "Title"
+},
+{
+"id": 723,
+"en": "Confirm"
+},
+{
+"id": 727,
+"en": "PICK AN ASPECT"
+},
+{
+"id": 728,
+"en": "Assist Mode",
+"ctx": "U29_ASSIST_MODE"
+},
+{
+"id": 729,
+"en": "Reveal the map",
+"ctx": "U29_REVEAL_MAP"
+},
+{
+"id": 731,
+"en": "Auto-Hit",
+"ctx": "U29_AUTO_HIT_OPTION"
+},
+{
+"id": 733,
+"en": "Destroy doors",
+"ctx": "U29_AUTO_BREAK_DOORS_OPTION"
+},
+{
+"id": 735,
+"en": "Easier parry",
+"ctx": "U29_PARRY"
+},
+{
+"id": 737,
+"en": "Slower traps",
+"ctx": "U29_TRAP"
+},
+{
+"id": 739,
+"en": "Slower enemies",
+"ctx": "U35_SLOWER_MOBS"
+},
+{
+"id": 740,
+"en": "Enemies' actions are slower",
+"ctx": "U35_SLOWER_MOBS_DESC"
+},
+{
+"id": 741,
+"en": "Trap damage",
+"ctx": "U29_TRAP_DAMAGE"
+},
+{
+"id": 742,
+"en": "Enemies’ health",
+"ctx": "U29_ENEMY_HEALTH"
+},
+{
+"id": 743,
+"en": "Enemies’ damage",
+"ctx": "U29_ENEMY_DAMAGE"
+},
+{
+"id": 744,
+"en": "No Vendor Mimic",
+"ctx": "U34_MIMIC_SPAWN"
+},
+{
+"id": 746,
+"en": "Multiple deaths",
+"ctx": "U29_CONTINUE_ENABLED"
+},
+{
+"id": 749,
+"en": "Infinite",
+"ctx": "U29_INFINITE_CONTINUE"
+},
+{
+"id": 750,
+"en": "Reset Assist Mode settings",
+"ctx": "U29_ASSIST_MODE_RESET"
+},
+{
+"id": 751,
+"en": "Disable Assist Mode",
+"ctx": "U29_ASSIST_MODE_DEACTIVATE"
+},
+{
+"id": 753,
+"en": "Next"
+},
+{
+"id": 755,
+"en": "Enable Assist Mode",
+"ctx": "U29_ASSIST_MODE_ACTIVATE"
+},
+{
+"id": 756,
+"en": "THE COLLECTOR"
+},
+{
+"id": 757,
+"en": "Shanoa",
+"ctx": "DLCP_COLLECTOR_SHANOA_NAME"
+},
+{
+"id": 758,
+"en": "NOT THE COLLECTOR"
+},
+{
+"id": 760,
+"en": "Show all"
+},
+{
+"id": 761,
+"en": "Hide irrelevant lines"
+},
+{
+"id": 767,
+"en": "Show unlocked items"
+},
+{
+"id": 768,
+"en": "Hide unlocked items"
+},
+{
+"id": 771,
+"en": "Yes"
+},
+{
+"id": 772,
+"en": "No"
+},
+{
+"id": 773,
+"en": "(hold)"
+},
+{
+"id": 774,
+"en": "(HOLD)"
+},
+{
+"id": 775,
+"en": "CUSTOM GAME"
+},
+{
+"id": 779,
+"en": "Less than 20 items unlocked"
+},
+{
+"id": 780,
+"en": "Gameplay Modifier detected"
+},
+{
+"id": 781,
+"en": "Default presets"
+},
+{
+"id": 782,
+"en": "Equipment"
+},
+{
+"id": 783,
+"en": "Advanced options"
+},
+{
+"id": 784,
+"en": "Alternative binding profile",
+"ctx": "Alt binding"
+},
+{
+"id": 785,
+"en": "Launch Custom Game"
+},
+{
+"id": 788,
+"en": "Reset"
+},
+{
+"id": 789,
+"en": "Reset all options to default"
+},
+{
+"id": 796,
+"en": "One hit and you're dead"
+},
+{
+"id": 799,
+"en": "Custom presets"
+},
+{
+"id": 803,
+"en": "= Disable trophies"
+},
+{
+"id": 804,
+"en": "= Disable achievements"
+},
+{
+"id": 806,
+"en": "Starting equipment"
+},
+{
+"id": 807,
+"en": "Random Outfit"
+},
+{
+"id": 810,
+"en": "Random Head",
+"ctx": "U35_CUSTOMGAME_RANDOM_HEAD_CATEGORY"
+},
+{
+"id": 814,
+"en": "Meta Modifiers"
+},
+{
+"id": 815,
+"en": "Maximum number of potions"
+},
+{
+"id": 816,
+"en": "Gold reserves level"
+},
+{
+"id": 817,
+"en": "Recycling level"
+},
+{
+"id": 818,
+"en": "Forge level"
+},
+{
+"id": 819,
+"en": "Miscellaneous Modifiers"
+},
+{
+"id": 820,
+"en": "Fixed seed"
+},
+{
+"id": 823,
+"en": "Default timer"
+},
+{
+"id": 825,
+"en": "Semi-permanent timer"
+},
+{
+"id": 827,
+"en": "Permanent timer"
+},
+{
+"id": 829,
+"en": "Number of active Boss Cells"
+},
+{
+"id": 834,
+"en": "Disable Legendary Weapons"
+},
+{
+"id": 835,
+"en": "Disable the Minor Forge"
+},
+{
+"id": 840,
+"en": "Disable Paid Items"
+},
+{
+"id": 842,
+"en": "Disable Free Items"
+},
+{
+"id": 844,
+"en": "Disable Modifiers"
+},
+{
+"id": 845,
+"en": "Disable the one-hit protection mechanic"
+},
+{
+"id": 846,
+"en": "Disable Mutations"
+},
+{
+"id": 847,
+"en": "Malaise Modifiers"
+},
+{
+"id": 850,
+"en": "Gameplay Modifiers"
+},
+{
+"id": 853,
+"en": "Keyboard/Mouse"
+},
+{
+"id": 854,
+"en": "Unlimited ammo"
+},
+{
+"id": 855,
+"en": "Starting amount of gold"
+},
+{
+"id": 856,
+"en": "Curse level on cursed chests"
+},
+{
+"id": 857,
+"en": "Enable Malaise"
+},
+{
+"id": 858,
+"en": "Disable Malaise"
+},
+{
+"id": 859,
+"en": "Potions no longer heal infections"
+},
+{
+"id": 861,
+"en": "First starting weapon"
+},
+{
+"id": 862,
+"en": "Second starting weapon"
+},
+{
+"id": 863,
+"en": "First starting skill"
+},
+{
+"id": 864,
+"en": "Second starting skill"
+},
+{
+"id": 871,
+"en": "Enable random outfit"
+},
+{
+"id": 873,
+"en": "Enable random head",
+"ctx": "U35_CUSTOMGAME_RANDOM_HEAD_RUN_NAME"
+},
+{
+"id": 875,
+"en": "Use alternative binding profile"
+},
+{
+"id": 878,
+"en": "Choose"
+},
+{
+"id": 879,
+"en": "Change"
+},
+{
+"id": 881,
+"en": "Presets"
+},
+{
+"id": 883,
+"en": "Activate"
+},
+{
+"id": 884,
+"en": "Save"
+},
+{
+"id": 885,
+"en": "Rename"
+},
+{
+"id": 887,
+"en": "Change item category"
+},
+{
+"id": 888,
+"en": "Change quality"
+},
+{
+"id": 889,
+"en": "Remove all"
+},
+{
+"id": 890,
+"en": "Remove"
+},
+{
+"id": 891,
+"en": "Default"
+},
+{
+"id": 892,
+"en": "Select/Deselect all"
+},
+{
+"id": 893,
+"en": "Available"
+},
+{
+"id": 894,
+"en": "Unavailable"
+},
+{
+"id": 895,
+"en": "Pause"
+},
+{
+"id": 896,
+"en": "Continue current game"
+},
+{
+"id": 897,
+"en": "Back to menu"
+},
+{
+"id": 907,
+"en": "Try sending again"
+},
+{
+"id": 908,
+"en": "Restart"
+},
+{
+"id": 909,
+"en": "Main menu"
+},
+{
+"id": 918,
+"en": "LEGENDARY FORGE"
+},
+{
+"id": 921,
+"en": "LOCKED (previous gauge incomplete)"
+},
+{
+"id": 924,
+"en": "MINOR FORGE"
+},
+{
+"id": 929,
+"en": "INFO",
+"ctx": "INFORMATIONS"
+},
+{
+"id": 931,
+"en": "None"
+},
+{
+"id": 932,
+"en": "Blueprints"
+},
+{
+"id": 946,
+"en": "Scroll"
+},
+{
+"id": 953,
+"en": "Legendary Weapon"
+},
+{
+"id": 954,
+"en": "Legendary Item"
+},
+{
+"id": 955,
+"en": "Legendary Amulet"
+},
+{
+"id": 961,
+"en": "No uses"
+},
+{
+"id": 970,
+"en": "DAILY CHALLENGE RANKING"
+},
+{
+"id": 983,
+"en": "Buy"
+},
+{
+"id": 984,
+"en": "Take"
+},
+{
+"id": 993,
+"en": "Install/Uninstall a mod"
+},
+{
+"id": 994,
+"en": "Quit"
+},
+{
+"id": 995,
+"en": "Start a new game"
+},
+{
+"id": 996,
+"en": "Wireless controller",
+"ctx": "PS4 terminology"
+},
+{
+"id": 998,
+"en": "Controller"
+},
+{
+"id": 999,
+"en": "SETTINGS",
+"ctx": "OPTIONS"
+},
+{
+"id": 1000,
+"en": "Gameplay"
+},
+{
+"id": 1001,
+"en": "Video"
+},
+{
+"id": 1002,
+"en": "Accessibility settings",
+"ctx": "U29_ACCESSIBILITY_NAME"
+},
+{
+"id": 1003,
+"en": "Sound"
+},
+{
+"id": 1004,
+"en": "Language"
+},
+{
+"id": 1005,
+"en": "Diet"
+},
+{
+"id": 1006,
+"en": "Streaming integration"
+},
+{
+"id": 1007,
+"en": "Credits"
+},
+{
+"id": 1008,
+"en": "Public Event"
+},
+{
+"id": 1009,
+"en": "Default settings"
+},
+{
+"id": 1011,
+"en": "Secondary interaction",
+"ctx": "U29_LONG_ACTIVATE_BIND"
+},
+{
+"id": 1012,
+"en": "Customize secondary interaction behavior",
+"ctx": "U29_LONG_ACTIVATE_BIND_DESC"
+},
+{
+"id": 1013,
+"en": "Long press (default)",
+"ctx": "U29_LONG_ACTIVATE_BIND_DEFAULT"
+},
+{
+"id": 1014,
+"en": "Custom",
+"ctx": "U29_LONG_ACTIVATE_BIND_CUSTOM_BIND"
+},
+{
+"id": 1015,
+"en": "Dive attack",
+"ctx": "U29_DIVE_ATTACK_BIND"
+},
+{
+"id": 1016,
+"en": "Customize Dive attack input behavior",
+"ctx": "U29_DIVE_ATTACK_BIND_DESC"
+},
+{
+"id": 1017,
+"en": "Jump + Down (default)",
+"ctx": "U29_DIVE_ATTACK_BIND_DEFAULT"
+},
+{
+"id": 1018,
+"en": "Hold Down while airborne",
+"ctx": "U29_DIVE_ATTACK_BIND_HOLD_DOWN"
+},
+{
+"id": 1019,
+"en": "Double tap Down while airborne",
+"ctx": "U29_DIVE_ATTACK_BIND_DOUBLE_TAP"
+},
+{
+"id": 1021,
+"en": "Jump down",
+"ctx": "U35_JUMP_DOWN_BIND"
+},
+{
+"id": 1022,
+"en": "Customize jump down input behavior",
+"ctx": "U35_JUMP_DOWN_BIND_DESC"
+},
+{
+"id": 1024,
+"en": "Hold Down",
+"ctx": "U35_JUMP_DOWN_BIND_HOLD_DOWN"
+},
+{
+"id": 1025,
+"en": "Double tap Down",
+"ctx": "U35_JUMP_DOWN_BIND_DOUBLE_TAP"
+},
+{
+"id": 1027,
+"en": "Rebind controller buttons",
+"ctx": "PS5 terminology"
+},
+{
+"id": 1033,
+"en": "Additional settings",
+"ctx": "U29_GAMEPAD_SEPARATOR_MORE"
+},
+{
+"id": 1034,
+"en": "Vibration feature",
+"ctx": "Switch terminology"
+},
+{
+"id": 1035,
+"en": "Vibration",
+"ctx": "PS4 terminology"
+},
+{
+"id": 1037,
+"en": "Left Stick function",
+"ctx": "PS4 terminology"
+},
+{
+"id": 1041,
+"en": "Movement (default)",
+"ctx": "U29_LSTICK_MOVEMENT"
+},
+{
+"id": 1042,
+"en": "Camera movement",
+"ctx": "U29_LSTICK_CAMERA"
+},
+{
+"id": 1043,
+"en": "Bound input (to rebind)",
+"ctx": "U29_LSTICK_BINDABLE"
+},
+{
+"id": 1044,
+"en": "Right Stick function",
+"ctx": "PS4 terminology"
+},
+{
+"id": 1048,
+"en": "Movement",
+"ctx": "U29_RSTICK_MOVEMENT"
+},
+{
+"id": 1049,
+"en": "Camera movement (default)",
+"ctx": "U29_RSTICK_CAMERA"
+},
+{
+"id": 1051,
+"en": "Directional buttons function",
+"ctx": "Switch terminology"
+},
+{
+"id": 1053,
+"en": "D-Pad function",
+"ctx": "XBox terminology"
+},
+{
+"id": 1060,
+"en": "Jump"
+},
+{
+"id": 1063,
+"en": "Roll"
+},
+{
+"id": 1064,
+"en": "Primary weapon"
+},
+{
+"id": 1065,
+"en": "Secondary weapon"
+},
+{
+"id": 1066,
+"en": "Left skill"
+},
+{
+"id": 1067,
+"en": "Right skill"
+},
+{
+"id": 1068,
+"en": "Heal"
+},
+{
+"id": 1069,
+"en": "Use"
+},
+{
+"id": 1071,
+"en": "Leave/get back in body"
+},
+{
+"id": 1072,
+"en": "View map"
+},
+{
+"id": 1077,
+"en": "Trigger dead zone",
+"ctx": "U35_TRIGGER_DEADZONE"
+},
+{
+"id": 1078,
+"en": "KEYBOARD/MOUSE"
+},
+{
+"id": 1079,
+"en": "Rebind keyboard bindings",
+"ctx": "U29_REBIND_KEYBOARD"
+},
+{
+"id": 1082,
+"en": "Mouse cursor lock"
+},
+{
+"id": 1084,
+"en": "Up (camera)"
+},
+{
+"id": 1085,
+"en": "Left (camera)"
+},
+{
+"id": 1086,
+"en": "Down (camera)"
+},
+{
+"id": 1087,
+"en": "Right (camera)"
+},
+{
+"id": 1088,
+"en": "Map: Focus"
+}
+]

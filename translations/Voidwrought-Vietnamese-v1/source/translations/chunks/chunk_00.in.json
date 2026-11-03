@@ -1,0 +1,722 @@
+[
+ {
+  "id": 0,
+  "ctx": "term app_name",
+  "en": "Voidwrought"
+ },
+ {
+  "id": 1,
+  "ctx": "term app_language",
+  "en": "English"
+ },
+ {
+  "id": 2,
+  "ctx": "term pangram",
+  "en": "The quick brown fox jumps over the lazy dog."
+ },
+ {
+  "id": 3,
+  "ctx": "term Data/demo_prompt_charge2 (+1 more)",
+  "en": "Charge Attack"
+ },
+ {
+  "id": 4,
+  "ctx": "term Data/demo_prompt_grapple (+1 more)",
+  "en": "Tendril"
+ },
+ {
+  "id": 5,
+  "ctx": "term Data/simulacrum_generic_use",
+  "en": "to use."
+ },
+ {
+  "id": 6,
+  "ctx": "term Data/simulacrum_generic_hold (+3 more)",
+  "en": "Hold"
+ },
+ {
+  "id": 7,
+  "ctx": "term Data/simulacrum_generic_press (+1 more)",
+  "en": "Press"
+ },
+ {
+  "id": 8,
+  "ctx": "term Data/basic_move (+1 more)",
+  "en": "Move"
+ },
+ {
+  "id": 9,
+  "ctx": "term Data/basic_move_left",
+  "en": "Move Left"
+ },
+ {
+  "id": 10,
+  "ctx": "term Data/basic_move_right",
+  "en": "Move Right"
+ },
+ {
+  "id": 11,
+  "ctx": "term Data/basic_look_up",
+  "en": "Look Up"
+ },
+ {
+  "id": 12,
+  "ctx": "term Data/basic_look_down",
+  "en": "Look Down"
+ },
+ {
+  "id": 13,
+  "ctx": "term Data/basic_jump (+1 more)",
+  "en": "Jump"
+ },
+ {
+  "id": 14,
+  "ctx": "term Data/basic_heal",
+  "en": "Use Healing Salt"
+ },
+ {
+  "id": 15,
+  "ctx": "term Data/basic_leftrelic",
+  "en": "Use Relic (Left)"
+ },
+ {
+  "id": 16,
+  "ctx": "term Data/basic_rightrelic",
+  "en": "Use Relic (Right)"
+ },
+ {
+  "id": 17,
+  "ctx": "term Data/simulacrum_basicattack",
+  "en": "Claws"
+ },
+ {
+  "id": 18,
+  "ctx": "term Data/simulacrum_basicattack_desc",
+  "en": "Tear through matter with violent efficiency."
+ },
+ {
+  "id": 19,
+  "ctx": "term Data/simulacrum_dash (+2 more)",
+  "en": "Twitch Fibers"
+ },
+ {
+  "id": 20,
+  "ctx": "term Data/simulacrum_dash_desc",
+  "en": "Dash forward, traversing gaps and evading danger."
+ },
+ {
+  "id": 21,
+  "ctx": "term Data/simulacrum_doublejump (+2 more)",
+  "en": "Hollow Cartilage"
+ },
+ {
+  "id": 22,
+  "ctx": "term Data/simulacrum_doublejump_desc",
+  "en": "Perform a second Jump while airborne."
+ },
+ {
+  "id": 23,
+  "ctx": "term Data/simulacrum_slide (+2 more)",
+  "en": "Adaptation"
+ },
+ {
+  "id": 24,
+  "ctx": "term Data/simulacrum_slide_desc",
+  "en": "Slide through small openings and reach otherwise inaccessible areas."
+ },
+ {
+  "id": 25,
+  "ctx": "term Data/simulacrum_walljump (+2 more)",
+  "en": "Spurs"
+ },
+ {
+  "id": 26,
+  "ctx": "term Data/simulacrum_walljump_desc (+1 more)",
+  "en": "Scale and cling to walls to navigate steep surfaces."
+ },
+ {
+  "id": 27,
+  "ctx": "term Data/simulacrum_ledgegrab (+2 more)",
+  "en": "Improved Ligaments"
+ },
+ {
+  "id": 28,
+  "ctx": "term Data/simulacrum_ledgegrab_desc (+1 more)",
+  "en": "Grab hold of ledges to reach higher ground."
+ },
+ {
+  "id": 29,
+  "ctx": "term Data/simulacrum_tendril (+2 more)",
+  "en": "Entozoon Sac"
+ },
+ {
+  "id": 30,
+  "ctx": "term Data/simulacrum_tendril_desc",
+  "en": "Latch on to nearby Hooks, breaching chasms and avoiding obstacles."
+ },
+ {
+  "id": 31,
+  "ctx": "term Data/simulacrum_tendril_use",
+  "en": "Attach (mid-air)"
+ },
+ {
+  "id": 32,
+  "ctx": "term Data/simulacrum_voidstep (+2 more)",
+  "en": "Phased Flesh"
+ },
+ {
+  "id": 33,
+  "ctx": "term Data/simulacrum_voidstep_desc",
+  "en": "Become immaterial and travel towards Void Breaches, phasing through solid matter."
+ },
+ {
+  "id": 34,
+  "ctx": "term Data/simulacrum_voidstep_use",
+  "en": "(Hold and release) Void Step"
+ },
+ {
+  "id": 35,
+  "ctx": "term Data/simulacrum_slither (+2 more)",
+  "en": "Unstable Nuclei"
+ },
+ {
+  "id": 36,
+  "ctx": "term Data/simulacrum_slither_desc",
+  "en": "Become amorphous, capable of clinging to surfaces and slithering through narrow tunnels."
+ },
+ {
+  "id": 37,
+  "ctx": "term Data/simulacrum_possession (+2 more)",
+  "en": "Augmented Cortex"
+ },
+ {
+  "id": 38,
+  "ctx": "term Data/simulacrum_possession_desc",
+  "en": "Possess and manipulate ancient technology."
+ },
+ {
+  "id": 39,
+  "ctx": "term Data/simulacrum_possession_use",
+  "en": "When near ancient technology."
+ },
+ {
+  "id": 40,
+  "ctx": "term Data/simulacrum_chargecore (+2 more)",
+  "en": "Awakened Arm"
+ },
+ {
+  "id": 41,
+  "ctx": "term Data/simulacrum_chargecore_desc",
+  "en": "Channel a powerful Charged Attack that will destroy or manipulate objects infused with Voidal energy."
+ },
+ {
+  "id": 42,
+  "ctx": "term Data/simulacrum_chargecore_use",
+  "en": "(Hold and release) Attack"
+ },
+ {
+  "id": 43,
+  "ctx": "term Data/simulacrum_healing (+2 more)",
+  "en": "Healing Salt"
+ },
+ {
+  "id": 44,
+  "ctx": "term Data/simulacrum_healing_desc",
+  "en": "Restore Health by absorbing refined, crystallized vitae. Empty Salt Receptacles are replenished in Chambers of Reflection."
+ },
+ {
+  "id": 45,
+  "ctx": "term Data/relic_attractor",
+  "en": "The Covetous"
+ },
+ {
+  "id": 46,
+  "ctx": "term Data/relic_attractor_desc",
+  "en": "Dropped items will be drawn to the bearer from further away."
+ },
+ {
+  "id": 47,
+  "ctx": "term Data/relic_dynamo",
+  "en": "The Unmade"
+ },
+ {
+  "id": 48,
+  "ctx": "term Data/relic_dynamo_desc",
+  "en": "Void Charges slowly replenish over time."
+ },
+ {
+  "id": 49,
+  "ctx": "term Data/relic_familiar",
+  "en": "The Servant"
+ },
+ {
+  "id": 50,
+  "ctx": "term Data/relic_familiar_desc",
+  "en": "A strange being follows you, occasionally firing projectiles."
+ },
+ {
+  "id": 51,
+  "ctx": "term Data/relic_addmaxhp",
+  "en": "The Slave"
+ },
+ {
+  "id": 52,
+  "ctx": "term Data/relic_addmaxhp_desc",
+  "en": "Provides additional Health."
+ },
+ {
+  "id": 53,
+  "ctx": "term Data/relic_awareness (+1 more)",
+  "en": "The Explorer"
+ },
+ {
+  "id": 54,
+  "ctx": "term Data/relic_awareness_desc",
+  "en": "What lies hidden becomes easier to find."
+ },
+ {
+  "id": 55,
+  "ctx": "term Data/relic_chargecorehpspawner",
+  "en": "The Glutton"
+ },
+ {
+  "id": 56,
+  "ctx": "term Data/relic_chargecorehpspawner_desc",
+  "en": "Enemies killed by Charge Attacks may drop fragments of Healing Salt."
+ },
+ {
+  "id": 57,
+  "ctx": "term Data/relic_corrosionimnunity",
+  "en": "The Impure"
+ },
+ {
+  "id": 58,
+  "ctx": "term Data/relic_corrosionimnunity_desc",
+  "en": "Grants immunity to toxic Salt processing vats."
+ },
+ {
+  "id": 59,
+  "ctx": "term Data/relic_healingboost",
+  "en": "The Mother"
+ },
+ {
+  "id": 60,
+  "ctx": "term Data/relic_healingboost_desc",
+  "en": "Increases Health regained by Healing Salt."
+ },
+ {
+  "id": 61,
+  "ctx": "term Data/relic_saltspeed (+1 more)",
+  "en": "The Alchemist"
+ },
+ {
+  "id": 62,
+  "ctx": "term Data/relic_saltspeed_desc",
+  "en": "Reduces the channeling time of Healing Salt."
+ },
+ {
+  "id": 63,
+  "ctx": "term Data/relic_heavylanding",
+  "en": "The Chained"
+ },
+ {
+  "id": 64,
+  "ctx": "term Data/relic_heavylanding_desc",
+  "en": "Heavy landings act as deadly attacks."
+ },
+ {
+  "id": 65,
+  "ctx": "term Data/relic_lootboost",
+  "en": "The Treasurer"
+ },
+ {
+  "id": 66,
+  "ctx": "term Data/relic_lootboost_desc",
+  "en": "Increases the amount of treasures dropped by enemies upon death."
+ },
+ {
+  "id": 67,
+  "ctx": "term Data/relic_lowhpdmgboost",
+  "en": "The Unsealed"
+ },
+ {
+  "id": 68,
+  "ctx": "term Data/relic_lowhpdmgboost_desc",
+  "en": "Damage dealt is greatly increased when at low Health."
+ },
+ {
+  "id": 69,
+  "ctx": "term Data/relic_maxhpprojectile",
+  "en": "The Star"
+ },
+ {
+  "id": 70,
+  "ctx": "term Data/relic_maxhpprojectile_desc",
+  "en": "Attacks release frontal projectiles while at full Health."
+ },
+ {
+  "id": 71,
+  "ctx": "term Data/relic_minichargeonhit",
+  "en": "The Artificer"
+ },
+ {
+  "id": 72,
+  "ctx": "term Data/relic_minichargeonhit_desc",
+  "en": "Damage dealt by Relics now also refills Void Charges."
+ },
+ {
+  "id": 73,
+  "ctx": "term Data/relic_mysteriousrelic (+1 more)",
+  "en": "The Lost"
+ },
+ {
+  "id": 74,
+  "ctx": "term Data/relic_mysteriousrelic_desc",
+  "en": "Identity unknown, the Soul appears to absorb Ichor while summoned."
+ },
+ {
+  "id": 75,
+  "ctx": "term Data/relic_minichargecostreduction",
+  "en": "The Channeler"
+ },
+ {
+  "id": 76,
+  "ctx": "term Data/relic_minichargecostreduction_desc",
+  "en": "Reduces the amount of hits needed to refill a Void Charge."
+ },
+ {
+  "id": 77,
+  "ctx": "term Data/relic_reduceplayerknockback",
+  "en": "The Sentinel"
+ },
+ {
+  "id": 78,
+  "ctx": "term Data/relic_reduceplayerknockback_desc",
+  "en": "Reduces knockback received from enemy attacks."
+ },
+ {
+  "id": 79,
+  "ctx": "term Data/relic_timepiece (+2 more)",
+  "en": "The Astronomer"
+ },
+ {
+  "id": 80,
+  "ctx": "term Data/relic_timepiece_desc",
+  "en": "Reduces the cooldown of all Relics."
+ },
+ {
+  "id": 81,
+  "ctx": "term Data/relic_familiar2",
+  "en": "The Attendant"
+ },
+ {
+  "id": 82,
+  "ctx": "term Data/relic_familiar2_desc",
+  "en": "A specter haunts you, occasionally releasing Healing Salt when at low Health."
+ },
+ {
+  "id": 83,
+  "ctx": "term Data/relic_familiar3",
+  "en": "The Forgotten Warrior"
+ },
+ {
+  "id": 84,
+  "ctx": "term Data/relic_familiar3_desc",
+  "en": "A specter haunts you, mimicking your movement and regular attacks."
+ },
+ {
+  "id": 85,
+  "ctx": "term Data/relic_familiar4",
+  "en": "The Living Blade"
+ },
+ {
+  "id": 86,
+  "ctx": "term Data/relic_familiar4_desc",
+  "en": "A specter haunts you, occasionally swinging at enemies."
+ },
+ {
+  "id": 87,
+  "ctx": "term Data/relic_familiar5",
+  "en": "The Legion"
+ },
+ {
+  "id": 88,
+  "ctx": "term Data/relic_familiar5_desc",
+  "en": "A swarm of corpse lights swirl around you, throwing themselves at nearby enemies."
+ },
+ {
+  "id": 89,
+  "ctx": "term Data/relic_familiar6",
+  "en": "The Bulbous"
+ },
+ {
+  "id": 90,
+  "ctx": "term Data/relic_familiar6_desc",
+  "en": "A specter haunts you, dropping globs that explode when enemies draw near."
+ },
+ {
+  "id": 91,
+  "ctx": "term Data/relic_stinker",
+  "en": "The Fetid"
+ },
+ {
+  "id": 92,
+  "ctx": "term Data/relic_stinker_desc",
+  "en": "Creates a trailing cloud of poison."
+ },
+ {
+  "id": 93,
+  "ctx": "term Data/relic_corpseexplosion",
+  "en": "The Interloper"
+ },
+ {
+  "id": 94,
+  "ctx": "term Data/relic_corpseexplosion_desc",
+  "en": "The corpses of defeated enemies explode."
+ },
+ {
+  "id": 95,
+  "ctx": "term Data/relic_icebrand",
+  "en": "The Frozen"
+ },
+ {
+  "id": 96,
+  "ctx": "term Data/relic_icebrand_desc",
+  "en": "Regular attacks freeze enemies."
+ },
+ {
+  "id": 97,
+  "ctx": "term Data/relic_flamebrand",
+  "en": "The Scorched"
+ },
+ {
+  "id": 98,
+  "ctx": "term Data/relic_flamebrand_desc",
+  "en": "Regular attacks light enemies on fire."
+ },
+ {
+  "id": 99,
+  "ctx": "term Data/relic_poisonbrand",
+  "en": "The Hierophant"
+ },
+ {
+  "id": 100,
+  "ctx": "term Data/relic_poisonbrand_desc",
+  "en": "Regular attacks weaken enemies, causing them to suffer increased damage."
+ },
+ {
+  "id": 101,
+  "ctx": "term Data/relic_dashinvul",
+  "en": "The Assassin"
+ },
+ {
+  "id": 102,
+  "ctx": "term Data/relic_dashinvul_desc",
+  "en": "You become invulnerable to enemy attacks while Dashing."
+ },
+ {
+  "id": 103,
+  "ctx": "term Data/relic_ultimatesoul",
+  "en": "The Shattered"
+ },
+ {
+  "id": 104,
+  "ctx": "term Data/relic_ultimatesoul_desc",
+  "en": "A shattered Soul that, when all three pieces are summoned, provides endless Void Charges."
+ },
+ {
+  "id": 105,
+  "ctx": "term Data/relic_wip",
+  "en": "WIP RELIC"
+ },
+ {
+  "id": 106,
+  "ctx": "term Data/relic_wip_desc (+1 more)",
+  "en": "This Relic is either considered WIP or present for other testing purposes. If taken further it will be granted its own title and description."
+ },
+ {
+  "id": 107,
+  "ctx": "term Data/relic_hook",
+  "en": "Warp-Hook"
+ },
+ {
+  "id": 108,
+  "ctx": "term Data/relic_hook_desc",
+  "en": "Manifests a Hook that can be targeted by the Tendril Simulacrum."
+ },
+ {
+  "id": 109,
+  "ctx": "term Data/relic_hook_lore",
+  "en": "Once humble tools, some wonders remain, having been exposed to the Void when the first Gate was torn open."
+ },
+ {
+  "id": 110,
+  "ctx": "term Data/relic_clone",
+  "en": "The Unformed"
+ },
+ {
+  "id": 111,
+  "ctx": "term Data/relic_clone_desc",
+  "en": "Forms a stationary copy of the wielder, mimicking regular attacks."
+ },
+ {
+  "id": 112,
+  "ctx": "term Data/relic_clone_lore",
+  "en": "Not all beings were meant to walk this world. Some merely grovel at the feet of others, desperately reaching for the unattainable."
+ },
+ {
+  "id": 113,
+  "ctx": "term Data/relic_leech",
+  "en": "Wrappings of Namun"
+ },
+ {
+  "id": 114,
+  "ctx": "term Data/relic_leech_desc",
+  "en": "Releases an entity that, over time, extracts Salt shards from defeated enemies."
+ },
+ {
+  "id": 115,
+  "ctx": "term Data/relic_leech_lore",
+  "en": "What was dragged from the bottom of the great Salt vats caused most to pull back in terror. Yet the alchemists, versed in the art of fermentation, recognized the malformed child as the seed of possibility."
+ },
+ {
+  "id": 116,
+  "ctx": "term Data/relic_frenzy",
+  "en": "Claws of Rahtek"
+ },
+ {
+  "id": 117,
+  "ctx": "term Data/relic_frenzy_desc",
+  "en": "Empowers regular attacks to temporarily deal more damage."
+ },
+ {
+  "id": 118,
+  "ctx": "term Data/relic_frenzy_lore",
+  "en": "These ancient weapons remain attuned to the violent currents of the Void, its ethereal vapors still lingering within the metal."
+ },
+ {
+  "id": 119,
+  "ctx": "term Data/relic_incense",
+  "en": "Censer of Ta-Hun"
+ },
+ {
+  "id": 120,
+  "ctx": "term Data/relic_incense_desc",
+  "en": "Places a censer that causes foes who pass through its vapors to suffer increased damage."
+ },
+ {
+  "id": 121,
+  "ctx": "term Data/relic_incense_lore",
+  "en": "Whoever the Grand Hierophant of the Gray Pyramid once was, their remains burn eternally."
+ },
+ {
+  "id": 122,
+  "ctx": "term Data/relic_axe",
+  "en": "Spectral Axe"
+ },
+ {
+  "id": 123,
+  "ctx": "term Data/relic_axe_desc",
+  "en": "Summons an axe to perform a series of frontal attacks."
+ },
+ {
+  "id": 124,
+  "ctx": "term Data/relic_axe_lore (+2 more)",
+  "en": "Many are the warriors whose names have long been forgotten. And yet, memories of their deeds linger, carved on walls of dead stone."
+ },
+ {
+  "id": 125,
+  "ctx": "term Data/relic_aether_filter",
+  "en": "The Godseye"
+ },
+ {
+  "id": 126,
+  "ctx": "term Data/relic_aether_filter_desc",
+  "en": "Creates a slow-moving orb from which vertical beams of Light erupt."
+ },
+ {
+  "id": 127,
+  "ctx": "term Data/relic_aether_filter_lore",
+  "en": "Another of the artificers' splendid achievements was gifted to the Council of Elders—luminous gems, soaked in a sliver of volatile Light of the Red Star in order to absorb a fraction of Its energy."
+ },
+ {
+  "id": 128,
+  "ctx": "term Data/relic_chakram",
+  "en": "Spectral Chakram"
+ },
+ {
+  "id": 129,
+  "ctx": "term Data/relic_chakram_desc",
+  "en": "Summons an arcing vorpal blade."
+ },
+ {
+  "id": 130,
+  "ctx": "term Data/relic_spear",
+  "en": "Living Talon"
+ },
+ {
+  "id": 131,
+  "ctx": "term Data/relic_spear_desc",
+  "en": "Manifests a burst of spears that travel horizontally from the wielder."
+ },
+ {
+  "id": 132,
+  "ctx": "term Data/relic_spear_lore",
+  "en": "Few recall life on the archipelago before the fall. Yet within the thawing ice, new wonders lie waiting to be discovered; the very building blocks of life have somehow managed to endure."
+ },
+ {
+  "id": 133,
+  "ctx": "term Data/relic_ray",
+  "en": "Crystalline Lens"
+ },
+ {
+  "id": 134,
+  "ctx": "term Data/relic_ray_desc",
+  "en": "Focuses a destructive horizontal beam that lights enemies on fire."
+ },
+ {
+  "id": 135,
+  "ctx": "term Data/relic_ray_lore",
+  "en": "A peculiar piece of craftsmanship held together by metallic membranes and crystalwork, the device appears to be manipulating strange spectrums of light."
+ },
+ {
+  "id": 136,
+  "ctx": "term Data/relic_inverted_singularity",
+  "en": "The Black Sphere"
+ },
+ {
+  "id": 137,
+  "ctx": "term Data/relic_inverted_singularity_desc",
+  "en": "Damages enemies around it as it shatters."
+ },
+ {
+  "id": 138,
+  "ctx": "term Data/relic_inverted_singularity_lore",
+  "en": "One of the Sisters' first artificed wonders of the Void. Remaining in a state of permanent flux, it occasionally shatters, exposing creatures around it to Voidal energy."
+ },
+ {
+  "id": 139,
+  "ctx": "term Data/relic_proximity_membrane",
+  "en": "Idol of So-Venat"
+ },
+ {
+  "id": 140,
+  "ctx": "term Data/relic_proximity_membrane_desc",
+  "en": "Manifests a circle that expands in stages, damaging anything that it touches."
+ },
+ {
+  "id": 141,
+  "ctx": "term Data/relic_proximity_membrane_lore",
+  "en": "When they asked the child to depict what he saw beyond the Gate, few could have imagined the unnatural forms wrought by his hand, and fewer still were those who understood their implications."
+ },
+ {
+  "id": 142,
+  "ctx": "term Data/relic_projection",
+  "en": "Jazier the Pompous"
+ },
+ {
+  "id": 143,
+  "ctx": "term Data/relic_projection_desc",
+  "en": "Manifests an orb of Light that deals damage as it slowly travels forward. If struck at spawn, damage will be increased."
+ }
+]

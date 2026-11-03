@@ -1,0 +1,817 @@
+[
+ {
+  "id": 520,
+  "ctx": "term Data/journal_entry_15",
+  "en": "Initial observation:\nIt appeared following the successful opening of the first Gate, as the child was brought up the steps.\n\nProperties:\nEthereal webbing, mucus-like to the touch, yet doesn't easily give way. Shares certain aspects with the blood of the gods.\n\nSecondhand account:\nA yet-uncategorized sample of fauna is claimed to have been spotted within our halls. We have sealed the lower shaft. Such a presence must be investigated.\n\nPersonal account:\nUnbelievable. It is as I theorized. The glowing mycelium flows with the vibrations of the Void. Even as it writhes before my eyes, it is difficult to reconcile the Ichor as a separate form of life."
+ },
+ {
+  "id": 521,
+  "ctx": "term Data/journal_entry_16_title",
+  "en": "The Mechanism"
+ },
+ {
+  "id": 522,
+  "ctx": "term Data/journal_entry_16",
+  "en": "Only I remain. The stone sunders every tool. To think we ventured this far into the passageways, only to meet our end in ignorance.\n\nThe mechanism reaches through the stone. Its design is unlike any I've seen. I can only imagine it to be the work of an artificer of old.\n\nWhat a waste."
+ },
+ {
+  "id": 523,
+  "ctx": "term Data/journal_entry_17_title",
+  "en": "Dear Child"
+ },
+ {
+  "id": 524,
+  "ctx": "term Data/journal_entry_17",
+  "en": "My fragile light. I spit on the divines that saw fit to shape you so. I curse your fate. \n\nMay you rest within the crimson depths. May you find me again through the Salt."
+ },
+ {
+  "id": 525,
+  "ctx": "term Data/journal_entry_18_title",
+  "en": "I saw it"
+ },
+ {
+  "id": 526,
+  "ctx": "term Data/journal_entry_18",
+  "en": "Mother says not to speak lies, but I saw it.\n\nIt was looking at the murals. It didn't look like Mom or Dad. It looked like one of the old statues. Its skin shimmered in green. It was pretty.\n\nI hid. I touched it, and my hand turned cold. It hasn't come back again. I don't think it liked me.\n\nMy fingers feel strange now. Slimy. They don't look like mine anymore."
+ },
+ {
+  "id": 527,
+  "ctx": "term Data/journal_entry_19_title",
+  "en": "The monoliths"
+ },
+ {
+  "id": 528,
+  "ctx": "term Data/journal_entry_19",
+  "en": "The accursed ice is unending. We climbed further this time, yet could still not reach beyond its domain. Some did not return. They became one with the ice, circling one of the primeval monoliths.\n\nA death rite was performed in haste, as such a place does not abide the living for long. As I prepared to descend, something beckoned me to turn back towards the stone. Through the white haze, I could swear I felt their frozen eyes meet mine."
+ },
+ {
+  "id": 529,
+  "ctx": "term Data/journal_entry_20_title",
+  "en": "It crawled"
+ },
+ {
+  "id": 530,
+  "ctx": "term Data/journal_entry_20",
+  "en": "I dare not leave my home, for there is a change in the air. One of the gods no longer appears to the people, and the City's fonts have begun to run dry. At least that's what they say. \n\nAt night, I gaze above, greeted by shimmering colors dancing across the darkness. The stars themselves appear in motion. What does it all mean?\n\nToday I retched, hurling divine Ichor onto the floor. It sizzled on the stone. Before I could regain my wits, I was struck frozen by equal surprise and terror. The shimmering mass began to crawl."
+ },
+ {
+  "id": 531,
+  "ctx": "term Data/COMPENDIUM JOURNAL ENTRIES - LORE STONES",
+  "en": "These should contain the same text (condensed into one long paragraph) as the Lore Stones on the Dialogue page (600-717)"
+ },
+ {
+  "id": 532,
+  "ctx": "term Data/region_crt (+1 more)",
+  "en": "The Court"
+ },
+ {
+  "id": 533,
+  "ctx": "term Data/region_aba (+1 more)",
+  "en": "The Abandoned Expedition"
+ },
+ {
+  "id": 534,
+  "ctx": "term Data/region_shrine (+1 more)",
+  "en": "The Shrine"
+ },
+ {
+  "id": 535,
+  "ctx": "term Data/region_com_west (+1 more)",
+  "en": "The Commons"
+ },
+ {
+  "id": 536,
+  "ctx": "term Data/region_baz (+1 more)",
+  "en": "The Grand Bazaar"
+ },
+ {
+  "id": 537,
+  "ctx": "term Data/region_sur",
+  "en": "The Surface"
+ },
+ {
+  "id": 538,
+  "ctx": "term Data/region_gardens",
+  "en": "The Lost Gardens"
+ },
+ {
+  "id": 539,
+  "ctx": "term Data/region_obs (+1 more)",
+  "en": "The Obsidian Observatory"
+ },
+ {
+  "id": 540,
+  "ctx": "term Data/region_old",
+  "en": "The Old Waters"
+ },
+ {
+  "id": 541,
+  "ctx": "term Data/region_rep (+1 more)",
+  "en": "The Repository of the Unknown"
+ },
+ {
+  "id": 542,
+  "ctx": "term Data/region_mir (+1 more)",
+  "en": "The Mirrorways"
+ },
+ {
+  "id": 543,
+  "ctx": "term Data/region_voi (+6 more)",
+  "en": "The Void"
+ },
+ {
+  "id": 544,
+  "ctx": "term Data/teleport_target_com365",
+  "en": "The Descent"
+ },
+ {
+  "id": 545,
+  "ctx": "term Data/teleport_target_com345",
+  "en": "The Deep Bazaar"
+ },
+ {
+  "id": 546,
+  "ctx": "term Data/teleport_target_com364",
+  "en": "The Commoner's Rise"
+ },
+ {
+  "id": 547,
+  "ctx": "term Data/teleport_target_crt490",
+  "en": "The Antechamber"
+ },
+ {
+  "id": 548,
+  "ctx": "term Data/teleport_target_crt492",
+  "en": "The Derelict Study"
+ },
+ {
+  "id": 549,
+  "ctx": "term Data/teleport_target_tow281",
+  "en": "The Central Gardens"
+ },
+ {
+  "id": 550,
+  "ctx": "term Data/teleport_target_tow282",
+  "en": "The Fermentation Vats"
+ },
+ {
+  "id": 551,
+  "ctx": "term Data/teleport_target_tow283",
+  "en": "The Waterways"
+ },
+ {
+  "id": 552,
+  "ctx": "term Data/teleport_target_test1",
+  "en": "Test Teleporter 1"
+ },
+ {
+  "id": 553,
+  "ctx": "term Data/teleport_target_test2",
+  "en": "Test Teleporter 2"
+ },
+ {
+  "id": 555,
+  "ctx": "term UI/generic_yes (+1 more)",
+  "en": "Yes"
+ },
+ {
+  "id": 556,
+  "ctx": "term UI/generic_no (+1 more)",
+  "en": "No"
+ },
+ {
+  "id": 557,
+  "ctx": "term UI/generic_confirm",
+  "en": "Confirm"
+ },
+ {
+  "id": 558,
+  "ctx": "term UI/generic_change (+1 more)",
+  "en": "Change"
+ },
+ {
+  "id": 559,
+  "ctx": "term UI/generic_select",
+  "en": "Select"
+ },
+ {
+  "id": 560,
+  "ctx": "term UI/generic_cancel",
+  "en": "Cancel"
+ },
+ {
+  "id": 561,
+  "ctx": "term UI/generic_back",
+  "en": "Back"
+ },
+ {
+  "id": 562,
+  "ctx": "term UI/generic_exit",
+  "en": "Exit"
+ },
+ {
+  "id": 563,
+  "ctx": "term UI/generic_skip",
+  "en": "Skip"
+ },
+ {
+  "id": 564,
+  "ctx": "term UI/generic_continue (+1 more)",
+  "en": "Continue"
+ },
+ {
+  "id": 565,
+  "ctx": "term UI/generic_discard",
+  "en": "Discard"
+ },
+ {
+  "id": 566,
+  "ctx": "term UI/generic_interact",
+  "en": "Interact"
+ },
+ {
+  "id": 567,
+  "ctx": "term UI/generic_menu",
+  "en": "Menu"
+ },
+ {
+  "id": 568,
+  "ctx": "term UI/generic_systemmenu",
+  "en": "System Menu"
+ },
+ {
+  "id": 569,
+  "ctx": "term UI/generic_start",
+  "en": "Start"
+ },
+ {
+  "id": 570,
+  "ctx": "term UI/generic_warning",
+  "en": "Warning"
+ },
+ {
+  "id": 571,
+  "ctx": "term UI/interact_talk (+1 more)",
+  "en": "Talk"
+ },
+ {
+  "id": 572,
+  "ctx": "term UI/interact_possess (+1 more)",
+  "en": "Possess"
+ },
+ {
+  "id": 573,
+  "ctx": "term UI/interact_touch (+1 more)",
+  "en": "Touch"
+ },
+ {
+  "id": 574,
+  "ctx": "term UI/interact_commune",
+  "en": "Commune"
+ },
+ {
+  "id": 575,
+  "ctx": "term UI/interact_beacon",
+  "en": "Light"
+ },
+ {
+  "id": 576,
+  "ctx": "term UI/interact_teleport (+1 more)",
+  "en": "Translocate"
+ },
+ {
+  "id": 577,
+  "ctx": "term UI/input_up",
+  "en": "Up"
+ },
+ {
+  "id": 578,
+  "ctx": "term UI/input_down",
+  "en": "Down"
+ },
+ {
+  "id": 579,
+  "ctx": "term UI/input_left",
+  "en": "Left"
+ },
+ {
+  "id": 580,
+  "ctx": "term UI/Input_right",
+  "en": "Right"
+ },
+ {
+  "id": 581,
+  "ctx": "term UI/input_category_prev",
+  "en": "Previous Category"
+ },
+ {
+  "id": 582,
+  "ctx": "term UI/input_category_next",
+  "en": "Next Category"
+ },
+ {
+  "id": 583,
+  "ctx": "term UI/input_close_menu",
+  "en": "Close Menu"
+ },
+ {
+  "id": 584,
+  "ctx": "term UI/input_secondary_action",
+  "en": "Contextual Action"
+ },
+ {
+  "id": 585,
+  "ctx": "term UI/endstat_playtime",
+  "en": "Playtime:"
+ },
+ {
+  "id": 586,
+  "ctx": "term UI/endstats_savecount",
+  "en": "Save count:"
+ },
+ {
+  "id": 587,
+  "ctx": "term UI/endstats_healingcount",
+  "en": "Heal count:"
+ },
+ {
+  "id": 588,
+  "ctx": "term UI/endstats_teleportcount",
+  "en": "Translocation count:"
+ },
+ {
+  "id": 589,
+  "ctx": "term UI/endstats_deathcount",
+  "en": "Death count:"
+ },
+ {
+  "id": 590,
+  "ctx": "term UI/endstats_monsterkills",
+  "en": "Monsters killed:"
+ },
+ {
+  "id": 591,
+  "ctx": "term UI/endstats_bosskill",
+  "en": "Bosses defeated:"
+ },
+ {
+  "id": 592,
+  "ctx": "term UI/endstats_ichorcollected",
+  "en": "Ichor collected:"
+ },
+ {
+  "id": 593,
+  "ctx": "term UI/endstats_itemscollected",
+  "en": "Items collected:"
+ },
+ {
+  "id": 594,
+  "ctx": "term UI/newgameplus_button",
+  "en": "Begin New Game+"
+ },
+ {
+  "id": 595,
+  "ctx": "term UI/newgameplus_desc",
+  "en": "New Game+ offers a more difficult experience. You will retain your Relics, Souls, and stats, but lose all other progress."
+ },
+ {
+  "id": 596,
+  "ctx": "term UI/newgameplus_title",
+  "en": "New Game+"
+ },
+ {
+  "id": 597,
+  "ctx": "term UI/newgameplus_desc_new",
+  "en": "This will convert the Profile to a New Game+ Profile. You will reset part of your progression and replay the game from the beginning, keeping only Health Upgrades, Damage Upgrades, Relics, Souls, and Void Charges."
+ },
+ {
+  "id": 598,
+  "ctx": "term UI/newgame_title",
+  "en": "Choose your path"
+ },
+ {
+  "id": 599,
+  "ctx": "term UI/newgame_desc",
+  "en": "This choice is permanent for this profile and cannot be undone."
+ },
+ {
+  "id": 600,
+  "ctx": "term UI/newgame_normal_title",
+  "en": "Normal"
+ },
+ {
+  "id": 601,
+  "ctx": "term UI/newgame_normal_desc",
+  "en": "- Play through the game at normal difficulty."
+ },
+ {
+  "id": 602,
+  "ctx": "term UI/newgame_hardcore_title (+1 more)",
+  "en": "Hardcore"
+ },
+ {
+  "id": 603,
+  "ctx": "term UI/newgame_hardcore_desc",
+  "en": "- Death is permanent.\n- The Profile is deleted upon death.\n- This cannot be changed later."
+ },
+ {
+  "id": 604,
+  "ctx": "term UI/newgame_hardcore_died",
+  "en": "Your journey has ended."
+ },
+ {
+  "id": 605,
+  "ctx": "term UI/newgame_revert_button",
+  "en": "Revert"
+ },
+ {
+  "id": 606,
+  "ctx": "term UI/newgame_revert_desc",
+  "en": "By reverting the NG+ Profile you will lose all progress made on the current NG+ path. Your Profile will be reset to the state it was in before entering the most recent NG+ path. This cannot be undone."
+ },
+ {
+  "id": 607,
+  "ctx": "term UI/newgameplus_mutator_1 (+1 more)",
+  "en": "The Reborn"
+ },
+ {
+  "id": 608,
+  "ctx": "term UI/newgameplus_mutator_1_desc",
+  "en": "- Enemy health increased.\n- Enemy damage increased."
+ },
+ {
+  "id": 609,
+  "ctx": "term UI/newgameplus_mutator_2 (+1 more)",
+  "en": "The Harbinger"
+ },
+ {
+  "id": 610,
+  "ctx": "term UI/newgameplus_mutator_2_desc",
+  "en": "- Enemy damage increased. \n- Your regular attack damage is greatly reduced.\n- You have unlimited Void Charges."
+ },
+ {
+  "id": 611,
+  "ctx": "term UI/newgameplus_mutator_3 (+1 more)",
+  "en": "The Undone"
+ },
+ {
+  "id": 612,
+  "ctx": "term UI/newgameplus_mutator_3_desc",
+  "en": "- Enemy damage increased. \n- You permanently lose 1 health bar per death.\n- You cannot regain health outside of dying.\n- Your regular attack damage is increased per death."
+ },
+ {
+  "id": 613,
+  "ctx": "term UI/init_analytics_info",
+  "en": "Voidwrought collects anonymous gameplay data to improve player experience. You can opt out from data collection at any time via Settings."
+ },
+ {
+  "id": 614,
+  "ctx": "term UI/shop_title_excavation",
+  "en": "Excavation"
+ },
+ {
+  "id": 615,
+  "ctx": "term UI/shop_title_merchant",
+  "en": "Shop"
+ },
+ {
+  "id": 616,
+  "ctx": "term UI/systemmenu_resume",
+  "en": "Resume"
+ },
+ {
+  "id": 617,
+  "ctx": "term UI/systemmenu_settings (+2 more)",
+  "en": "Settings"
+ },
+ {
+  "id": 618,
+  "ctx": "term UI/systemmenu_quittomenu",
+  "en": "Quit to Menu"
+ },
+ {
+  "id": 619,
+  "ctx": "term UI/systemmenu_exit",
+  "en": "Exit Game"
+ },
+ {
+  "id": 620,
+  "ctx": "term UI/systemmenu_quittomenu_prompt (+1 more)",
+  "en": "Progress will be saved. Your journey will resume in the last activated Chamber of Reflection."
+ },
+ {
+  "id": 621,
+  "ctx": "term UI/mainmenu_press_any_button",
+  "en": "Press Any Button"
+ },
+ {
+  "id": 622,
+  "ctx": "term UI/mainmenu_newgame (+1 more)",
+  "en": "Awaken"
+ },
+ {
+  "id": 623,
+  "ctx": "term UI/mainmenu_quit",
+  "en": "Quit"
+ },
+ {
+  "id": 624,
+  "ctx": "term UI/mainmenu_selectslot",
+  "en": "Select Profile"
+ },
+ {
+  "id": 625,
+  "ctx": "term UI/mainmenu_emptyslot",
+  "en": "New Journey"
+ },
+ {
+  "id": 626,
+  "ctx": "term UI/mainmenu_credits",
+  "en": "Credits"
+ },
+ {
+  "id": 627,
+  "ctx": "term UI/mainmenu_load",
+  "en": "Load"
+ },
+ {
+  "id": 628,
+  "ctx": "term UI/mainmenu_deleteall",
+  "en": "Delete All"
+ },
+ {
+  "id": 629,
+  "ctx": "term UI/mainmenu_delete",
+  "en": "Delete Profile"
+ },
+ {
+  "id": 630,
+  "ctx": "term UI/mainmenu_delete_popup",
+  "en": "Are you sure you want to delete this Profile?"
+ },
+ {
+  "id": 631,
+  "ctx": "term UI/mainmenu_corrupt_save",
+  "en": "Failed to load game data."
+ },
+ {
+  "id": 632,
+  "ctx": "term UI/mainmenu_select",
+  "en": "Select (Hold)"
+ },
+ {
+  "id": 633,
+  "ctx": "term UI/mainmenu_copy",
+  "en": "Copy Profile"
+ },
+ {
+  "id": 634,
+  "ctx": "term UI/mainmenu_copy_denied",
+  "en": "There are no empty Profile slots available. Please delete a Profile to proceed."
+ },
+ {
+  "id": 635,
+  "ctx": "term UI/demo_sentiment",
+  "en": "Would you recommend the game to a friend?"
+ },
+ {
+  "id": 636,
+  "ctx": "term UI/demo_outro_rate",
+  "en": "Please rate our game. Reviews are 100% anonymous."
+ },
+ {
+  "id": 637,
+  "ctx": "term UI/demo_outro_rate_done",
+  "en": "Thank you!"
+ },
+ {
+  "id": 638,
+  "ctx": "term UI/demo_outro_rate_low",
+  "en": "Low"
+ },
+ {
+  "id": 639,
+  "ctx": "term UI/demo_outro_rate_high",
+  "en": "High"
+ },
+ {
+  "id": 640,
+  "ctx": "term UI/mainmenu_steam_wishlist",
+  "en": "Wishlist on Steam"
+ },
+ {
+  "id": 641,
+  "ctx": "term UI/mainmenu_discord",
+  "en": "Join our Discord"
+ },
+ {
+  "id": 642,
+  "ctx": "term UI/mainmenu_linktree",
+  "en": "Visit Linktr.ee"
+ },
+ {
+  "id": 643,
+  "ctx": "term UI/utility_gamesaved",
+  "en": "Progress Saved"
+ },
+ {
+  "id": 644,
+  "ctx": "term UI/menu_map",
+  "en": "Map"
+ },
+ {
+  "id": 645,
+  "ctx": "term UI/menu_map_player (+1 more)",
+  "en": "You"
+ },
+ {
+  "id": 646,
+  "ctx": "term UI/menu_map_saveroom",
+  "en": "Chamber of Reflection"
+ },
+ {
+  "id": 647,
+  "ctx": "term UI/menu_map_poi",
+  "en": "Point of Interest"
+ },
+ {
+  "id": 648,
+  "ctx": "term UI/menu_map_teleport",
+  "en": "Void Gate"
+ },
+ {
+  "id": 649,
+  "ctx": "term UI/menu_map_vault",
+  "en": "Vault"
+ },
+ {
+  "id": 650,
+  "ctx": "term UI/menu_map_husk",
+  "en": "Husk"
+ },
+ {
+  "id": 651,
+  "ctx": "term UI/map_pan",
+  "en": "Pan"
+ },
+ {
+  "id": 652,
+  "ctx": "term UI/map_zoom",
+  "en": "Zoom"
+ },
+ {
+  "id": 653,
+  "ctx": "term UI/map_zoom_in",
+  "en": "Zoom In Map"
+ },
+ {
+  "id": 654,
+  "ctx": "term UI/map_zoom_out",
+  "en": "Zoom Out Map"
+ },
+ {
+  "id": 655,
+  "ctx": "term UI/map_placemarker",
+  "en": "Mark"
+ },
+ {
+  "id": 656,
+  "ctx": "term UI/map_locked",
+  "en": "Map not found yet"
+ },
+ {
+  "id": 657,
+  "ctx": "term UI/menu_relics (+3 more)",
+  "en": "Relics"
+ },
+ {
+  "id": 658,
+  "ctx": "term UI/menu_souls (+3 more)",
+  "en": "Souls"
+ },
+ {
+  "id": 659,
+  "ctx": "term UI/menu_simulacrum (+1 more)",
+  "en": "Simulacrum"
+ },
+ {
+  "id": 660,
+  "ctx": "term UI/menu_inventory",
+  "en": "Inventory"
+ },
+ {
+  "id": 661,
+  "ctx": "term UI/menu_compendium",
+  "en": "Compendium"
+ },
+ {
+  "id": 662,
+  "ctx": "term UI/menu_compendium_journal",
+  "en": "Journal"
+ },
+ {
+  "id": 663,
+  "ctx": "term UI/menu_compendium_enemies",
+  "en": "Enemies"
+ },
+ {
+  "id": 664,
+  "ctx": "term UI/menu_compendium_zones",
+  "en": "Regions"
+ },
+ {
+  "id": 665,
+  "ctx": "term UI/menu_compendium_bosses",
+  "en": "Heralds"
+ },
+ {
+  "id": 666,
+  "ctx": "term UI/menu_compendium_people",
+  "en": "Beings"
+ },
+ {
+  "id": 667,
+  "ctx": "term UI/menu_compendium_achievements",
+  "en": "Achievements"
+ },
+ {
+  "id": 668,
+  "ctx": "term UI/menu_category_prev",
+  "en": "Previous"
+ },
+ {
+  "id": 669,
+  "ctx": "term UI/menu_category_next",
+  "en": "Next"
+ },
+ {
+  "id": 670,
+  "ctx": "term UI/menu_compendium_enemiesdiscovered",
+  "en": "Enemies Discovered"
+ },
+ {
+  "id": 671,
+  "ctx": "term UI/menu_compendium_bossesdiscovered",
+  "en": "Heralds Vanquished"
+ },
+ {
+  "id": 672,
+  "ctx": "term UI/menu_compendium_journalsdiscovered",
+  "en": "Journals Found"
+ },
+ {
+  "id": 673,
+  "ctx": "term UI/menu_compendium_regionsdiscovered",
+  "en": "Regions Visited"
+ },
+ {
+  "id": 674,
+  "ctx": "term UI/menu_compendium_beingsdiscovered",
+  "en": "Beings Met"
+ },
+ {
+  "id": 675,
+  "ctx": "term UI/shop_excavate (+1 more)",
+  "en": "Excavate"
+ },
+ {
+  "id": 676,
+  "ctx": "term UI/shop_buy",
+  "en": "Buy (Hold)"
+ },
+ {
+  "id": 677,
+  "ctx": "term UI/shop_requires",
+  "en": "Requires"
+ },
+ {
+  "id": 678,
+  "ctx": "term UI/shop_alreadypurchased",
+  "en": "Already Purchased"
+ },
+ {
+  "id": 679,
+  "ctx": "term UI/hud_heroitemacquired",
+  "en": "Acquired"
+ },
+ {
+  "id": 680,
+  "ctx": "term UI/boss_main_defeated",
+  "en": "Herald Vanquished"
+ },
+ {
+  "id": 681,
+  "ctx": "term UI/boss_mini_defeated",
+  "en": "Aberration Defeated"
+ },
+ {
+  "id": 682,
+  "ctx": "term UI/menu_close",
+  "en": "Close"
+ },
+ {
+  "id": 683,
+  "ctx": "term UI/menu_relics_equip",
+  "en": "Equip / Unequip"
+ }
+]

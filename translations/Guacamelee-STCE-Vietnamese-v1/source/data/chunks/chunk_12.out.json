@@ -1,0 +1,306 @@
+[
+ {
+  "id": 826,
+  "vi": "Đừng nản lòng vì\\nmấy bộ xương ác đó.\\pÍt nhất mọi người ở Santa Luchita\\nvẫn còn tỉnh táo."
+ },
+ {
+  "id": 827,
+  "vi": "Tên Trộm Gà vĩ đại đã\\nkhủng bố Santa\\nLuchita suốt nhiều năm!\\pAi trong thị trấn cũng báo mất\\nđồ vật nhỏ trong nhà."
+ },
+ {
+  "id": 828,
+  "vi": "Theo tôi thì lẽ ra phải dán áp phích\\ntruy nã Tên Trộm Gà\\nkhắp thị trấn."
+ },
+ {
+  "id": 829,
+  "vi": "Chào mừng, señor.\\pCaverna del Pollo là nơi\\nnhững luchador mạnh nhất\\nđến để luyện tập.\\pNếu vượt qua thử thách,\\ncậu thậm chí có thể được thưởng."
+ },
+ {
+  "id": 830,
+  "vi": "Nói thật nhé.\\pChỗ này không như tập\\nở phòng gym sang chảnh đâu!\\pCậu sẽ liều\\ncả mạng sống đấy, hombre."
+ },
+ {
+  "id": 831,
+  "vi": "Nếu bị kẹt, hãy đi luyện cho mạnh hơn\\nhoặc học thêm kỹ năng mới\\nrồi hẵng quay lại."
+ },
+ {
+  "id": 832,
+  "vi": "Đây không phải nơi dành cho\\nngười sống, hay người chết.\\pNhững chiến trường cổ xưa này\\nchỉ hợp với kẻ mạnh nhất.\\pNgươi có dám không?"
+ },
+ {
+  "id": 833,
+  "vi": "Nếu vượt qua được,\\nngươi thậm chí có thể tìm thấy\\nthứ thật sự giá trị."
+ },
+ {
+  "id": 834,
+  "vi": "Hãy cảnh giác,\\pchúng sẽ không nương tay.\\pTốt hơn ngươi nên sẵn sàng."
+ },
+ {
+  "id": 835,
+  "vi": "Trời đất ơi!\\nFlame Face vừa tạo ra một vật cản khổng lồ\\ntrên đường vào sa mạc!\\pKế hoạch nghỉ mát của tôi tiêu rồi.\\nThôi kệ, ít nhất hắn cũng đi rồi."
+ },
+ {
+  "id": 836,
+  "vi": "Nghe như đường qua sa mạc bị chặn rồi.\\pMình biết một lối khác,\\nđi qua Rừng\\p... dù mình từng mong sẽ không bao giờ\\nquay lại đó.\\pĐi thôi -- đến Kênh đào."
+ },
+ {
+  "id": 837,
+  "vi": "Tôi suýt chết mới thoát khỏi rừng, giờ lại\\ncó gã lửa điên khùng\\ntrong quán của bọn tôi! Xin hãy giúp!"
+ },
+ {
+  "id": 838,
+  "vi": "... Tôi tưởng cậu đến đây để giúp!\\nLàm ơn đến xem quán đi."
+ },
+ {
+  "id": 839,
+  "vi": "Đứng lại đó, Luchador!\\nLệnh của Carlos Calaca!\\pTa cảnh cáo, bước thêm một bước\\nnữa là ngươi chết chắc!"
+ },
+ {
+  "id": 840,
+  "vi": "Gì cơ?\\nNgươi muốn biết ta là ai à?"
+ },
+ {
+  "id": 841,
+  "vi": "Ngươi có vẻ là một Luchador đáng kính\\nnên ta sẽ trả lời câu hỏi của ngươi.\\pTên ta là Jaguar Javier. Ta từng\\nlà con người, như ngươi.\\pThời trẻ ta sống và luyện tập\\nngay trong khu rừng này.\\pTa trở thành chiến binh huyền thoại, phụng sự\\ncác vị vua cao quý và dẫn dắt những\\nđạo quân vĩ đại đến chiến thắng...\\p...nhưng đó là chuyện đã lâu.\\nGiờ ta phục vụ Calaca."
+ },
+ {
+  "id": 842,
+  "vi": "Những ngày cuối cùng của\\ntrái đất đã đến.\\pTa khuyên ngươi hãy về nhà\\nvà dành chúng\\nbên những người ngươi yêu."
+ },
+ {
+  "id": 843,
+  "vi": "Đúng là đồ cứng đầu!\\pLuchador, ngươi đã cứu nhà thờ,\\nmột chiến công đáng ngưỡng mộ và anh hùng,\\nnhưng hành trình của ngươi dừng ở đây.\\pTa đau lòng khi phải tiễn một chiến binh\\nnhư ngươi một cách phũ phàng thế này,\\nnhưng đừng nói là ta chưa\\ncảnh báo."
+ },
+ {
+  "id": 844,
+  "vi": "Nhắc nhở: Khi thanh năng lượng đầy, nhấn\\n{LSTICKPRESS} + {RSTICKPRESS} để giải phóng sức mạnh INTENSO!"
+ },
+ {
+  "id": 845,
+  "vi": "Nhắc nhở: Khi thanh năng lượng đầy, nhấn\\n{RSTICKPRESS} để giải phóng sức mạnh INTENSO!"
+ },
+ {
+  "id": 846,
+  "vi": "Khi là gà, nhấn {B} để đẻ Pollo Bomba!"
+ },
+ {
+  "id": 847,
+  "vi": "Chơi lại ký ức này từ\\nquá khứ của Javier Jaguar?"
+ },
+ {
+  "id": 848,
+  "vi": "Có"
+ },
+ {
+  "id": 849,
+  "vi": "Không"
+ },
+ {
+  "id": 850,
+  "vi": "Người chơi 1 phải chơi\\nlà Javier Jaguar\\nđể chơi ký ức quá khứ này."
+ },
+ {
+  "id": 851,
+  "vi": "Có vẻ các biến cố của câu chuyện\\nbi kịch này đã bắt đầu vận hành.\\pLũ quỷ tụ họp tại Dinh thự\\ncủa El Presidente.\\pTrước khi đóng vai trong âm mưu lớn\\ncủa Calaca, ta phải cảnh báo\\nsư phụ của ta!"
+ },
+ {
+  "id": 852,
+  "vi": "Đồ ngốc.\\pTa có nhiều việc quan trọng hơn\\nlà đứng đây nghe Calaca\\nlàm màu và khoác lác!"
+ },
+ {
+  "id": 853,
+  "vi": "Đừng dọa TA, Calaca!\\pTa đã đồng ý\\ngiúp ngươi rồi mà!!\\pĐể sư phụ của ta yên!"
+ },
+ {
+  "id": 854,
+  "vi": "*Hộc*\\n*Hộc*\\pỒ này, Người-Báo, tụi mình phải tới\\ndinh thự trước khi Calaca\\nnhận ra tụi mình trễ lắm rồi.\\p...\\pNày, sao anh không ở\\ndinh thự vậy?"
+ },
+ {
+  "id": 855,
+  "vi": "Chắc đó là điểm hay\\ncủa việc làm số 2!\\pNghe nói anh định\\nlàm gỏi cây cầu này..."
+ },
+ {
+  "id": 856,
+  "vi": "Chúc anh may mắn nhé.\\pTụi tôi thấy nó khá chắc chắn đấy.\\pDù sao anh cũng có việc phải làm\\nvà tụi tôi cũng vậy!\\pGặp lại, Người-Mèo."
+ },
+ {
+  "id": 857,
+  "vi": "Ôi, ngươi làm ta thất vọng quá, Javier.\\pChúng ta đã có giao kèo...\\pNgươi canh giữ cây cầu\\ntrong lúc ta tấn công dinh thự.\\pTa e mọi chuyện giữa chúng ta\\nkhông êm xuôi.\\pTa không thấy tương lai nào cho ngươi\\ntrong tổ chức của chúng ta..."
+ },
+ {
+  "id": 858,
+  "vi": "Đừng lo về lão dê già đó!\\pDù sao ta cũng không\\ntìm ra hắn.\\pKế hoạch của ta đã được\\nkhởi động, Javier.\\pNếu ngươi giữ đúng phần giao kèo,\\nta sẽ đảm bảo\\nkhông ai làm hại\\nsư phụ của ngươi.\\pGiờ thì...\\pQUỲ XUỐNG!"
+ },
+ {
+  "id": 859,
+  "vi": "HAHAHAHAHA!!!"
+ },
+ {
+  "id": 860,
+  "vi": "Chơi phần kết của X'Tabay?"
+ },
+ {
+  "id": 861,
+  "vi": "Người chơi 1 phải chơi\\nlà X'Tabay\\nđể chơi phần kết của cô ấy."
+ },
+ {
+  "id": 862,
+  "vi": "Chỉ dành cho chế độ một người chơi."
+ },
+ {
+  "id": 863,
+  "vi": "Không cho phép gà!"
+ },
+ {
+  "id": 864,
+  "vi": "Chơi qua tình thế khó xử Choozo\\ncủa Uay Chivo?"
+ },
+ {
+  "id": 865,
+  "vi": "Người chơi 1 phải chơi\\nlà Uay Chivo\\nđể chơi kịch bản này."
+ },
+ {
+  "id": 866,
+  "vi": "Chơi lại cuộc khủng hoảng hiện sinh\\ntrong quá khứ của Flame Face?"
+ },
+ {
+  "id": 867,
+  "vi": "Người chơi 1 phải chơi\\nlà Flame Face\\nđể chơi kịch bản này."
+ },
+ {
+  "id": 868,
+  "vi": "CÒN LẠI %d!"
+ },
+ {
+  "id": 869,
+  "vi": "Kế hoạch chinh phục thế giới người sống\\ncủa Calaca đang tiến triển tuyệt vời!\\pCòn ta thì kiểu, tay sai ngầu nhất từ trước đến nay! "
+ },
+ {
+  "id": 870,
+  "vi": "Hảaaaaaaaaa?\\nLương tâm của ta á?\\pGì chứ? Ta đang trải qua một kiểu\\nkhủng hoảng hiện sinh hay sao?\\p...\\pTa cần một ly...\\pTa cần TẤT CẢ các ly!! "
+ },
+ {
+  "id": 871,
+  "vi": "Khoan đã!!\\pNgươi không ngầu đâu, ngươi\\nhoàn toàn là kẻ xấu!\\pTin ta đi, ta là hình chiếu\\ncủa lương tâm ngươi...\\pTa CHÍNH LÀ ngươi! "
+ },
+ {
+  "id": 872,
+  "vi": "HP: %d"
+ },
+ {
+  "id": 873,
+  "vi": "HÀNH ĐỘNG"
+ },
+ {
+  "id": 874,
+  "vi": "Đòn Mạnh"
+ },
+ {
+  "id": 875,
+  "vi": "Phòng Thủ"
+ },
+ {
+  "id": 876,
+  "vi": "Tập Trung"
+ },
+ {
+  "id": 877,
+  "vi": "Triệu Hồi"
+ },
+ {
+  "id": 878,
+  "vi": "Chọn Mục Tiêu"
+ },
+ {
+  "id": 879,
+  "vi": "Phép Thuật"
+ },
+ {
+  "id": 880,
+  "vi": "CHẾ ĐỘ PHẪN NỘ!!!"
+ },
+ {
+  "id": 881,
+  "vi": "X'Tabay"
+ },
+ {
+  "id": 882,
+  "vi": "Skeeley-Tor"
+ },
+ {
+  "id": 883,
+  "vi": "Bonesy"
+ },
+ {
+  "id": 884,
+  "vi": "Femurphy"
+ },
+ {
+  "id": 885,
+  "vi": "RolyPoly"
+ },
+ {
+  "id": 886,
+  "vi": "CHIẾN THẮNG!!!"
+ },
+ {
+  "id": 887,
+  "vi": "BẠN NHẬN %d ĐIỂM KINH NGHIỆM!"
+ },
+ {
+  "id": 888,
+  "vi": "BẠN NHẬN %d ĐIỂM LẤY LÒNG!"
+ },
+ {
+  "id": 889,
+  "vi": "BẠN NHẬN %d ĐIỂM TỰ TRỌNG!"
+ },
+ {
+  "id": 890,
+  "vi": "BẠN NHẬN %d ĐỀ CỬ GRAMMY!"
+ },
+ {
+  "id": 891,
+  "vi": "BẠN NHẬN %d ĐIỂM THI!"
+ },
+ {
+  "id": 892,
+  "vi": "BẠN NHẬN %d HUY HIỆU TRI ÂN!"
+ },
+ {
+  "id": 893,
+  "vi": "BẠN NHẬN %d HÌNH DÁN LẤP LÁNH!"
+ },
+ {
+  "id": 894,
+  "vi": "BẠN NHẬN %d ẢNH GIF MÈO!"
+ },
+ {
+  "id": 895,
+  "vi": "Bạn nói gì?"
+ },
+ {
+  "id": 896,
+  "vi": "ĐỐI THOẠI 'A'"
+ },
+ {
+  "id": 897,
+  "vi": "ĐỐI THOẠI 'B'"
+ },
+ {
+  "id": 898,
+  "vi": "ĐỐI THOẠI 'C'"
+ },
+ {
+  "id": 899,
+  "vi": "ĐỐI THOẠI 'D'"
+ },
+ {
+  "id": 900,
+  "vi": "ĐỐI THOẠI 'E'"
+ },
+ {
+  "id": 901,
+  "vi": "ĐỐI THOẠI 'F'"
+ }
+]

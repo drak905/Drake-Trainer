@@ -1,0 +1,844 @@
+[
+{
+"id": 2556,
+"en": "Forgotten Map"
+},
+{
+"id": 2558,
+"en": "Great Owl of War"
+},
+{
+"id": 2562,
+"en": "Cheep cheep"
+},
+{
+"id": 2563,
+"en": "Velocity"
+},
+{
+"id": 2565,
+"en": "Lightspeed"
+},
+{
+"id": 2569,
+"en": "Giant Whistle"
+},
+{
+"id": 2572,
+"en": "Telluric Shock"
+},
+{
+"id": 2575,
+"en": "Collector's Syringe"
+},
+{
+"id": 2578,
+"en": "Smoke Bomb"
+},
+{
+"id": 2582,
+"en": "Ice Armor"
+},
+{
+"id": 2584,
+"en": "Lightning Rods"
+},
+{
+"id": 2586,
+"en": "Scarecrow's Sickles"
+},
+{
+"id": 2589,
+"en": "Serenade"
+},
+{
+"id": 2592,
+"en": "Cocoon"
+},
+{
+"id": 2594,
+"en": "Face Flask",
+"ctx": "U26_FACEFLASK_NAME"
+},
+{
+"id": 2597,
+"en": "Pollo Power",
+"ctx": "U26_POLLOPOWER_NAME"
+},
+{
+"id": 2600,
+"en": "Leghugger"
+},
+{
+"id": 2607,
+"en": "Barricade",
+"ctx": "U32_DIVERSEDECKJUGGERNAUT_NAME"
+},
+{
+"id": 2610,
+"en": "Catalyst",
+"ctx": "U32_DIVERSEDECKCATALYST_NAME"
+},
+{
+"id": 2613,
+"en": "Electrodynamics",
+"ctx": "U32_DIVERSEDECKELECTRO_NAME"
+},
+{
+"id": 2616,
+"en": "Foresight"
+},
+{
+"id": 2619,
+"en": "Taunt",
+"ctx": "U31_TAUNT_NAME"
+},
+{
+"id": 2622,
+"en": "Rebound Stone",
+"ctx": "DLCP_BOUCING_STONE_NAME"
+},
+{
+"id": 2625,
+"en": "Maria's Cat",
+"ctx": "DLCP_CAT_NAME"
+},
+{
+"id": 2628,
+"en": "Bat Volley",
+"ctx": "DLCP_BAT_VOLLEY_NAME"
+},
+{
+"id": 2634,
+"en": "Indulgence",
+"ctx": "U35_INDULGENCE_NAME"
+},
+{
+"id": 2637,
+"en": "Rusty Sword"
+},
+{
+"id": 2639,
+"en": "ADMIN WEAPON"
+},
+{
+"id": 2640,
+"en": "SHOULD NEVER DROP"
+},
+{
+"id": 2641,
+"en": "Balanced Blade"
+},
+{
+"id": 2643,
+"en": "Spite Sword"
+},
+{
+"id": 2646,
+"en": "Assassin's Dagger"
+},
+{
+"id": 2649,
+"en": "Blood Sword"
+},
+{
+"id": 2651,
+"en": "Twin Daggers"
+},
+{
+"id": 2654,
+"en": "Broadsword"
+},
+{
+"id": 2657,
+"en": "Shovel"
+},
+{
+"id": 2660,
+"en": "Cursed Sword"
+},
+{
+"id": 2663,
+"en": "Sadist's Stiletto"
+},
+{
+"id": 2666,
+"en": "Swift Sword"
+},
+{
+"id": 2669,
+"en": "Giantkiller"
+},
+{
+"id": 2672,
+"en": "Shrapnel Axes"
+},
+{
+"id": 2674,
+"en": "Seismic Strike"
+},
+{
+"id": 2676,
+"en": "War Spear"
+},
+{
+"id": 2679,
+"en": "Impaler"
+},
+{
+"id": 2681,
+"en": "Symmetrical Lance"
+},
+{
+"id": 2683,
+"en": "Rapier"
+},
+{
+"id": 2686,
+"en": "Meat Skewer"
+},
+{
+"id": 2689,
+"en": "Nutcracker"
+},
+{
+"id": 2691,
+"en": "Spartan Sandals"
+},
+{
+"id": 2694,
+"en": "Spiked Boots"
+},
+{
+"id": 2696,
+"en": "Hayabusa Boots"
+},
+{
+"id": 2698,
+"en": "Hayabusa Gauntlets"
+},
+{
+"id": 2701,
+"en": "Valmont's Whip"
+},
+{
+"id": 2704,
+"en": "Wrenching Whip"
+},
+{
+"id": 2706,
+"en": "Oiled Sword"
+},
+{
+"id": 2708,
+"en": "Torch"
+},
+{
+"id": 2711,
+"en": "Frantic Sword"
+},
+{
+"id": 2714,
+"en": "Flawless"
+},
+{
+"id": 2716,
+"en": "Flint"
+},
+{
+"id": 2719,
+"en": "Tentacle"
+},
+{
+"id": 2722,
+"en": "Vorpan"
+},
+{
+"id": 2725,
+"en": "Flashing Fans"
+},
+{
+"id": 2728,
+"en": "Left Scythe Claw"
+},
+{
+"id": 2731,
+"en": "Right Scythe Claw"
+},
+{
+"id": 2733,
+"en": "Rhythm n' Bouzouki"
+},
+{
+"id": 2736,
+"en": "Crowbar"
+},
+{
+"id": 2739,
+"en": "Snake Fangs"
+},
+{
+"id": 2741,
+"en": "Iron Staff"
+},
+{
+"id": 2743,
+"en": "Ferryman's Lantern"
+},
+{
+"id": 2745,
+"en": "Serenade (in-hand)"
+},
+{
+"id": 2747,
+"en": "Hattori's Katana"
+},
+{
+"id": 2749,
+"en": "Cross Hit"
+},
+{
+"id": 2751,
+"en": "Tombstone"
+},
+{
+"id": 2753,
+"en": "Oven Axe"
+},
+{
+"id": 2755,
+"en": "Toothpick"
+},
+{
+"id": 2757,
+"en": "Broken Toothpick"
+},
+{
+"id": 2759,
+"en": "Machete and Pistol",
+"ctx": "U26_MACHETE_NAME"
+},
+{
+"id": 2762,
+"en": "Hard Light Sword",
+"ctx": "U26_HARDLIGHTSWORD_NAME"
+},
+{
+"id": 2765,
+"en": "Pure Nail",
+"ctx": "U26_NAIL_NAME"
+},
+{
+"id": 2768,
+"en": "Bone",
+"ctx": "U26_BONE_NAME"
+},
+{
+"id": 2771,
+"en": "Abyssal Trident"
+},
+{
+"id": 2774,
+"en": "Hand Hook"
+},
+{
+"id": 2777,
+"en": "Maw of the Deep"
+},
+{
+"id": 2780,
+"en": "Bladed Tonfas"
+},
+{
+"id": 2783,
+"en": "Wrecking Ball"
+},
+{
+"id": 2786,
+"en": "Queen's Rapier"
+},
+{
+"id": 2789,
+"en": "Dagger of Profit",
+"ctx": "U28_CUPIDITYDAGGER_NAME"
+},
+{
+"id": 2792,
+"en": "Gold Digger",
+"ctx": "U28_GOLDDIGGER_NAME"
+},
+{
+"id": 2795,
+"en": "King Scepter"
+},
+{
+"id": 2797,
+"en": "Reign of Decadence"
+},
+{
+"id": 2798,
+"en": "Baseball Bat"
+},
+{
+"id": 2801,
+"en": "Panchaku",
+"ctx": "NUNCHUCKPAN_NAME"
+},
+{
+"id": 2803,
+"en": "Feast of Fury",
+"ctx": "NUNCHUCKPAN_AMBIANTDESC"
+},
+{
+"id": 2804,
+"en": "Starfury",
+"ctx": "U32_STARFURY_NAME"
+},
+{
+"id": 2807,
+"en": "Alucard's Sword",
+"ctx": "DLCP_TPSWORD_NAME"
+},
+{
+"id": 2810,
+"en": "Morning Star",
+"ctx": "DLCP_WIGGLEWHIP_NAME"
+},
+{
+"id": 2813,
+"en": "Bible",
+"ctx": "DLCP_BIBLE_NAME"
+},
+{
+"id": 2816,
+"en": "Whip Sword, sword form",
+"ctx": "DLCP_SNAKE_SWORD_NAME"
+},
+{
+"id": 2818,
+"en": "Sharp as the snake's fang",
+"ctx": "DLCP_SNAKE_SWORD_AMBIANTDESC"
+},
+{
+"id": 2819,
+"en": "Whip Sword, whip form",
+"ctx": "DLCP_SNAKE_SWORD_ALT_NAME"
+},
+{
+"id": 2821,
+"en": "Sinuous like the snake's coils",
+"ctx": "DLCP_SNAKE_SWORD_ALT_AMBIANTDESC"
+},
+{
+"id": 2822,
+"en": "Transformation",
+"ctx": "DLCP_SNAKE_SWORD_SWAP_NAME"
+},
+{
+"id": 2824,
+"en": "A marvel of metalwork",
+"ctx": "DLCP_SNAKE_SWORD_SWAP_AMBIANTDESC"
+},
+{
+"id": 2825,
+"en": "Vampire Killer",
+"ctx": "DLCP_VAMPIRE_KILLER_NAME"
+},
+{
+"id": 2828,
+"en": "Death's Scythe",
+"ctx": "DLCP_ADELE_SCYTHE_NAME"
+},
+{
+"id": 2835,
+"en": "Pistol",
+"ctx": "U34_PISTOL_NAME"
+},
+{
+"id": 2837,
+"en": "Sewing Scissors",
+"ctx": "U34_SCISSOR_NAME"
+},
+{
+"id": 2840,
+"en": "Giant Comb",
+"ctx": "U34_COMB_NAME"
+},
+{
+"id": 2843,
+"en": "Misericorde",
+"ctx": "U35_MISERICORD_NAME"
+},
+{
+"id": 2846,
+"en": "Beginner's Bow"
+},
+{
+"id": 2849,
+"en": "Multiple-nocks Bow"
+},
+{
+"id": 2851,
+"en": "Bow and Endless Quiver"
+},
+{
+"id": 2854,
+"en": "Marksman's Bow"
+},
+{
+"id": 2857,
+"en": "Sonic Carbine"
+},
+{
+"id": 2859,
+"en": "Infantry Bow"
+},
+{
+"id": 2862,
+"en": "Quick Bow"
+},
+{
+"id": 2865,
+"en": "Ice Bow"
+},
+{
+"id": 2867,
+"en": "Heavy Crossbow"
+},
+{
+"id": 2870,
+"en": "Reload"
+},
+{
+"id": 2872,
+"en": "Repeater Crossbow"
+},
+{
+"id": 2874,
+"en": "Quiver of Bolts"
+},
+{
+"id": 2876,
+"en": "Ice Crossbow"
+},
+{
+"id": 2878,
+"en": "Piercing Shot"
+},
+{
+"id": 2880,
+"en": "Explosive Crossbow"
+},
+{
+"id": 2882,
+"en": "Alchemic Carbine"
+},
+{
+"id": 2884,
+"en": "Boomerang"
+},
+{
+"id": 2887,
+"en": "Hemorrhage"
+},
+{
+"id": 2889,
+"en": "The Boy's Axe"
+},
+{
+"id": 2892,
+"en": "War Javelin"
+},
+{
+"id": 2894,
+"en": "Hokuto's Bow"
+},
+{
+"id": 2897,
+"en": "Nerves of Steel"
+},
+{
+"id": 2899,
+"en": "Throwing Knife"
+},
+{
+"id": 2901,
+"en": "Electric Whip"
+},
+{
+"id": 2903,
+"en": "Firebrands"
+},
+{
+"id": 2906,
+"en": "Ice Shards"
+},
+{
+"id": 2908,
+"en": "Pyrotechnics"
+},
+{
+"id": 2910,
+"en": "Lightning Bolt"
+},
+{
+"id": 2913,
+"en": "Fire Blast"
+},
+{
+"id": 2916,
+"en": "Frost Blast"
+},
+{
+"id": 2918,
+"en": "Magic Missiles"
+},
+{
+"id": 2920,
+"en": "Blowgun"
+},
+{
+"id": 2922,
+"en": "Barrel Launcher"
+},
+{
+"id": 2924,
+"en": "Soul Shot"
+},
+{
+"id": 2926,
+"en": "Hard Light Gun",
+"ctx": "U26_HARDLIGHTGUN_NAME"
+},
+{
+"id": 2929,
+"en": "Killing Deck"
+},
+{
+"id": 2932,
+"en": "Gilded Yumi"
+},
+{
+"id": 2935,
+"en": "Money Shooter",
+"ctx": "U28_MONEYSHOOTER_NAME"
+},
+{
+"id": 2938,
+"en": "Magic Bow"
+},
+{
+"id": 2941,
+"en": "Throwable Objects"
+},
+{
+"id": 2944,
+"en": "Laser Glaive",
+"ctx": "U32_LASERGLAIVE_NAME"
+},
+{
+"id": 2947,
+"en": "Peril Glyphs",
+"ctx": "U31_HYDRASPELL_NAME"
+},
+{
+"id": 2950,
+"en": "Throwing Axe",
+"ctx": "DLCP_THROWINGAXE_NAME"
+},
+{
+"id": 2953,
+"en": "Medusa's Head",
+"ctx": "DLCP_MEDUSAHEAD_NAME"
+},
+{
+"id": 2956,
+"en": "Anathema",
+"ctx": "DLCP_ANATHEMA_NAME"
+},
+{
+"id": 2959,
+"en": "Old Wooden Shield"
+},
+{
+"id": 2961,
+"en": "Front Line Shield"
+},
+{
+"id": 2964,
+"en": "Cudgel"
+},
+{
+"id": 2966,
+"en": "Punishment"
+},
+{
+"id": 2968,
+"en": "Knockback Shield"
+},
+{
+"id": 2970,
+"en": "Rampart"
+},
+{
+"id": 2972,
+"en": "Assault Shield"
+},
+{
+"id": 2974,
+"en": "Bloodthirsty Shield"
+},
+{
+"id": 2976,
+"en": "Greed Shield"
+},
+{
+"id": 2978,
+"en": "Spiked Shield"
+},
+{
+"id": 2980,
+"en": "Parry Shield"
+},
+{
+"id": 2982,
+"en": "Force Shield"
+},
+{
+"id": 2984,
+"en": "Thunder Shield"
+},
+{
+"id": 2986,
+"en": "Ice Shield"
+},
+{
+"id": 2988,
+"en": "Alucard's Shield",
+"ctx": "DLCP_ALUCARD_SHIELD_NAME"
+},
+{
+"id": 2991,
+"en": "Prisoner's Collar"
+},
+{
+"id": 2993,
+"en": "Community ring"
+},
+{
+"id": 2994,
+"en": "Ruby Amulet"
+},
+{
+"id": 2996,
+"en": "Topaz Amulet"
+},
+{
+"id": 2997,
+"en": "Sapphire Amulet"
+},
+{
+"id": 2998,
+"en": "Golden Amulet"
+},
+{
+"id": 2999,
+"en": "Moonstone Amulet"
+},
+{
+"id": 3003,
+"en": "Key"
+},
+{
+"id": 3004,
+"en": "Opens locked doors (surprise!)"
+},
+{
+"id": 3005,
+"en": "Key to maximum-security sector"
+},
+{
+"id": 3006,
+"en": "Corrupted Key"
+},
+{
+"id": 3007,
+"en": "Graveyard Key"
+},
+{
+"id": 3009,
+"en": "Crypt Key"
+},
+{
+"id": 3011,
+"en": "Architect's Key"
+},
+{
+"id": 3013,
+"en": "Village Key"
+},
+{
+"id": 3014,
+"en": "Clockmaker's Key"
+},
+{
+"id": 3015,
+"en": "Bell Tower Key"
+},
+{
+"id": 3016,
+"en": "Gardener's Key"
+},
+{
+"id": 3017,
+"en": "Madman's Key"
+},
+{
+"id": 3018,
+"en": "Key to the Castle"
+},
+{
+"id": 3020,
+"en": "Allen Key"
+},
+{
+"id": 3021,
+"en": "Elevator Key"
+},
+{
+"id": 3022,
+"en": "Apex Key"
+},
+{
+"id": 3023,
+"en": "Guardian's key"
+},
+{
+"id": 3024,
+"en": "Moonflower Key"
+},
+{
+"id": 3025,
+"en": "Garland Key"
+},
+{
+"id": 3026,
+"en": "Iron Cells key"
+},
+{
+"id": 3027,
+"en": "Gold Cells key"
+},
+{
+"id": 3028,
+"en": "Old Service key"
+},
+{
+"id": 3030,
+"en": "Cavern Key"
+},
+{
+"id": 3031,
+"en": "Dilapidated Arboretum Key"
+}
+]

@@ -1,0 +1,520 @@
+[
+{
+"id": 468,
+"en": "The Malaise has really had its way with you."
+},
+{
+"id": 469,
+"en": "Yes indeed."
+},
+{
+"id": 470,
+"en": "In keeping with your arrogance!"
+},
+{
+"id": 471,
+"en": "Which has brought nothing but ruin on the Kingdom!"
+},
+{
+"id": 472,
+"en": "In spite of all my warnings..."
+},
+{
+"id": 473,
+"en": "Not a shred of hope is left to us."
+},
+{
+"id": 474,
+"en": "DIE!"
+},
+{
+"id": 475,
+"en": "My... My King?"
+},
+{
+"id": 476,
+"en": "How is that possible?"
+},
+{
+"id": 477,
+"en": "?!"
+},
+{
+"id": 478,
+"en": "?!?"
+},
+{
+"id": 479,
+"en": "?!?!"
+},
+{
+"id": 480,
+"en": "Wait... You're not the King!"
+},
+{
+"id": 481,
+"en": "Did you steal his body?"
+},
+{
+"id": 482,
+"en": "Thief!"
+},
+{
+"id": 483,
+"en": "You!"
+},
+{
+"id": 484,
+"en": "Are you proud of yourself?"
+},
+{
+"id": 485,
+"en": "The Malaise is still flowing through the Island..."
+},
+{
+"id": 486,
+"en": "I'll have to mess with the loop again."
+},
+{
+"id": 487,
+"en": "This will not end well..."
+},
+{
+"id": 488,
+"en": "Oi! No! Are you serious?"
+},
+{
+"id": 489,
+"en": "Oh no you don't!"
+},
+{
+"id": 490,
+"en": "I'm not done with you."
+},
+{
+"id": 491,
+"en": "Now fight. For real, this time."
+},
+{
+"id": 496,
+"en": "Body desecrated!"
+},
+{
+"id": 497,
+"en": "“Was it you... Was it you that freed me?”"
+},
+{
+"id": 498,
+"en": "“You smell like rotting flesh... and bloodlust and a lack of respect for life...”"
+},
+{
+"id": 499,
+"en": "“But don’t think I’m just going to follow you around from now on! We could have a lot of fun together... if you remember to treat me well!”"
+},
+{
+"id": 500,
+"en": "You were a model for all of us..."
+},
+{
+"id": 501,
+"en": "What drove you to all this destruction?"
+},
+{
+"id": 502,
+"en": "You've even managed to destroy your own body..."
+},
+{
+"id": 503,
+"en": "My King..."
+},
+{
+"id": 504,
+"en": "You..."
+},
+{
+"id": 505,
+"en": "ARE AN INCORRIGIBLE ASS!"
+},
+{
+"id": 506,
+"en": "You've beaten me fairly..."
+},
+{
+"id": 507,
+"en": "Not like before..."
+},
+{
+"id": 508,
+"en": "Take this, it might be of more use to you..."
+},
+{
+"id": 509,
+"en": "Make a wish..."
+},
+{
+"id": 510,
+"en": "I jest... You most certainly are a"
+},
+{
+"id": 511,
+"en": "Where the hell has old bones gone?"
+},
+{
+"id": 512,
+"en": "Seems like he might have been in a bit of a rush..."
+},
+{
+"id": 513,
+"en": "Continue?",
+"ctx": "U29_CONTINUE_CONFIRMATION"
+},
+{
+"id": 514,
+"en": "Do you want to resurrect from your last save?",
+"ctx": "U29_CONTINUE_CONFIRMATION_DESC"
+},
+{
+"id": 515,
+"en": "Everything I give you is yours, PERMANENTLY. Even death won't take it from you..."
+},
+{
+"id": 516,
+"en": "SO, if you want more power... Then you better start bringing me CELLS!"
+},
+{
+"id": 517,
+"en": "Now... prisoner..."
+},
+{
+"id": 518,
+"en": "GET OUT OF MY SIGHT!"
+},
+{
+"id": 519,
+"en": "Heya short stuff."
+},
+{
+"id": 520,
+"en": "You made it this far alive, eh?"
+},
+{
+"id": 521,
+"en": "Well... you know what I mean."
+},
+{
+"id": 522,
+"en": "I'm the Blacksmith."
+},
+{
+"id": 523,
+"en": "I work with the Collector next door."
+},
+{
+"id": 524,
+"en": "So if you've got the Cells, I can improve your gear."
+},
+{
+"id": 525,
+"en": "Well, look who it is..."
+},
+{
+"id": 526,
+"en": "I'm the Collector, and I'm about the closest thing you’ll find to decent company around here."
+},
+{
+"id": 527,
+"en": "Bring me the CELLS you gather from the others. In exchange, I'll procure a few useful little items for you..."
+},
+{
+"id": 528,
+"en": "Should you stumble upon a BLUEPRINT, bring it to me and I will introduce you to some more... experimental items."
+},
+{
+"id": 529,
+"en": "Hello there! I was waiting for you."
+},
+{
+"id": 530,
+"en": "Someone keeps leaving weird books all around the Island."
+},
+{
+"id": 531,
+"en": "I want to try some of the... uh... stuff written there."
+},
+{
+"id": 532,
+"en": "But I need cells, the sort you're carrying, for the experiments."
+},
+{
+"id": 533,
+"en": "Bring me some and I will help you in exchange, would ya darling?"
+},
+{
+"id": 534,
+"en": "I know what you've been up to."
+},
+{
+"id": 535,
+"en": "Oh yes, I know ALL your dirty little secrets."
+},
+{
+"id": 536,
+"en": "And I've been writing them all down in my little book."
+},
+{
+"id": 537,
+"en": "That's what I do."
+},
+{
+"id": 538,
+"en": "You kill things, I take notes."
+},
+{
+"id": 539,
+"en": "Hey, you there!"
+},
+{
+"id": 540,
+"en": "I work for the Blacksmith!"
+},
+{
+"id": 541,
+"en": "I can patch up your gear for cheap..."
+},
+{
+"id": 542,
+"en": "I'm not really supposed to be here..."
+},
+{
+"id": 543,
+"en": "Let's just keep that between us, OK?"
+},
+{
+"id": 544,
+"en": "Right, c'mon then, how much have you got on you?"
+},
+{
+"id": 547,
+"en": "What a cozy spot.",
+"ctx": "U32_SHOVEL_CINE_DIALOG_1"
+},
+{
+"id": 548,
+"en": "I could sit... just for a moment...",
+"ctx": "U32_SHOVEL_CINE_DIALOG_2"
+},
+{
+"id": 549,
+"en": "I think I slept a little... wait, that wasn't there before!",
+"ctx": "U32_SHOVEL_CINE_DIALOG_3"
+},
+{
+"id": 550,
+"en": "Actually... This feels AWESOME!"
+},
+{
+"id": 551,
+"en": "I've never felt anything quite like it!"
+},
+{
+"id": 552,
+"en": "Be a good sport and bring me some more... I'll send you back!"
+},
+{
+"id": 553,
+"en": "Time for your medicine!"
+},
+{
+"id": 554,
+"en": "Back again? And they say dogs are man's best friend!"
+},
+{
+"id": 555,
+"en": "Thank you for bringing me more! I was really starting to get the itch there!"
+},
+{
+"id": 556,
+"en": "Ah, that's better!"
+},
+{
+"id": 557,
+"en": "For the last time, my scissors are NOT made to cut hairs! Especially not those of some rotting zombie!",
+"ctx": "U34_TAILOR_CINE_1"
+},
+{
+"id": 558,
+"en": "Blah blah blah... you never let me do anything anyway and... oh! A newcomer!",
+"ctx": "U34_TAILORDAUGHTER_CINE_1"
+},
+{
+"id": 559,
+"en": "Nice to meet you, I'm the Tailor's daughter! I myself am studying to become a hairdresser... I WAS studying before all my teachers died, at least...",
+"ctx": "U34_TAILORDAUGHTER_CINE_2"
+},
+{
+"id": 560,
+"en": "Yeah, let's talk about that! Who has to take care of his daughter when the school is closed, uh? The education system of this island is not what it once was...",
+"ctx": "U34_TAILOR_CINE_2"
+},
+{
+"id": 561,
+"en": "Pfff, okay Bomber...",
+"ctx": "U34_TAILORDAUGHTER_CINE_3"
+},
+{
+"id": 562,
+"en": "At least, I beg you to help her work on her studies ... ask her, she might be able to comb your... green thingy.",
+"ctx": "U34_TAILOR_CINE_3"
+},
+{
+"id": 563,
+"en": "Oh yeah! I can help you find your new style!",
+"ctx": "U34_TAILORDAUGHTER_CINE_4"
+},
+{
+"id": 564,
+"en": "But I forbid you from plunging my sewing scissors in that thing!",
+"ctx": "U34_TAILOR_CINE_4"
+},
+{
+"id": 565,
+"en": "\"Nice dress!\""
+},
+{
+"id": 566,
+"en": "Your malaise tier has increased!"
+},
+{
+"id": 568,
+"en": "+::n:: {iconCoin@img}"
+},
+{
+"id": 569,
+"en": "-::n:: {iconCoin@img}"
+},
+{
+"id": 570,
+"en": "Meta artifact already acquired."
+},
+{
+"id": 571,
+"en": "{Survival@SU} increased!"
+},
+{
+"id": 572,
+"en": "{Brutality@BR} increased!"
+},
+{
+"id": 573,
+"en": "{Tactics@TA} increased!"
+},
+{
+"id": 575,
+"en": "+::prct::% HP"
+},
+{
+"id": 577,
+"en": "All 3 of your stats have been increased!"
+},
+{
+"id": 578,
+"en": "Stats increased!",
+"ctx": "U31_BOSSRUSH_PICK_STAT_UPGRADE"
+},
+{
+"id": 580,
+"en": "::n:: {iconCoin@img} found"
+},
+{
+"id": 581,
+"en": "::n:: Cell regained"
+},
+{
+"id": 582,
+"en": "::n:: Cells regained"
+},
+{
+"id": 583,
+"en": "You picked up a cursed artifact!"
+},
+{
+"id": 584,
+"en": "You have outraged the gods!"
+},
+{
+"id": 585,
+"en": "Just one little hit... And you're DEAD! Eliminate ::n:: enemies to lift the curse."
+},
+{
+"id": 586,
+"en": "Once the curse is lifted, you’ll gain 25 extra points!"
+},
+{
+"id": 587,
+"en": "Curse lifted (::pts:: points!)"
+},
+{
+"id": 588,
+"en": "Curse lifted."
+},
+{
+"id": 589,
+"en": "Death cheated!"
+},
+{
+"id": 590,
+"en": "Wish granted!",
+"ctx": "U31_WISHES_GRANTED"
+},
+{
+"id": 592,
+"en": "Here we go!"
+},
+{
+"id": 594,
+"en": "The boss has been slain!"
+},
+{
+"id": 595,
+"en": "BOSS EXECUTED!"
+},
+{
+"id": 596,
+"en": "EXECUTED!"
+},
+{
+"id": 597,
+"en": "Use ::name::!"
+},
+{
+"id": 600,
+"en": "YOLO!"
+},
+{
+"id": 604,
+"en": "Parry!"
+},
+{
+"id": 606,
+"en": "Too far!"
+},
+{
+"id": 607,
+"en": "Too much HP!"
+},
+{
+"id": 611,
+"en": "Your father's a Thorny!",
+"ctx": "POW_TAUNT_1"
+},
+{
+"id": 612,
+"en": "Demon!",
+"ctx": "POW_TAUNT_2"
+},
+{
+"id": 613,
+"en": "Ugly Slammer!",
+"ctx": "POW_TAUNT_3"
+}
+]

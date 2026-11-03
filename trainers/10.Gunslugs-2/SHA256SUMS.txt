@@ -1,0 +1,4 @@
+# SHA-256 Checksums for Gunslugs 2 Trainer v1
+6f6fc0aed743f7dacf84bcc8d9ec6f50c99652086fe1ab668958b96908d6e5f2  payload/gunslugs2-trainer.jar
+8f92f9ea2f84b055be744f98b911dbcdc6f8199bd1ec75b54338bff3ffffa913  Gunslugs2.jar (original unmodified game archive)
+eeae2de59d6b5c3a4c6f79f643b27aaa163ecd3b11f431a9e39460d872aa0b29  Gunslugs2.exe (original unmodified launcher)

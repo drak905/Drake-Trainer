@@ -1,0 +1,61 @@
+# area_enum	area	map_cx	map_cy	kind	track_id	label	world_x	world_y
+1	AreaA	-7.5000	11.3292	ArmorPiece	area_a_armorpieace_dwarvenguard	ArmorPiece - Tutorial Variant	-41.600	12.784
+1	AreaA	1.9994	17.3365	BlueNote	DemoArea-3012	BlueNote - Tutorial Variant	19.196	35.852
+1	AreaA	1.1750	8.3240	BlueNote	Map_Area_A-246	BlueNote - Tutorial Variant (1)	13.920	1.244
+1	AreaA	0.8000	12.4115	BlueNote	Map_Area_F-1944	Collectable_BlueNote	11.520	16.940
+1	AreaA	5.1750	11.4141	BlueNote	area_a_bluenote_fire_wl46	BlueNote - Tutorial Variant (2)	39.520	13.110
+1	AreaA	-4.2006	13.3307	MapPiece	AreaA_Map_ItemHolder	MapPickable - Tutorial Variant	-20.484	20.470
+1	AreaA	6.4980	9.3359	RedNote	DemoArea-3008	RedNote - Tutorial Variant	47.987	5.130
+1	AreaA	-1.1750	9.3289	Upgrade	DemoArea-3002	ZeusGrace (Tutorial)	-1.120	5.103
+1	AreaA	-1.5000	8.3292	Upgrade	Map_Area_A-251	ChargeAttack	-3.200	1.264
+2	AreaB	-18.5214	2.2841	ArmorAltar:4		CollectablePhases	-67.337	-10.429
+2	AreaB	-9.4998	-0.6794	ArmorPiece	area_b_armor_piece	ArmorPiece - Tutorial Variant	-9.599	-21.809
+2	AreaB	-14.5500	6.1615	BlueNote	PaintingB-2209	Collectable_BlueNote	-41.920	4.460
+2	AreaB	-21.8002	1.4073	BlueNote	area_b_bluenote	BlueNote - Tutorial Variant (1)	-88.321	-13.796
+2	AreaB	-14.2006	4.3169	BlueNote	area_b_bluenote_2	BlueNote - Tutorial Variant	-39.684	-2.623
+2	AreaB	-19.8006	-5.6701	MapPiece	area_b_map	MapPickable - Tutorial Variant	-75.524	-40.973
+2	AreaB	-21.4750	7.5799	RedNote	area_b_rednote	RedNote - Tutorial Variant	-86.240	9.907
+2	AreaB	-14.5003	-6.6818	Upgrade	area_b_doublejump	DoubleJump Variant	-41.602	-44.858
+3	AreaC	-14.4994	17.3833	ArmorAltar:2		CollectablePhases	16.004	12.992
+3	AreaC	-15.4998	30.3279	ArmorPiece	Map_Area_C-964	ArmorPiece - Tutorial Variant	9.601	62.699
+3	AreaC	-16.0006	24.9841	BlueNote	Map_Area_C-967	BlueNote - Tutorial Variant (1)	6.396	42.179
+3	AreaC	-20.5000	19.3385	BlueNote	Map_Area_C-968	BlueNote - Tutorial Variant	-22.400	20.500
+3	AreaC	-9.1500	15.5781	BlueNote	PaintingC-2353	Collectable_BlueNote	50.240	6.060
+3	AreaC	-13.2006	22.3378	MapPiece	Map_Area_C-966	MapPickable - Tutorial Variant	24.316	32.017
+3	AreaC	-20.5006	15.3310	RedNote	Map_Area_C-965	RedNote - Tutorial Variant	-22.404	5.111
+4	AreaD	14.5330	26.4560	ArmorAltar:3		CollectablePhases	86.611	66.951
+4	AreaD	12.1975	12.3589	ArmorPiece	Map_Area_D-348	ArmorPiece - Tutorial Variant	71.664	12.818
+4	AreaD	15.5000	17.4323	BlueNote	DESKTOP4I5A9/1207:3M8	Collectable_BlueNote	92.800	32.300
+4	AreaD	19.8189	24.4328	BlueNote	Map_Area_D-350	BlueNote - Tutorial Variant	120.441	59.182
+4	AreaD	19.7989	27.3680	MapPiece	Map_Area_D-351	MapPickable - Tutorial Variant	120.313	70.453
+4	AreaD	14.8008	21.4398	RedNote	Map_Area_D-346	RedNote - Tutorial Variant	88.325	47.689
+4	AreaD	13.2000	28.4333	Upgrade	MissingItemHolder	Apino_UpgradeShot	78.080	74.544
+5	AreaE	-4.8069	3.3289	RedNote	Map_Area_E-1890	RedNote - Tutorial Variant	142.036	58.863
+6	AreaF	20.9125	-10.6708	ArmorPiece	Map_Area_F-1955	ArmorPiece - Tutorial Variant	498.640	-21.776
+6	AreaF	16.9005	8.3451	MapPiece	Map_Area_F-1952	MapPickable - Tutorial Variant	472.963	51.245
+6	AreaF	19.9255	7.5974	RedNote	Map_Area_F-1946	RedNote - Tutorial Variant	492.323	48.374
+7	AreaGa	-6.7902	31.3393	MapPiece	Map_Area_F-2282	MapPickable - Tutorial Variant	263.743	74.263
+7	AreaGa	-19.5000	33.3266	RedNote	area_g_a_red_note_new_wl62	RedNote - Tutorial Variant	182.400	81.894
+7	AreaGa	-1.1747	32.4073	RedNote	area_g_a_red_note_wl2	RedNote - Tutorial Variant	299.682	78.364
+7	AreaGa	-13.4998	34.3260	Upgrade	Map_Area_F-2263	DiveKick Variant	220.801	85.732
+8	AreaGb	17.8250	32.3281	BlueNote	Map_Area_D-289	Collectable_BlueNote	421.280	78.060
+8	AreaGb	4.8250	31.4148	BlueNote	Map_Area_G_B-2319	BlueNote - Tutorial Variant	338.080	74.553
+8	AreaGb	7.7908	31.3393	MapPiece	Map_Area_G_B-2315	MapPickable - Tutorial Variant (1)	357.061	74.263
+8	AreaGb	6.8253	29.3143	RedNote	area_g_b_red_note_pickable_wl38	Collectable_RedNote	350.882	66.487
+9	AreaGc	-1.5000	23.4115	BlueNote	Map_Area_G_C-2433	BlueNote - Tutorial Variant (1)	297.600	43.820
+9	AreaGc	7.8003	25.3203	BlueNote	Map_Area_G_C-2435	BlueNote - Tutorial Variant	357.122	51.150
+9	AreaGc	1.2003	23.3224	BlueNote	area_g_c_blue_note_wl34	BlueNote - Tutorial Variant (2)	314.882	43.478
+9	AreaGc	-5.1902	23.5060	MapPiece	Map_Area_G_C-2434	MapPickable - Tutorial Variant (1)	273.983	44.183
+9	AreaGc	1.2098	20.3276	RedNote	Map_Area_G_C-2431	RedNote - Tutorial Variant	314.943	31.978
+10	PaintingB	1.5003	-19.6872	ArmorPiece	PaintingB-2204	ArmorPiece - Tutorial Variant	92.802	20.401
+10	PaintingB	-1.5005	-23.6823	BlueNote	PaintingB-2206	BlueNote - Tutorial Variant	73.597	5.060
+10	PaintingB	-13.5006	-20.6648	RedNote	PaintingB-2208	RedNote - Tutorial Variant	-3.204	16.647
+10	PaintingB	-9.5000	-26.6935	Upgrade	PaintingB-2203	WaterAbility Variant	22.400	-6.503
+11	PaintingC	11.5011	-38.9182	ArmorPiece	PaintingC-2355	ArmorPiece - Tutorial Variant	73.607	-17.606
+11	PaintingC	-3.7995	-34.9341	BlueNote	PaintingC-Item-1	BlueNote - Tutorial Variant 2	-24.317	-2.307
+11	PaintingC	6.8250	-34.9878	RedNote	PaintingC-2354	RedNote - Tutorial Variant	43.680	-2.513
+11	PaintingC	-6.4973	-38.8568	Upgrade	PaintingC-2357	EarthAbility Variant	-41.583	-17.370
+12	PaintingD	11.4947	-44.6753	ArmorPiece	Painting_Area_D-2598	ArmorPiece - Tutorial Variant	54.366	-48.673
+12	PaintingD	-3.7870	-48.6562	BlueNote	DESKTOP4I5A9/1207:3M68	BlueNote - Tutorial Variant	-43.437	-63.960
+12	PaintingD	7.7962	-48.6625	RedNote	DESKTOP4I5A9/1207:3M86	RedNote - Tutorial Variant	30.696	-63.984
+12	PaintingD	-7.5000	-48.6201	Upgrade	DESKTOP4I5A9/1207:M	FireAbility Variant	-67.200	-63.821

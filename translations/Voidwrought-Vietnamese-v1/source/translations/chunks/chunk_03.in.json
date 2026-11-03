@@ -1,0 +1,462 @@
+[
+ {
+  "id": 332,
+  "ctx": "term Data/compendium_mutilant_desc",
+  "en": "Many were the watchers of the stars within the Obsidian Observatory, and equal in number their creations. When calamity struck the City, the last devoted few knelt in the Light beside their mistress. As limb after limb was severed from the whole, they were granted the gift of rebirth."
+ },
+ {
+  "id": 333,
+  "ctx": "term Data/compendium_myrmidon",
+  "en": "Myrmidon"
+ },
+ {
+  "id": 334,
+  "ctx": "term Data/compendium_myrmidon_desc",
+  "en": "The eldritch defenders of ancient royalty, a chosen few blessed by the Flesh of the gods. Their armor remains entirely impervious to the common blade, and the conduit rods pierced through their bodies hum with latent power."
+ },
+ {
+  "id": 335,
+  "ctx": "term Data/compendium_pincerdrone",
+  "en": "Pincer Hulk"
+ },
+ {
+  "id": 336,
+  "ctx": "term Data/compendium_pincerdrone_desc",
+  "en": "These hulking beetles were once but the size of silver coins. Across the centuries, they gestated and became warped by the presence of latent alchemical processes. Now, they roam the Gardens with the same ruthless, territorial disposition they possessed in ages past."
+ },
+ {
+  "id": 337,
+  "ctx": "term Data/compendium_saccule",
+  "en": "Saccule"
+ },
+ {
+  "id": 338,
+  "ctx": "term Data/compendium_saccule_desc",
+  "en": "Boredom is the precursor of creativity, and the depravity pursued within the Court's sealed halls resulted in many horrors. These small, amorphous nodules first rose from chambers of pleasure, hissing and squealing incomprehensibly."
+ },
+ {
+  "id": 339,
+  "ctx": "term Data/compendium_slugsac",
+  "en": "Slugsac"
+ },
+ {
+  "id": 340,
+  "ctx": "term Data/compendium_slugsac_desc",
+  "en": "These slimy gastropods of the undergrowth crawl mindlessly from food source to food source, gestating oozing sacks of volatile liquid upon their backs."
+ },
+ {
+  "id": 341,
+  "ctx": "term Data/compendium_templeguard",
+  "en": "Temple Guard"
+ },
+ {
+  "id": 342,
+  "ctx": "term Data/compendium_templeguard_desc",
+  "en": "Once esteemed guardians of the Gray City, these decrepit husks now eternally patrol its vast tabernacles. Hand-picked from the common children, trained and forged into sharpened tools."
+ },
+ {
+  "id": 343,
+  "ctx": "term Data/compendium_guardcaptain",
+  "en": "Temple Guard Captain"
+ },
+ {
+  "id": 344,
+  "ctx": "term Data/compendium_tender",
+  "en": "Attendant"
+ },
+ {
+  "id": 345,
+  "ctx": "term Data/compendium_tender_desc",
+  "en": "The moment the Court was sealed, its countless servants were condemned to an unlife of singular purpose, to attend and nurture their malformed rulers in perpetuity."
+ },
+ {
+  "id": 346,
+  "ctx": "term Data/compendium_tombling",
+  "en": "Tombling"
+ },
+ {
+  "id": 347,
+  "ctx": "term Data/compendium_tombling_desc",
+  "en": "Life cradled in dead flesh emerges in many forms, desperately seeking an end to a tortured existence."
+ },
+ {
+  "id": 348,
+  "ctx": "term Data/compendium_voidleech",
+  "en": "Void Leech"
+ },
+ {
+  "id": 349,
+  "ctx": "term Data/compendium_voidleech_desc",
+  "en": "The Void was long believed exanimate, a barren womb inhospitable to any and all life. Yet as the first Gate opened to endless dark, a peculiar fauna emerged and began to feast on its newly revealed source of nourishment."
+ },
+ {
+  "id": 350,
+  "ctx": "term Data/compendium_wanderingfossil",
+  "en": "Wandering Fossil"
+ },
+ {
+  "id": 351,
+  "ctx": "term Data/compendium_wanderingfossil_desc",
+  "en": "Life existed within the archipelago long before the First Emergence of the Red Star or the subsequent rise of the Gray City. As the tunnels thaw, creatures long extinct again begin to crawl forth beneath Its Light."
+ },
+ {
+  "id": 352,
+  "ctx": "term Data/compendium_watcher",
+  "en": "Court Ward"
+ },
+ {
+  "id": 353,
+  "ctx": "term Data/compendium_zombie",
+  "en": "Lingering Corpse"
+ },
+ {
+  "id": 354,
+  "ctx": "term Data/compendium_zombie_desc",
+  "en": "Death within the First City is no longer an end. It is instead the horrifying beginning of a new existence."
+ },
+ {
+  "id": 355,
+  "ctx": "term Data/compendium_singing_polyp",
+  "en": "Singing Polyp"
+ },
+ {
+  "id": 356,
+  "ctx": "term Data/compendium_singing_polyp_desc",
+  "en": "As the firmament tore open, shattered fragments rained down upon the world. Over the course of centuries, some of this debris sprouted new life, strange and incomprehensible."
+ },
+ {
+  "id": 357,
+  "ctx": "term Data/compendium_voice",
+  "en": "Voice of the Court"
+ },
+ {
+  "id": 358,
+  "ctx": "term Data/compendium_voice_desc",
+  "en": "The gold-emblazoned envoys of the grand rulers once spoke with the power of their gods, their words attuned to the frequencies of the Void. In time, they became little more than puppets with blackened tongues, consumed by the whispers carried by the Light."
+ },
+ {
+  "id": 359,
+  "ctx": "term Data/compendium_nymph",
+  "en": "Nymph"
+ },
+ {
+  "id": 360,
+  "ctx": "term Data/compendium_nymph_desc",
+  "en": "A gift of life unwanted must still be granted purpose, and the innocence of the young is easily reshaped into eager servitude. "
+ },
+ {
+  "id": 361,
+  "ctx": "term Data/compendium_justicar",
+  "en": "Justicar"
+ },
+ {
+  "id": 362,
+  "ctx": "term Data/compendium_justicar_desc",
+  "en": "Only proven warriors were granted the honor of wearing the ancient ceremonial armors, forged by hands that turned to dust long ago. Once the peacekeepers of the Gray City, the purpose of their blades has shifted to cutting down all who would oppose their old masters."
+ },
+ {
+  "id": 363,
+  "ctx": "term Data/compendium_justicarboss",
+  "en": "The Justicar"
+ },
+ {
+  "id": 364,
+  "ctx": "term Data/compendium_borebit",
+  "en": "Borebit"
+ },
+ {
+  "id": 365,
+  "ctx": "term Data/compendium_borebit_desc",
+  "en": "The magnificent pieces of engineering that once carved the City out of bedrock now drift without purpose."
+ },
+ {
+  "id": 366,
+  "ctx": "term Data/compendium_fiddler",
+  "en": "Envoy"
+ },
+ {
+  "id": 367,
+  "ctx": "term Data/compendium_fiddler_desc",
+  "en": "The learned still debate the origin of these beings, first observed as the Red Star's Light began to shine upon the world. The presence of these enigmatic flutists seems to defy reason, as their incessant melody can be heard beyond even the thickest of stone walls. \n\nMany were those who became so enraptured by the sound that they laid down to listen, never to rise again. Hence it was decreed that such beings must be silenced whenever encountered."
+ },
+ {
+  "id": 368,
+  "ctx": "term Data/compendium_traveler",
+  "en": "Traveler"
+ },
+ {
+  "id": 369,
+  "ctx": "term Data/compendium_traveler_desc",
+  "en": "The expanse of the world pales in comparison to the countless planes that lie beyond its limits. A lucky few are awarded the opportunity to move across all realities, observing anything that might be of interest to the Repository."
+ },
+ {
+  "id": 370,
+  "ctx": "term Data/compendium_neuralparasite",
+  "en": "Neural Parasite"
+ },
+ {
+  "id": 371,
+  "ctx": "term Data/compendium_neuralparasite_desc",
+  "en": "Some things are better left lost to the eons. So the inhabitants of the Repository learned upon their study of the Progenitor's Flesh, collected and categorized like so many other entries. From said Flesh sprouted new life—parasites unheard of that threatened the very foundations of the Repository."
+ },
+ {
+  "id": 372,
+  "ctx": "term Data/compendium_distortionpylon",
+  "en": "Distortion Pylon"
+ },
+ {
+  "id": 373,
+  "ctx": "term Data/compendium_distortionpylon_desc",
+  "en": "The flow of time is but a tool to be utilized, one capable of keeping entropy at bay, preserving ancient scriptures, or keeping intruders suspended until they can be adequately dissected."
+ },
+ {
+  "id": 374,
+  "ctx": "term Data/compendium_copter",
+  "en": "Copter"
+ },
+ {
+  "id": 375,
+  "ctx": "term Data/compendium_copter_desc",
+  "en": "Once mere tools of maintenance, these incessantly buzzing machines now act as a layer of protection against outsiders venturing into their derelict vessel."
+ },
+ {
+  "id": 376,
+  "ctx": "term Data/compendium_urnborn",
+  "en": "Urnborn"
+ },
+ {
+  "id": 377,
+  "ctx": "term Data/compendium_urnborn_desc",
+  "en": "Countless are the offal jars found throughout the Gray City. Once, they held the remains of those deemed too impure to be processed within the sacred vats. Now, they sprout a manner of life that should never have been."
+ },
+ {
+  "id": 378,
+  "ctx": "term Data/compendium_mindless",
+  "en": "Mindless"
+ },
+ {
+  "id": 379,
+  "ctx": "term Data/compendium_mindless_desc",
+  "en": "The earliest of the artificers' constructs, able to perform but the most simple task of mimicking life."
+ },
+ {
+  "id": 380,
+  "ctx": "term Data/compendium_projectiletrap",
+  "en": "Projectile Trap"
+ },
+ {
+  "id": 381,
+  "ctx": "term Data/compendium_ceilingwalker",
+  "en": "Carver"
+ },
+ {
+  "id": 382,
+  "ctx": "term Data/compendium_ceilingwalker_desc",
+  "en": "The many constructs of the Gray City still operate, laboring tirelessly to continually expand its domain."
+ },
+ {
+  "id": 383,
+  "ctx": "term Data/compendium_spiketrap",
+  "en": "Spike Trap"
+ },
+ {
+  "id": 384,
+  "ctx": "term Data/compendium_spirit",
+  "en": "Spirit"
+ },
+ {
+  "id": 385,
+  "ctx": "term Data/compendium_spirit_desc",
+  "en": "Death fled the Gray City long ago; even destroying one's body grants no reprieve beneath the Light of the Red Star. Spirits linger in a world lost to them, lashing out against the unfortunate traveler."
+ },
+ {
+  "id": 386,
+  "ctx": "term Data/compendium_fireslinger",
+  "en": "Fire Slinger"
+ },
+ {
+  "id": 387,
+  "ctx": "term Data/compendium_fireslinger_desc",
+  "en": "These former entertainers of the nobility have become but a mockery of their vocation, shambling about with chained lanterns, lacking the grace displayed in ages past. "
+ },
+ {
+  "id": 388,
+  "ctx": "term Data/compendium_myrmidonboss (+1 more)",
+  "en": "The Myrmidon"
+ },
+ {
+  "id": 389,
+  "ctx": "term Data/compendium_tarspawn",
+  "en": "Spawn of Ichor"
+ },
+ {
+  "id": 390,
+  "ctx": "term Data/compendium_tarspawn_desc",
+  "en": "Wondrous is the power of the gods. From their dead husks, the symbiotic Ichor flowed, coalesced, and slowly reformed into new semblances of life independent of their divine hosts."
+ },
+ {
+  "id": 391,
+  "ctx": "term Data/compendium_sentrystatue",
+  "en": "Guardian Seal"
+ },
+ {
+  "id": 392,
+  "ctx": "term Data/compendium_sentrystatue_desc",
+  "en": "Guardians of the Gray City's esoteric inner pathways, secret chambers, and tabernacles. These enchanted statues keep vigil until they are either broken or time eventually crumbles them to dust."
+ },
+ {
+  "id": 393,
+  "ctx": "term Data/compendium_tick",
+  "en": "Tick"
+ },
+ {
+  "id": 394,
+  "ctx": "term Data/compendium_tick_desc",
+  "en": "Primeval parasites reawakened upon the withdrawal of the ice, extracting whatever nourishment remains within the rotting carcasses littering the Old Waters."
+ },
+ {
+  "id": 395,
+  "ctx": "term Data/compendium_drooler",
+  "en": "Cadaver Eater"
+ },
+ {
+  "id": 396,
+  "ctx": "term Data/compendium_drooler_desc",
+  "en": "A scavenger of old. Its acidic excretions allow it to sustain itself on decomposing flesh and calcified bone alike."
+ },
+ {
+  "id": 397,
+  "ctx": "term Data/compendium_suckler",
+  "en": "Suckler"
+ },
+ {
+  "id": 398,
+  "ctx": "term Data/compendium_suckler_desc",
+  "en": "Their exact classification never quite determined by the Gardens' alchemists, these strange part-man, part-insectoid beings were first spotted lingering around the flora sprouting near the great Salt vats."
+ },
+ {
+  "id": 399,
+  "ctx": "term Data/compendium_birdofparadise",
+  "en": "Bird of Paradise"
+ },
+ {
+  "id": 400,
+  "ctx": "term Data/compendium_birdofparadise_desc",
+  "en": "Once a centerpiece of the Gardens' splendor, these birds have since deteriorated into misshapen shadows of their former selves, losing even their ability to fly. They now merely lumber forward, bedecked in shimmering growths that undulate unnervingly."
+ },
+ {
+  "id": 401,
+  "ctx": "term Data/compendium_chakram",
+  "en": "Blade-sworn"
+ },
+ {
+  "id": 402,
+  "ctx": "term Data/compendium_chakram_desc",
+  "en": "Warrior-priests trained in the ancient arts of war of faraway lands. Their influence once spread to all corners of the City, sharp chakrams equal spectacle and feared tool of death."
+ },
+ {
+  "id": 403,
+  "ctx": "term Data/compendium_golem",
+  "en": "Golem"
+ },
+ {
+  "id": 404,
+  "ctx": "term Data/compendium_golem_desc",
+  "en": "Of the sculptures created by the Light of the Red Star, these giant beings of rock and seared flesh remain the mightiest. Roaming the Surface with rigid, purposeful strides, they display only bestial intelligence, clashing with others of their kind in struggles for dominance."
+ },
+ {
+  "id": 405,
+  "ctx": "term Data/compendium_charger",
+  "en": "Charger"
+ },
+ {
+  "id": 406,
+  "ctx": "term Data/compendium_charger_desc",
+  "en": "Horrific imitations of life blunder over the shattered steppes and seared rocks of the Surface, hurling themselves toward anything they perceive, as if desperate to discover the purpose of their aimless existence."
+ },
+ {
+  "id": 407,
+  "ctx": "term Data/compendium_beak",
+  "en": "Beak"
+ },
+ {
+  "id": 408,
+  "ctx": "term Data/compendium_beak_desc",
+  "en": "Neither truly alive nor dead, this misshapen being drags its oversized frame forward apathetically across the seared rock. Upon encountering life, it tips over clumsily, aiming to crush its foe in an attempt to attack—or perhaps merely to defend itself."
+ },
+ {
+  "id": 409,
+  "ctx": "term Data/compendium_overseer",
+  "en": "Overseer"
+ },
+ {
+  "id": 410,
+  "ctx": "term Data/compendium_overseer_desc",
+  "en": "Floating silently through the red skies, this otherwordly race of beings seems to shepherd and tend to the multitude of new life emerging upon the Surface."
+ },
+ {
+  "id": 411,
+  "ctx": "term Data/compendium_moldling",
+  "en": "Moldling"
+ },
+ {
+  "id": 412,
+  "ctx": "term Data/compendium_moldling_desc",
+  "en": "Of the many vessels offered to the great Salt vats, not all were put to holy purpose. As the City crumbled, many were simply left to fester, reclaimed by the undergrowth. In time, some again rose, carried by root, fungi, and mold, wandering the overgrown Gardens in an unnatural parody of life."
+ },
+ {
+  "id": 413,
+  "ctx": "term Data/compendium_antiquarian",
+  "en": "Antiquarian"
+ },
+ {
+  "id": 414,
+  "ctx": "term Data/compendium_antiquarian_desc",
+  "en": "Tall, spindly creatures of equal parts organism and machine that clatter through the endless Repository with great purpose. They seem aware of countless planes at once, interacting with objects and beings unseen."
+ },
+ {
+  "id": 415,
+  "ctx": "term Data/compendium_dendrite",
+  "en": "Dendrite"
+ },
+ {
+  "id": 416,
+  "ctx": "term Data/compendium_dendrite_desc",
+  "en": "That which some are willing to sacrifice to become part of a greater whole. A singular bundle of nerves bereft of traditional senses, this life form has unlocked the ability to draw upon power from spaces unseen."
+ },
+ {
+  "id": 417,
+  "ctx": "term Data/compendium_floater",
+  "en": "Floater"
+ },
+ {
+  "id": 418,
+  "ctx": "term Data/compendium_floater_desc",
+  "en": "This strange native to the Void drifts without purpose, merely appearing to glide through its endless expanses in great numbers."
+ },
+ {
+  "id": 419,
+  "ctx": "term Data/compendium_chronicler",
+  "en": "Chronicler"
+ },
+ {
+  "id": 420,
+  "ctx": "term Data/compendium_chronicler_desc",
+  "en": "Believed to be the architects of the Repository of the Unknown, these beings are carried by innumerable appendices as they tend to their endless halls of knowledge. While their origin remains an enigma, they seem to command unimaginable power. Obscure depictions of their forms can be found within even the oldest of temples."
+ },
+ {
+  "id": 421,
+  "ctx": "term Data/compendium_snapper",
+  "en": "Snapper"
+ },
+ {
+  "id": 422,
+  "ctx": "term Data/compendium_snapper_desc",
+  "en": "The Snapper is believed to be a wily creature, originally part of the vast waters surrounding the archipelago. Lacking most senses, it does not appear to take notice of the world around it as its brood engages in displays of synchronized motion."
+ },
+ {
+  "id": 423,
+  "ctx": "term Data/compendium_emissary",
+  "en": "Emissary"
+ }
+]

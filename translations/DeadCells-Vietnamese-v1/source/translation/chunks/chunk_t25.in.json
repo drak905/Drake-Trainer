@@ -1,0 +1,409 @@
+[
+{
+"id": 3299,
+"en": "Trap damage is capped at ::prct::% of your max HP. When hit by a trap your movement speed increases by ::prct2::% for ::duration:: sec."
+},
+{
+"id": 3301,
+"en": "Once per biome, if your health falls below ::prct::%, a force field protects you for ::duration:: sec.",
+"ctx": "U34_P_DISENGAGE_GAMEPLAYDESC"
+},
+{
+"id": 3303,
+"en": "Execute mobs under ::prct::% health. Effect halved for bosses."
+},
+{
+"id": 3304,
+"en": "Instinct of the Master of Arms"
+},
+{
+"id": 3305,
+"en": "{Critical hits@CC} reduce skill cooldowns by ::actcdr:: sec."
+},
+{
+"id": 3307,
+"en": "Ammo for your weapons is now ::power:: times what it was."
+},
+{
+"id": 3309,
+"en": "Lose gold instead of health when hit. The gold lost is proportional to the health loss prevented.",
+"ctx": "U28_P_GOLDSHIELD_GAMEPLAYDESC"
+},
+{
+"id": 3311,
+"en": "Accumulate bonus gold for every enemy killed while you have an active speed boost and cash it in when it ends.",
+"ctx": "U28_P_GOLDSPEED_GAMEPLAYDESC"
+},
+{
+"id": 3313,
+"en": "Gain ::duration:: gold per health point you lose.",
+"ctx": "U28_P_GOLDPERDAMAGE_GAMEPLAYDESC"
+},
+{
+"id": 3315,
+"en": "Turns the next item picked legendary. Cannot be removed once activated.",
+"ctx": "U31_P_WISHES_GAMEPLAYDESC"
+},
+{
+"id": 3317,
+"en": "Cannot be removed. Let's hope it was worth it.",
+"ctx": "U31_P_WISHESDEPLETED_GAMEPLAYDESC"
+},
+{
+"id": 3319,
+"en": "Your health flask is has infinite charges but also curses you ::count:: times each time you use it.",
+"ctx": "U35_P_CURSEDFLASK_GAMEPLAYDESC"
+},
+{
+"id": 3321,
+"en": "Upon being dealt fatal damage, you stay alive for ::duration:: seconds. If you kill any enemy while under this effect, you get back to 1 health point. Otherwise, when the effect disappears or you get hit while under it, you instantly die without any sort of protection applicable.",
+"ctx": "U35_P_DAMNEDVIGOR_GAMEPLAYDESC"
+},
+{
+"id": 3323,
+"en": "You deal ::prct::% more damage as long as you are cursed. This bonus is increased by ::prct2::% per curse stack you have.",
+"ctx": "U35_P_DEMONICFORCE_GAMEPLAYDESC"
+},
+{
+"id": 3325,
+"en": "You went through a lot with this one, and will most likely go through a lot more."
+},
+{
+"id": 3327,
+"en": "You definitely won't go unnoticed wearing this."
+},
+{
+"id": 3329,
+"en": "Monkey tail not included."
+},
+{
+"id": 3331,
+"en": "Become one with the shadows..."
+},
+{
+"id": 3333,
+"en": "Ready for Halloween."
+},
+{
+"id": 3335,
+"en": "For the sewer dwellers."
+},
+{
+"id": 3337,
+"en": "The last wearer left you some cookie crumbs."
+},
+{
+"id": 3339,
+"en": "Invisible among the fishes."
+},
+{
+"id": 3341,
+"en": "Climb all the way back down the social ladder."
+},
+{
+"id": 3343,
+"en": "Made of the purest purple."
+},
+{
+"id": 3345,
+"en": "Stage fright be gone!"
+},
+{
+"id": 3347,
+"en": "Shamans are always stronger in the shadows."
+},
+{
+"id": 3349,
+"en": "Nobody remembers where it comes from."
+},
+{
+"id": 3351,
+"en": "An outfit for those with heart."
+},
+{
+"id": 3352,
+"en": "A Thousand and One Nights Outfit"
+},
+{
+"id": 3353,
+"en": "Magic lamp not included."
+},
+{
+"id": 3355,
+"en": "An outfit for fighting in the streets."
+},
+{
+"id": 3357,
+"en": "The dungeoneer's traditional outfit."
+},
+{
+"id": 3359,
+"en": "For wise people only."
+},
+{
+"id": 3361,
+"en": "Stealth is for losers."
+},
+{
+"id": 3363,
+"en": "Prisoner Bobby's outfit."
+},
+{
+"id": 3365,
+"en": "W3 4ll h4ve 0ur d4rk sid3."
+},
+{
+"id": 3367,
+"en": "The arrow is mightier than the sword!"
+},
+{
+"id": 3369,
+"en": "Smells of hot sand and desert nights."
+},
+{
+"id": 3371,
+"en": "A DRM-free outfit !"
+},
+{
+"id": 3373,
+"en": "Beret and moustache sold separately."
+},
+{
+"id": 3375,
+"en": "Happy holidays!"
+},
+{
+"id": 3377,
+"en": "Get the green thumb."
+},
+{
+"id": 3379,
+"en": "Delicious, fried, sauteed or baked. Don't forget the sauce."
+},
+{
+"id": 3381,
+"en": "People are strange, when you're a stranger..."
+},
+{
+"id": 3383,
+"en": "A perfect reproduction of the different shades of mud."
+},
+{
+"id": 3385,
+"en": "For when you want an angry mob chasing you."
+},
+{
+"id": 3387,
+"en": "Average life expectancy: 3 minutes."
+},
+{
+"id": 3389,
+"en": "Really too decorated and pompous for working in the dirt."
+},
+{
+"id": 3393,
+"en": "The right outfit in the wrong place can make all the difference in the world."
+},
+{
+"id": 3395,
+"en": "Just like a second skin..."
+},
+{
+"id": 3397,
+"en": "Like a lighthouse amidst the tempest!"
+},
+{
+"id": 3399,
+"en": "Never stop being yourself."
+},
+{
+"id": 3401,
+"en": "The shoe is on the other bat..."
+},
+{
+"id": 3403,
+"en": "Your enemies will stand bolt upright."
+},
+{
+"id": 3405,
+"en": "People will lose their heads over this..."
+},
+{
+"id": 3407,
+"en": "Royal armor with class."
+},
+{
+"id": 3409,
+"en": "Classy, ever so classy."
+},
+{
+"id": 3411,
+"en": "You've got the Concierge under your skin!"
+},
+{
+"id": 3417,
+"en": "Do you like tentacles?"
+},
+{
+"id": 3423,
+"en": "The time, bespoke of course."
+},
+{
+"id": 3429,
+"en": "Your very own oversized suit, David Byrne-style!"
+},
+{
+"id": 3434,
+"en": "The Hand of the King Outfit"
+},
+{
+"id": 3435,
+"en": "One outfit to protect them all."
+},
+{
+"id": 3436,
+"en": "Loyal Hand of the King Outfit"
+},
+{
+"id": 3437,
+"en": "Incorruptible Hand of the King Outfit"
+},
+{
+"id": 3438,
+"en": "Faithful Hand of the King Outfit"
+},
+{
+"id": 3439,
+"en": "Devoted Hand of the King Outfit"
+},
+{
+"id": 3441,
+"en": "\"I've tasted blood and I want more!\""
+},
+{
+"id": 3443,
+"en": "Special collector's edition Outfit..."
+},
+{
+"id": 3445,
+"en": "Make sure you get the head out."
+},
+{
+"id": 3451,
+"en": "There are many paths that lead to your opponent's death. Taking path to the death of an innocent, for example..."
+},
+{
+"id": 3453,
+"en": "Nothing is too fancy for a flower."
+},
+{
+"id": 3455,
+"en": "Time to harvest!"
+},
+{
+"id": 3456,
+"en": "Wicked Scarecrow of the West Outfit"
+},
+{
+"id": 3457,
+"en": "Oh, what a world! What a world!"
+},
+{
+"id": 3459,
+"en": "So friendly it actually attracts birds!"
+},
+{
+"id": 3461,
+"en": "Fear the Green Reaper."
+},
+{
+"id": 3463,
+"en": "Do you have a minute to talk about our Lord and Saviour?"
+},
+{
+"id": 3465,
+"en": "Garb sported by the lowliest of achievers..."
+},
+{
+"id": 3467,
+"en": "All eyes will be on you..."
+},
+{
+"id": 3469,
+"en": "A timeless style..."
+},
+{
+"id": 3471,
+"en": "You'll be larger than life in this!"
+},
+{
+"id": 3472,
+"en": "Flawless Hand of the King Outfit"
+},
+{
+"id": 3473,
+"en": "Only for the most handy of handymen."
+},
+{
+"id": 3475,
+"en": "You'll be tickled pink by this outfit!"
+},
+{
+"id": 3477,
+"en": "That's Lord Greenthumb to you..."
+},
+{
+"id": 3479,
+"en": "No you can't eat your own nose for HP."
+},
+{
+"id": 3481,
+"en": "The legendary outfit of an ephemeral creature that illegally enters people's homes to leave random objects there."
+},
+{
+"id": 3483,
+"en": "No mind to think. No will to break. No voice to cry suffering.",
+"ctx": "U26_HKSKIN_GAMEPLAYDESC"
+},
+{
+"id": 3485,
+"en": "The armor of the last survivor of some foreign holy order.",
+"ctx": "U26_BLASPHEMOUSSKIN_GAMEPLAYDESC"
+},
+{
+"id": 3487,
+"en": "The outfit of the Chosen Juan.",
+"ctx": "U26_GUACSKIN_GAMEPLAYDESC"
+},
+{
+"id": 3489,
+"en": "Belonged to the cutest but fiercest member of the Demon King's army.",
+"ctx": "U26_SKULSKIN_GAMEPLAYDESC"
+},
+{
+"id": 3491,
+"en": "Worn by a collector of forgotten knowledge, lost technologies and broken histories",
+"ctx": "U26_HLDSKIN_GAMEPLAYDESC"
+},
+{
+"id": 3493,
+"en": "Snakemen. Why did it have to be snakemen?",
+"ctx": "U26_CODGSKIN_GAMEPLAYDESC"
+},
+{
+"id": 3495,
+"en": "An exotic armor from another universe."
+},
+{
+"id": 3497,
+"en": "Moist and yucky on the inside"
+},
+{
+"id": 3503,
+"en": "\"And I love what you do\""
+},
+{
+"id": 3505,
+"en": "What an elegant silver lining!"
+}
+]

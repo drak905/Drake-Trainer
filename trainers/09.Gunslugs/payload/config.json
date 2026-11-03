@@ -1,0 +1,14 @@
+{
+   "platform": "windows",
+   "jdk": "jre",
+   "executable": "gunslugs",
+   "appjar": "gunslugs.dat",
+   "classpath": [
+      "gunslugs-trainer.jar",
+      "gunslugs.dat"
+   ],
+   "mainClass": "com/orangepixel/gunslugs/Main",
+   "vmArgs": [
+      "-Xmx1G"
+   ]
+}

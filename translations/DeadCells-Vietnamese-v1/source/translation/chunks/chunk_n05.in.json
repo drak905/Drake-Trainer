@@ -1,0 +1,820 @@
+[
+{
+"id": 3032,
+"en": "Distillery Key"
+},
+{
+"id": 3033,
+"en": "Lighthouse Key"
+},
+{
+"id": 3034,
+"en": "Michel's Key"
+},
+{
+"id": 3035,
+"en": "Forked Key"
+},
+{
+"id": 3036,
+"en": "Crowned Key"
+},
+{
+"id": 3037,
+"en": "Petrified Key",
+"ctx": "DLCP_PETRIFIED_KEY_NAME"
+},
+{
+"id": 3042,
+"en": "Scroll Fragment"
+},
+{
+"id": 3046,
+"en": "Map part"
+},
+{
+"id": 3047,
+"en": "Mysterious map"
+},
+{
+"id": 3048,
+"en": "Red Pass",
+"ctx": "U28_BANK_FLOOR1_KEYCARD"
+},
+{
+"id": 3050,
+"en": "Blue Pass",
+"ctx": "U28_BANK_FLOOR2_KEYCARD"
+},
+{
+"id": 3052,
+"en": "Green Pass",
+"ctx": "U28_BANK_FLOOR3_KEYCARD"
+},
+{
+"id": 3054,
+"en": "Ruby Key",
+"ctx": "U32_STS_MERCHANT_KEY"
+},
+{
+"id": 3056,
+"en": "Emerald Key",
+"ctx": "U32_STS_ELITE_KEY"
+},
+{
+"id": 3058,
+"en": "Sapphire Key",
+"ctx": "U32_STS_ALTAR_KEY"
+},
+{
+"id": 3060,
+"en": "Ribonned key",
+"ctx": "DLCP_MARIA_CAT_KEY"
+},
+{
+"id": 3062,
+"en": "Vine Rune"
+},
+{
+"id": 3064,
+"en": "Teleportation Rune"
+},
+{
+"id": 3066,
+"en": "Challenger's Rune"
+},
+{
+"id": 3068,
+"en": "Customization Rune"
+},
+{
+"id": 3070,
+"en": "Ram Rune"
+},
+{
+"id": 3072,
+"en": "Spider Rune"
+},
+{
+"id": 3074,
+"en": "Homunculus Rune"
+},
+{
+"id": 3076,
+"en": "Explorer's Rune"
+},
+{
+"id": 3078,
+"en": "Traveler's Rune"
+},
+{
+"id": 3082,
+"en": "Health Flask I"
+},
+{
+"id": 3084,
+"en": "Health Flask II"
+},
+{
+"id": 3086,
+"en": "Health Flask III"
+},
+{
+"id": 3088,
+"en": "Health Flask IV"
+},
+{
+"id": 3090,
+"en": "Gold Reserves I"
+},
+{
+"id": 3092,
+"en": "Gold Reserves II"
+},
+{
+"id": 3093,
+"en": "Gold Reserves III"
+},
+{
+"id": 3094,
+"en": "Gold Reserves IV"
+},
+{
+"id": 3095,
+"en": "Gold Reserves V"
+},
+{
+"id": 3096,
+"en": "Random Starter Bow"
+},
+{
+"id": 3098,
+"en": "Random Starter Shield"
+},
+{
+"id": 3100,
+"en": "Random Melee Weapon"
+},
+{
+"id": 3102,
+"en": "Recycling I"
+},
+{
+"id": 3104,
+"en": "Recycling II"
+},
+{
+"id": 3106,
+"en": "Restock"
+},
+{
+"id": 3108,
+"en": "Merchandise Categories"
+},
+{
+"id": 3110,
+"en": "The Specialist's Showroom"
+},
+{
+"id": 3112,
+"en": "Hunter's Mirror"
+},
+{
+"id": 3116,
+"en": "Boss Rush",
+"ctx": "U31_BOSSRUSH_UNLOCK"
+},
+{
+"id": 3118,
+"en": "Recycling tubes"
+},
+{
+"id": 3120,
+"en": "Backpack"
+},
+{
+"id": 3122,
+"en": "Training Room Key"
+},
+{
+"id": 3124,
+"en": "Advanced Forge I"
+},
+{
+"id": 3126,
+"en": "Stem Cell I"
+},
+{
+"id": 3128,
+"en": "Stem Cell II"
+},
+{
+"id": 3129,
+"en": "Stem Cell III"
+},
+{
+"id": 3130,
+"en": "Stem Cell IV"
+},
+{
+"id": 3131,
+"en": "Boss Cell V"
+},
+{
+"id": 3132,
+"en": "Scroll of Power"
+},
+{
+"id": 3134,
+"en": "Assassin’s Scroll"
+},
+{
+"id": 3136,
+"en": "Minotaur’s Scroll"
+},
+{
+"id": 3138,
+"en": "Guardian’s Scroll"
+},
+{
+"id": 3140,
+"en": "Epic Scroll of Power"
+},
+{
+"id": 3145,
+"en": "Choice of Power"
+},
+{
+"id": 3146,
+"en": "Choice of the Assassin"
+},
+{
+"id": 3147,
+"en": "Choice of the Minotaur"
+},
+{
+"id": 3148,
+"en": "Choice of the Guardian"
+},
+{
+"id": 3149,
+"en": "Dead Man's Bag"
+},
+{
+"id": 3151,
+"en": "Residual cells"
+},
+{
+"id": 3153,
+"en": "NOT MEANT TO BE SEEN"
+},
+{
+"id": 3154,
+"en": "Kebab"
+},
+{
+"id": 3156,
+"en": "Drumstick"
+},
+{
+"id": 3157,
+"en": "Carrot"
+},
+{
+"id": 3158,
+"en": "Big ol' radish"
+},
+{
+"id": 3159,
+"en": "Guts"
+},
+{
+"id": 3160,
+"en": "Monster's eye"
+},
+{
+"id": 3161,
+"en": "Cherries"
+},
+{
+"id": 3162,
+"en": "Watermelon"
+},
+{
+"id": 3163,
+"en": "Pastry"
+},
+{
+"id": 3164,
+"en": "Turkey"
+},
+{
+"id": 3167,
+"en": "Small Med-kit"
+},
+{
+"id": 3168,
+"en": "Big Med-kit"
+},
+{
+"id": 3169,
+"en": "Gruyère"
+},
+{
+"id": 3170,
+"en": "Camembert"
+},
+{
+"id": 3171,
+"en": "Flask Recharge"
+},
+{
+"id": 3173,
+"en": "DEPRECATED",
+"ctx": "DEPRECATED"
+},
+{
+"id": 3174,
+"en": "Cough Syrup"
+},
+{
+"id": 3176,
+"en": "Small Cough Syrup"
+},
+{
+"id": 3178,
+"en": "Adds a points bonus"
+},
+{
+"id": 3179,
+"en": "A scrap of parchment"
+},
+{
+"id": 3180,
+"en": "Liposuction"
+},
+{
+"id": 3182,
+"en": "Fragment of the Philosopher's Stone"
+},
+{
+"id": 3184,
+"en": "Ruby"
+},
+{
+"id": 3186,
+"en": "Blue Sapphire"
+},
+{
+"id": 3188,
+"en": "Amethyst"
+},
+{
+"id": 3190,
+"en": "Malachite"
+},
+{
+"id": 3192,
+"en": "Shiny Pebble"
+},
+{
+"id": 3194,
+"en": "Ingot"
+},
+{
+"id": 3196,
+"en": "Gold Tooth"
+},
+{
+"id": 3198,
+"en": "Gold Cell"
+},
+{
+"id": 3200,
+"en": "Golden Arrow"
+},
+{
+"id": 3205,
+"en": "Corrupted Artifact"
+},
+{
+"id": 3207,
+"en": "Killer instinct"
+},
+{
+"id": 3209,
+"en": "Combo"
+},
+{
+"id": 3211,
+"en": "Vengeance"
+},
+{
+"id": 3215,
+"en": "Open wounds"
+},
+{
+"id": 3217,
+"en": "Tainted Flask"
+},
+{
+"id": 3219,
+"en": "Adrenaline"
+},
+{
+"id": 3221,
+"en": "Frenzy"
+},
+{
+"id": 3223,
+"en": "Scheme"
+},
+{
+"id": 3226,
+"en": "Initiative"
+},
+{
+"id": 3228,
+"en": "Predator"
+},
+{
+"id": 3230,
+"en": "Porcupack"
+},
+{
+"id": 3232,
+"en": "Support"
+},
+{
+"id": 3234,
+"en": "Parting Gift"
+},
+{
+"id": 3236,
+"en": "Tranquility"
+},
+{
+"id": 3238,
+"en": "Ripper"
+},
+{
+"id": 3240,
+"en": "Ranger's gear"
+},
+{
+"id": 3242,
+"en": "Barbed Tips"
+},
+{
+"id": 3244,
+"en": "Point Blank"
+},
+{
+"id": 3247,
+"en": "Networking"
+},
+{
+"id": 3249,
+"en": "Crow's Foot"
+},
+{
+"id": 3251,
+"en": "Tactical retreat"
+},
+{
+"id": 3253,
+"en": "Hunter's instinct"
+},
+{
+"id": 3255,
+"en": "Acrobatipack"
+},
+{
+"id": 3257,
+"en": "Soldier's Resistance"
+},
+{
+"id": 3259,
+"en": "Berserker"
+},
+{
+"id": 3261,
+"en": "Blind faith"
+},
+{
+"id": 3263,
+"en": "Counterattack"
+},
+{
+"id": 3265,
+"en": "What Doesn't Kill Me"
+},
+{
+"id": 3267,
+"en": "Necromancy"
+},
+{
+"id": 3269,
+"en": "Extended Healing"
+},
+{
+"id": 3271,
+"en": "Gastronomy"
+},
+{
+"id": 3273,
+"en": "Spite"
+},
+{
+"id": 3275,
+"en": "Heart of Ice"
+},
+{
+"id": 3277,
+"en": "Kill Rhythm"
+},
+{
+"id": 3279,
+"en": "Armadillopack"
+},
+{
+"id": 3281,
+"en": "Ygdar Orus Li Ox"
+},
+{
+"id": 3284,
+"en": "Frostbite"
+},
+{
+"id": 3286,
+"en": "Recovery"
+},
+{
+"id": 3288,
+"en": "Emergency Triage"
+},
+{
+"id": 3292,
+"en": "Dead Inside"
+},
+{
+"id": 3294,
+"en": "Alienation"
+},
+{
+"id": 3296,
+"en": "Acceptance"
+},
+{
+"id": 3298,
+"en": "Masochist"
+},
+{
+"id": 3300,
+"en": "Disengagement"
+},
+{
+"id": 3302,
+"en": "No Mercy"
+},
+{
+"id": 3306,
+"en": "Ammo"
+},
+{
+"id": 3308,
+"en": "Gold Plating",
+"ctx": "U28_P_GOLDSHIELD"
+},
+{
+"id": 3310,
+"en": "Get Rich Quick",
+"ctx": "U28_P_GOLDSPEED"
+},
+{
+"id": 3312,
+"en": "Midas' Blood",
+"ctx": "U28_P_GOLDPERDAMAGE"
+},
+{
+"id": 3314,
+"en": "Wish",
+"ctx": "U31_P_WISHES"
+},
+{
+"id": 3316,
+"en": "Wished",
+"ctx": "U31_P_WISHESDEPLETED"
+},
+{
+"id": 3318,
+"en": "Cursed Flask",
+"ctx": "U35_P_CURSEDFLASK"
+},
+{
+"id": 3320,
+"en": "Damned Vigor",
+"ctx": "U35_P_DAMNEDVIGOR"
+},
+{
+"id": 3322,
+"en": "Demon Strength",
+"ctx": "U35_P_DEMONICFORCE"
+},
+{
+"id": 3324,
+"en": "Classic Outfit"
+},
+{
+"id": 3326,
+"en": "Golden Outfit"
+},
+{
+"id": 3328,
+"en": "Legendary Warrior's Outfit"
+},
+{
+"id": 3330,
+"en": "Ninja Outfit"
+},
+{
+"id": 3332,
+"en": "Ghost Outfit"
+},
+{
+"id": 3334,
+"en": "Donatello Outfit"
+},
+{
+"id": 3336,
+"en": "Festive Outfit"
+},
+{
+"id": 3338,
+"en": "Fisherman's Outfit"
+},
+{
+"id": 3340,
+"en": "Skeleton Outfit"
+},
+{
+"id": 3342,
+"en": "Carduus Outfit"
+},
+{
+"id": 3344,
+"en": "Aphrodite Outfit"
+},
+{
+"id": 3346,
+"en": "Shaman Outfit"
+},
+{
+"id": 3348,
+"en": "Cloud Outfit"
+},
+{
+"id": 3350,
+"en": "Drifter Outfit"
+},
+{
+"id": 3354,
+"en": "Dictator Outfit"
+},
+{
+"id": 3356,
+"en": "Warrior Outfit"
+},
+{
+"id": 3358,
+"en": "Mage Outfit"
+},
+{
+"id": 3360,
+"en": "Neon Outfit"
+},
+{
+"id": 3362,
+"en": "Bobby Outfit"
+},
+{
+"id": 3364,
+"en": "Demon Outfit"
+},
+{
+"id": 3366,
+"en": "Robin Hood Outfit"
+},
+{
+"id": 3368,
+"en": "Desert Dweller Outfit"
+},
+{
+"id": 3370,
+"en": "Galaxy Outfit"
+},
+{
+"id": 3372,
+"en": "Baguette Outfit"
+},
+{
+"id": 3374,
+"en": "Flying Alcoholic Outfit"
+},
+{
+"id": 3376,
+"en": "Gardener's Outfit"
+},
+{
+"id": 3378,
+"en": "Mushroom Boi's Outfit"
+},
+{
+"id": 3380,
+"en": "Mushroom King Outfit"
+},
+{
+"id": 3382,
+"en": "Banished's Outfit"
+},
+{
+"id": 3384,
+"en": "Blowgunner's Outfit"
+},
+{
+"id": 3386,
+"en": "Tick Trainer's Outfit"
+},
+{
+"id": 3388,
+"en": "The Royal Gardener's Outfit"
+},
+{
+"id": 3390,
+"en": "Retro Outfit"
+},
+{
+"id": 3391,
+"en": "Batteries not included"
+},
+{
+"id": 3392,
+"en": "HEV Outfit"
+},
+{
+"id": 3394,
+"en": "Lizard Outfit"
+},
+{
+"id": 3396,
+"en": "Apostate Outfit"
+},
+{
+"id": 3398,
+"en": "Almost-Yourself Outfit"
+},
+{
+"id": 3400,
+"en": "Kamikaze Outfit"
+},
+{
+"id": 3402,
+"en": "Arbalester's Outfit"
+},
+{
+"id": 3404,
+"en": "Blade Master's Outfit"
+},
+{
+"id": 3406,
+"en": "King Outfit"
+},
+{
+"id": 3408,
+"en": "White King Outfit"
+},
+{
+"id": 3410,
+"en": "Classic Concierge Outfit"
+},
+{
+"id": 3412,
+"en": "Piccolo Concierge Outfit"
+},
+{
+"id": 3413,
+"en": "Misunderstood Concierge Outfit"
+},
+{
+"id": 3414,
+"en": "Ascended Concierge Outfit"
+},
+{
+"id": 3415,
+"en": "Ultimate Concierge Outfit"
+},
+{
+"id": 3416,
+"en": "Classic Conjunctivius Outfit"
+}
+]

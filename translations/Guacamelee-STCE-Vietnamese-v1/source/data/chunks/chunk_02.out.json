@@ -1,0 +1,394 @@
+[
+ {
+  "id": 97,
+  "vi": "Temple1PaxPrime"
+ },
+ {
+  "id": 98,
+  "vi": "Temple3AlphaBackup"
+ },
+ {
+  "id": 99,
+  "vi": "Xtabay_Battle_Teddy_Before"
+ },
+ {
+  "id": 100,
+  "vi": "Đại Bàn Thờ"
+ },
+ {
+  "id": 101,
+  "vi": "Đài quan sát"
+ },
+ {
+  "id": 102,
+  "vi": "Hang ẩn của Jaguar"
+ },
+ {
+  "id": 103,
+  "vi": "MEGA_Xtabay_Battle"
+ },
+ {
+  "id": 104,
+  "vi": "Nhà thờ"
+ },
+ {
+  "id": 105,
+  "vi": "CutScene_mask"
+ },
+ {
+  "id": 106,
+  "vi": "Ngọn cây"
+ },
+ {
+  "id": 107,
+  "vi": "Cánh đồng Agave"
+ },
+ {
+  "id": 108,
+  "vi": "Lago de taco"
+ },
+ {
+  "id": 109,
+  "vi": "Rừng del Chivo"
+ },
+ {
+  "id": 110,
+  "vi": "Santa Luchita"
+ },
+ {
+  "id": 111,
+  "vi": "Tule Tree"
+ },
+ {
+  "id": 112,
+  "vi": "Đền Mưa"
+ },
+ {
+  "id": 113,
+  "vi": "Caverna del Pollo"
+ },
+ {
+  "id": 114,
+  "vi": "Desierto Caliente"
+ },
+ {
+  "id": 115,
+  "vi": "Chac Mool"
+ },
+ {
+  "id": 116,
+  "vi": "Thành phố de los Muertos"
+ },
+ {
+  "id": 117,
+  "vi": "Đền Chiến Tranh"
+ },
+ {
+  "id": 118,
+  "vi": "Sierra Morena"
+ },
+ {
+  "id": 119,
+  "vi": "Cueva de la Locura"
+ },
+ {
+  "id": 120,
+  "vi": "Đền Lớn"
+ },
+ {
+  "id": 121,
+  "vi": "Canal de las Flores"
+ },
+ {
+  "id": 122,
+  "vi": "Pico de Gallo"
+ },
+ {
+  "id": 123,
+  "vi": "Casa de Juan"
+ },
+ {
+  "id": 124,
+  "vi": "La Mansión\\ndel Presidente"
+ },
+ {
+  "id": 125,
+  "vi": "Rừng\\ndel Chivo"
+ },
+ {
+  "id": 126,
+  "vi": "Đền\\nMưa"
+ },
+ {
+  "id": 127,
+  "vi": "Sierra\\nMorena"
+ },
+ {
+  "id": 128,
+  "vi": "Caverna\\ndel Pollo"
+ },
+ {
+  "id": 129,
+  "vi": "Đền\\nLớn"
+ },
+ {
+  "id": 130,
+  "vi": "Desierto\\nCaliente"
+ },
+ {
+  "id": 131,
+  "vi": "Đền\\nChiến Tranh"
+ },
+ {
+  "id": 132,
+  "vi": "Canal de\\nlas Flores"
+ },
+ {
+  "id": 133,
+  "vi": "Đã cập nhật mục tiêu"
+ },
+ {
+  "id": 134,
+  "vi": "Làng de los Pollos"
+ },
+ {
+  "id": 135,
+  "vi": "Sườn núi"
+ },
+ {
+  "id": 136,
+  "vi": "{SQUARE} Xem chiêu"
+ },
+ {
+  "id": 137,
+  "vi": "Giữ {SQUARE}/CTRL: +/- 10"
+ },
+ {
+  "id": 138,
+  "vi": "Giữ {TRIANGLE}/SHIFT: +/- 100"
+ },
+ {
+  "id": 139,
+  "vi": "Cài đặt màn hình đã được thay đổi.\\nBạn có muốn áp dụng ngay bây giờ không?"
+ },
+ {
+  "id": 140,
+  "vi": "Giữ cài đặt màn hình này?"
+ },
+ {
+  "id": 141,
+  "vi": "Đóng sau"
+ },
+ {
+  "id": 142,
+  "vi": "P1 Máu: %d / %d  Tiền: $%d  P2 Máu: %d / %d"
+ },
+ {
+  "id": 143,
+  "vi": "P1 DT: %d / %d    P2 DT: %d / %d"
+ },
+ {
+  "id": 144,
+  "vi": "Peso"
+ },
+ {
+  "id": 145,
+  "vi": "Bạc"
+ },
+ {
+  "id": 146,
+  "vi": " L%d"
+ },
+ {
+  "id": 147,
+  "vi": "Bro ơi, \\ncậu cháy túi rồi."
+ },
+ {
+  "id": 148,
+  "vi": "Bro ơi, \\ncậu đã có món này rồi"
+ },
+ {
+  "id": 149,
+  "vi": "Cậu chắc muốn món này chứ bro? \\n"
+ },
+ {
+  "id": 150,
+  "vi": "Cậu ổn với vụ mua này chứ bro? \\n"
+ },
+ {
+  "id": 151,
+  "vi": "\\nvới giá $ "
+ },
+ {
+  "id": 152,
+  "vi": "{MENUCONFIRM} Mua"
+ },
+ {
+  "id": 153,
+  "vi": "{MENUCONFIRM} Mua  {MENUCANCEL} Thoát"
+ },
+ {
+  "id": 154,
+  "vi": "Nhận một Mảnh Máu \\n3 Mảnh Máu sẽ cho bạn thêm máu tối đa."
+ },
+ {
+  "id": 155,
+  "vi": "Làm kẻ địch yếu đi nhanh hơn. \\nKẻ địch cần ít đòn hơn trước khi có thể bị ném."
+ },
+ {
+  "id": 156,
+  "vi": "Dùng {R1} hoán đổi chiều không gian mà không ảnh hưởng\\nmôi trường hay người chơi quanh bạn. Mặc định bật ở co-op."
+ },
+ {
+  "id": 157,
+  "vi": "Nhận thêm máu từ quả cầu máu."
+ },
+ {
+  "id": 158,
+  "vi": "Nhận thêm tiền từ kẻ địch. "
+ },
+ {
+  "id": 159,
+  "vi": "Tăng bán kính nhặt vật phẩm."
+ },
+ {
+  "id": 160,
+  "vi": "Giảm thời gian bạn phải chờ \\ntrước khi thể lực bắt đầu hồi lại."
+ },
+ {
+  "id": 161,
+  "vi": "Nhận một Mảnh Thể lực \\n3 Mảnh Thể lực sẽ cho bạn thêm thể lực tối đa. "
+ },
+ {
+  "id": 162,
+  "vi": "Giảm thời gian chờ trước khi người chơi hồi sinh.\\nChỉ ảnh hưởng đến chế độ co-op."
+ },
+ {
+  "id": 163,
+  "vi": "Giảm thời gian chờ trước khi người chơi hồi sinh.\\nChỉ ảnh hưởng đến chế độ co-op trên hệ máy PlayStation®3."
+ },
+ {
+  "id": 164,
+  "vi": "Chán cảnh nói chuyện dài dòng với chủ quầy taco?\\nLưu nhanh rồi lên đường thôi!"
+ },
+ {
+  "id": 165,
+  "vi": "(Khi đang vật) {LStickLeft}{CIRCLE}\\nThực hiện cú suplex hủy diệt với cú đập cực mạnh."
+ },
+ {
+  "id": 166,
+  "vi": "(Khi đang vật) {LStickRight}{CIRCLE}\\nSút văng kẻ địch ra thật xa. "
+ },
+ {
+  "id": 167,
+  "vi": "(Khi đang vật) {LStickRight}{CIRCLE}\\nSút văng kẻ địch ra thật xa."
+ },
+ {
+  "id": 168,
+  "vi": "(Khi đang vật) {LStickDown}{CIRCLE}\\nGây sát thương cực lớn lên một kẻ địch. "
+ },
+ {
+  "id": 169,
+  "vi": "Thể lực hồi nhanh hơn."
+ },
+ {
+  "id": 170,
+  "vi": "Mảnh Máu"
+ },
+ {
+  "id": 171,
+  "vi": "Tăng choáng"
+ },
+ {
+  "id": 172,
+  "vi": "Tăng hồi máu"
+ },
+ {
+  "id": 173,
+  "vi": "Giảm chờ thể lực"
+ },
+ {
+  "id": 174,
+  "vi": "Tăng hồi thể lực "
+ },
+ {
+  "id": 175,
+  "vi": "Mảnh Thể lực"
+ },
+ {
+  "id": 176,
+  "vi": "Tăng hồi sinh"
+ },
+ {
+  "id": 177,
+  "vi": "Suplex"
+ },
+ {
+  "id": 178,
+  "vi": "Das Boot"
+ },
+ {
+  "id": 179,
+  "vi": "Piledriver"
+ },
+ {
+  "id": 180,
+  "vi": "Nhấn {TOGGLEMAP} để xem bản đồ"
+ },
+ {
+  "id": 181,
+  "vi": "Chúc mừng!\\nBạn đã mở khóa\\nđộ khó Khó!\\n\\nTừ lần bắt đầu trò chơi mới tiếp theo,\\nbạn có thể chọn độ khó Khó."
+ },
+ {
+  "id": 182,
+  "vi": "Khó"
+ },
+ {
+  "id": 183,
+  "vi": "Chọn trình độ của bạn"
+ },
+ {
+  "id": 184,
+  "vi": "Có người thách đấu mới xuất hiện!\\n\\nKhi là bong bóng, nhấn {MENUCONFIRM} gần đồng đội để vào lại.\\n\\nTrong lúc chơi, nhấn {L1} và {R1}\\ncùng lúc để hóa bong bóng mọi lúc."
+ },
+ {
+  "id": 185,
+  "vi": "Người chơi dùng PlayStation®Vita có thể\\nhóa bong bóng bằng cách chạm biểu\\ntượng bong bóng trên màn hình cảm ứng."
+ },
+ {
+  "id": 186,
+  "vi": "Tay sai của Calaca đã mạnh hơn rồi...  "
+ },
+ {
+  "id": 187,
+  "vi": "Chạy tốc độ"
+ },
+ {
+  "id": 188,
+  "vi": "Chạy tốc độ (Khó)"
+ },
+ {
+  "id": 189,
+  "vi": "Chạy tốc độ 100%"
+ },
+ {
+  "id": 190,
+  "vi": "Chạy tốc độ 100% (Khó)"
+ },
+ {
+  "id": 191,
+  "vi": "CẢNH BÁO:\\nMột số họa tiết có thể gây co giật dù bạn chưa từng bị. Nếu bạn có tiền sử\\nđộng kinh hoặc co giật, hãy hỏi ý kiến bác sĩ trước khi chơi. Hãy ngừng chơi nếu\\nbạn thấy chóng mặt, buồn nôn, mệt mỏi hoặc đau đầu."
+ },
+ {
+  "id": 192,
+  "vi": "Chúc mừng!\\nBạn đã hoàn thành chế độ Thường!"
+ },
+ {
+  "id": 193,
+  "vi": "Chúc mừng!\\nBạn đã hoàn thành chế độ Khó! ¡Sigue así!"
+ },
+ {
+  "id": 194,
+  "vi": "Bạn cũng đã cứu con gái của El Presidente!\\nBạn đúng là Anh hùng thực thụ!!"
+ }
+]

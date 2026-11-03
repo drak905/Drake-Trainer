@@ -1,0 +1,909 @@
+[
+{
+"id": 1089,
+"en": "Map: Zoom in"
+},
+{
+"id": 1090,
+"en": "Map: Zoom out"
+},
+{
+"id": 1091,
+"en": "Map: Up"
+},
+{
+"id": 1092,
+"en": "Map: Left"
+},
+{
+"id": 1093,
+"en": "Map: Down"
+},
+{
+"id": 1094,
+"en": "Map: Right"
+},
+{
+"id": 1095,
+"en": "Previous"
+},
+{
+"id": 1096,
+"en": "Swap backpack item"
+},
+{
+"id": 1097,
+"en": "GAMEPLAY",
+"ctx": "GAMEPLAY"
+},
+{
+"id": 1098,
+"en": "Hold to attack"
+},
+{
+"id": 1103,
+"en": "Hold jump button to jump",
+"ctx": "U34_HOLD_TO_JUMP_DESC"
+},
+{
+"id": 1104,
+"en": "Shield toggle",
+"ctx": "U29_PRESS_TOGGLE_SHIELD"
+},
+{
+"id": 1108,
+"en": "Hold to roll"
+},
+{
+"id": 1110,
+"en": "Smart roll"
+},
+{
+"id": 1112,
+"en": "Timer settings",
+"ctx": "U29_GAMEPLAY_SEPARATOR_TIMER"
+},
+{
+"id": 1113,
+"en": "Disabled in Speedrun Mode",
+"ctx": "U34_OPTIONS_BLOCKED_SPEEDRUN_MODE"
+},
+{
+"id": 1114,
+"en": "Display Speedrun interface",
+"ctx": "U34_SPEEDRUN_PANEL"
+},
+{
+"id": 1115,
+"en": "Speedrun Mode",
+"ctx": "U34_SPEEDRUN_MODE"
+},
+{
+"id": 1117,
+"en": "Reset your times",
+"ctx": "U34_SPEEDRUN_PANEL_RESET"
+},
+{
+"id": 1119,
+"en": "Sign settings",
+"ctx": "U29_GAMEPLAY_SEPARATOR_FEEEDBACK"
+},
+{
+"id": 1120,
+"en": "Controls tutorial"
+},
+{
+"id": 1122,
+"en": "Roll ready"
+},
+{
+"id": 1124,
+"en": "Attack warning"
+},
+{
+"id": 1128,
+"en": "Enemy attack sign size",
+"ctx": "U29_ATTACK_ANNOUNCE_SCALE"
+},
+{
+"id": 1129,
+"en": "Activate Chroma"
+},
+{
+"id": 1131,
+"en": "Other settings",
+"ctx": "U29_GAMEPLAY_SEPARATOR_MISC"
+},
+{
+"id": 1132,
+"en": "Disable lore rooms",
+"ctx": "U29_DISABLE_LORE_ROOMS"
+},
+{
+"id": 1134,
+"en": "Skip cut scenes"
+},
+{
+"id": 1136,
+"en": "Disable Gameplay Slow Motion"
+},
+{
+"id": 1137,
+"en": "Steam options",
+"ctx": "U29_GAMEPLAY_SEPARATOR_STEAM"
+},
+{
+"id": 1141,
+"en": "Activate the mod interface"
+},
+{
+"id": 1143,
+"en": "VIDEO"
+},
+{
+"id": 1144,
+"en": "Fullscreen"
+},
+{
+"id": 1145,
+"en": "Fullscreen windowed"
+},
+{
+"id": 1146,
+"en": "Windowed"
+},
+{
+"id": 1147,
+"en": "Enable VSync"
+},
+{
+"id": 1148,
+"en": "Lock at 30 FPS"
+},
+{
+"id": 1149,
+"en": "Interface settings",
+"ctx": "U29_VIDEO_SEPARATOR_INTERFACE"
+},
+{
+"id": 1151,
+"en": "Dead Cells",
+"ctx": "CHANGE_TITLESCREEN_BASE"
+},
+{
+"id": 1153,
+"en": "Toggle on synergy icons",
+"ctx": "U29_SYNERGY_FEEDBACK"
+},
+{
+"id": 1154,
+"en": "Customize game font",
+"ctx": "U29_FONT_CHOICE"
+},
+{
+"id": 1155,
+"en": "Disable the curse popup",
+"ctx": "U29_DISABLE_CURSE_POPUP"
+},
+{
+"id": 1157,
+"en": "Icons",
+"ctx": "U35_VIDEO_SEPARATOR_CONTROL_ICONS"
+},
+{
+"id": 1158,
+"en": "Icon types",
+"ctx": "U35_CONTROL_ICONS_TYPES"
+},
+{
+"id": 1159,
+"en": "Legacy icons",
+"ctx": "U35_CONTROL_ICONS_LEGACY"
+},
+{
+"id": 1160,
+"en": "New icons",
+"ctx": "U35_CONTROL_ICONS_NEW"
+},
+{
+"id": 1161,
+"en": "New icons (large)",
+"ctx": "U35_CONTROL_ICONS_BIG"
+},
+{
+"id": 1162,
+"en": "Icons used",
+"ctx": "U35_CONTROL_ICONS_OVERRIDE"
+},
+{
+"id": 1163,
+"en": "Default icons",
+"ctx": "U35_CONTROL_ICONS_AUTODETECT"
+},
+{
+"id": 1164,
+"en": "Xbox icons",
+"ctx": "U35_CONTROL_ICONS_XBOX"
+},
+{
+"id": 1165,
+"en": "PS4 icons",
+"ctx": "U35_CONTROL_ICONS_PS4"
+},
+{
+"id": 1166,
+"en": "PS5 icons",
+"ctx": "U35_CONTROL_ICONS_PS5"
+},
+{
+"id": 1167,
+"en": "Joycon icons",
+"ctx": "U35_CONTROL_ICONS_JOYCONS"
+},
+{
+"id": 1168,
+"en": "Switch Pro Controller icons",
+"ctx": "U35_CONTROL_ICONS_SWITCH_PRO"
+},
+{
+"id": 1169,
+"en": "Head-up Display layout settings",
+"ctx": "U29_VIDEO_SEPARATOR_HUD_LAYOUT"
+},
+{
+"id": 1172,
+"en": "Customize HUD transparency",
+"ctx": "U29_HUD_ALPHA_NAME"
+},
+{
+"id": 1173,
+"en": "Customize HUD size",
+"ctx": "U29_HUD_SIZE_NAME"
+},
+{
+"id": 1174,
+"en": "Optional Head-up Display info",
+"ctx": "U29_VIDEO_SEPARATOR_HUD_ELEMENTS"
+},
+{
+"id": 1178,
+"en": "Hide controls"
+},
+{
+"id": 1183,
+"en": "Show milliseconds"
+},
+{
+"id": 1185,
+"en": "Display Seed ID"
+},
+{
+"id": 1187,
+"en": "Enable bright flashes"
+},
+{
+"id": 1189,
+"en": "Particle limit",
+"ctx": "U29_PARTICLE_LIMIT"
+},
+{
+"id": 1190,
+"en": "Disable blood",
+"ctx": "NO_BLOOD_OPTION"
+},
+{
+"id": 1193,
+"en": "Secret zone visibility",
+"ctx": "U29_ALT_FAKE_BLACK_WALLS_OPTION"
+},
+{
+"id": 1195,
+"en": "Background filter",
+"ctx": "U29_BG_FILTER"
+},
+{
+"id": 1197,
+"en": "Background filter opacity",
+"ctx": "U29_BG_FILTER_OPACITY"
+},
+{
+"id": 1198,
+"en": "Text background",
+"ctx": "U35_TEXT_BACKGROUND"
+},
+{
+"id": 1199,
+"en": "Display text background",
+"ctx": "U35_TEXT_BACKGROUND_DESC"
+},
+{
+"id": 1200,
+"en": "Text background opacity",
+"ctx": "U35_TEXT_BACKGROUND_OPACITY"
+},
+{
+"id": 1201,
+"en": "Invert controls",
+"ctx": "U35_ACCESS_SEPARATOR_INVERT"
+},
+{
+"id": 1202,
+"en": "Invert character movement",
+"ctx": "U35_INVERT_PLAYER_MOVEMENT"
+},
+{
+"id": 1203,
+"en": "Invert camera movement",
+"ctx": "U35_INVERT_CAM_MOVEMENT"
+},
+{
+"id": 1204,
+"en": "Camera",
+"ctx": "U35_ACCESS_SEPARATOR_CAMERA"
+},
+{
+"id": 1205,
+"en": "Enable screen shake",
+"ctx": "U29_ENABLE_SCREEN_SHAKE"
+},
+{
+"id": 1211,
+"en": "Outline options",
+"ctx": "U29_ACCESS_SEPARATOR_OUTLINES"
+},
+{
+"id": 1212,
+"en": "Hero outline",
+"ctx": "U29_HERO_OUTLINE"
+},
+{
+"id": 1214,
+"en": "Enemies outline",
+"ctx": "U29_MOBS_OUTLINE"
+},
+{
+"id": 1216,
+"en": "NPCs outline",
+"ctx": "U29_NPCS_OUTLINE"
+},
+{
+"id": 1218,
+"en": "Active skills outline",
+"ctx": "U29_ACTIVES_OUTLINE"
+},
+{
+"id": 1220,
+"en": "Projectiles outline",
+"ctx": "U29_PROJECTILES_OUTLINE"
+},
+{
+"id": 1221,
+"en": "Add an outline to projectiles",
+"ctx": "U29_PROJECTILES_OUTLINE_DESC"
+},
+{
+"id": 1222,
+"en": "Secrets outline",
+"ctx": "U29_SECRETS_OUTLINE"
+},
+{
+"id": 1223,
+"en": "Add an outline to secrets",
+"ctx": "U29_SECRETS_OUTLINE_DESC"
+},
+{
+"id": 1224,
+"en": "Spikes outline",
+"ctx": "U35_SPIKES_OUTLINE"
+},
+{
+"id": 1226,
+"en": "Stats display settings",
+"ctx": "U29_ACCESS_SEPARATOR_TIERS"
+},
+{
+"id": 1231,
+"en": "Text settings",
+"ctx": "U29_ACCESS_SEPARATOR_TEXTS"
+},
+{
+"id": 1232,
+"en": "Object names size",
+"ctx": "U29_ITEM_NAME_TEXTS_SIZE_NAME"
+},
+{
+"id": 1233,
+"en": "Object descriptions size",
+"ctx": "U29_ITEM_DESC_TEXTS_SIZE_NAME"
+},
+{
+"id": 1234,
+"en": "Dialogue size",
+"ctx": "U29_DIALOGUE_TEXTS_SIZE_NAME"
+},
+{
+"id": 1235,
+"en": "SOUND",
+"ctx": "SONS"
+},
+{
+"id": 1236,
+"en": "Mute"
+},
+{
+"id": 1237,
+"en": "Main volume"
+},
+{
+"id": 1238,
+"en": "Music volume"
+},
+{
+"id": 1239,
+"en": "SFX volume"
+},
+{
+"id": 1240,
+"en": "Ambient sound volume"
+},
+{
+"id": 1241,
+"en": "Play shop music"
+},
+{
+"id": 1243,
+"en": "Play the Bank's elevator music",
+"ctx": "U28_PLAY_ELEVATOR_MUSIC"
+},
+{
+"id": 1245,
+"en": "Alternative soundtracks"
+},
+{
+"id": 1248,
+"en": "Advanced settings",
+"ctx": "U29_SOUND_SEPARATOR_ADVANCED"
+},
+{
+"id": 1250,
+"en": "Sound effects settings",
+"ctx": "U29_SFX_ADVANCED_OPTIONS"
+},
+{
+"id": 1251,
+"en": "ALTERNATIVE SOUNDTRACKS"
+},
+{
+"id": 1252,
+"en": "Sound effects volume",
+"ctx": "U26_SFX_VOLUMES_MENU"
+},
+{
+"id": 1253,
+"en": "Active skills volume",
+"ctx": "U29_ACTIVES_VOLUME"
+},
+{
+"id": 1254,
+"en": "Enemies volume",
+"ctx": "U29_MOBS_VOLUME"
+},
+{
+"id": 1255,
+"en": "Environment volume",
+"ctx": "U29_ENVIRONMENT_VOLUME"
+},
+{
+"id": 1256,
+"en": "Hero volume",
+"ctx": "U29_HERO_VOLUME"
+},
+{
+"id": 1257,
+"en": "Interactables volume",
+"ctx": "U29_INTERACTIVES_VOLUME"
+},
+{
+"id": 1258,
+"en": "Non-playable characters volume",
+"ctx": "U29_NPC_VOLUME"
+},
+{
+"id": 1259,
+"en": "Weapons volume",
+"ctx": "U29_WEAPONS_VOLUME"
+},
+{
+"id": 1260,
+"en": "Advanced sound effects settings",
+"ctx": "U26_ADVANCED_SFX_MENU"
+},
+{
+"id": 1261,
+"en": "None (normal behavior)",
+"ctx": "U29_SFX_REDUC_DISABLED"
+},
+{
+"id": 1262,
+"en": "Light sound effects reduction",
+"ctx": "U29_SFX_REDUC_LOW"
+},
+{
+"id": 1263,
+"en": "Medium sound effects reduction",
+"ctx": "U29_SFX_REDUC_MIDDLE"
+},
+{
+"id": 1264,
+"en": "Heavy sound effects reduction",
+"ctx": "U29_SFX_REDUC_HIGH"
+},
+{
+"id": 1265,
+"en": "Sound effects reduction",
+"ctx": "U29_SFX_REDUCTION_WIDGET"
+},
+{
+"id": 1267,
+"en": "Default priority (normal behavior)",
+"ctx": "U29_SFX_DEFAULT_PRIO"
+},
+{
+"id": 1268,
+"en": "Custom priority",
+"ctx": "U29_SFX_CUSTOM_PRIO"
+},
+{
+"id": 1269,
+"en": "Sound effects prioritization",
+"ctx": "U29_SFX_PRIO_PRESET"
+},
+{
+"id": 1271,
+"en": "Active skills sound effects priority",
+"ctx": "U29_ACTIVES_PRIORITY"
+},
+{
+"id": 1272,
+"en": "Enemies sound effects priority",
+"ctx": "U29_MOBS_PRIORITY"
+},
+{
+"id": 1273,
+"en": "Environment sound effects priority",
+"ctx": "U29_ENVIRONMENT_PRIORITY"
+},
+{
+"id": 1274,
+"en": "Hero sound effects priority",
+"ctx": "U29_HERO_PRIORITY"
+},
+{
+"id": 1275,
+"en": "Interactables sound effects priority",
+"ctx": "U29_INTERACTIVES_PRIORITY"
+},
+{
+"id": 1277,
+"en": "Weapons sound effects priority",
+"ctx": "U29_WEAPONS_PRIORITY"
+},
+{
+"id": 1278,
+"en": "Default priority settings",
+"ctx": "U29_DEFAULT_SFX_PRIORITIES"
+},
+{
+"id": 1279,
+"en": "LANGUAGE",
+"ctx": "LANGUE"
+},
+{
+"id": 1281,
+"en": "Download another language"
+},
+{
+"id": 1282,
+"en": "DIET"
+},
+{
+"id": 1284,
+"en": "Omnivorous"
+},
+{
+"id": 1286,
+"en": "Carnivore"
+},
+{
+"id": 1287,
+"en": "Castlevaniesque"
+},
+{
+"id": 1288,
+"en": "Vegetarian"
+},
+{
+"id": 1289,
+"en": "Fruitarian"
+},
+{
+"id": 1290,
+"en": "Monster"
+},
+{
+"id": 1291,
+"en": "Baguette"
+},
+{
+"id": 1292,
+"en": "Half-Life"
+},
+{
+"id": 1293,
+"en": "Cheese"
+},
+{
+"id": 1294,
+"en": "MODS",
+"ctx": "MODS"
+},
+{
+"id": 1298,
+"en": "CREDITS",
+"ctx": "CREDITS"
+},
+{
+"id": 1299,
+"en": "Sound and Music"
+},
+{
+"id": 1300,
+"en": "Acknowledgements"
+},
+{
+"id": 1305,
+"en": "Motion Twin on Facebook"
+},
+{
+"id": 1306,
+"en": "Motion Twin on Twitter"
+},
+{
+"id": 1309,
+"en": "Activate the streaming integration"
+},
+{
+"id": 1312,
+"en": "Configure"
+},
+{
+"id": 1313,
+"en": "Use the new vote system"
+},
+{
+"id": 1315,
+"en": "Activate Captain Chicken"
+},
+{
+"id": 1328,
+"en": "Activate the Community Codex"
+},
+{
+"id": 1330,
+"en": "Activate Community Chests"
+},
+{
+"id": 1336,
+"en": "Activate comments"
+},
+{
+"id": 1338,
+"en": "Activate level suggestions"
+},
+{
+"id": 1340,
+"en": "Vote windows on the right"
+},
+{
+"id": 1342,
+"en": "Push a button",
+"ctx": "Switch terminology"
+},
+{
+"id": 1345,
+"en": "Hue",
+"ctx": "U29_COLOR_HUE"
+},
+{
+"id": 1346,
+"en": "Saturation",
+"ctx": "U29_COLOR_SAT"
+},
+{
+"id": 1347,
+"en": "Value",
+"ctx": "U29_COLOR_VAL"
+},
+{
+"id": 1348,
+"en": "Change category"
+},
+{
+"id": 1352,
+"en": "General mutations"
+},
+{
+"id": 1353,
+"en": "Reset mutations"
+},
+{
+"id": 1356,
+"en": "MAXIMUM NUMBER OF MUTATIONS REACHED"
+},
+{
+"id": 1358,
+"en": "CHOOSE 1 MUTATION"
+},
+{
+"id": 1360,
+"en": "Keep in backpack"
+},
+{
+"id": 1361,
+"en": "Invert"
+},
+{
+"id": 1367,
+"en": "SAVED GAMES",
+"ctx": "SAUVEGARDES"
+},
+{
+"id": 1369,
+"en": "Confirm import"
+},
+{
+"id": 1371,
+"en": "Copy"
+},
+{
+"id": 1378,
+"en": "Experimental slot (active)"
+},
+{
+"id": 1382,
+"en": "Empty"
+},
+{
+"id": 1391,
+"en": "Bonus"
+},
+{
+"id": 1392,
+"en": "Time per level",
+"ctx": "U34_SPEEDRUN_POPUP"
+},
+{
+"id": 1393,
+"en": "Level",
+"ctx": "U34_SPEEDRUN_LEVEL"
+},
+{
+"id": 1394,
+"en": "Best time in this level",
+"ctx": "U34_SPEEDRUN_BLVLT"
+},
+{
+"id": 1395,
+"en": "Time in this level",
+"ctx": "U34_SPEEDRUN_LVLT"
+},
+{
+"id": 1396,
+"en": "Differential",
+"ctx": "U34_SPEEDRUN_DT"
+},
+{
+"id": 1397,
+"en": "Best time",
+"ctx": "U34_SPEEDRUN_BTIME"
+},
+{
+"id": 1398,
+"en": "Current time",
+"ctx": "U34_SPEEDRUN_TIME"
+},
+{
+"id": 1399,
+"en": "Total",
+"ctx": "U34_SPEEDRUN_TOTAL"
+},
+{
+"id": 1400,
+"en": "PROGRESS",
+"ctx": "PROGRESSION"
+},
+{
+"id": 1401,
+"en": "Upgrades"
+},
+{
+"id": 1402,
+"en": "Weapons"
+},
+{
+"id": 1403,
+"en": "Skills"
+},
+{
+"id": 1404,
+"en": "General"
+},
+{
+"id": 1405,
+"en": "Exploration"
+},
+{
+"id": 1406,
+"en": "Biomes"
+},
+{
+"id": 1407,
+"en": "Monsters"
+},
+{
+"id": 1408,
+"en": "Deaths"
+},
+{
+"id": 1409,
+"en": "Achievements"
+},
+{
+"id": 1411,
+"en": "Available weapons"
+},
+{
+"id": 1413,
+"en": "Available skills"
+},
+{
+"id": 1415,
+"en": "Available mutations"
+},
+{
+"id": 1416,
+"en": "Total number of games"
+},
+{
+"id": 1417,
+"en": "Total number of games finished"
+},
+{
+"id": 1418,
+"en": "Most Gold obtained at once"
+},
+{
+"id": 1419,
+"en": "Total gold acquired"
+},
+{
+"id": 1420,
+"en": "Total gold spent"
+},
+{
+"id": 1421,
+"en": "Most Cells obtained at once"
+},
+{
+"id": 1422,
+"en": "Cells acquired"
+},
+{
+"id": 1423,
+"en": "Cells spent"
+},
+{
+"id": 1424,
+"en": "Teleporters used"
+}
+]

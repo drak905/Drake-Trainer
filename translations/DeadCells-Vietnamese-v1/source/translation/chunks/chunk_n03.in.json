@@ -1,0 +1,838 @@
+[
+{
+"id": 1425,
+"en": "Health flasks used"
+},
+{
+"id": 1426,
+"en": "Curses survived"
+},
+{
+"id": 1427,
+"en": "Normal chests opened"
+},
+{
+"id": 1428,
+"en": "Cursed chests opened"
+},
+{
+"id": 1429,
+"en": "Secret portals opened"
+},
+{
+"id": 1430,
+"en": "Secret portal challenges completed"
+},
+{
+"id": 1431,
+"en": "Secret portal challenges failed"
+},
+{
+"id": 1432,
+"en": "Timed door challenges completed"
+},
+{
+"id": 1433,
+"en": "Timed door challenges failed"
+},
+{
+"id": 1434,
+"en": "Untouchable doors completed"
+},
+{
+"id": 1435,
+"en": "Untouchable doors failed"
+},
+{
+"id": 1436,
+"en": "Total monsters slain"
+},
+{
+"id": 1437,
+"en": "Total elite monsters slain"
+},
+{
+"id": 1438,
+"en": "Deaths by an enemy"
+},
+{
+"id": 1439,
+"en": "Deaths by trap"
+},
+{
+"id": 1440,
+"en": "Killed in a Challenge room"
+},
+{
+"id": 1441,
+"en": "Deaths by falling"
+},
+{
+"id": 1442,
+"en": "Deaths by infection"
+},
+{
+"id": 1443,
+"en": "Deaths by suicide"
+},
+{
+"id": 1444,
+"en": "Cells lost"
+},
+{
+"id": 1448,
+"en": "Current settings"
+},
+{
+"id": 1453,
+"en": "CHOOSE 1 UPGRADE"
+},
+{
+"id": 1457,
+"en": "Choose your upgrades",
+"ctx": "U34_CHOOSE_SCROLLS"
+},
+{
+"id": 1461,
+"en": "Installed"
+},
+{
+"id": 1480,
+"en": "The Panacea"
+},
+{
+"id": 1527,
+"en": "Hit"
+},
+{
+"id": 1579,
+"en": "End her",
+"ctx": "DLC3_FINISH_QUEEN"
+},
+{
+"id": 1641,
+"en": "The Bank"
+},
+{
+"id": 1642,
+"en": "Go to the Bank"
+},
+{
+"id": 1644,
+"en": "Go back to the entrance",
+"ctx": "U28_END_CHALLENGE_TP_TEXT"
+},
+{
+"id": 1646,
+"en": "Pick up the key first",
+"ctx": "U28_END_TP_NEED_KEY"
+},
+{
+"id": 1648,
+"en": "Examine"
+},
+{
+"id": 1649,
+"en": "Open"
+},
+{
+"id": 1650,
+"en": "Pull",
+"ctx": "DLCP_BRIDGE_LEVER"
+},
+{
+"id": 1651,
+"en": "Inspect"
+},
+{
+"id": 1667,
+"en": "Cursed treasure found"
+},
+{
+"id": 1669,
+"en": "Look"
+},
+{
+"id": 1670,
+"en": "Possess"
+},
+{
+"id": 1671,
+"en": "Back to entrance"
+},
+{
+"id": 1673,
+"en": "Next level"
+},
+{
+"id": 1674,
+"en": "Leave"
+},
+{
+"id": 1678,
+"en": "Cursed biome"
+},
+{
+"id": 1687,
+"en": "The fountain is empty"
+},
+{
+"id": 1688,
+"en": "Independent Legends",
+"ctx": "U26_START_SKINUNLOCK"
+},
+{
+"id": 1726,
+"en": "Shake"
+},
+{
+"id": 1728,
+"en": "Break"
+},
+{
+"id": 1731,
+"en": "Health potion"
+},
+{
+"id": 1733,
+"en": "Scratch the wall"
+},
+{
+"id": 1734,
+"en": "Secret discovered"
+},
+{
+"id": 1735,
+"en": "ERROR: no target"
+},
+{
+"id": 1739,
+"en": "Leave body"
+},
+{
+"id": 1746,
+"en": "Pick up"
+},
+{
+"id": 1747,
+"en": "Unknown artifact"
+},
+{
+"id": 1748,
+"en": "Destroy"
+},
+{
+"id": 1749,
+"en": "Kill the enemies nearby first"
+},
+{
+"id": 1750,
+"en": "Talk"
+},
+{
+"id": 1761,
+"en": "To the lower flask room"
+},
+{
+"id": 1762,
+"en": "To the upper flask room"
+},
+{
+"id": 1766,
+"en": "Random"
+},
+{
+"id": 1767,
+"en": "Random skills"
+},
+{
+"id": 1768,
+"en": "Random weapons"
+},
+{
+"id": 1769,
+"en": "Traps deployed"
+},
+{
+"id": 1770,
+"en": "Miscellaneous skills"
+},
+{
+"id": 1771,
+"en": "Melee"
+},
+{
+"id": 1772,
+"en": "Ranged"
+},
+{
+"id": 1777,
+"en": "Select"
+},
+{
+"id": 1779,
+"en": "Cross"
+},
+{
+"id": 1780,
+"en": "Rub"
+},
+{
+"id": 1782,
+"en": "Use the rune"
+},
+{
+"id": 1783,
+"en": "Refresh the shop"
+},
+{
+"id": 1784,
+"en": "Hold to refresh the shop"
+},
+{
+"id": 1785,
+"en": "Sit",
+"ctx": "U32_SHOVEL_SLEEP"
+},
+{
+"id": 1786,
+"en": "Get changed"
+},
+{
+"id": 1788,
+"en": "NO BOSS STEM CELLS"
+},
+{
+"id": 1793,
+"en": "No other teleporter available"
+},
+{
+"id": 1795,
+"en": "Teleporter broken"
+},
+{
+"id": 1796,
+"en": "Teleport"
+},
+{
+"id": 1803,
+"en": "Kill"
+},
+{
+"id": 1805,
+"en": "Choose your difficulty",
+"ctx": "U34_CHOOSE_TRAINING_SCALING"
+},
+{
+"id": 1806,
+"en": "Select a biome preset",
+"ctx": "Biome preset select"
+},
+{
+"id": 1807,
+"en": "Select a mob",
+"ctx": "Mob select"
+},
+{
+"id": 1808,
+"en": "Choose your stats",
+"ctx": "U34_CHOOSE_TRAINING_SCROLLS"
+},
+{
+"id": 1810,
+"en": "Try to open the chest"
+},
+{
+"id": 1811,
+"en": "Tickle"
+},
+{
+"id": 1814,
+"en": "Absorb"
+},
+{
+"id": 1828,
+"en": "Catch",
+"ctx": "DLCP_MARIA_CAT_INTERACT"
+},
+{
+"id": 1853,
+"en": "“I missed you so much.”"
+},
+{
+"id": 1869,
+"en": "“You’re always busy!”"
+},
+{
+"id": 1902,
+"en": "Object unavailable (see description)"
+},
+{
+"id": 1904,
+"en": "Double jump"
+},
+{
+"id": 1905,
+"en": "High Jump",
+"ctx": "DLCP_UPPERCUT_RUNE_NAME"
+},
+{
+"id": 1906,
+"en": "Hold to heal"
+},
+{
+"id": 1907,
+"en": "No need for healing"
+},
+{
+"id": 1909,
+"en": "HP restored"
+},
+{
+"id": 1910,
+"en": "Health flask filled"
+},
+{
+"id": 1911,
+"en": "Dodge"
+},
+{
+"id": 1912,
+"en": "+1 health flask"
+},
+{
+"id": 1917,
+"en": "Not ready yet"
+},
+{
+"id": 1918,
+"en": "Go down"
+},
+{
+"id": 1919,
+"en": "Dash",
+"ctx": "DLCP_DASH_RUNE_NAME"
+},
+{
+"id": 1950,
+"en": "Monsters explode when dying"
+},
+{
+"id": 1951,
+"en": "Doors explode"
+},
+{
+"id": 1955,
+"en": "paf"
+},
+{
+"id": 1956,
+"en": "pif"
+},
+{
+"id": 1957,
+"en": "boof"
+},
+{
+"id": 1958,
+"en": "bam"
+},
+{
+"id": 1959,
+"en": "toc"
+},
+{
+"id": 1960,
+"en": "tac"
+},
+{
+"id": 1961,
+"en": "boom"
+},
+{
+"id": 1962,
+"en": "crack"
+},
+{
+"id": 1963,
+"en": "pow"
+},
+{
+"id": 1964,
+"en": "bing"
+},
+{
+"id": 1965,
+"en": "pan"
+},
+{
+"id": 1971,
+"en": "Zoom"
+},
+{
+"id": 1972,
+"en": "Switch map display"
+},
+{
+"id": 1973,
+"en": "Focus"
+},
+{
+"id": 1974,
+"en": "Close"
+},
+{
+"id": 1975,
+"en": "CHOOSE A DESTINATION"
+},
+{
+"id": 1976,
+"en": "WORLD MAP"
+},
+{
+"id": 1978,
+"en": "EQUIPMENT"
+},
+{
+"id": 1979,
+"en": "Info"
+},
+{
+"id": 1981,
+"en": "No item in backpack"
+},
+{
+"id": 1982,
+"en": "Swap",
+"ctx": "BACKPACK_SWAP_TEXT"
+},
+{
+"id": 1983,
+"en": "Tailor's Daughter",
+"ctx": "U34_TAILORDAUGHTER_UI_TITLE"
+},
+{
+"id": 1984,
+"en": "Current head",
+"ctx": "U34_TAILORDAUGHTER_UI_CURRENT_HEAD"
+},
+{
+"id": 1989,
+"en": "Copy biome difficulty",
+"ctx": "U34_COPY_BIOME_DIFFICULTY"
+},
+{
+"id": 1990,
+"en": "Spawn mobs from biome",
+"ctx": "U34_CHOOSE_MOBS_PRESET"
+},
+{
+"id": 1992,
+"en": "Current preset"
+},
+{
+"id": 1993,
+"en": "LOCKED"
+},
+{
+"id": 1994,
+"en": "Base",
+"ctx": "U31_STATUE_BASE_SECTION"
+},
+{
+"id": 1995,
+"en": "Cloak",
+"ctx": "U31_STATUE_CAP"
+},
+{
+"id": 1996,
+"en": "Pants",
+"ctx": "U31_STATUE_PANT_SECTION"
+},
+{
+"id": 1997,
+"en": "Belt",
+"ctx": "U31_STATUE_SKIRT_SECTION"
+},
+{
+"id": 1998,
+"en": "Helmet",
+"ctx": "U31_STATUE_SKULL_SECTION"
+},
+{
+"id": 1999,
+"en": "Armor",
+"ctx": "U31_STATUE_TOP_SECTION"
+},
+{
+"id": 2001,
+"en": "Material",
+"ctx": "U31_STATUE_MATERIAL_SECTION"
+},
+{
+"id": 2003,
+"en": "Change object quality",
+"ctx": "U34_CHANGE_WEAPON_QUALITY"
+},
+{
+"id": 2004,
+"en": "Turn the object colorless",
+"ctx": "U34_CHANGE_WEAPON_COLORLESS"
+},
+{
+"id": 2005,
+"en": "Change object level",
+"ctx": "U34_CHANGE_WEAPON_LEVEL"
+},
+{
+"id": 2006,
+"en": "Incompatible head",
+"ctx": "U35_INCOMPATIBLE_HEAD"
+},
+{
+"id": 2007,
+"en": "Select an enemy"
+},
+{
+"id": 2008,
+"en": "Current enemy"
+},
+{
+"id": 2009,
+"en": "Incompatible outfit",
+"ctx": "U35_INCOMPATIBLE_SKIN"
+},
+{
+"id": 2010,
+"en": "Select your outfit"
+},
+{
+"id": 2011,
+"en": "Shelves"
+},
+{
+"id": 2014,
+"en": "Pick",
+"ctx": "U31_TIERBUTTON_CHOOSE"
+},
+{
+"id": 2018,
+"en": "Call the elevator",
+"ctx": "U28_CALL_ELEVATOR"
+},
+{
+"id": 2019,
+"en": "Unlock"
+},
+{
+"id": 2023,
+"en": "Pay"
+},
+{
+"id": 2034,
+"en": "Door open"
+},
+{
+"id": 2036,
+"en": "Go up",
+"ctx": "U28_ELEVATOR_GO_UP"
+},
+{
+"id": 2211,
+"en": "Talk to Guillain"
+},
+{
+"id": 2213,
+"en": "1 mutation available"
+},
+{
+"id": 2223,
+"en": "*cough*"
+},
+{
+"id": 2310,
+"en": "Reforge"
+},
+{
+"id": 2331,
+"en": "Change head style",
+"ctx": "U34_TAILORDAUGHTER_CHANGE_HEAD"
+},
+{
+"id": 2386,
+"en": "1 boss cell required"
+},
+{
+"id": 2391,
+"en": "Killjoy"
+},
+{
+"id": 2469,
+"en": "Double Crossb-o-matic"
+},
+{
+"id": 2471,
+"en": "Sinew Slicer"
+},
+{
+"id": 2473,
+"en": "Heavy Turret"
+},
+{
+"id": 2475,
+"en": "Barnacle"
+},
+{
+"id": 2477,
+"en": "Flamethrower Turret"
+},
+{
+"id": 2479,
+"en": "Cleaver"
+},
+{
+"id": 2481,
+"en": "Wolf Trap"
+},
+{
+"id": 2483,
+"en": "Crusher"
+},
+{
+"id": 2485,
+"en": "Explosive Decoy"
+},
+{
+"id": 2487,
+"en": "Emergency Door"
+},
+{
+"id": 2489,
+"en": "Tesla Coil"
+},
+{
+"id": 2491,
+"en": "Scavenged Bombard"
+},
+{
+"id": 2494,
+"en": "Night Light"
+},
+{
+"id": 2496,
+"en": "Powerful Grenade"
+},
+{
+"id": 2498,
+"en": "Infantry Grenade"
+},
+{
+"id": 2500,
+"en": "Cluster Grenade"
+},
+{
+"id": 2502,
+"en": "Magnetic Grenade"
+},
+{
+"id": 2504,
+"en": "Stun Grenade"
+},
+{
+"id": 2506,
+"en": "Ice Grenade"
+},
+{
+"id": 2508,
+"en": "Fire Grenade"
+},
+{
+"id": 2509,
+"en": "Root Grenade"
+},
+{
+"id": 2511,
+"en": "Oil Grenade"
+},
+{
+"id": 2513,
+"en": "Swarm"
+},
+{
+"id": 2515,
+"en": "Hunter's Grenade"
+},
+{
+"id": 2518,
+"en": "Holy Water",
+"ctx": "DLCP_HOLY_WATER_NAME"
+},
+{
+"id": 2521,
+"en": "Aggressive apparition"
+},
+{
+"id": 2523,
+"en": "Death Orb"
+},
+{
+"id": 2525,
+"en": "Tornado"
+},
+{
+"id": 2527,
+"en": "Knife Dance"
+},
+{
+"id": 2529,
+"en": "Corrupted Power"
+},
+{
+"id": 2531,
+"en": "Vampirism"
+},
+{
+"id": 2533,
+"en": "Tonic"
+},
+{
+"id": 2535,
+"en": "Deflector"
+},
+{
+"id": 2537,
+"en": "Grappling Hook"
+},
+{
+"id": 2540,
+"en": "Phaser"
+},
+{
+"id": 2542,
+"en": "Temporal Distortion"
+},
+{
+"id": 2544,
+"en": "Corrosive Cloud"
+},
+{
+"id": 2546,
+"en": "Lacerating Aura"
+},
+{
+"id": 2548,
+"en": "Wave of Denial"
+},
+{
+"id": 2550,
+"en": "Wings of the Crow"
+},
+{
+"id": 2553,
+"en": "Points Bonus"
+},
+{
+"id": 2554,
+"en": "Blueprint Extractor"
+}
+]

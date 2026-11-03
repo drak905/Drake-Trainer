@@ -1,0 +1,253 @@
+[
+{
+"id": 2823,
+"en": "Transforms the Whip Sword, enabling it to deal {critical damage@CC} for the next ::duration:: seconds.",
+"ctx": "DLCP_SNAKE_SWORD_SWAP_GAMEPLAYDESC"
+},
+{
+"id": 2826,
+"en": "The mythical weapon of the Belmont clan! Ignores shields. Deals {critical damage@CC} to {burning@FI} enemies. Enemies killed by this weapon {burn@FI} the ground under them.",
+"ctx": "DLCP_VAMPIRE_KILLER_GAMEPLAYDESC"
+},
+{
+"id": 2827,
+"en": "I have come here to eat chicken and crucify vampires... and I'm all out of chicken.",
+"ctx": "DLCP_VAMPIRE_KILLER_AMBIANTDESC"
+},
+{
+"id": 2829,
+"en": "Forces the spirit of enemies you kill to help you. They explode on nearby targets, dealing {critical damage@CC} in proportion to the reanimated target's maximum health.",
+"ctx": "DLCP_ADELE_SCYTHE_GAMEPLAYDESC"
+},
+{
+"id": 2830,
+"en": "Being dead is no excuse to avoid working overtime!",
+"ctx": "DLCP_ADELE_SCYTHE_AMBIANTDESC"
+},
+{
+"id": 2832,
+"en": "The mythical weapon of the Belmont clan! Ignores shields.",
+"ctx": "DLCP_RICHTER_VAMPIRE_KILLER_GAMEPLAYDESC"
+},
+{
+"id": 2834,
+"en": "Alternates between both scythes, dealing {critical strikes@CC} starting with the second hit.",
+"ctx": "U34_COMBINED_TICK_SCYTHE_GAMEPLAYDESC"
+},
+{
+"id": 2836,
+"en": "Bumps and inflicts {critical damage@CC} to nearby enemies.",
+"ctx": "U34_PISTOL_GAMEPLAYDESC"
+},
+{
+"id": 2838,
+"en": "An attack that kills an enemy also kills every other target hit at the same time.",
+"ctx": "U34_SCISSOR_GAMEPLAYDESC"
+},
+{
+"id": 2839,
+"en": "Cuts really short.",
+"ctx": "U34_SCISSOR_AMBIANTDESC"
+},
+{
+"id": 2841,
+"en": "The first hit throws the enemy in the air. Deal {critical damage@CC} to targets that are not grounded.",
+"ctx": "U34_COMB_GAMEPLAYDESC"
+},
+{
+"id": 2842,
+"en": "C-C-C Comb Breaker!",
+"ctx": "U34_COMB_AMBIANTDESC"
+},
+{
+"id": 2844,
+"en": "Inflicts {critical hits@CC} if the victim has less than ::prct::% HP. Curses you if the attack doesn't kill its target.",
+"ctx": "U35_MISERICORD_GAMEPLAYDESC"
+},
+{
+"id": 2845,
+"en": "If death is a gift, then you're Santa Claus.",
+"ctx": "U35_MISERICORD_AMBIANTDESC"
+},
+{
+"id": 2847,
+"en": "Ammo comes back after enemies are killed."
+},
+{
+"id": 2848,
+"en": "The Jailer's son was getting pretty good at hunting rats with this..."
+},
+{
+"id": 2850,
+"en": "Shoots ::count:: arrows at the same time."
+},
+{
+"id": 2852,
+"en": "Unlimited ammo. Last shot is a {critical hit@CC}!"
+},
+{
+"id": 2853,
+"en": "\"You can never have too many arrows\" - Legolas"
+},
+{
+"id": 2855,
+"en": "Inflicts a {critical hit@CC} at long range."
+},
+{
+"id": 2856,
+"en": "Slow, but devastating at long range. A sniper’s delight."
+},
+{
+"id": 2858,
+"en": "Fires through enemies and keeps shooting when held down. Inflict {critical hits@CC} to the targets behind the first enemy."
+},
+{
+"id": 2860,
+"en": "Inflicts a {critical hit@CC} at close range."
+},
+{
+"id": 2861,
+"en": "A bow specially designed for hand-to-hand combat."
+},
+{
+"id": 2863,
+"en": "Inflicts a {critical hit@CC} if the target has ::count:: or more arrows stuck in its body."
+},
+{
+"id": 2864,
+"en": "Speed at the cost of precision."
+},
+{
+"id": 2866,
+"en": "Briefly {freezes@IC} enemies."
+},
+{
+"id": 2868,
+"en": "Shoots several short-range bolts at once."
+},
+{
+"id": 2869,
+"en": "A point-blank blast."
+},
+{
+"id": 2871,
+"en": "Reload the Heavy Crossbow. The next shot inflicts a {critical hit@CC}."
+},
+{
+"id": 2873,
+"en": "Rapid fires bolts inflicting {critical hits@CC} on {rooted@RO} targets."
+},
+{
+"id": 2875,
+"en": "Fires a volley of bolts {rooting@RO} enemies and inflicting ::+dps:: DPS for ::duration:: seconds."
+},
+{
+"id": 2877,
+"en": "{Freezes@IC} the enemy."
+},
+{
+"id": 2879,
+"en": "Fires piercing bolts, inflicting {critical hits@CC} and returning bolts lodged in {frozen@IC} enemies."
+},
+{
+"id": 2881,
+"en": "Bolts explode in the area of effect. Any enemy hit by a bolt suffers a {critical wound@CC}."
+},
+{
+"id": 2883,
+"en": "{Poisons@TO} its victims (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 2885,
+"en": "Comes back to you automatically."
+},
+{
+"id": 2886,
+"en": "Old faithful."
+},
+{
+"id": 2888,
+"en": "Causes {bleeding@BL} (::+dps:: DPS for ::duration:: seconds). Deals a {critical hit@CC} if the target is {bleeding@BL} or {poisoned@TO}."
+},
+{
+"id": 2890,
+"en": "{Roots@RO} the victim. Deals ::+power:: damage when recalled."
+},
+{
+"id": 2891,
+"en": "Boi."
+},
+{
+"id": 2893,
+"en": "Impales all enemies in its path. If they're close to a wall they take ::+power2:: extra damage. The javelin must be retrieved (if not, it comes back automatically after ::duration:: seconds). Reactivate to teleport to the javelin."
+},
+{
+"id": 2895,
+"en": "Marks the enemy, who then takes +::+power:: additional damage every ::effectCD:: sec for ::duration:: sec. If the enemy dies, the mark spreads.",
+"ctx": "U30_HOKUTO_GAMEPLAYDESC"
+},
+{
+"id": 2896,
+"en": "You don't know it yet, but you’re already dead."
+},
+{
+"id": 2898,
+"en": "Inflicts a {critical hit@CC} if the arrow is shot at the right moment."
+},
+{
+"id": 2900,
+"en": "Causes {bleeding@BL} (::+dps:: DPS for ::duration:: sec). Automatically targets the nearest enemy."
+},
+{
+"id": 2902,
+"en": "Ignores shields and inflicts ::prct::% of base damage on nearby enemies. Also inflicts ::+dps2:: {shock@EL} DPS around the target for ::*ShockAffectDuration:: seconds."
+},
+{
+"id": 2904,
+"en": "{Burns@FI} enemies and the ground (::+dps:: DPS for ::duration:: sec)."
+},
+{
+"id": 2905,
+"en": "Light my fire !"
+},
+{
+"id": 2907,
+"en": "{Slows down@IC} enemies during ::duration:: sec. Inflicts {critical hits@CC} on targets standing in water or covered in {oil@FI}."
+},
+{
+"id": 2909,
+"en": "Launches multiple flaming projectiles. Inflicts {critical damage@CC} on targets covered in {oil@FI}."
+},
+{
+"id": 2911,
+"en": "Hold to deal {critical hits@CC}. Inflicts ::+dps2:: {shock@EL} DPS around the target for ::*ShockAffectDuration:: seconds."
+},
+{
+"id": 2912,
+"en": "Join the dark side."
+},
+{
+"id": 2914,
+"en": "{Burns@FI} enemies and the ground surface in range. Inflicts {critical hits@CC} when {oil@FI} is present."
+},
+{
+"id": 2915,
+"en": "Toasts enemies to a rich golden brown."
+},
+{
+"id": 2917,
+"en": "{Freezes@IC} enemies in front of you. No damage if the target is already {frozen@IC}."
+},
+{
+"id": 2919,
+"en": "Automatically targets the closest enemy."
+},
+{
+"id": 2921,
+"en": "{Poison@TO} its victims (::+dps:: DPS for ::duration:: sec). Inflicts {critical hits@CC} if you hit enemies in the back."
+},
+{
+"id": 2923,
+"en": "Launches an explosive barrel. Inflicts a {critical hit@CC} if the barrel bounces off or has been reflected back and forth before exploding."
+}
+]

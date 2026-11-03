@@ -1,0 +1,403 @@
+[
+{
+"id": 3897,
+"en": "+::prct::% damage for hits in the back"
+},
+{
+"id": 3898,
+"en": "Stun duration +::prct::%"
+},
+{
+"id": 3899,
+"en": "{Poisons@TO} enemies that wound you."
+},
+{
+"id": 3900,
+"en": "Emits a {toxic cloud@TO} when you take damage."
+},
+{
+"id": 3901,
+"en": "{Poisons@TO} enemies blocked with a {parry@PA}."
+},
+{
+"id": 3902,
+"en": "Causes enemies to {bleed@BL} when you {parry@PA}."
+},
+{
+"id": 3903,
+"en": "{Burns@FI} enemies blocked with a {parry@PA}."
+},
+{
+"id": 3904,
+"en": "{Freezes@IC} enemies blocked with a {parry@PA}."
+},
+{
+"id": 3905,
+"en": "Absorbs +::prct::% of damage when held up."
+},
+{
+"id": 3906,
+"en": "Absorbs +::prct::% of projectile damage when held up."
+},
+{
+"id": 3907,
+"en": "Damage from projectiles reduced by ::prct::%"
+},
+{
+"id": 3908,
+"en": "Shots pierce the first target."
+},
+{
+"id": 3909,
+"en": "Shoots an arrow upward (::+power:: damage)"
+},
+{
+"id": 3910,
+"en": "Shoots an arrow in front of you (::+power:: damage)"
+},
+{
+"id": 3911,
+"en": "Shoots an arrow behind you (::+power:: damage)"
+},
+{
+"id": 3912,
+"en": "Ammo +::power::"
+},
+{
+"id": 3913,
+"en": "Dodging plants a bomb (::+power:: damage)"
+},
+{
+"id": 3914,
+"en": "Launches a grenade (::+power:: damage)"
+},
+{
+"id": 3915,
+"en": "The trap spreads {inflammable oil@FI}."
+},
+{
+"id": 3916,
+"en": "Generates a {toxic cloud@TO} around the trap."
+},
+{
+"id": 3917,
+"en": "Victims {burn@FI} when they die."
+},
+{
+"id": 3918,
+"en": "Victims {freeze@IC} nearby enemies (::duration:: sec) when they die."
+},
+{
+"id": 3919,
+"en": "The victims' remains explode (::+power:: damage)"
+},
+{
+"id": 3920,
+"en": "Biters crawl from the dead."
+},
+{
+"id": 3921,
+"en": "Downward smash attacks {burn@FI} the ground."
+},
+{
+"id": 3922,
+"en": "Downward smash attacks cover the ground with {inflammable oil@FI}."
+},
+{
+"id": 3923,
+"en": "An extra jump in mid-air."
+},
+{
+"id": 3924,
+"en": "Two extra jumps in mid-air."
+},
+{
+"id": 3925,
+"en": "Get gold as well as a cell."
+},
+{
+"id": 3926,
+"en": "Slow down after {thaw@IC} ::power::x longer."
+},
+{
+"id": 3927,
+"en": "Slow down after {thaw@IC} spreads to nearby enemies."
+},
+{
+"id": 3928,
+"en": "Upon {thawing@IC}, the enemy suffers from {bleeding@BL}."
+},
+{
+"id": 3929,
+"en": "Arrows stuck in enemies come back."
+},
+{
+"id": 3930,
+"en": "Covers the ground around you with {inflammable oil@FI}."
+},
+{
+"id": 3931,
+"en": "Generates a {toxic cloud@TO} around you."
+},
+{
+"id": 3932,
+"en": "{Burns@FI} the ground around you."
+},
+{
+"id": 3933,
+"en": "+::prct::% damage when you are near it."
+},
+{
+"id": 3934,
+"en": "Take -::prct::% damage when you are near it."
+},
+{
+"id": 3935,
+"en": "Spreads {inflammable oil@FI} on the enemy."
+},
+{
+"id": 3936,
+"en": "Electrocutes nearby enemies for ::duration:: sec."
+},
+{
+"id": 3937,
+"en": "Heals ::prct::% HP when used."
+},
+{
+"id": 3938,
+"en": "Drops a grenade (::+power:: damage) when destroyed."
+},
+{
+"id": 3939,
+"en": "Shoots arrows (::+power:: damage/arrow) when destroyed."
+},
+{
+"id": 3940,
+"en": "{Burns@FI} the ground when destroyed."
+},
+{
+"id": 3941,
+"en": "{Freezes@IC} nearby enemies when the effect ends."
+},
+{
+"id": 3942,
+"en": "{Burns@FI} the ground when the effect ends."
+},
+{
+"id": 3943,
+"en": "Nearby enemies start {bleeding@BL} when the effect ends."
+},
+{
+"id": 3944,
+"en": "Creates a {toxic cloud@TO} around you when the effect ends."
+},
+{
+"id": 3945,
+"en": "+::prct::% damage to a target covered in {burning oil@FI}."
+},
+{
+"id": 3946,
+"en": "+::prct::% damage on {rooted@RO} targets."
+},
+{
+"id": 3947,
+"en": "+::prct::% damage when you are at max {HP@LI}."
+},
+{
+"id": 3948,
+"en": "Attacks with this weapon ignore force fields.",
+"ctx": "U35_IGNOREGLOBALSHIELD_DESC"
+},
+{
+"id": 3949,
+"en": "Stuns the victim."
+},
+{
+"id": 3950,
+"en": "Shots pierce all enemies."
+},
+{
+"id": 3951,
+"en": "Increases your movement speed for ::duration:: sec."
+},
+{
+"id": 3952,
+"en": "Increases your movement speed for ::duration:: second after a {critical hit@CC}."
+},
+{
+"id": 3953,
+"en": "Enemies hit by this will {thaw@IC} more slowly."
+},
+{
+"id": 3954,
+"en": "Increases your movement speed for ::duration:: sec after killing an enemy."
+},
+{
+"id": 3955,
+"en": "{Poisons@TO} the enemy."
+},
+{
+"id": 3956,
+"en": "Makes the victim {bleed@BL}."
+},
+{
+"id": 3957,
+"en": "Covers the ground with {oil@FI} that {burns@FI} around you."
+},
+{
+"id": 3958,
+"en": "Covers the ground with {oil@FI} that {burns@FI} when destroyed."
+},
+{
+"id": 3959,
+"en": "Shots leave a trail of {flames@FI}."
+},
+{
+"id": 3960,
+"en": "Shots explode into a {toxic@TO} cloud."
+},
+{
+"id": 3961,
+"en": "Victims release a {toxic@TO} cloud with each hit."
+},
+{
+"id": 3962,
+"en": "Attacking just after a {parry@PA} inflicts +::prct::% damage."
+},
+{
+"id": 3963,
+"en": "The enemies that hit you {freeze@IC}."
+},
+{
+"id": 3964,
+"en": "The damage you take is inflicted on the enemy."
+},
+{
+"id": 3965,
+"en": "Shoots a volley of arrows (::+power:: damage / arrow)"
+},
+{
+"id": 3966,
+"en": "+::prct::% damage inflicted on enemies, +::prct2::% damage taken!"
+},
+{
+"id": 3967,
+"en": "+::prct::% damage inflicted on enemies!"
+},
+{
+"id": 3968,
+"en": "::prct::% of {HP@LI} recovered per attack (close combat), +::prct2::% damage taken!"
+},
+{
+"id": 3969,
+"en": "{Poison@TO} has no effect on you."
+},
+{
+"id": 3970,
+"en": "{Poison@TO} heals you instead of wounding you."
+},
+{
+"id": 3971,
+"en": "You {burn@FI} the ground when you run (::duration:: sec)."
+},
+{
+"id": 3972,
+"en": "You {burn@FI} the ground when you dodge (::duration:: sec)."
+},
+{
+"id": 3973,
+"en": "Dodging creates a {toxic cloud@TO} (::duration:: sec)."
+},
+{
+"id": 3974,
+"en": "Invisible after ::duration::s without attacking. The first invisible attack inflicts +::prct::% damage."
+},
+{
+"id": 3975,
+"en": "{Bleeding@BL} causes {poisoning@TO}."
+},
+{
+"id": 3976,
+"en": "A victim of {bleeding@BL} spreads it to other enemies nearby."
+},
+{
+"id": 3977,
+"en": "Jumping on an enemy stuns it."
+},
+{
+"id": 3978,
+"en": "Reveals secret walls."
+},
+{
+"id": 3979,
+"en": "Generates a shield when used."
+},
+{
+"id": 3980,
+"en": "Reveals invisible enemies."
+},
+{
+"id": 3981,
+"en": "Push back nearby enemies when the effect ends."
+},
+{
+"id": 3982,
+"en": "Increase duration by ::prct::%."
+},
+{
+"id": 3983,
+"en": "::prct::% {HP@LI} recovered per melee attack, up to ::prct2::%"
+},
+{
+"id": 3984,
+"en": "Applies 2 stacks of damage over time effects instead of 1."
+},
+{
+"id": 3985,
+"en": "Grants a shield upon killing an enemy."
+},
+{
+"id": 3986,
+"en": "Doubles the speed of the projectile created by this item."
+},
+{
+"id": 3987,
+"en": "Fires thrice as many bullets."
+},
+{
+"id": 3988,
+"en": "Fires twice as many bullets."
+},
+{
+"id": 3989,
+"en": "Slices reality even further."
+},
+{
+"id": 3990,
+"en": "Secrets found in the walls and ground are of increased quality."
+},
+{
+"id": 3991,
+"en": "Victims {root@RO} nearby enemies for ::duration:: sec."
+},
+{
+"id": 3992,
+"en": "{Burns@FI} the enemy."
+},
+{
+"id": 3993,
+"en": "Enemies killed by doom repeat the effect around them."
+},
+{
+"id": 3994,
+"en": "Instantly rebuilds itself on kill."
+},
+{
+"id": 3995,
+"en": "Reduces the pause between attacks."
+},
+{
+"id": 3996,
+"en": "Deals ::prct::% of your current gold as that many % bonus damage."
+}
+]

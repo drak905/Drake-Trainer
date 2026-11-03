@@ -1,0 +1,3 @@
+xdelta3 3.2.2 (Windows x86_64 build) - Copyright (C) Joshua MacDonald et al.
+Licensed under the Apache License, Version 2.0 - https://github.com/jmacd/xdelta
+Used unmodified to apply the binary patches in ..\payload.

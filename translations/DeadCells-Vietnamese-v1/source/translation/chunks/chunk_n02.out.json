@@ -1,0 +1,802 @@
+[
+{
+"id": 1089,
+"vi": "Bản đồ: Phóng to"
+},
+{
+"id": 1090,
+"vi": "Bản đồ: Thu nhỏ"
+},
+{
+"id": 1091,
+"vi": "Bản đồ: Lên"
+},
+{
+"id": 1092,
+"vi": "Bản đồ: Trái"
+},
+{
+"id": 1093,
+"vi": "Bản đồ: Xuống"
+},
+{
+"id": 1094,
+"vi": "Bản đồ: Phải"
+},
+{
+"id": 1095,
+"vi": "Trước"
+},
+{
+"id": 1096,
+"vi": "Đổi vật phẩm trong ba lô"
+},
+{
+"id": 1097,
+"vi": "LỐI CHƠI"
+},
+{
+"id": 1098,
+"vi": "Giữ để tấn công"
+},
+{
+"id": 1103,
+"vi": "Giữ nút nhảy để nhảy"
+},
+{
+"id": 1104,
+"vi": "Bật/tắt khiên"
+},
+{
+"id": 1108,
+"vi": "Giữ để lăn"
+},
+{
+"id": 1110,
+"vi": "Lăn thông minh"
+},
+{
+"id": 1112,
+"vi": "Cài đặt đồng hồ"
+},
+{
+"id": 1113,
+"vi": "Bị tắt trong Chế Độ Speedrun"
+},
+{
+"id": 1114,
+"vi": "Hiện giao diện Speedrun"
+},
+{
+"id": 1115,
+"vi": "Chế Độ Speedrun"
+},
+{
+"id": 1117,
+"vi": "Đặt lại thời gian của bạn"
+},
+{
+"id": 1119,
+"vi": "Cài đặt tín hiệu"
+},
+{
+"id": 1120,
+"vi": "Hướng dẫn điều khiển"
+},
+{
+"id": 1122,
+"vi": "Lăn đã sẵn sàng"
+},
+{
+"id": 1124,
+"vi": "Cảnh báo tấn công"
+},
+{
+"id": 1128,
+"vi": "Cỡ tín hiệu đòn tấn công của địch"
+},
+{
+"id": 1129,
+"vi": "Bật Chroma"
+},
+{
+"id": 1131,
+"vi": "Cài đặt khác"
+},
+{
+"id": 1132,
+"vi": "Tắt phòng cốt truyện"
+},
+{
+"id": 1134,
+"vi": "Bỏ qua đoạn cắt cảnh"
+},
+{
+"id": 1136,
+"vi": "Tắt hiệu ứng chậm trong lối chơi"
+},
+{
+"id": 1137,
+"vi": "Tùy chọn Steam"
+},
+{
+"id": 1141,
+"vi": "Bật giao diện mod"
+},
+{
+"id": 1143,
+"vi": "HÌNH ẢNH"
+},
+{
+"id": 1144,
+"vi": "Toàn màn hình"
+},
+{
+"id": 1145,
+"vi": "Cửa sổ toàn màn hình"
+},
+{
+"id": 1146,
+"vi": "Cửa sổ"
+},
+{
+"id": 1147,
+"vi": "Bật VSync"
+},
+{
+"id": 1148,
+"vi": "Khóa ở 30 FPS"
+},
+{
+"id": 1149,
+"vi": "Cài đặt giao diện"
+},
+{
+"id": 1151,
+"vi": "Dead Cells"
+},
+{
+"id": 1153,
+"vi": "Bật biểu tượng cộng hưởng"
+},
+{
+"id": 1154,
+"vi": "Tùy chỉnh phông chữ"
+},
+{
+"id": 1155,
+"vi": "Tắt thông báo lời nguyền"
+},
+{
+"id": 1157,
+"vi": "Biểu tượng"
+},
+{
+"id": 1158,
+"vi": "Kiểu biểu tượng"
+},
+{
+"id": 1159,
+"vi": "Biểu tượng cũ"
+},
+{
+"id": 1160,
+"vi": "Biểu tượng mới"
+},
+{
+"id": 1161,
+"vi": "Biểu tượng mới (lớn)"
+},
+{
+"id": 1162,
+"vi": "Biểu tượng sử dụng"
+},
+{
+"id": 1163,
+"vi": "Biểu tượng mặc định"
+},
+{
+"id": 1164,
+"vi": "Biểu tượng Xbox"
+},
+{
+"id": 1165,
+"vi": "Biểu tượng PS4"
+},
+{
+"id": 1166,
+"vi": "Biểu tượng PS5"
+},
+{
+"id": 1167,
+"vi": "Biểu tượng Joy-Con"
+},
+{
+"id": 1168,
+"vi": "Biểu tượng Switch Pro Controller"
+},
+{
+"id": 1169,
+"vi": "Cài đặt bố cục HUD"
+},
+{
+"id": 1172,
+"vi": "Tùy chỉnh độ trong suốt HUD"
+},
+{
+"id": 1173,
+"vi": "Tùy chỉnh kích thước HUD"
+},
+{
+"id": 1174,
+"vi": "Thông tin HUD tùy chọn"
+},
+{
+"id": 1178,
+"vi": "Ẩn nút điều khiển"
+},
+{
+"id": 1183,
+"vi": "Hiện mili giây"
+},
+{
+"id": 1185,
+"vi": "Hiện mã Seed"
+},
+{
+"id": 1187,
+"vi": "Bật chớp sáng mạnh"
+},
+{
+"id": 1189,
+"vi": "Giới hạn hạt hiệu ứng"
+},
+{
+"id": 1190,
+"vi": "Tắt máu"
+},
+{
+"id": 1193,
+"vi": "Độ hiển thị khu vực bí mật"
+},
+{
+"id": 1195,
+"vi": "Bộ lọc nền"
+},
+{
+"id": 1197,
+"vi": "Độ mờ bộ lọc nền"
+},
+{
+"id": 1198,
+"vi": "Nền chữ"
+},
+{
+"id": 1199,
+"vi": "Hiện nền chữ"
+},
+{
+"id": 1200,
+"vi": "Độ mờ nền chữ"
+},
+{
+"id": 1201,
+"vi": "Đảo ngược điều khiển"
+},
+{
+"id": 1202,
+"vi": "Đảo ngược di chuyển nhân vật"
+},
+{
+"id": 1203,
+"vi": "Đảo ngược di chuyển camera"
+},
+{
+"id": 1204,
+"vi": "Máy quay"
+},
+{
+"id": 1205,
+"vi": "Bật rung màn hình"
+},
+{
+"id": 1211,
+"vi": "Tùy chọn viền"
+},
+{
+"id": 1212,
+"vi": "Viền nhân vật"
+},
+{
+"id": 1214,
+"vi": "Viền kẻ địch"
+},
+{
+"id": 1216,
+"vi": "Viền NPC"
+},
+{
+"id": 1218,
+"vi": "Viền kỹ năng chủ động"
+},
+{
+"id": 1220,
+"vi": "Viền đạn"
+},
+{
+"id": 1221,
+"vi": "Thêm viền cho đạn"
+},
+{
+"id": 1222,
+"vi": "Viền bí mật"
+},
+{
+"id": 1223,
+"vi": "Thêm viền cho bí mật"
+},
+{
+"id": 1224,
+"vi": "Viền gai"
+},
+{
+"id": 1226,
+"vi": "Cài đặt hiển thị chỉ số"
+},
+{
+"id": 1231,
+"vi": "Cài đặt chữ"
+},
+{
+"id": 1232,
+"vi": "Cỡ chữ tên vật phẩm"
+},
+{
+"id": 1233,
+"vi": "Cỡ chữ mô tả vật phẩm"
+},
+{
+"id": 1234,
+"vi": "Cỡ chữ hội thoại"
+},
+{
+"id": 1235,
+"vi": "ÂM THANH"
+},
+{
+"id": 1236,
+"vi": "Tắt tiếng"
+},
+{
+"id": 1237,
+"vi": "Âm lượng chính"
+},
+{
+"id": 1238,
+"vi": "Âm lượng nhạc"
+},
+{
+"id": 1239,
+"vi": "Âm lượng hiệu ứng"
+},
+{
+"id": 1240,
+"vi": "Âm lượng âm thanh môi trường"
+},
+{
+"id": 1241,
+"vi": "Phát nhạc cửa hàng"
+},
+{
+"id": 1243,
+"vi": "Phát nhạc thang máy ở Ngân Hàng"
+},
+{
+"id": 1245,
+"vi": "Nhạc nền thay thế"
+},
+{
+"id": 1248,
+"vi": "Cài đặt nâng cao"
+},
+{
+"id": 1250,
+"vi": "Cài đặt hiệu ứng âm thanh"
+},
+{
+"id": 1251,
+"vi": "NHẠC NỀN THAY THẾ"
+},
+{
+"id": 1252,
+"vi": "Âm lượng hiệu ứng âm thanh"
+},
+{
+"id": 1253,
+"vi": "Âm lượng kỹ năng chủ động"
+},
+{
+"id": 1254,
+"vi": "Âm lượng kẻ địch"
+},
+{
+"id": 1255,
+"vi": "Âm lượng môi trường"
+},
+{
+"id": 1256,
+"vi": "Âm lượng nhân vật"
+},
+{
+"id": 1257,
+"vi": "Âm lượng vật tương tác"
+},
+{
+"id": 1258,
+"vi": "Âm lượng NPC"
+},
+{
+"id": 1259,
+"vi": "Âm lượng vũ khí"
+},
+{
+"id": 1260,
+"vi": "Cài đặt hiệu ứng âm thanh nâng cao"
+},
+{
+"id": 1261,
+"vi": "Không (mặc định)"
+},
+{
+"id": 1262,
+"vi": "Giảm nhẹ hiệu ứng âm thanh"
+},
+{
+"id": 1263,
+"vi": "Giảm vừa hiệu ứng âm thanh"
+},
+{
+"id": 1264,
+"vi": "Giảm mạnh hiệu ứng âm thanh"
+},
+{
+"id": 1265,
+"vi": "Giảm hiệu ứng âm thanh"
+},
+{
+"id": 1267,
+"vi": "Ưu tiên mặc định (bình thường)"
+},
+{
+"id": 1268,
+"vi": "Ưu tiên tùy chỉnh"
+},
+{
+"id": 1269,
+"vi": "Ưu tiên hiệu ứng âm thanh"
+},
+{
+"id": 1271,
+"vi": "Ưu tiên âm thanh kỹ năng chủ động"
+},
+{
+"id": 1272,
+"vi": "Ưu tiên âm thanh kẻ địch"
+},
+{
+"id": 1273,
+"vi": "Ưu tiên âm thanh môi trường"
+},
+{
+"id": 1274,
+"vi": "Ưu tiên âm thanh nhân vật"
+},
+{
+"id": 1275,
+"vi": "Ưu tiên âm thanh vật tương tác"
+},
+{
+"id": 1277,
+"vi": "Ưu tiên âm thanh vũ khí"
+},
+{
+"id": 1278,
+"vi": "Cài đặt ưu tiên mặc định"
+},
+{
+"id": 1279,
+"vi": "NGÔN NGỮ"
+},
+{
+"id": 1281,
+"vi": "Tải ngôn ngữ khác"
+},
+{
+"id": 1282,
+"vi": "CHẾ ĐỘ ĂN"
+},
+{
+"id": 1284,
+"vi": "Ăn tạp"
+},
+{
+"id": 1286,
+"vi": "Ăn thịt"
+},
+{
+"id": 1287,
+"vi": "Kiểu Castlevania"
+},
+{
+"id": 1288,
+"vi": "Ăn chay"
+},
+{
+"id": 1289,
+"vi": "Chỉ ăn trái cây"
+},
+{
+"id": 1290,
+"vi": "Quái vật"
+},
+{
+"id": 1291,
+"vi": "Bánh mì Pháp"
+},
+{
+"id": 1292,
+"vi": "Half-Life"
+},
+{
+"id": 1293,
+"vi": "Phô mai"
+},
+{
+"id": 1294,
+"vi": "MOD"
+},
+{
+"id": 1298,
+"vi": "DANH SÁCH THỰC HIỆN"
+},
+{
+"id": 1299,
+"vi": "Âm thanh và Âm nhạc"
+},
+{
+"id": 1300,
+"vi": "Lời cảm ơn"
+},
+{
+"id": 1305,
+"vi": "Motion Twin trên Facebook"
+},
+{
+"id": 1306,
+"vi": "Motion Twin trên Twitter"
+},
+{
+"id": 1309,
+"vi": "Bật tích hợp phát trực tiếp"
+},
+{
+"id": 1312,
+"vi": "Thiết lập"
+},
+{
+"id": 1313,
+"vi": "Dùng hệ thống bình chọn mới"
+},
+{
+"id": 1315,
+"vi": "Bật Captain Chicken"
+},
+{
+"id": 1328,
+"vi": "Bật Sổ Tay Cộng Đồng"
+},
+{
+"id": 1330,
+"vi": "Bật Rương Cộng Đồng"
+},
+{
+"id": 1336,
+"vi": "Bật bình luận"
+},
+{
+"id": 1338,
+"vi": "Bật gợi ý màn chơi"
+},
+{
+"id": 1340,
+"vi": "Cửa sổ bình chọn bên phải"
+},
+{
+"id": 1342,
+"vi": "Nhấn một nút"
+},
+{
+"id": 1345,
+"vi": "Sắc độ"
+},
+{
+"id": 1346,
+"vi": "Độ bão hòa"
+},
+{
+"id": 1347,
+"vi": "Độ sáng"
+},
+{
+"id": 1348,
+"vi": "Đổi danh mục"
+},
+{
+"id": 1352,
+"vi": "Đột biến chung"
+},
+{
+"id": 1353,
+"vi": "Đặt lại đột biến"
+},
+{
+"id": 1356,
+"vi": "ĐẠT SỐ ĐỘT BIẾN TỐI ĐA"
+},
+{
+"id": 1358,
+"vi": "CHỌN 1 ĐỘT BIẾN"
+},
+{
+"id": 1360,
+"vi": "Giữ trong ba lô"
+},
+{
+"id": 1361,
+"vi": "Đảo ngược"
+},
+{
+"id": 1367,
+"vi": "DỮ LIỆU LƯU"
+},
+{
+"id": 1369,
+"vi": "Xác nhận nhập"
+},
+{
+"id": 1371,
+"vi": "Sao chép"
+},
+{
+"id": 1378,
+"vi": "Ô thử nghiệm (đang dùng)"
+},
+{
+"id": 1382,
+"vi": "Trống"
+},
+{
+"id": 1391,
+"vi": "Thưởng"
+},
+{
+"id": 1392,
+"vi": "Thời gian mỗi màn"
+},
+{
+"id": 1393,
+"vi": "Màn"
+},
+{
+"id": 1394,
+"vi": "Thời gian tốt nhất ở màn này"
+},
+{
+"id": 1395,
+"vi": "Thời gian ở màn này"
+},
+{
+"id": 1396,
+"vi": "Chênh lệch"
+},
+{
+"id": 1397,
+"vi": "Thời gian tốt nhất"
+},
+{
+"id": 1398,
+"vi": "Thời gian hiện tại"
+},
+{
+"id": 1399,
+"vi": "Tổng"
+},
+{
+"id": 1400,
+"vi": "TIẾN TRÌNH"
+},
+{
+"id": 1401,
+"vi": "Nâng cấp"
+},
+{
+"id": 1402,
+"vi": "Vũ khí"
+},
+{
+"id": 1403,
+"vi": "Kỹ năng"
+},
+{
+"id": 1404,
+"vi": "Chung"
+},
+{
+"id": 1405,
+"vi": "Khám phá"
+},
+{
+"id": 1406,
+"vi": "Khu vực"
+},
+{
+"id": 1407,
+"vi": "Quái vật"
+},
+{
+"id": 1408,
+"vi": "Số lần chết"
+},
+{
+"id": 1409,
+"vi": "Thành tựu"
+},
+{
+"id": 1411,
+"vi": "Vũ khí hiện có"
+},
+{
+"id": 1413,
+"vi": "Kỹ năng hiện có"
+},
+{
+"id": 1415,
+"vi": "Đột biến hiện có"
+},
+{
+"id": 1416,
+"vi": "Tổng số lượt chơi"
+},
+{
+"id": 1417,
+"vi": "Tổng số lượt chơi đã hoàn thành"
+},
+{
+"id": 1418,
+"vi": "Lượng vàng nhiều nhất nhận một lần"
+},
+{
+"id": 1419,
+"vi": "Tổng vàng đã nhận"
+},
+{
+"id": 1420,
+"vi": "Tổng vàng đã tiêu"
+},
+{
+"id": 1421,
+"vi": "Số Tế bào nhiều nhất nhận một lần"
+},
+{
+"id": 1422,
+"vi": "Tế bào đã nhận"
+},
+{
+"id": 1423,
+"vi": "Tế bào đã tiêu"
+},
+{
+"id": 1424,
+"vi": "Số lần dùng dịch chuyển"
+}
+]

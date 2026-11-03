@@ -1,0 +1,865 @@
+[
+{
+"id": 3418,
+"en": "Starved Conjunctivius Outfit"
+},
+{
+"id": 3419,
+"en": "Enraged Conjunctivius Outfit"
+},
+{
+"id": 3420,
+"en": "Revolted Conjunctivius Outfit"
+},
+{
+"id": 3421,
+"en": "Legendary Conjunctivius Outfit"
+},
+{
+"id": 3422,
+"en": "Classic Temporal Outfit"
+},
+{
+"id": 3424,
+"en": "Desert Temporal Outfit"
+},
+{
+"id": 3425,
+"en": "Volcanic Temporal Outfit"
+},
+{
+"id": 3426,
+"en": "Hunter's Temporal Outfit"
+},
+{
+"id": 3427,
+"en": "Collector's Temporal Outfit"
+},
+{
+"id": 3428,
+"en": "Classic Giant Outfit"
+},
+{
+"id": 3430,
+"en": "Disappointed Giant's Outfit"
+},
+{
+"id": 3431,
+"en": "Cursed Giant's Outfit"
+},
+{
+"id": 3432,
+"en": "Misunderstood Giant's Outfit"
+},
+{
+"id": 3433,
+"en": "Frustrated Giant's Outfit"
+},
+{
+"id": 3440,
+"en": "Rocky Outfit"
+},
+{
+"id": 3442,
+"en": "Fallen Collector Outfit"
+},
+{
+"id": 3444,
+"en": "Giant Tick Outfit"
+},
+{
+"id": 3446,
+"en": "Annoyed Tick Outfit"
+},
+{
+"id": 3447,
+"en": "Irritated Tick Outfit"
+},
+{
+"id": 3448,
+"en": "Mad Tick Outfit"
+},
+{
+"id": 3449,
+"en": "Furious Tick Outfit"
+},
+{
+"id": 3450,
+"en": "Sacrificial Tick Outfit"
+},
+{
+"id": 3452,
+"en": "Classic Scarecrow Outfit"
+},
+{
+"id": 3454,
+"en": "Green Thumb Scarecrow Outfit"
+},
+{
+"id": 3458,
+"en": "Cutecrow Outfit"
+},
+{
+"id": 3460,
+"en": "Gothic Scarecrow Outfit"
+},
+{
+"id": 3462,
+"en": "Cultist Outfit"
+},
+{
+"id": 3464,
+"en": "Flawless Concierge Outfit"
+},
+{
+"id": 3466,
+"en": "Flawless Conjunctivius Outfit"
+},
+{
+"id": 3468,
+"en": "Flawless Temporal Outfit"
+},
+{
+"id": 3470,
+"en": "Flawless Giant Outfit"
+},
+{
+"id": 3474,
+"en": "Flawless Tick Outfit"
+},
+{
+"id": 3476,
+"en": "Flawless Scarecrow Outfit"
+},
+{
+"id": 3478,
+"en": "Winter Outfit"
+},
+{
+"id": 3480,
+"en": "Reverse Burglar's Outfit"
+},
+{
+"id": 3482,
+"en": "Vessel's outfit",
+"ctx": "U26_HKSKIN_NAME"
+},
+{
+"id": 3484,
+"en": "Penitent's outfit",
+"ctx": "U26_BLASPHEMOUSSKIN_NAME"
+},
+{
+"id": 3486,
+"en": "Luchador's outfit",
+"ctx": "U26_GUACSKIN_NAME"
+},
+{
+"id": 3488,
+"en": "Little Bone's outfit",
+"ctx": "U26_SKULSKIN_NAME"
+},
+{
+"id": 3490,
+"en": "The Magician's outfit",
+"ctx": "U26_HLDSKIN_NAME"
+},
+{
+"id": 3492,
+"en": "Explorer's outfit",
+"ctx": "U26_CODGSKIN_NAME"
+},
+{
+"id": 3494,
+"en": "Knight's Outfit"
+},
+{
+"id": 3496,
+"en": "Armored Shrimp Carcass Outfit"
+},
+{
+"id": 3498,
+"en": "Mutineer Outfit"
+},
+{
+"id": 3499,
+"en": "Anchor sold separately"
+},
+{
+"id": 3500,
+"en": "Servant Outfit"
+},
+{
+"id": 3501,
+"en": "Loyal and fire-resistant"
+},
+{
+"id": 3502,
+"en": "Toxic Servant Outfit"
+},
+{
+"id": 3504,
+"en": "Silver Servant Outfit"
+},
+{
+"id": 3506,
+"en": "Aurora Servant Outfit"
+},
+{
+"id": 3508,
+"en": "King's Servant Outfit"
+},
+{
+"id": 3510,
+"en": "Flawless Servant Outfit"
+},
+{
+"id": 3512,
+"en": "Queen Outfit"
+},
+{
+"id": 3514,
+"en": "White Gold Queen Outfit"
+},
+{
+"id": 3515,
+"en": "Triple 0 outfit"
+},
+{
+"id": 3516,
+"en": "Cherry Blossom Queen Outfit"
+},
+{
+"id": 3518,
+"en": "Frozen Queen Outfit"
+},
+{
+"id": 3520,
+"en": "Spicy Queen Outfit"
+},
+{
+"id": 3522,
+"en": "Flawless Queen Outfit"
+},
+{
+"id": 3524,
+"en": "Delayed Hedgehog Outfit"
+},
+{
+"id": 3526,
+"en": "Gentleman's Outfit"
+},
+{
+"id": 3528,
+"en": "Robber Outfit"
+},
+{
+"id": 3532,
+"en": "Shovel Knight Outfit"
+},
+{
+"id": 3534,
+"en": "Modernized Bomber Outfit"
+},
+{
+"id": 3536,
+"en": "Zero Outfit"
+},
+{
+"id": 3538,
+"en": "Commando Outfit"
+},
+{
+"id": 3540,
+"en": "Familiar Outfit"
+},
+{
+"id": 3542,
+"en": "Ironclad Outfit"
+},
+{
+"id": 3544,
+"en": "Boss Knight Outfit",
+"ctx": "U31_SKIN1_NAME"
+},
+{
+"id": 3546,
+"en": "Barbarian Boss Knight Outfit",
+"ctx": "U31_SKIN2_NAME"
+},
+{
+"id": 3548,
+"en": "Triumphant Boss Knight Outfit",
+"ctx": "U31_SKIN3_NAME"
+},
+{
+"id": 3550,
+"en": "Luminous Boss Knight Outfit",
+"ctx": "U31_SKIN4_NAME"
+},
+{
+"id": 3552,
+"en": "Triumph Outfit",
+"ctx": "U31_SKIN5_NAME"
+},
+{
+"id": 3554,
+"en": "Bisonnica Triumph Outfit",
+"ctx": "U31_SKIN6_NAME"
+},
+{
+"id": 3556,
+"en": "Mentoral Triumph Outfit",
+"ctx": "U31_SKIN7_NAME"
+},
+{
+"id": 3558,
+"en": "Radiant Triumph Outfit",
+"ctx": "U31_SKIN8_NAME"
+},
+{
+"id": 3560,
+"en": "Simon Outfit"
+},
+{
+"id": 3562,
+"en": "Alucard Outfit"
+},
+{
+"id": 3564,
+"en": "Richter Outfit"
+},
+{
+"id": 3566,
+"en": "Sypha Outfit"
+},
+{
+"id": 3568,
+"en": "Trevor Outfit"
+},
+{
+"id": 3570,
+"en": "Maria Renard Outfit"
+},
+{
+"id": 3572,
+"en": "Hector Outfit"
+},
+{
+"id": 3574,
+"en": "Haunted Armor Outfit"
+},
+{
+"id": 3576,
+"en": "Death Outfit"
+},
+{
+"id": 3578,
+"en": "Cold Death Outfit"
+},
+{
+"id": 3580,
+"en": "Red Death Outfit"
+},
+{
+"id": 3582,
+"en": "Edgy Death Outfit"
+},
+{
+"id": 3584,
+"en": "Spectral Death Outfit"
+},
+{
+"id": 3586,
+"en": "Flawless Death Outfit"
+},
+{
+"id": 3588,
+"en": "Dracula Outfit"
+},
+{
+"id": 3590,
+"en": "Mathias Cronqvist Outfit"
+},
+{
+"id": 3592,
+"en": "Doctor Dracula Outfit"
+},
+{
+"id": 3594,
+"en": "Pompous Dracula Outfit"
+},
+{
+"id": 3596,
+"en": "Vigilante Dracula Outfit"
+},
+{
+"id": 3598,
+"en": "Flawless Dracula Outfit"
+},
+{
+"id": 3600,
+"en": "Classic Head"
+},
+{
+"id": 3601,
+"en": "Unlocked by default",
+"ctx": "U35_HEAD_REVEALEDATSTART"
+},
+{
+"id": 3603,
+"en": "Bobby Head"
+},
+{
+"id": 3606,
+"en": "Concierge Flame",
+"ctx": "U35_HEAD_CONCIERGEFLAME_NAME"
+},
+{
+"id": 3609,
+"en": "Conjunctivius tentacles",
+"ctx": "U35_HEAD_CONJUNCTIVIUSHEAD_NAME"
+},
+{
+"id": 3612,
+"en": "Mama Tick Eye",
+"ctx": "U35_HEAD_MAMATICKEYE_NAME"
+},
+{
+"id": 3615,
+"en": "Time Keeper Mask",
+"ctx": "U35_HEAD_TIMEKEEPERHAT2D_NAME"
+},
+{
+"id": 3618,
+"en": "Giant Flame",
+"ctx": "U35_HEAD_GIANTFLAME_NAME"
+},
+{
+"id": 3621,
+"en": "Scarecrow Hat",
+"ctx": "U35_HEAD_SCARECROWHAT2D_NAME"
+},
+{
+"id": 3624,
+"en": "Hand of the King Flame",
+"ctx": "U35_HEAD_HANDOFTHEKINGFLAME_NAME"
+},
+{
+"id": 3627,
+"en": "Servant Mask",
+"ctx": "U35_HEAD_SERVANTSMASK_NAME"
+},
+{
+"id": 3630,
+"en": "Queen Flame",
+"ctx": "U35_HEAD_QUEENFLAME_NAME"
+},
+{
+"id": 3633,
+"en": "Collector Hood",
+"ctx": "U35_HEAD_COLLECTORHOOD_NAME"
+},
+{
+"id": 3636,
+"en": "Black Hole",
+"ctx": "U35_HEAD_BLACKHOLE_NAME"
+},
+{
+"id": 3639,
+"en": "White Hole",
+"ctx": "U35_HEAD_BLACKHOLEWHITE_NAME"
+},
+{
+"id": 3642,
+"en": "Violet Hole",
+"ctx": "U35_HEAD_BLACKHOLEVIOLET_NAME"
+},
+{
+"id": 3644,
+"en": "Red Hole",
+"ctx": "U35_HEAD_BLACKHOLERED_NAME"
+},
+{
+"id": 3647,
+"en": "Green Hole",
+"ctx": "U35_HEAD_BLACKHOLEGREEN_NAME"
+},
+{
+"id": 3650,
+"en": "Blue Hole",
+"ctx": "U35_HEAD_BLACKHOLEBLUE_NAME"
+},
+{
+"id": 3653,
+"en": "Biter Head",
+"ctx": "U35_HEAD_BITTER_NAME"
+},
+{
+"id": 3656,
+"en": "Vortex",
+"ctx": "U35_HEAD_VORTEXDARNESS_NAME"
+},
+{
+"id": 3658,
+"en": "Sanguine Vortex",
+"ctx": "U35_HEAD_VORTEXBADSEED_NAME"
+},
+{
+"id": 3661,
+"en": "Abyssal Vortex",
+"ctx": "U35_HEAD_VORTEXANDSEA_NAME"
+},
+{
+"id": 3664,
+"en": "Dark Vortex",
+"ctx": "U35_HEAD_VORTEXFOUNDRY_NAME"
+},
+{
+"id": 3667,
+"en": "Guillain Head",
+"ctx": "U35_HEAD_GUILLAIN_NAME"
+},
+{
+"id": 3670,
+"en": "Fisherman Hood",
+"ctx": "U35_HEAD_PECHEUR_NAME"
+},
+{
+"id": 3673,
+"en": "Leghugger Head",
+"ctx": "U35_HEAD_STAPHYHEAD_NAME"
+},
+{
+"id": 3676,
+"en": "Flawless Torch",
+"ctx": "U35_HEAD_FLAWLESS_NAME"
+},
+{
+"id": 3679,
+"en": "Cell",
+"ctx": "U35_HEAD_CELLHEAD_NAME"
+},
+{
+"id": 3682,
+"en": "Evil Minion Head",
+"ctx": "U35_HEAD_EVILEMPIRE_NAME"
+},
+{
+"id": 3685,
+"en": "Toxic Blob",
+"ctx": "U35_HEAD_BLOBBYFLAME_NAME"
+},
+{
+"id": 3688,
+"en": "Glitch",
+"ctx": "U35_GLITCHY_HEAD_NAME"
+},
+{
+"id": 3691,
+"en": "Mushroom Boi Cap",
+"ctx": "U35_HEAD_MUSHROOMBOI_NAME"
+},
+{
+"id": 3694,
+"en": "Horde Zero Hood",
+"ctx": "U35_HEAD_HORDESZEROHOOD_NAME"
+},
+{
+"id": 3697,
+"en": "Magma Blob",
+"ctx": "U35_HEAD_BLOBBYFLAMEMAGMA_NAME"
+},
+{
+"id": 3700,
+"en": "Shadow Blob",
+"ctx": "U35_HEAD_BLOBBYFLAMEMALAISE_NAME"
+},
+{
+"id": 3703,
+"en": "Sweet Blob",
+"ctx": "U35_HEAD_BLOBBYFLAMEGUM_NAME"
+},
+{
+"id": 3706,
+"en": "Spatial Anomaly",
+"ctx": "U35_GLITCHY_HEAD_DEEPSPACE_NAME"
+},
+{
+"id": 3709,
+"en": "Menacing Anomaly",
+"ctx": "U35_GLITCHY_HEAD_RED_NAME"
+},
+{
+"id": 3712,
+"en": "Dark Blowtorch",
+"ctx": "U35_HEAD_BLOWTORCH_BLACK_NAME"
+},
+{
+"id": 3715,
+"en": "Blowtorch",
+"ctx": "U35_HEAD_BLOWTORCH_NAME"
+},
+{
+"id": 3717,
+"en": "Golden Blowtorch",
+"ctx": "U35_HEAD_BLOWTORCH_GOLD_NAME"
+},
+{
+"id": 3720,
+"en": "Bright Red Blowtorch",
+"ctx": "U35_HEAD_BLOWTORCH_RED_NAME"
+},
+{
+"id": 3723,
+"en": "Boss Cell",
+"ctx": "U35_HEAD_BOSSCELL_NAME"
+},
+{
+"id": 3726,
+"en": "Blood Drinker"
+},
+{
+"id": 3728,
+"en": "Stomper"
+},
+{
+"id": 3730,
+"en": "Shatter"
+},
+{
+"id": 3732,
+"en": "Toxin Lover"
+},
+{
+"id": 3734,
+"en": "Relentless"
+},
+{
+"id": 3736,
+"en": "Gotta Go Fast"
+},
+{
+"id": 3738,
+"en": "Tinker"
+},
+{
+"id": 3740,
+"en": "Firestarter"
+},
+{
+"id": 3742,
+"en": "Menagerie"
+},
+{
+"id": 3744,
+"en": "Grenadier"
+},
+{
+"id": 3746,
+"en": "Superconductor"
+},
+{
+"id": 3748,
+"en": "Assassin"
+},
+{
+"id": 3750,
+"en": "Damned"
+},
+{
+"id": 3760,
+"en": "Zombie"
+},
+{
+"id": 3761,
+"en": "Swarm Zombie"
+},
+{
+"id": 3762,
+"en": "Festering Zombie"
+},
+{
+"id": 3763,
+"en": "Disgusting Worm"
+},
+{
+"id": 3764,
+"en": "Corpse Worm"
+},
+{
+"id": 3765,
+"en": "Weaver Worm"
+},
+{
+"id": 3766,
+"en": "Dark Tracker"
+},
+{
+"id": 3767,
+"en": "Runner"
+},
+{
+"id": 3768,
+"en": "Cannibal"
+},
+{
+"id": 3769,
+"en": "Shieldbearer"
+},
+{
+"id": 3770,
+"en": "Thorny"
+},
+{
+"id": 3771,
+"en": "Slasher"
+},
+{
+"id": 3772,
+"en": "Catcher"
+},
+{
+"id": 3773,
+"en": "Lacerator"
+},
+{
+"id": 3774,
+"en": "Shocker"
+},
+{
+"id": 3775,
+"en": "Golem"
+},
+{
+"id": 3776,
+"en": "Guardian Knight"
+},
+{
+"id": 3777,
+"en": "Lancer"
+},
+{
+"id": 3778,
+"en": "Failed Experiment"
+},
+{
+"id": 3779,
+"en": "Bomber"
+},
+{
+"id": 3780,
+"en": "Ground Shaker"
+},
+{
+"id": 3781,
+"en": "Slammer"
+},
+{
+"id": 3782,
+"en": "Royal Guard"
+},
+{
+"id": 3783,
+"en": "Automaton"
+},
+{
+"id": 3784,
+"en": "Skeleton"
+},
+{
+"id": 3785,
+"en": "Rampager"
+},
+{
+"id": 3786,
+"en": "Sewer's Tentacle"
+},
+{
+"id": 3787,
+"en": "Jerkshroom"
+},
+{
+"id": 3788,
+"en": "Banished"
+},
+{
+"id": 3789,
+"en": "Toxic Miasma"
+},
+{
+"id": 3790,
+"en": "Oven Knight"
+},
+{
+"id": 3791,
+"en": "Dancer"
+},
+{
+"id": 3792,
+"en": "Weirded Warrior"
+},
+{
+"id": 3793,
+"en": "Corpulent Zombie"
+},
+{
+"id": 3794,
+"en": "Rancid Rat"
+},
+{
+"id": 3795,
+"en": "Living Barrel"
+},
+{
+"id": 3796,
+"en": "Cold Blooded Guardian"
+},
+{
+"id": 3797,
+"en": "Clumsy Swordsman"
+},
+{
+"id": 3798,
+"en": "Compulsive Gravedigger"
+},
+{
+"id": 3799,
+"en": "Armored Shrimp"
+},
+{
+"id": 3800,
+"en": "Agitated Pickpocket",
+"ctx": "U28_STEAL_NAME"
+},
+{
+"id": 3801,
+"en": "Gold Gorger",
+"ctx": "U28_VACUUM_NAME"
+},
+{
+"id": 3802,
+"en": "Axe Armor",
+"ctx": "DLCP_HAUNTEDARMOR_NAME"
+},
+{
+"id": 3803,
+"en": "Buer",
+"ctx": "DLCP_BUER_NAME"
+},
+{
+"id": 3804,
+"en": "Dire Werewolf",
+"ctx": "DLCP_WEREWOLF_NAME"
+},
+{
+"id": 3805,
+"en": "Werewolf",
+"ctx": "DLCP_MINIWEREWOLF_NAME"
+},
+{
+"id": 3806,
+"en": "Armor Knight",
+"ctx": "DLCP_LANCERPURPLE_NAME"
+}
+]

@@ -1,0 +1,386 @@
+[
+ {
+  "id": 1,
+  "vi": "English"
+ },
+ {
+  "id": 2,
+  "vi": "Français"
+ },
+ {
+  "id": 3,
+  "vi": "Italiano"
+ },
+ {
+  "id": 4,
+  "vi": "Deutsch"
+ },
+ {
+  "id": 5,
+  "vi": "Español"
+ },
+ {
+  "id": 6,
+  "vi": "Português"
+ },
+ {
+  "id": 7,
+  "vi": "Guacamelee!"
+ },
+ {
+  "id": 8,
+  "vi": "Nhấn {CROSS}"
+ },
+ {
+  "id": 9,
+  "vi": "Người chơi %u đã ngắt kết nối. Vui lòng kết nối tay cầm."
+ },
+ {
+  "id": 10,
+  "vi": "Bạn có chắc muốn bắt đầu Trò chơi mới?\\nMọi dữ liệu đã lưu sẽ bị ghi đè."
+ },
+ {
+  "id": 11,
+  "vi": "Cửa hàng"
+ },
+ {
+  "id": 12,
+  "vi": "PlayStation®Store"
+ },
+ {
+  "id": 13,
+  "vi": "Hãy chỉnh lại hình ảnh \\n\\n\\nDùng {DPAD} để chỉnh cho đến khi\\n\\ncác mũi tên hiện rõ hoàn toàn\\n\\n\\nChỉnh tỉ lệ chỉ ảnh hưởng đến TV\\n\\n\\nNhấn {MENUCONFIRM} để xác nhận"
+ },
+ {
+  "id": 14,
+  "vi": "Hãy chỉnh lại hình ảnh \\n\\n\\nDùng {DPAD} để chỉnh cho đến khi\\n\\ncác mũi tên hiện rõ hoàn toàn\\n\\n\\nLưu ý: Chỉnh tỉ lệ chỉ ảnh hưởng đến TV\\n\\n\\nNhấn {MENUCONFIRM} để xác nhận"
+ },
+ {
+  "id": 15,
+  "vi": "Chỉnh tỉ lệ chỉ ảnh hưởng đến TV\\nNhấn {MENUCONFIRM} để xác nhận"
+ },
+ {
+  "id": 16,
+  "vi": "Chỉnh cỡ"
+ },
+ {
+  "id": 17,
+  "vi": "Vùng hiển thị "
+ },
+ {
+  "id": 18,
+  "vi": "Rung"
+ },
+ {
+  "id": 19,
+  "vi": "Hoàn thành Chương 1"
+ },
+ {
+  "id": 20,
+  "vi": "Hoàn thành Chương 2"
+ },
+ {
+  "id": 21,
+  "vi": "Hoàn thành Chương 3"
+ },
+ {
+  "id": 22,
+  "vi": "Hoàn thành Chương 4"
+ },
+ {
+  "id": 23,
+  "vi": "Bạn có chắc muốn vào PlayStation®Store?"
+ },
+ {
+  "id": 24,
+  "vi": "Thiết bị lưu trữ không đủ chỗ trống.\\nVui lòng chọn thiết bị lưu trữ khác."
+ },
+ {
+  "id": 25,
+  "vi": "Tệp lưu có vẻ bị hỏng. Thử tải lại?\\n\\nNếu không, tệp lưu sẽ bị ghi đè\\nở lần lưu kế tiếp."
+ },
+ {
+  "id": 26,
+  "vi": "Lỗi khi tải tệp lưu. Thử tải lại?\\n\\nNếu không, tệp lưu sẽ bị ghi đè\\nở lần lưu kế tiếp."
+ },
+ {
+  "id": 27,
+  "vi": "Lỗi khi tạo tệp lưu. Thử tạo lại?\\n\\nNếu không, tiến trình của bạn\\nsẽ không được lưu."
+ },
+ {
+  "id": 28,
+  "vi": "Thiết bị đã chọn có tiến trình lưu cũ.\\nGhi đè hay chọn thiết bị lưu trữ mới?"
+ },
+ {
+  "id": 29,
+  "vi": "Số lần chết"
+ },
+ {
+  "id": 30,
+  "vi": "1p hoặc 2p nhấn {START}"
+ },
+ {
+  "id": 31,
+  "vi": "1p nhấn {MENUCONFIRM}"
+ },
+ {
+  "id": 32,
+  "vi": "2p nhấn {MENUCONFIRM}"
+ },
+ {
+  "id": 33,
+  "vi": "3p nhấn {MENUCONFIRM}"
+ },
+ {
+  "id": 34,
+  "vi": "4p nhấn {MENUCONFIRM}"
+ },
+ {
+  "id": 35,
+  "vi": "Nhấn {MENUCONFIRM}"
+ },
+ {
+  "id": 36,
+  "vi": "{DPADLEFTRIGHT} Chọn màn"
+ },
+ {
+  "id": 37,
+  "vi": "{START} để tham gia"
+ },
+ {
+  "id": 38,
+  "vi": "{SELECT} để thoát"
+ },
+ {
+  "id": 39,
+  "vi": "{CROSS} Chơi màn"
+ },
+ {
+  "id": 40,
+  "vi": "Gamertag"
+ },
+ {
+  "id": 41,
+  "vi": "Tổng thể ( Top )"
+ },
+ {
+  "id": 42,
+  "vi": "Bạn bè"
+ },
+ {
+  "id": 43,
+  "vi": "Tổng thể ( Tôi )"
+ },
+ {
+  "id": 44,
+  "vi": "{MENUY}: Chế độ - "
+ },
+ {
+  "id": 45,
+  "vi": "{MENUCONFIRM}: Xem hồ sơ người chơi"
+ },
+ {
+  "id": 46,
+  "vi": "{MENUCONFIRM}: Gamer Card"
+ },
+ {
+  "id": 47,
+  "vi": "{MENUCONFIRM}: Xem Gamercard"
+ },
+ {
+  "id": 48,
+  "vi": "{MENUCANCEL} Thoát"
+ },
+ {
+  "id": 49,
+  "vi": "Không có kết quả"
+ },
+ {
+  "id": 50,
+  "vi": "Nhấn {MENUCONFIRM} để tiếp tục"
+ },
+ {
+  "id": 51,
+  "vi": "{MENUCONFIRM} Tiếp tục"
+ },
+ {
+  "id": 52,
+  "vi": "Nhấn {TRIANGLE} để tiếp tục"
+ },
+ {
+  "id": 53,
+  "vi": "{MENUCANCEL} Quay lại"
+ },
+ {
+  "id": 54,
+  "vi": "Hãy đăng nhập để xem bảng xếp hạng\\nBạn hiện đang ngoại tuyến"
+ },
+ {
+  "id": 55,
+  "vi": "Sức mạnh Pollo"
+ },
+ {
+  "id": 56,
+  "vi": "Bong bóng co-op"
+ },
+ {
+  "id": 57,
+  "vi": "Giữ {L1}+{R1}"
+ },
+ {
+  "id": 58,
+  "vi": "Bám tường"
+ },
+ {
+  "id": 59,
+  "vi": "Giữ {LSTICKLEFT}/{LSTICKRIGHT} (về phía tường)"
+ },
+ {
+  "id": 60,
+  "vi": "Intenso"
+ },
+ {
+  "id": 61,
+  "vi": "Hoán đổi bóng"
+ },
+ {
+  "id": 62,
+  "vi": "Đã mở khóa phần thưởng!"
+ },
+ {
+  "id": 63,
+  "vi": "Đã mở khóa phần thưởng PlayStation®Home!"
+ },
+ {
+  "id": 64,
+  "vi": "{MENUY} Chế độ"
+ },
+ {
+  "id": 65,
+  "vi": "{MENUPGUP}{MENUPGDN} Trang lên/xuống"
+ },
+ {
+  "id": 66,
+  "vi": "{L1}{R1} Đầu/Cuối"
+ },
+ {
+  "id": 67,
+  "vi": "Dịch vụ trực tuyến đã bị tắt trên\\ntài khoản của bạn do\\ncác giới hạn kiểm soát của phụ huynh"
+ },
+ {
+  "id": 68,
+  "vi": "Dịch vụ trực tuyến đã bị tắt trên\\ntài khoản PlayStation®Network của bạn\\ndo các giới hạn kiểm soát của phụ huynh"
+ },
+ {
+  "id": 69,
+  "vi": "MỞ KHÓA TOÀN BỘ TRÒ CHƠI ĐỂ NHẬN\\nTRỌN MÓN NGON BLOBBY!\\n\\nTÍNH NĂNG CHÍNH:\\n  - Co-op ngon lành!\\n  - Câu đố hấp dẫn!\\n  - Phong cách đồ họa ngon mắt!\\n  - Hài hước mặn mòi!\\n  - Cúp ngon tuyệt!\\n  - Phần thưởng Home tuyệt hảo!"
+ },
+ {
+  "id": 70,
+  "vi": "Chúc mừng bạn đã hoàn thành một màn!\\nNếu game đã mở khóa, bạn sẽ nhận cúp.\\nMở khóa game và nhận cúp ngay bây giờ?"
+ },
+ {
+  "id": 71,
+  "vi": "Tải bản Demo ngay hôm nay!"
+ },
+ {
+  "id": 72,
+  "vi": "Tải trò chơi ngay hôm nay!"
+ },
+ {
+  "id": 73,
+  "vi": "Tải Trailer ngay hôm nay!"
+ },
+ {
+  "id": 74,
+  "vi": "Sản xuất với sự tham gia\\ntài chính của"
+ },
+ {
+  "id": 75,
+  "vi": "Mở khóa vật phẩm với %d điểm?"
+ },
+ {
+  "id": 76,
+  "vi": "{CROSS} Mở khóa "
+ },
+ {
+  "id": 77,
+  "vi": "{CIRCLE} Quay lại"
+ },
+ {
+  "id": 78,
+  "vi": "{SQUARE} Đặt lại trang phục"
+ },
+ {
+  "id": 79,
+  "vi": "ArenaBarrierTest"
+ },
+ {
+  "id": 80,
+  "vi": "CutScene_Credits"
+ },
+ {
+  "id": 81,
+  "vi": "CutScene_CreditsAllTreasure"
+ },
+ {
+  "id": 82,
+  "vi": "CutScene_Final"
+ },
+ {
+  "id": 83,
+  "vi": "CutScene_FinalAllTreasure"
+ },
+ {
+  "id": 84,
+  "vi": "CutScene_JuanJailDream"
+ },
+ {
+  "id": 85,
+  "vi": "CutScene_Mask"
+ },
+ {
+  "id": 86,
+  "vi": "CutScene_PDDeath"
+ },
+ {
+  "id": 87,
+  "vi": "CutScene_Xtabay"
+ },
+ {
+  "id": 88,
+  "vi": "Forest_Backup"
+ },
+ {
+  "id": 89,
+  "vi": "Forest_Old"
+ },
+ {
+  "id": 90,
+  "vi": "FrontEnd"
+ },
+ {
+  "id": 91,
+  "vi": "Intro_StartScreen"
+ },
+ {
+  "id": 92,
+  "vi": "Intro_StartScreen_CutScene"
+ },
+ {
+  "id": 93,
+  "vi": "La Mansión del Presidente"
+ },
+ {
+  "id": 94,
+  "vi": "OldBlucho"
+ },
+ {
+  "id": 95,
+  "vi": "Pueblucho"
+ },
+ {
+  "id": 96,
+  "vi": "Temple1AlphaBackup"
+ }
+]

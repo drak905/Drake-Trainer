@@ -1,0 +1,335 @@
+[
+{
+"id": 5186,
+"en": "It goes from various lighthouse-related tasks each day to a succession of weeks filled with the word \"Nothing\"."
+},
+{
+"id": 5187,
+"en": "Looks like Michel's life was really boring in the end."
+},
+{
+"id": 5188,
+"en": "\"It's been a week now that the Lighthouse has been extinguished. We, the guardians of the tower have been required to move to the village. All that because someone saw a weird scallop on the beach.... Let me tell you, I've been a keeper for my whole life, it's not a scallop that can frighten me.\""
+},
+{
+"id": 5189,
+"en": "These eggs have definitely not been laid by a chicken."
+},
+{
+"id": 5190,
+"en": "They seem to be trembling from time to time."
+},
+{
+"id": 5191,
+"en": "Charming."
+},
+{
+"id": 5193,
+"en": "What a beautiful pedestal!"
+},
+{
+"id": 5194,
+"en": "That trident must have belonged to someone important."
+},
+{
+"id": 5195,
+"en": "Well, anyway..."
+},
+{
+"id": 5196,
+"en": "These people died of waiting for too long... It must have been such a drag!",
+"ctx": "U28_ENTRANCE_CORPSES"
+},
+{
+"id": 5201,
+"en": "A security notice for the Bank's staff.",
+"ctx": "U28_ARCHIVE_BAGS_01"
+},
+{
+"id": 5202,
+"en": "\"Don't put food close to the merchants' bags, they seem to have been compromised.\". What does a bag eat, though?",
+"ctx": "U28_ARCHIVE_BAGS_02"
+},
+{
+"id": 5203,
+"en": "A treatise on the Philosopher's Stone. Only the last page remains.",
+"ctx": "U28_ARCHIVE_PHILOSTONE_01"
+},
+{
+"id": 5204,
+"en": "\"... That's how you can find the mythical Philosopher's Stone. What a journey!\"",
+"ctx": "U28_ARCHIVE_PHILOSTONE_02"
+},
+{
+"id": 5205,
+"en": "An economy textbook. It seems to be the only book in the room to have ever been opened.",
+"ctx": "U28_ARCHIVE_ADAMSMITH_01"
+},
+{
+"id": 5206,
+"en": "What's with that invisible hand? What do ghosts have to do with economy?!",
+"ctx": "U28_ARCHIVE_ADAMSMITH_02"
+},
+{
+"id": 5207,
+"en": "An old, dusty tome. It looks like it hasn't been used since its addition to the archives.",
+"ctx": "U28_ARCHIVE_MARX_01"
+},
+{
+"id": 5208,
+"en": "Its title is partially unreadable. Only \"The Cap...\" and a photo of one of those small green people with an impressive beard can be identified.",
+"ctx": "U28_ARCHIVE_MARX_02"
+},
+{
+"id": 5211,
+"en": "Someone violently tore the merchants' bags open with a large variety of weapons. They must really hate containers.",
+"ctx": "U28_DEADBAGS_EVIS_01"
+},
+{
+"id": 5212,
+"en": "These bags have been pierced in multiple places. They seem to be empty.",
+"ctx": "U28_DEADBAGS_PIERCED_01"
+},
+{
+"id": 5214,
+"en": "A deep voice comes out of this strange contraption: \"Wrong number...\".",
+"ctx": "U32_HOTLINELORE_1"
+},
+{
+"id": 5215,
+"en": "A massive wood desk. It probably belongs to someone important.",
+"ctx": "U32_KZ_DESK_LORE_1"
+},
+{
+"id": 5216,
+"en": "An old journal is opened on a page titled \"Zero//NULL\".",
+"ctx": "U32_KZ_DESK_LORE_2"
+},
+{
+"id": 5217,
+"en": "Blah blah blah amnesia, blah blah secret program, time-controlling drugs... when does it get interesting?!",
+"ctx": "U32_KZ_DESK_LORE_3"
+},
+{
+"id": 5218,
+"en": "...Wait, what?! I want to control time too!",
+"ctx": "U32_KZ_DESK_LORE_4"
+},
+{
+"id": 5219,
+"en": "A really comfortable looking armchair. It makes you want to kick back, relax and confide to whoever's around... if you have anything to recount, that is...",
+"ctx": "U32_KZ_SEAT_LORE_1"
+},
+{
+"id": 5220,
+"en": "A sober and elegant low table.",
+"ctx": "U32_KZ_TABLE_LORE_1"
+},
+{
+"id": 5221,
+"en": "There's a note covered in words: \"KILL KILL KILL KILL KILL KILL\".",
+"ctx": "U32_KZ_TABLE_LORE_2"
+},
+{
+"id": 5222,
+"en": "Not too diversified, but it gives you something to think about! I'm convinced!",
+"ctx": "U32_KZ_TABLE_LORE_3"
+},
+{
+"id": 5223,
+"en": "What an ominous looking statue...",
+"ctx": "U32_ROR_EXAM_GOLEM1"
+},
+{
+"id": 5224,
+"en": "Its eye slowly pulses. It looks like a discharged weapon. \nFortunately, this big dude is out of commission!",
+"ctx": "U32_ROR_EXAM_GOLEM2"
+},
+{
+"id": 5225,
+"en": "Not so powerful now, huh?!",
+"ctx": "U32_ROR_EXAM_GOLEM3"
+},
+{
+"id": 5226,
+"en": "A strange stone arch. I feel like... it's talking to me?",
+"ctx": "U32_ROR_EXAM_TP1"
+},
+{
+"id": 5227,
+"en": "\"STAY ALIVE..!\" Yeah, don't sweat it.",
+"ctx": "U32_ROR_EXAM_TP2"
+},
+{
+"id": 5228,
+"en": "...That explains it.",
+"ctx": "U32_ROR_EXAM_TP4"
+},
+{
+"id": 5229,
+"en": "Hum, nice sword. Why leave it there inside this ugly monster? That's the best way to have it stolen from you.",
+"ctx": "U32_TERRARIA_LORE_1"
+},
+{
+"id": 5230,
+"en": "Makes you wonder...",
+"ctx": "U32_TERRARIA_LORE_2"
+},
+{
+"id": 5231,
+"en": "Oh! A sword on the ground! I spotted it first!",
+"ctx": "U32_TERRARIA_LORE_3"
+},
+{
+"id": 5232,
+"en": "Woooooow! What is that enormous pile of corpses?!",
+"ctx": "DLCP_LORE_LEGION_CORPSES_1"
+},
+{
+"id": 5233,
+"en": "It's as if someone tried to make a ball of it."
+},
+{
+"id": 5234,
+"en": "I wouldn't be too fond of fighting such a horror... moreover, I suck at aerial combat.",
+"ctx": "DLCP_LORE_LEGION_CORPSES_3"
+},
+{
+"id": 5235,
+"en": "Hey ... it looks like it's still breathing!",
+"ctx": "DLCP_LORE_LEGION_CORPSES_4"
+},
+{
+"id": 5236,
+"en": "I'd better not stay here for too long.",
+"ctx": "DLCP_LORE_LEGION_CORPSES_5"
+},
+{
+"id": 5237,
+"en": "Save?",
+"ctx": "DLCP_LORE_LABEL_SAVE"
+},
+{
+"id": 5238,
+"en": "There is a large floating polyhedron in the middle of the room and nothing else.",
+"ctx": "DLCP_LORE_SAVE_DODECAHEDRON_1"
+},
+{
+"id": 5239,
+"en": "What if I touch it?"
+},
+{
+"id": 5241,
+"en": "Nothing. I don't even feel much more saved than before.",
+"ctx": "DLCP_LORE_SAVE_DODECAHEDRON_4"
+},
+{
+"id": 5242,
+"en": "What an inept object...",
+"ctx": "DLCP_LORE_SAVE_DODECAHEDRON_5"
+},
+{
+"id": 5243,
+"en": "\"Borrow\"",
+"ctx": "DLCP_LORE_LABEL_STEAL"
+},
+{
+"id": 5244,
+"en": "Such a beautiful shield! I shall try it on a skeleton!",
+"ctx": "DLCP_LORE_ALUCARD_SHIELD_1"
+},
+{
+"id": 5246,
+"en": "The beautiful white cat that was carrying the key to his owner's prison.",
+"ctx": "DLCP_LORE_MARIA_CAT_1"
+},
+{
+"id": 5247,
+"en": "He's so cuuuuuuuuute!.. And vicious... a proud member of his species.",
+"ctx": "DLCP_LORE_MARIA_CAT_2"
+},
+{
+"id": 5248,
+"en": "Someone failed their parallel parking...",
+"ctx": "PG_LORE_CARRIAGE_DEBRIS"
+},
+{
+"id": 5249,
+"en": "This carriage seems to have swerved right into the Castle's front gate. Its driver must have been distracted by a VERY big insect.",
+"ctx": "PG_LORE_CARRIAGE"
+},
+{
+"id": 5252,
+"en": "A shelf filled with the full arsenal of the perfect vampire hunter.",
+"ctx": "DLCP_LORE_TREVOR_CABINET_1"
+},
+{
+"id": 5253,
+"en": "Leather armor, garlic bulbs, whip... even hair lotion, \"for flyaway hair\".",
+"ctx": "DLCP_LORE_TREVOR_CABINET_2"
+},
+{
+"id": 5254,
+"en": "The statue of a hooded young woman.",
+"ctx": "DLCP_LORE_SYPHA_STATUE_1"
+},
+{
+"id": 5255,
+"en": "Just like the shelf nearby, it looks really ancient.",
+"ctx": "DLCP_LORE_SYPHA_STATUE_2"
+},
+{
+"id": 5256,
+"en": "A little plaque on the base reads \"Sypha Belnades\".",
+"ctx": "DLCP_LORE_SYPHA_STATUE_3"
+},
+{
+"id": 5257,
+"en": "She looks like a witch, but one of the good ones.",
+"ctx": "DLCP_LORE_SYPHA_STATUE_4"
+},
+{
+"id": 5260,
+"en": "A gory display: frightening skull, maimed corpse, reversed cross, purple flames,..."
+},
+{
+"id": 5261,
+"en": "They've got it all. These guys are pros. Respect."
+},
+{
+"id": 5262,
+"en": "A mask with a comically long beak. Someone doesn't want to get too close to other people, I see."
+},
+{
+"id": 5266,
+"en": "\"Death is a blessing. Glory to its priests.\""
+},
+{
+"id": 5267,
+"en": "Hmm, that's not really a positive motto..."
+},
+{
+"id": 5268,
+"en": "Then, am I a saint to them? Considering how often I die..."
+},
+{
+"id": 5269,
+"en": "Some poor fellows begging the sinister masked figure."
+},
+{
+"id": 5270,
+"en": "Are they praying for his blessing... or for their lives to be spared?"
+},
+{
+"id": 5271,
+"en": "This little guy seems to be the assistant of the towering figure next to him."
+},
+{
+"id": 5272,
+"en": "Nobody pays attention to him."
+},
+{
+"id": 5273,
+"en": "Poor little fellow."
+}
+]

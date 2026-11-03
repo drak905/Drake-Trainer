@@ -1,0 +1,1167 @@
+#== Boss-Draythus / Draythus-FirstEncounter
+D0001	Europa:Oh no…
+D0002	Apino:<i>Tzwii?</i>
+D0003	???:You're the last person I imagined I'd find in this place.
+D0004	Europa:Draythus.
+D0005	Draythus:I'm shocked you survived this whole time.
+D0006	Draythus:You've grown.
+D0007	Europa:You're exactly the same.
+D0008	Europa:Same sword…	 same armor…	 Still carrying that locket?
+D0009	Draythus:…
+D0010	Draythus:Tell me, Europa—how did you manage to befriend that unusual ghost?
+D0011	Draythus:I've seen it before, but always at a distance…
+D0012	Apino:<i>Tzwii…</i>
+D0013	Draythus:How curious. Perhaps I should take a closer look.
+D0014	Europa:Leave him be.
+D0015	Draythus:I imagine he knows this place well.
+D0016	Draythus:I have questions for you, little ghost.
+D0017	Europa:I'm warning you, Draythus…
+D0018	Europa:Whatever scheme you're up to isn't going to involve Apino.
+D0019	Draythus:Rest easy. I will not harm him.
+D0020	Europa:It's not the first time I've heard you make that promise.
+D0021	Draythus:Oh, come now… I saved your life and my training surely saved it a dozen times again.
+D0022	Draythus:You'd do well to be grateful for that.
+D0023	Draythus:Besides, this is no <i>scheme</i>… This is far bigger than either of us.
+D0024	Draythus:Soon the castle walls will no longer be able to contain the curse.
+D0025	Draythus:The dark crystals will continue to spread, carrying the corruption and shadows with them.
+D0026	Europa:How can you be so sure?
+D0027	Draythus:Ha! Ask your friend.
+D0028	Draythus:He seems to be keenly aware of the darkness.
+D0029	Draythus:Isn't that right, little ghost?
+D0030	Apino:<i>…</i>
+D0031	Europa:That's enough Draythus.
+D0032	Europa:We're done here. Don't come near us again.
+#== Boss-Draythus / Draythus-SecondEncounter-Intro
+D0033	Europa:Is that you, Draythus?
+D0034	Draythus:The way is opening, Europa.
+D0035	Europa:What happened to you?
+D0036	Draythus:Do you know what this place was?
+D0037	Europa:An orphanage.
+D0038	Draythus:Most astute. It was a terrible place.
+D0039	Draythus:I ran away as soon as the opportunity presented itself.
+D0040	Draythus:But, in the short time I dwelt here, I discovered the truth. I learned what the sages of old foresaw.
+D0041	Draythus:A curse, and the means to break it. Two halves of the same whole.
+D0042	Draythus:For the longest time, I assumed that solving the mystery of the curse was my destiny.
+D0043	Europa:…
+D0044	Draythus:All the training I endured, everything I made of myself—it was all for this moment.
+D0045	Draythus:And yet… something still eludes me… A final riddle I cannot figure out.
+D0046	Europa:Maybe you're out of your depth.
+D0047	Draythus:Haven't you been listening? There was a missing piece.
+D0048	Draythus:And all this time, you've been keeping it so close.
+D0049	Europa:This again?
+D0050	Draythus:Don't you dare try to hide it, you little fiend.
+D0051	Apino:<i>Tzwii!</i>
+D0052	Europa:You've lost your mind, Draythus!
+D0053	Europa:If you want Apino you'll have to go through me.
+D0054	Draythus:It's finally crystal clear. I will be able to attain my glorious purpose. And you…
+D0055	Draythus:You are <i>in my way.</i>
+#== Boss-Draythus / Draythus-SecondEncounter-Outro
+D0056	Europa:Even though there may be no going back for you, I'm not going to kill you, Draythus.
+D0057	Europa:But I don't owe you anything anymore.
+D0058	Europa:Let's go, Apino.
+D0059	Draythus:Europa…
+D0060	Europa:You are free from the corruption. Leave before it takes you again.
+D0061	Draythus:To what end?
+D0062	Draythus:It was not the darkness that consumed me, but my own ambition.
+D0063	Europa:You're not the only person to lose their way because of the curse, Draythus.
+D0064	Draythus:You assume I was ignorant.
+D0065	Draythus:Yet I've known all along.
+D0066	Draythus:All those years ago, at the orphanage. When I saw the vision of the sages it was you.
+D0067	Draythus:<i>You</i> are the hero the sages foresaw. The final piece of the puzzle.
+D0068	Europa:I am no hero.
+D0069	Draythus:You will be.
+D0070	Draythus:Europa, you must listen… consider this your final lesson from me…
+D0071	Draythus:That little ghost you cherish so much…
+D0072	Draythus:…and the foul demon who haunts this place…
+D0073	Draythus:…they are the same being.
+D0074	Draythus:They <i>are</i> the curse.
+#== Boss-Talos Heart / TalosHeart-Intro
+D0075	Europa:This must be Talos' Heart.
+D0076	Europa:It's in terrible shape—the shadows have nearly consumed it.
+D0077	Apino:<i>Tzwiiii!</i>
+D0078	Europa:I know it's dangerous, but if we do nothing the castle will collapse.
+D0079	Europa:Come on, Apino. Please… trust me.
+D0080	Apino:<i>Tzwiii!</i>
+#== Boss-Talos Heart / TalosHeart-Outro
+D0081	Europa:I… I think we just saved Talos.
+D0082	Apino:<i>Tzwii.</i>
+D0083	Europa:Yes. Thank you for trusting me.
+D0084	Europa:Having you around isn't so bad, you know?
+D0085	Europa:I haven't been very grateful to you.
+D0086	Europa:I just… have a hard time opening up to others.
+D0087	Europa:I don't know, it's just… seems like every time I trust someone I end up hurt by them.
+D0088	Europa:I'm… tired from it.
+D0089	Europa:But thank you for sticking with me.
+D0090	Europa:You are quite a brave little bear, I must say.
+D0091	Apino:<i>Tzwiwiwiwiwi!</i>
+D0092	Europa:I like you too, Apino.
+D0093	Apino:<i>Tzwii! Tzwii!</i>
+D0094	Europa:Come on, let's go.
+#== MidBoss-Dwarven Guard / DwarvenGuard-IntroApino
+D0095	Europa:That hammer is definitely not a good sign, Apino.
+D0096	Europa:So let's just get this over with.
+#== MidBoss-Dwarven Guard / DwarvenGuard-IntroNoApino
+D0097	Europa:That hammer is definitely not a good sign.
+D0098	Europa:So let's get this over with.
+#== MidBoss-Dwarven Guard / DwarvenGuard-Outro-Apino
+D0099	Europa:I wonder how long he was trapped in here before the curse claimed his mind…
+#== MidBoss-Frinise / Frinise-Intro-Apino
+D0100	Frinise:My, my! Look at you! What is your name, darling?
+D0101	Europa:…I'm Europa.
+D0102	Frinise:And aren't you beautiful, Europa!
+D0103	Europa:…Thank you?
+D0104	Frinise:You're surely used to hearing such things, though.
+D0105	Europa:I don't—
+D0106	Frinise:Everyone is kind to beautiful people like you.
+D0107	Frinise:Kind and <i>generous</i>.
+D0108	Frinise:People were never generous with me. I had no money, so they threw me out.
+D0109	Frinise:But I was able to make a bargain to save myself…
+D0110	Frinise:And all it cost was my soul.
+D0111	Europa:You traded one debt for another.
+D0112	Frinise:Don't be so silly. Before, I was nobody. Now look at me! I can take anything I want.
+D0113	Frinise:Is there anything valuable you would like to be generous with, Europa?
+D0114	Frinise:How sad. Beautiful people never share their beautiful things!
+#== MidBoss-Frinise / Frinise-Outro-Apino
+D0115	Europa:I wonder what will happen to her. She traded away her soul…
+D0116	Europa:She was so full of hatred. Maybe she'll find peace now that she's free of that body.
+#== MidBoss-Frinise / Frinise-Outro-NoApino
+D0117	Europa:I wonder what will happen to her now.
+D0118	Europa:I hope her soul can find peace. Wherever it is.
+#== MidBoss-Gear of Erebus / Intro-Erebus-Apino
+D0119	Europa:The crystal in that machine looks like the geodes we've seen around Talos. It looks corrupted, though.
+D0120	Europa:The curse has twisted it into a deadly abomination.
+D0121	Europa:No… we can't run. We must destroy it.
+#== MidBoss-Gear of Erebus / Intro-Erebus-NoApino
+D0122	Europa:The crystal in that machine looks like the geodes I've seen around Talos. It looks corrupted, though.
+D0123	Europa:The curse has twisted it into a deadly abomination…
+D0124	Europa:It's too dangerous to leave intact.
+#== MidBoss-Gear of Erebus / Outro-Erebus-Apino
+D0125	Europa:The world is a better place without that awful machine.
+#== MidBoss-Horned God / HornedGod-Intro-Apino
+D0126	Horned God:Ahh, it has been many moons since I crossed paths with such a young soul.
+D0127	Horned God:How is it that I have not met you until now, child?
+D0128	Europa:I only recently came here.
+D0129	Horned God:And you've brought another soul with you! One with purity beyond compare.
+D0130	Horned God:I must have it.
+D0131	Apino:<i>Tz-wii…</i>
+D0132	Europa:Don't you dare touch him.
+D0133	Horned God:Such purity before me. Worry not, for I will set you free. You will know peace.
+D0134	Europa:Apino, we're leaving!
+D0135	Horned God:Foolish child!
+D0136	Europa:We don't need you to set us free!
+D0137	Horned God:It is my duty to protect your souls, and I <i>will</i> fulfill it!
+#== MidBoss-Horned God / HornedGod-Intro-NoApino
+D0138	Europa:I only recently came here. But who are you?
+D0139	Horned God:A protector of delicate little souls. Unique souls, such as your own.
+D0140	Europa:I'm no different from anyone else.
+D0141	Horned God:No, I can see it clearly. Your soul carries the weight of suffering—yet it also reminds me of the children who once lived here.
+D0142	Europa:There were children here? What happened to them?
+D0143	Horned God:I was able to save some of them, but most… <i>went away</i>… when the dark magic claimed the castle.
+D0144	Europa:How did you save them? Where—
+D0145	Horned God:Pain weighs on your soul. Worry not. You will know peace once more.
+D0146	Horned God:I will give your soul rest from the weariness that crushes it.
+D0147	Europa:I'm not offering you my soul.
+D0148	Horned God:I will not allow you to reject my wisdom. Let me end your suffering, child!
+#== MidBoss-Horned God / HornedGod-Outro-Apino
+D0149	Europa:He didn't protect souls, he held them captive.
+D0150	Europa:It's alright; he won't do it again. We made sure of that.
+#== MidBoss-Horned God / HornedGod-Outro-NoApino
+D0151	Europa:Now they are finally free.
+#== MidBoss-Issa / Issa-Intro-Apino
+D0152	Issa:Howdy, ma'am.
+D0153	Issa:You wouldn't mind lending me a hand, would you?
+D0154	Europa:…That depends.
+D0155	Issa:Don't worry, I won't be needing much of your time.
+D0156	Issa:The thing is… I've been on the road a long time. I heard stories about this place along the way.
+D0157	Issa:None that I believed, mind you, but I still thought I should take a peek around here.
+D0158	Europa:What did you find out?
+D0159	Issa:Well, the story about the mechanical giant turned out to be true.
+D0160	Issa:And seeing all that fine metalwork got me thinking about another story I heard…
+D0161	Issa:A story about armor forged by the first craftsmen with power beyond compare.
+D0162	Issa:You see, I have something of an interest in ancient artifacts. I reckon I'd know one if I saw it in person.
+D0163	Issa:Why don't you tell me exactly where you found that armor? I have a client who would pay good money for it.
+D0164	Europa:That's none of your business.
+D0165	Issa:There's no need to make things difficult, sweetheart. You don't want to do that.
+D0166	Europa:You know what? I think I might.
+D0167	Issa:Listen, girl, I didn't come all this way just to leave empty-handed!
+#== MidBoss-Issa / Issa-Intro-NoApino
+D0168	Europa:I wish I could help you, but I don't know anything about artifacts.
+D0169	Issa:Looks to me like you're wearing one right now.
+D0170	Issa:Just hand over that armor and we'll call it even. No need for any trouble.
+D0171	Europa:I disagree.
+D0172	Issa:I guess we're doing this the hard way then.
+#== MidBoss-Issa / Issa-Outro-Apino
+D0173	Europa:What annoys me most…
+D0174	Europa:…is that he said he wouldn't waste my time.
+#== MidBoss-Leno / Leno-Intro-Apino
+D0175	Europa:Apino, you've heard the legend of Leno, haven't you?
+D0176	Europa:This beast looks just like him.
+D0177	Europa:I never believed the stories, yet here he is.
+D0178	Europa:A beast that lives in a pit of garbage and hurls tomatoes…
+D0179	Europa:It's fine. The stories surely exaggerated his strength.
+#== MidBoss-Leno / Leno-Intro-NoApino
+D0180	Europa:When I was a child, I was told stories about a creature named Leno.
+D0181	Europa:I never believed they were true, yet here you are.
+D0182	Europa:How dangerous could you possibly be?
+D0183	Europa:Only one way to find out…
+#== MidBoss-Leno / Leno-Outro-Apino
+D0184	Europa:I can't believe it. It was all true.
+D0185	Europa:Well, now that he's been dealt with, I certainly won't miss the smell.
+#== MidBoss-LimoNissi / LimoNissi-Intro
+D0186	Nissi:No, no, Limo! Listen! Nissi already explain! Limo no have feet, so no shoes for Limo.
+D0187	Limo:Limo want shoes. Limo put on hands.
+D0188	Nissi:Shoes no work on hands.
+D0189	Limo:Okay…
+D0190	Limo:Limo put socks on hands?
+D0191	Apino:<i>Tz-tzwii?</i>
+D0192	Europa:I don't know what to think either.
+D0193	Limo:Oh no! Whooooop whooooop! Danger! Danger!
+D0194	Nissi:An attack! A trick! A trap!
+D0195	Limo:Lady eat us!
+D0196	Europa:Hey, calm down! This isn't a trap.
+D0197	Europa:What kind of creature are you? You look…
+D0198	Europa:Yeah, gooey.
+D0199	Nissi:<i>RUDE.</i> Nissi fight!
+D0200	Nissi:Defeat lady with scary weapon and her pet ghost!
+D0201	Europa:Don't take it personally, Apino, they're just scared.
+D0202	Limo:Limo will help Nissi fight! Make rude lady and ghost go away!
+D0203	Nissi:Nissi take front! Armor stop scary weapon!
+D0204	Europa:Wait, are we seriously fighting?
+D0205	Nissi:We no taste gooooooood!
+#== MidBoss-LimoNissi / LimoNissi-Outro
+D0206	Europa:That was… different. I feel bad leaving them like that. They were kind of cute.
+D0207	Europa:We should get out of here before they, um… slime themselves back together again.
+#== MidBoss-Link / Link-Intro
+D0208	Link:Look, we found another one.
+D0209	Link:I doubt it. Huntresses never wear armor.
+D0210	Europa:Who are you talking to?
+D0211	Link:You dare to question us? You are the one who will give answers.
+D0212	Link:Where is the rest of your clan?
+D0213	Europa:I don't belong to any clan, and I don't know which huntresses you mean!
+D0214	Link:Curious.
+D0215	Link:A huntress would never deny her clan. Maybe she's telling us the truth?
+D0216	Europa:Who are… all of you?
+D0217	Link:We are many.
+D0218	Link:Linked together by one purpose: to destroy the huntress clan.
+D0219	Link:By our master's command, the huntresses will never obtain the power they seek!
+D0220	Europa:How many of you are there?
+D0221	Link:We are seven. One for each huntress.
+D0222	Link:Enough of her questions!
+D0223	Link:She could take this information back to her clan.
+D0224	Link:We can't risk letting her escape! One life is a small price to pay if we are wrong.
+#== MidBoss-Link / Link-Outro
+D0225	Europa:Those huntresses owe me one.
+#== MidBoss-Maelzel / Maelzel-Intro
+D0226	Europa:Is this a man or a machine?
+D0227	Europa:The last time I saw this game, I was a little girl. My father would play chess with me.
+D0228	Europa:The rules seem different this time…
+#== MidBoss-Maelzel / Maelzel-Outro
+D0229	Europa:I could never beat my father whenever we played.
+D0230	Europa:But he did give me practice against a more skilled opponent.
+D0231	Europa:Still… maybe this version is a better fit for my talents.
+#== MidBoss-Miria / Miria-Intro
+D0232	???:Stop right there!
+D0233	???:Who are you?
+D0234	Europa:And I'm Europa.
+D0235	???:You would do well to leave, Europa. The curse runs thick here.
+D0236	Europa:Who are you?
+D0237	Miria:The last guardian of this castle. Call me Miria.
+D0238	Europa:If the curse runs thick you shouldn't be lingering here, Miria.
+D0239	Miria:My duties require that I stay. With my sister fallen, the burden is mine alone.
+D0240	Europa:What happened?
+D0241	Miria:One of the other guardians violated their oath and betrayed us.
+D0242	Miria:Apparently one of the magical artifacts here was worth more than their honor. Or Dina's life.
+D0243	Miria:I see you've collected several for yourself as well.
+D0244	Miria:You have looted my home, Europa.
+D0245	Europa:I-
+D0246	Miria:My lack of vigilance cost me my sister. You're a fool if you think I haven't learned from that mistake.
+D0247	Europa:I'm just here to help!
+D0248	Europa:Yes, you're right, Apino!
+D0249	Europa:Miria, the curse is affecting you.
+D0250	Miria:Lies from the mouth of a thief!
+#== MidBoss-Miria / Miria-Outro
+D0251	Miria:Wait!
+D0252	Miria:I yield, just… please… don't kill me! Talos is overrun with monsters and villains and the curse continues to spread!
+D0253	Miria:If I am dead then monsters will storm the theater just like they did the orphanage!
+D0254	Miria:Europa, there is <i>no one else left</i> protecting this place or the innocent people still alive!
+D0255	Europa:I don't want to kill you, Miria.
+D0256	Europa:I am not your enemy. We want the same thing.
+D0257	Miria:I…
+D0258	Miria:I believe you… It's just…
+D0259	Miria:I don't know what's been happening to me. I feel like I'm going mad. I can't think clearly.
+D0260	Europa:It's time to forgive yourself for your failures.
+D0261	Europa:You have honored your sister and your heritage as a guardian. They would be proud of you.
+D0262	Miria:…I hope so.
+#== MidBoss-Reaper / Reaper-Intro-Apino
+D0263	Europa:What kind of creature is this?
+D0264	Europa:I feel cold…
+D0265	Europa:Stay away from us!
+#== MidBoss-Reaper / Reaper-Intro-NoApino
+D0266	Europa:Who are you, monster?
+#== MidBoss-Reaper / Reaper-Outro-Apino
+D0267	Europa:That <i>thing</i> won't be taking any more lives.
+D0268	Europa:Yeah, I feel warmer too.
+#== MidBoss-Reaper / Reaper-Outro-NoApino
+D0269	Europa:…and I'm beginning to feel warm again.
+#== MidBoss-Ulf / Ulf-Intro-Apino
+D0270	???:Finally, a proper meal!
+D0271	Apino:<i>TZWII!</i>
+D0272	???:One strike from my axe should be enough for a tiny thing like you.
+D0273	Europa:Try it.
+D0274	???:Hahaha! Tiny words from the tiny creature!
+D0275	???:You dare to challenge <i>me</i>?
+D0276	Europa:Who said it would be a challenge?
+D0277	Ulf:You poor, tiny fool! I am the great Ulf!
+D0278	Ulf:Descendant of the ancient Tribe of the White Lands, and heir to their legacy!
+D0279	Ulf:Through my glory I honor their memory and it lives eternal!
+D0280	Europa:And you do this by eating people.
+D0281	Ulf:Again, you mock me!
+D0282	Ulf:None in this kingdom have withstood the might of the great Ulf!
+D0283	Ulf:The goddess Hel herself has given me the power to win every battle!
+D0284	Europa:Never heard of her. Or you.
+D0285	Ulf:Then you will bear witness to her power!
+D0286	Ulf:Your blasphemous bones will make a fine offering!
+#== MidBoss-Ulf / Ulf-Intro-NoApino
+D0287	Ulf:I am the great Ulf!
+D0288	Ulf:I will bring glory and honor to their memory!
+D0289	Europa:And you plan to do this by eating people.
+D0290	Ulf:Again, you mock me, but none in this kingdom have withstood the might of the great Ulf!
+D0291	Ulf:Then you will bear witness to her power.
+#== MidBoss-Ulf / Ulf-Outro-Apino
+D0292	Europa:I guess the goddess Hel was fed up with him.
+#== Npc-Bebel / Intro-Apino
+D0293	???:Hey! We haven't seen each other for a long time.
+D0294	???:You brought company.
+D0295	Europa:Do you know each other?
+D0296	Apino:<i>Tzwii-wiii…</i>
+D0297	Bebel:My name is Bebel. You're new here, right? I haven't seen your pretty face before.
+D0298	Europa:Yes, I just got here.
+D0299	Bebel:Oh sweetie… bad idea. This place is awful.
+D0300	Bebel:It was even worse before the color came back.
+D0301	Europa:What are <i>you</i> doing here?
+D0302	Bebel:I was washing my crystals near the waterfalls when I heard a horrible growl.
+D0303	Bebel:I don't dare return. I have no desire to find out what was making that noise, thank you very much.
+D0304	Bebel:Do you think… maybe you could help me get rid of whatever monster is lurking back there?
+D0305	Europa:Sure, I'll be on the lookout.
+D0306	Bebel:Thank you! And you, little one, would you like to go to the theater with me?
+D0307	Europa:Apino and I have things to do, but we'll let you know when we've dealt with the monster.
+D0308	Bebel:Alright then. I’ll be waiting to hear from you.
+#== Npc-Bebel / Intro-MissionCompleted-Apino
+D0309	Europa:I might have done that already.
+D0310	Europa:It was tall, menacing, and had a skull over its head.
+D0311	Bebel:Well, that must have been it! It sounds like the right amount of dreadful.
+D0312	Bebel:Please have this, as thanks. I can't wait to go back to the waterfall!
+D0313	Apino:<i>Tzwii!!</i>
+#== Npc-Bebel / Intro-MissionCompleted-NoApino
+D0314	???:Hey!
+D0315	Europa:Uh, hello. Who are you?
+D0316	Bebel:My name is Bebel. You're new here, right? I'm sure I haven't seen your pretty face before.
+#== Npc-Bebel / Intro-NoApino
+D0317	Bebel:Thank you! And be sure to come see me at the theater.
+D0318	Bebel:Don't forget about me, alright?
+D0319	Europa:I'll let you know when I've dealt with the monster.
+#== Npc-Bebel / MissionCompleted-AfterTalk1
+D0320	Bebel:I see you’re still here. I hope you're being careful.
+D0321	Europa:As careful as I can be in a place full of monsters.
+D0322	Bebel:Ugh, please. Don’t remind me…
+#== Npc-Bebel / MissionCompleted-AfterTalk2
+D0323	Bebel:So, you've been looking for the rest of the orchestra, right?
+D0324	Europa:More like <i>bumping into</i> them.
+D0325	Bebel:Oh well…
+D0326	Bebel:Still, thank you for helping us.
+#== Npc-Bebel / MissionCompleted-Apino
+D0327	Europa:It is done. The growling creature will trouble you no more.
+D0328	Bebel:My hero! Thank you so much.
+D0329	Bebel:I can't imagine how hard it was to get rid of him. This is for you.
+D0330	Europa:It's beautiful, thank you.
+#== Npc-Bebel / MissionCompleted-NoApino
+D0331	Europa:It is done. The creature will trouble you no more.
+D0332	Bebel:I can't imagine how hard it was to get rid of that monster. This is for you.
+#== Npc-Bebel / MissionPending1
+D0333	Bebel:I was beginning to believe you wouldn’t come.
+D0334	Bebel:Did you find the growling creature?
+#== Npc-Bebel / MissionPending2
+D0335	Bebel:This theater is beautiful. I love being here!
+D0336	Bebel:No one interrupts me here with silly growls.
+#== Npc-Bebel / MissionPending3
+D0337	Bebel:You should get some rest! You look exhausted, sweetie.
+D0338	Bebel:You can stay here with me.
+#== Npc-Composers / Composers-Farewell
+D0339	Michiru:Safe travels, Europa.
+D0340	Michiru:We will be here if you need us.
+#== Npc-Composers / Composers-NoMoreUpgrades
+D0341	Michiru:Young warrior, we've done everything in our power to help you.
+D0342	Michiru:You must continue on your own now.
+D0343	Europa:I will, thank you.
+#== Npc-Composers / Composers-TalkAgain
+D0344	Michiru:How are you feeling, young warrior? Let us see what you have found.
+D0345	Michiru:Well done. Now we shall guide you.
+#== Npc-Composers / Composers-TalkAgainWithOutNotes
+D0346	Michiru:It seems you do not have enough notes at the moment. Keep looking, young warrior.
+#== Npc-Composers / Composers-TalkAgainWithOutNotes2
+D0347	Michiru:We trust that you will be able to find the magic we need.
+#== Npc-Composers / Composers-TalkAgainWithOutNotes3
+D0348	Michiru:Remember to look for the music notes! You never know where they might be.
+#== Npc-Composers / ComposersIntro
+D0349	???:Welcome, young warrior. We are glad you are finally here.
+D0350	Europa:You knew I was coming?
+D0351	???:Indeed, long have we waited for you.
+D0352	???:With your arrival comes the time to witness all that was foreseen by the ancient builders of this castle.
+D0353	Europa:I don't understand. Who are you?
+D0354	Michiru:My name is Michiru, and this is my sister Kahori.
+D0355	Michiru:Forgive her for her silence, for she is not a talkative being—she keeps her voice for her songs.
+D0356	Michiru:You can find Master Hibino at the end of the hall as well.
+D0357	Michiru:We will help you heal. Not only physical wounds, but also those of your heart and mind.
+D0358	Europa:What do you mean?
+D0359	Michiru:We are composers from the Dorian era, sent by the gods to heal the world with our music.
+D0360	Europa:Now would be a good time to start. The world is a mess and it has been for years.
+D0361	Michiru:That duty falls to another. We have a different role to play.
+D0362	Michiru:Furthermore, we have been lacking our source of divine magic.
+D0363	Michiru:There are music notes scattered around the castle. We need them to carry out our duty.
+D0364	Michiru:Have you found any notes during your travels so far?
+D0365	Europa:I have.
+#== Npc-Composers / ComposersIntroNotNotes
+D0366	Michiru:Keep looking, young warrior.
+#== Npc-Director / Director-AllMissionsCompleted
+D0367	Kondor:Hi! We've been worried about you.
+D0368	Europa:I'm fine. I found the source of your nightmares.
+D0369	Europa:You were right—it was a creature that fed on people's fears.
+D0370	Kondor:Oh gods, how awful! Is it still lurking around the castle?
+D0371	Europa:No, I took care of it. It won't disturb anyone again.
+D0372	Kondor:I expect you've been through a lot, and yet you were brave for our sakes. We want to thank you.
+D0373	Europa:Really, you don't have to–
+D0374	Kondor:I insist! We have been rehearsing, and we are ready to present our concert! And you…
+D0375	Kondor:…you are the guest of honor.
+#== Npc-Director / Director-Intro
+D0376	???:Are you… real?
+D0377	Europa:Yes, I am. Are you alright?
+D0378	???:This place has been playing tricks on me. I feel like I'm losing my mind.
+D0379	Kondor:…Kondor.
+D0380	Kondor:How strange… I can barely remember my own name right now.
+D0381	Kondor:I went looking for my musicians and I got lost. The rest of the memory is just a blur. I wonder how long it's been.
+D0382	Kondor:The truth is, I'm the one to blame if anything happens to them. It was my idea to come here in the first place.
+D0383	Kondor:I wanted us to play in the famous Theater of Talos, the greatest of honors. I never thought we would be trapped here like this…
+D0384	Kondor:I should never have let the musicians wander around the castle alone.
+D0385	Europa:Don't blame yourself for their choice to wander off.
+D0386	Europa:You can still fulfill your dream to play music in this castle, but not if you give up and die here.
+D0387	Kondor:I would like that very much. I… should go then, I suppose. Thank you so much for your help.
+D0388	Kondor:Oh, and one more piece of advice. Please, do not stay in this place too long.
+D0389	Kondor:I woke myself out of a nightmare last night, and it all seemed so real. I'm not sure we're alone here.
+D0390	Europa:Head to the theater. Maybe you can get some rest there.
+D0391	Kondor:Yes… good idea… I'll try to get some sleep in the theater.
+D0392	Kondor:I may need your help with another matter later. Please visit me in the theater if you have the time.
+#== Npc-Director / Director-MissionCompleted-AfterTalk1
+D0393	Kondor:Thank you for your help, Europa.
+#== Npc-Director / Director-MissionCompleted-AfterTalk2
+D0394	Kondor:You were right. Despite everything, my dream was fulfilled.
+#== Npc-Director / Director-MissionCompleted-AfterTalk3
+D0395	Kondor:We all hope that you enjoyed our concert.
+#== Npc-Director / Director-MusiciansMissing1
+D0396	Kondor:I feel much better now that I finally got some rest.
+D0397	Kondor:There was something—or <i>someone</i>—that kept me from sleeping. I wonder what it was.
+#== Npc-Director / Director-MusiciansMissing2
+D0398	Kondor:I wanted to thank you for the help; some of my musicians came back. I'm so relieved!
+D0399	Kondor:Please, if you find anyone else lost out there, help them get back to the theater.
+#== Npc-Director / Director-MusiciansMissing3
+D0400	Kondor:Almost everyone has made it back here! I hope the rest are alright… It's very easy to get lost in this place.
+#== Npc-Director / Director-MusiciansMissing4
+D0401	Kondor:This is the most talented orchestra I've ever conducted. I hope you can bring back the rest of them!
+#== Npc-Director / Director-MusiciansMissionsCompleted
+D0402	Kondor:You have been very kind to us, Europa. Let me express our gratitude, on behalf of everyone here.
+D0403	Kondor:We should not have wandered about the castle without thinking things through first.
+D0404	Europa:What matters most is that everyone is safe. I'm glad I could help.
+D0405	Kondor:Still, this curse seems far from over, even though Talos is stronger than ever.
+D0406	Kondor:Do you remember the nightmares I told you about? Several of my musicians started experiencing them too.
+D0407	Kondor:They felt like they were being watched, and their dreams were full of disturbing thoughts.
+D0408	Kondor:I wonder if this is all related to the noises we've been hearing up in the towers. It can't be anything good.
+D0409	Europa:I'll take a look and see what I can find. Don't leave the theater, alright?
+D0410	Kondor:Of course. Thank you, Europa.
+#== Npc-Director / Director-MusiciansMissionsPending1
+D0411	Kondor:You found all the musicians! They're finally safe, and my orchestra is complete! I am truly grateful, Europa.
+D0412	Kondor:They've been sharing what they've gone through, it's a shame they've all lost such important belongings.
+D0413	Kondor:Please let us know when you clear the way so that they can go retrieve their things.
+#== Npc-Director / Director-MusiciansMissionsPending2
+D0414	Kondor:The musicians are restless. They want the castle to be safe again.
+#== Npc-Director / Director-MusiciansMissionsPending3
+D0415	Kondor:I just can't seem to get my musicians to start rehearsing.
+D0416	Kondor:They all seem so distracted…
+D0417	Kondor:If they could safely retrieve their missing keepsakes I think it would help them find some peace of mind.
+#== Npc-Hibino / Hibino-Fully-Upgraded
+D0418	Hibino:I've done everything I can to help you.
+D0419	Hibino:The rest is up to you.
+D0420	Hibino: Good luck, young warrior.
+D0421	Europa:Thank you, Hibino.
+#== Npc-Hibino / Hibino-Intro
+D0422	???:Welcome to my workshop.
+D0423	Europa:A workshop next to a music theater?
+D0424	???:For my art there is no better place.
+D0425	Hibino:I'm Hibino.
+D0426	Hibino:I suppose you met Michiru and Kahori on the way here. We are on a special mission.
+D0427	Hibino:In fact, we've been awaiting your arrival. We have come to help.
+D0428	Hibino:I use musical spells to treat precious metals. Through this I may strengthen your armor.
+D0429	Hibino:Armor fragments are hidden throughout this castle. Find them and bring them here.
+D0430	Europa:I think I might have what you're looking for…
+D0431	Hibino:These will make quite the improvement. Let us begin.
+#== Npc-Hibino / Hibino-Intro-NoArmorsUnlocked
+D0432	Europa:I don't own any armor…
+D0433	Europa:This dress is all I have.
+D0434	Hibino:Do not fret, remnants of the ancient civilizations yet linger.
+D0435	Hibino:Scarce as they may be, I recommend you search about the castle.
+D0436	Hibino:Should you find one and bring it to me, I will use my magic to aid you.
+D0437	Europa:I'll be sure to come back if I find anything, thank you.
+#== Npc-Hibino / Hibino-Intro-NotHasPieces
+D0438	Hibino:I'm afraid you don't have enough materials for me to work with.
+D0439	Hibino:Let me know if you find anything interesting!
+#== Npc-Hibino / Hibino-Meet-Again-Yes-Comp
+D0440	Hibino:Welcome back! Is there anything I can enhance for you?
+#== Npc-Hibino / Hibino-NoArmorsUnlocked-MeetAgain
+D0441	Europa:I haven't acquired any armor yet.
+D0442	Hibino:Worry not, young warrior.
+D0443	Hibino:Should you find any armor, I will use my magic to aid you.
+#== Npc-Louis / Intro-Apino
+D0444	???:Oh no. Another hallucination.
+D0445	Europa:What?
+D0446	???:You look so real, though.
+D0447	???:But no, surely you don't exist… just like those penguins I was talking to a minute ago.
+D0448	Louis:Right, Louis? Yes! definitely!
+D0449	Louis:What’s up, little fella!
+D0450	Louis:Haha… a flying teddy bear. Very cool.
+D0451	Europa:Sorry, I don’t have time for this.
+D0452	Europa:We have to get you out of here. This area is very dangerous.
+D0453	Louis:I <i>know</i>, right?
+D0454	Louis:If I can be honest with you, I never thought this was going to be how my visit to the giant would turn out.
+D0455	Europa:That makes two of us.
+D0456	Louis:I mean, of course I wanted to come; who wouldn’t? It’s a freaking giant!
+D0457	Europa:So uh… how long have you been down here?
+D0458	Louis:I've been running away from monsters for… days?
+D0459	Louis:I can't tell anymore. It's been a blur ever since I lost my drumsticks.
+D0460	Louis:Now, all I have is this old pair. They suck, honestly.
+D0461	Europa:We should really go before another monster shows up.
+D0462	Louis:<i>No way!</i> We have to get rid of all these bad guys and rescue my drumsticks!
+D0463	Europa:<i>We?</i> How on earth are you planning to help with this?
+D0464	Louis:I can be the bait! I'll distract them while you attack.
+D0465	Europa:Okay… you know what, Louis? Leave it to us. We can manage on our own.
+D0466	Louis:Really? You two are the best friends I ever hallucinated!
+D0467	Louis:Let me know when you're done cracking skulls.
+D0468	Europa:Okay, just wait at the theater, Louis.
+#== Npc-Louis / Intro-MissionCompleted-Apino
+D0469	Louis:I mean, of course I wanted to come; who wouldn't? It's a freaking giant!
+D0470	Louis:I've been running away from monsters for… days? I'm looking for my set of lucky drumsticks.
+D0471	Europa:You should see fewer evil creatures now.
+D0472	Europa:We took out a nasty pair of monsters.
+D0473	Louis:Wooohooo! Sounds like it was easy!
+D0474	Europa:I'm not sure you quite understand–
+D0475	Louis:I'm just saying you make it <i>look</i> easy.
+D0476	Louis:Here, I’ll give you this for being so amazing.
+D0477	Europa:Thank you. Now, we should leave.
+D0478	Louis:Right. I’m going to the theater.
+D0479	Louis:Don’t get killed! I'll see you around.
+#== Npc-Louis / Intro-MissionCompleted-NoApino
+D0480	???:But no, surely you don't exist… just like penguins.
+D0481	Louis:Right, Louis? Yes! Definitely!
+D0482	Europa:You need to get out of here. This area is very dangerous.
+D0483	Europa:I took out a nasty pair of monsters.
+#== Npc-Louis / Intro-NoApino
+D0484	Europa:Sorry, I don't have time for this.
+D0485	Europa:We should go before another monster shows up.
+D0486	Europa:Okay… you know what, Louis? Leave it to me.
+D0487	Louis:Wow, thanks pirate-lady-with-a-spear!
+#== Npc-Louis / MissionCompleted-AfterTalk1
+D0488	Louis:I’ve been playing like a super pro since I went back to get my lucky drumsticks.
+D0489	Louis:Seriously, I’m on fire!
+#== Npc-Louis / MissionCompleted-AfterTalk2
+D0490	Louis:Okay, I know you’re a super pirate-lady with an eye patch…
+D0491	Louis:…and you think you need strength to survive and all that stuff…
+D0492	Europa:…Sure?
+D0493	Louis:BUT the power of mystical destiny argues otherwise!
+D0494	Louis:This luck stuff is no joke. Okay? Here, trust me.
+D0495	Louis:You can hold my lucky drumsticks for a couple of minutes!
+D0496	Louis:Maybe a little bit of their luck will rub off on you.
+D0497	Europa:Maybe later, Louis.
+#== Npc-Louis / MissionCompleted-AfterTalk3
+D0498	Louis:I really like your style. It's not every day you come across people who know how to dress in uh…
+D0499	Louis:That.
+D0500	Louis:Totally unique!
+D0501	Europa:Thank you. My mother left me this dress before she passed. I’ve always loved it.
+D0502	Louis:Ah, I bet she was the best mom!
+#== Npc-Louis / MissionCompleted-Apino
+D0503	Europa:We took out a miserable little pile of monsters for you.
+D0504	Louis:Wooohooo! That was easy, right? I knew we would make it!
+D0505	Europa:<i>We</i> made it, did we?
+D0506	Louis:It's all about the team effort.
+D0507	Louis:Yeah, totally!
+D0508	Louis:…What did he say?
+D0509	Europa:He said thank you.
+D0510	Europa:We should go. I'll see you around, Louis.
+#== Npc-Louis / MissionCompleted-NoApino
+D0511	Europa:I took out a miserable little pile of monsters for you.
+D0512	Europa:Thank you.
+D0513	Europa:I'll see you around, Louis.
+#== Npc-Louis / MissionPending1
+D0514	Louis:Hey! You found your way out! Excellent.
+D0515	Louis:So, I’m guessing you haven’t had any <i>epic battles</i>, right?
+D0516	Louis:Do it for the sticks, girl!
+#== Npc-Louis / MissionPending2
+D0517	Louis:Last time, I used the central elevator to go down to the lower area.
+D0518	Louis:But my friend Maya told me that it broke down.
+D0519	Louis:She seemed upset about it. Did it get fixed?
+#== Npc-Louis / MissionPending3
+D0520	Louis:I need my lucky drumsticks. I can’t play right without them.
+#== Npc-Maya / Intro-Apino
+D0521	???:Hello! Welcome to the north garden.
+D0522	???:It's the best place to enjoy the return of color! Isn't it wonderful?
+D0523	???:Oh… wow! I’ve never seen you before! You must be a newcomer!
+D0524	Europa:You could say so.
+D0525	???:I'm in search of The Ancient Tree. You'd think it’d be easy to find, being so big and all.
+D0526	???:I wanted to take my parents' coins there, but I lost those too.
+D0527	Europa:How long have you been looking?
+D0528	???:Fifteen hundred years…
+D0529	Europa:<b>What?!</b>
+D0530	???:Haha! Just kidding. I just stopped keeping track of time.
+D0531	???:I've been hanging with the bodiless heads and listening to their stories. We've become friends.
+D0532	Europa:How do you–
+D0533	???:–Anyway, I was meaning to ask you a favor…
+D0534	???:I need to go looking for my parents' special coins; but there are too many evil creatures about.
+D0535	???:Do you think you could help me?
+D0536	Europa:I don’t have much time to–
+D0537	???:Please! Killing is NOT in my nature! I need you to do it for me!
+D0538	???:I can help you open your third eye so you can find them sooner!
+D0539	Europa:No, I’m uh… I'm all right. Thanks.
+D0540	Europa:I’m sure I’ll find them around here somewhere.
+D0541	???:Alright, I invoke all the nature spirits to help you and guide you.
+D0542	???:Good luck!
+#== Npc-Maya / Intro-MissionCompleted-Apino
+D0543	???:–Anyways, I can't look for my parents' coins; there are many evil creatures about…
+D0544	Europa:We actually defeated two–
+D0545	???:TWO?! I bet it wasn't an easy task.
+D0546	???:I’d like to give you something as a special thank you. Here.
+D0547	Europa:Thank you…
+D0548	???:I’m glad you like it!
+D0549	Europa:By the way… who are you?
+D0550	Maya:What do you mean? It's <i>me</i>, Maya!
+D0551	Maya:Okay, I have to go now. See you later!
+#== Npc-Maya / Intro-MissionCompleted-NoApino
+D0552	Europa:I actually defeated two–
+#== Npc-Maya / MissionCompleted-AfterTalk1
+D0553	Maya:Hello friend. I was just meditating. Have you ever tried it?
+D0554	Europa:Actually, I haven't. But I'm willing to give it a shot.
+D0555	Maya:Great! Being open to new things is <i>always</i> a good idea.
+#== Npc-Maya / MissionCompleted-AfterTalk2
+D0556	Maya:I was talking to my friend Wynton just now.
+D0557	Maya:I told him I believe that the world conspired to make the elevator break down exactly when I wasn’t in it.
+D0558	Europa:Really? What did he say?
+D0559	Maya:That I’m crazy and it was just a coincidence.
+D0560	Maya:Haha, he’s so silly.
+#== Npc-Maya / MissionCompleted-AfterTalk3
+D0561	Maya:It makes me so happy to see you.
+D0562	Maya:I keep praying to the gods and all of nature’s spirits to keep you safe.
+D0563	Europa:Thank you, I think it’s worked… so far.
+#== Npc-Maya / MissionCompleted-Apino
+D0564	Europa:The path is clear.
+D0565	Europa:It wasn't the easiest task, but it is done now.
+D0566	???:You did it!
+D0567	???:I can't wait to go out there looking for my coins. They're the only thing I have left from my parents.
+D0568	Europa:That's a feeling I know all too well.
+D0569	???:Here. I know there is a deep sadness in your heart. Maybe this will cheer you up a bit.
+D0570	???:I hope you find it useful!
+D0571	Europa:By the way…
+D0572	Europa:You never told me your name.
+D0573	Europa:Haha… Of course. Thank you, Maya.
+#== Npc-Maya / MissionCompleted-NoApino
+D0574	???:Here. I know there is a deep sadness in your heart.
+D0575	???:Maybe this will cheer you up a bit.
+D0576	Europa:Haha… of course. Thank you, Maya.
+#== Npc-Maya / MissionPending1
+D0577	???:I’m glad to see you, friend! I forgot to tell you that one of the creatures really stinks, that poor soul.
+D0578	???:If you follow the smell, you definitely can't miss it.
+#== Npc-Maya / MissionPending2
+D0579	???:Dear friend, we need to fix your aura. I can feel it from fifty feet away.
+D0580	???:Come here—let me give you a hug. Or if you don’t like physical contact, you can hug a tree!
+D0581	???:And uh… maybe look for those creatures while you’re at it.
+#== Npc-Maya / MissionPending3
+D0582	???:I was consulting with the spirits just now. I was worried that you weren't coming back.
+D0583	???:But they told me you were fine. They're taking care of you.
+#== Npc-Nahre / Intro-Apino
+D0584	???:Oh thank goodness, the elevator is working again!
+D0585	Europa:Yes, I just used it to get up here. Is everything okay?
+D0586	???:Actually, no.
+D0587	???:I've been trapped here ever since the power went out.
+D0588	Nahre:Sorry, I should introduce myself. I'm Nahre.
+D0589	Nahre:I'm glad to see a friendly face. I was exploring the old orphanage…
+D0590	Nahre:My father grew up here. He told me all sorts of stories about it so I wanted to see it for myself.
+D0591	Nahre:Though I saw the shadow of a man armed with a sword…
+D0592	Nahre:…and I heard him screaming in the distance…
+D0593	Nahre:So I, um, decided not to explore today.
+D0594	Europa:I have an idea who it might be.
+D0595	Nahre:He sounded like he was in pain.
+D0596	Europa:Where is he?
+D0597	Nahre:A few floors above us, not far from here.
+D0598	Nahre:I tried to help him, but the doors wouldn't open because of the power out.
+D0599	Nahre:So I tried to go to a generator to fix <i>that</i> but a castle guardian attacked me!
+D0600	Nahre:It was like she had lost her mind…
+D0601	Europa:Yeah, that's a recurring theme around here.
+D0602	Europa:The elevator is fixed, you should return to the theater.
+D0603	Nahre:Will you be okay?
+D0604	Europa:Yes, I'll fix the generator and then find this person.
+D0605	Nahre:There's actually <b>four generators</b>…
+D0606	Europa:Oh…
+D0607	Nahre:There are a lot of dangerous creatures around here. Be careful.
+D0608	Europa:Yeah, we'll be okay. We've dealt with worse.
+D0609	Europa:You should go to where it's safe now.
+D0610	Nahre:Okay. I'll go wait at the theater.
+D0611	Nahre:Thank you, Europa.
+#== Npc-Nahre / MissionCompleted-AfterTalk1
+D0612	Nahre:I can't stop thinking about those children who lived in the orphanage. What happened to them?
+D0613	Europa:It's in the past, Nahre. There's nothing to be gained worrying about it now.
+D0614	Nahre:Still, childhood must be so difficult for an orphan.
+D0615	Europa:It was.
+#== Npc-Nahre / MissionCompleted-AfterTalk2
+D0616	Nahre:Imagine attending a concert or playing in this theater—you know, before all this happened.
+D0617	Europa:Maybe your father did. Did he ever talk about it?
+D0618	Nahre:He told me they were wonderful events. It was an honor being asked to perform in this theater.
+#== Npc-Nahre / MissionCompleted-AfterTalk3
+D0619	Nahre:Did you ever help that man I heard screaming in pain?
+D0620	Nahre:That he would be suffering alone like that while I rest with friends, safe in this theater…
+D0621	Nahre:I'm so thankful for your help Europa.
+D0622	Nahre:…and I feel so much pity for that poor man.
+#== Npc-Nahre / MissionCompleted-Apino
+D0623	Europa:We just met Miria, the castle guardian. She is carrying a terrible burden…
+D0624	Europa:I don't think she meant to cause you trouble.
+D0625	Nahre:Oh, that's too bad. I feel sorry for her…
+D0626	Nahre:Maybe if I played my music for her it will help.
+D0627	Europa:I think it might.
+D0628	Nahre:You've been so nice to me, Europa. I want to give this to you.
+D0629	Europa:Thank you, Nahre.
+D0630	Nahre:No, no, thank <i>you</i> for your help. I hope to see you soon!
+#== Npc-Nahre / MissionCompleted-NoApino
+D0631	Europa:I just met Miria, the castle guardian. She is carrying a terrible burden…
+#== Npc-Nahre / MissionPending1
+D0632	Nahre:Hi! Good to see you again.
+D0633	Nahre:Were you able to find all four of the generators?
+D0634	Nahre:There was a strange machine hooked up to one of them.
+D0635	Nahre:I didn't really understand exactly what it was, but it involved… chess?
+#== Npc-Nahre / MissionPending2
+D0636	Nahre:The castle guardian I told you about. Her name is Miria. She attacked my friend, Sahara, too.
+D0637	Nahre:She seemed like she was in trouble. I hope she's okay.
+#== Npc-Nahre / MissionPending3
+D0638	Nahre:I kept seeing the same person over and over when I was stuck on my visit the orphanage.
+D0639	Nahre:They kept talking to themselves, but I don't think it was because of the corruption.
+#== Npc-Nahre / MissionPending4
+D0640	Nahre:There were two strange blob monsters talking to each other near the laboratory.
+D0641	Nahre:They were cute but they also seemed kind of dangerous.
+#== Npc-Painters / Completed-PaintingAreaB
+D0642	Europa:Claude?
+D0643	Europa:Where did he go?
+D0644	Apino:<i>Tz-tzwii.</i>
+D0645	Europa:I don't think so. Besides, he left the easel with the painting he was working on. I hope he's alright…
+#== Npc-Painters / CompletedPaintingAreaC
+D0646	Van:Ah, you made it.
+D0647	Van:Claude paid me a visit and mentioned that he wants to talk to you. He'll be waiting for you at the next painting.
+D0648	Europa:Where?
+D0649	Van:I haven't a clue.
+D0650	Van:I'm sure you can figure that out on your own. If you have more questions, save them for him.
+D0651	Van:Try not to die, okay?
+D0652	Europa:Good idea.
+#== Npc-Painters / CompletedPaintingAreaE
+D0653	Van:Color is flowing from you!
+D0654	Claude:You truly are the one the Dorians foresaw.
+D0655	Europa:…I finally understand.
+D0656	Van:What happened in there?
+D0657	Europa:The great sorrow that inspired all of your paintings, it…
+D0658	Claude:You know who caused it?
+D0659	Europa:I do.
+D0660	Europa:Thank you for all your help. I would not have made it this far without you.
+D0661	Claude:Of course. We must do what we can—together.
+#== Npc-Painters / Intro-PaintingAreaB
+D0662	???:It was you, wasn't it?
+D0663	???:You brought color back.
+D0664	Europa:It happened when I met him.
+D0665	???:Ah, then you are indeed the one the composers spoke of. What's your name?
+D0666	Europa:I am Europa.
+D0667	Claude:I'm Claude. I used to be a painter.
+D0668	Europa:Seems like you still are.
+D0669	Claude:Oh, I'm much more than a painter now.
+D0670	Claude:I've come to this castle in search of a special kind of art.
+D0671	Claude:The art of the shadows.
+D0672	Claude:You see, something happened here that consumed all color.
+D0673	Claude:I believe someone did this with powerful magic, and I'm beginning to understand how it works.
+D0674	Claude:I have been painting the feeling of hope that permeates this place.
+D0675	Claude:If what I suspect is true… you might be the only one able to understand these paintings.
+D0676	Claude:Do you feel a connection to the things you see in the painting? A pull that's calling you inside?
+D0677	Claude:Perhaps you could confront the sorrow that corrupts this castle from within.
+D0678	Europa:I'm willing to try.
+#== Npc-Painters / IntroPaintingAreaC
+D0679	???:I didn't want to believe Claude, but I see he was telling the truth.
+D0680	Europa:Where is Claude? Is he alright?
+D0681	???:He always finds a way to escape. Don't worry about him.
+D0682	???:In fact, you should be more worried about yourself.
+D0683	???:I'm about to finish this painting. Believe me when I say that the despair that inspired it is quite… poignant.
+D0684	???:You would feel it plainly too, but you are always accompanied by that tiny little ghost of yours.
+D0685	???:I suspect it calms your spirit.
+D0686	Europa:In a way, he does.
+D0687	???:Whatever happened here, it was truly <i>horrific</i>. Someone endured a great trauma.
+D0688	Europa:Who?
+D0689	???:That I don't know…
+D0690	Van:There, done. I'm Van, by the way.
+#== Npc-Painters / IntroPaintingAreaD
+D0691	Claude:Ah, it's you again. I see you survived the previous painting. That's a relief.
+D0692	Europa:Yeah, how are you moving safely throughout the castle?
+D0693	Claude:Isn't it obvious?
+D0694	Europa:No.
+D0695	Claude:Anyway, I'm almost done with this painting. Though I must warn you that this one is… incendiary.
+D0696	Europa:Right.
+D0697	Europa:But I still don't understand what these paintings are.
+D0698	Claude:You've visited the upper quarters of the castle, right?
+D0699	Europa:Yes. It's what's left of an old orphanage.
+D0700	Claude:It is a source of sadness, but also more than that! A shocking event stains it with the fear of demise.
+D0701	Claude:But <i>what was it</i>? The answer eludes me.
+D0702	Claude:These paintings are a manifestation of someone's pain.
+D0703	Claude:What I do know is that crystals seem to form near the parts of the castle where sorrow is heaviest.
+D0704	Europa:That demon… Do you think someone from the orphanage summoned it?
+D0705	Claude:Your guess is as good as mine.
+D0706	Claude:Done! Now hop to it.
+D0707	Claude:Good luck with this one. Please be careful.
+#== Npc-Painters / IntroPaintingAreaE
+D0708	Europa:I thought I'd never see you again.
+D0709	Van:Where is your little ghost?
+D0710	Europa:He's avoiding me.
+D0711	Van:What happened?
+D0712	Europa:I'd rather not talk about it.
+D0713	Claude:What now, then? You've lifted the laments, you have the armor–
+D0714	Europa:And now I jump into your next painting. Let's get on with it.
+D0715	Van:Europa, this one is different.
+D0716	Van:Neither of us painted it.
+D0717	Europa:I might know who did.
+D0718	Claude:What do you mean?
+D0719	Europa:Open it.
+D0720	Claude:…
+D0721	Van:This thing is way too powerful for you to handle, Claude.
+D0722	Claude:Oh, shut up, Van.
+D0723	Europa:Do it together, then.
+D0724	Van:A brilliant idea I was about to suggest myself!
+D0725	Claude:As you wish, Europa.
+#== Npc-Painters / RevisitPainting1-AreaE
+D0726	Claude:Have you found the source of the sorrow?
+D0727	Europa:Not yet, but I have a feeling it won't be long now.
+#== Npc-Painters / RevisitPainting2-AreaE
+D0728	Van:You're strong enough to have made it this far.
+D0729	Claude:I don't know what you saw inside that painting, but I hope that it will help you end this curse once and for all.
+#== Npc-Painters / RevisitPainting3-AreaE
+D0730	Claude:We are still wondering why the color disappeared a while ago. Do you know anything?
+D0731	Europa:I… would rather not talk about it right now.
+#== Npc-Sahara / Intro-Apino
+D0732	???:Hey, join the party.
+D0733	Europa:Ugh, it's too hot in here…
+D0734	Europa:Are you okay?
+D0735	???:Uh, yeah. I'm as good as I can be. It's always good to see the little one.
+D0736	???:He's so cute. He reminds me of my little brother.
+D0737	???:I miss him terribly…
+D0738	Europa:I know the feeling…
+D0739	???:I had a drawing of him, but the wind snagged it from me.
+D0740	???:I tried to go look for it—even fought a weird machine at one point—but I'm out of shape. It… didn't go well.
+D0741	Europa:I could check it out.
+D0742	???:Perfect! I'll be at the theater, I'm supposed to meet my girlfriend there soon.
+D0743	???:Oh, one last piece of advice…
+D0744	???:I don't know how much of the castle you've explored, but the creatures around here are harder to hurt…
+D0745	???:…and there's a lot of them.
+D0746	???:Be careful.
+D0747	Europa:Thank you for the warning.
+D0748	???:I'm not saying you can't handle them—you seem strong enough—but don't get cocky.
+D0749	???:Now let's get out of this oven.
+D0750	Sahara:I'm Sahara, by the way.
+#== Npc-Sahara / Intro-MissionCompleted-Apino
+D0751	Europa:We destroyed the machine and took out another monster that might have hunted you down.
+D0752	???:Wow, thank you. That portrait meant a lot to me.
+D0753	???:I don't know if I'll ever see my brother again, but I hope I can find it to remember him by.
+D0754	???:I’d like you to have this.
+D0755	Europa:We have to go, but maybe we will see each other again.
+D0756	???:Yeah let's get out of this oven. I'll be heading to the theater.
+#== Npc-Sahara / Intro-MissionCompleted-NoApino
+D0757	???:Uh, yeah. I'm as good as I can be.
+D0758	???:What's your name, stranger?
+D0759	Europa:Europa.
+D0760	???:Cute name.
+D0761	???:Something about you reminds me of my brother, Europa.
+D0762	Europa:I destroyed the machine and took out another monster that might have hunted you down.
+D0763	Europa:I have to go, but maybe we will see each other again.
+#== Npc-Sahara / Intro-NoApino
+D0764	???:Perfect! I'll be at the theater.
+D0765	???:Oh, one last piece of advice.
+#== Npc-Sahara / MissionCompleted-AfterTalk1
+D0766	Sahara:Hello again. How’s it going?
+D0767	Europa:You know, having fun.
+D0768	Sahara:I’m sure you are.
+D0769	Sahara:But seriously, be careful.
+#== Npc-Sahara / MissionCompleted-AfterTalk2
+D0770	Sahara:I’ve been trying to rehearse a bit, but I keep getting distracted.
+D0771	Sahara:I’m not used to being around people.
+D0772	Europa:Not a people person?
+D0773	Sahara:No. You’re not that bad, though.
+#== Npc-Sahara / MissionCompleted-AfterTalk3
+D0774	Sahara:Hey, do you play any instruments?
+D0775	Europa:Piano… but I’m sure I’m not as good as you.
+D0776	Sahara:Music isn’t about being good. It’s about enjoying it.
+#== Npc-Sahara / MissionCompleted-Apino
+D0777	Europa:I destroyed the machine and dealt with a couple other annoyances around here.
+D0778	Europa:It might be safe to go looking for that drawing now.
+D0779	Sahara:Wow, thank you. That portrait meant a lot to me.
+D0780	Sahara:I’d like you to have this.
+D0781	Europa:Thank you. I hope you get to see your brother again.
+#== Npc-Sahara / MissionPending1
+D0782	Sahara:Hey. I’m glad you got out of that oven.
+D0783	Sahara:Been fighting baddies?
+#== Npc-Sahara / MissionPending2
+D0784	Sahara:Nahre, one of the other musicians, told me about the Dorian composers.
+D0785	Sahara:From the time I set foot in here, I was fascinated by them.
+D0786	Sahara:They make me feel… calm.
+#== Npc-Sahara / MissionPending3
+D0787	Sahara:I've been trying to imagine what my brother looks like now.
+D0788	Sahara:It’s hard to envision his small face as a teenager.
+#== Npc-Wynton / Intro-Apino
+D0789	???:Ahhh! Don’t kill me!
+D0790	Europa:Calm down, I'm not going to hurt you.
+D0791	Europa:What are you even doing here?
+D0792	???:To be honest, I'm hiding.
+D0793	???:I'm part of an orchestra; we came here to perform a concert.
+D0794	Europa:A <i>concert</i>? Is now really the time for that?
+D0795	???:I can't think of a better time, really.
+D0796	Europa:Where are the others?
+D0797	???:I'm afraid I don't know. When the color came back, we all went out to enjoy the view.
+D0798	Europa:I see…
+D0799	???:Anyway, thank you for finding me.
+D0800	???:I was just trying to get back to the theater, but a guard attacked me for no reason.
+D0801	???:You know what? You seem pretty tough… and braver than me.
+D0802	???:If you take care of that guard, I'll make it worth your while.
+D0803	???:It has a <i>giant</i> hammer. You can't miss it.
+D0804	Europa:It's alright, Apino, we should help him.
+D0805	Europa:I'll look for you in the theater when it's done, mister…?
+D0806	Wynton:Wynton!
+D0807	Europa:It's been a pleasure meeting you, Wynton. My name is Europa.
+D0808	Wynton:The pleasure is all mine, Europa.
+#== Npc-Wynton / Intro-MissionCompleted-Apino
+D0809	???:So I decided to hide here.
+D0810	Europa:Are you talking about that Dwarven Guard with the big old hammer?
+D0811	???:Yeah…
+D0812	Europa:We took care of him already.
+D0813	???:You did what now? I can't believe it!
+D0814	???:Here, you've earned this!
+D0815	Europa:Thank you, Mr…?
+D0816	Europa:A pleasure, Wynton. My name is Europa.
+D0817	Wynton:There's a theater up ahead. I'll see you there if you need me.
+#== Npc-Wynton / Intro-MissionCompleted-NoApino
+D0818	Europa:Consider him taken care of.
+#== Npc-Wynton / Intro-NoApino
+D0819	Europa:Consider it done.
+#== Npc-Wynton / MissionCompleted-AfterTalk1
+D0820	Wynton:I’m glad you’re still around.
+D0821	Wynton:I wish being brave came as easy for me as it does for you.
+D0822	Europa:I struggle with it too. There are plenty of things I run away from, too.
+D0823	Europa:In the end, we all have to face our fears, right?
+#== Npc-Wynton / MissionCompleted-AfterTalk2
+D0824	Wynton:I can't imagine all of the things you must have seen by now.
+D0825	Europa:I have to admit, this castle is impressive.
+D0826	Wynton:I bet! I hope I can see it all some day!
+#== Npc-Wynton / MissionCompleted-AfterTalk3
+D0827	Wynton:You should listen to my fellow musicians! They're quite good.
+D0828	Europa:I bet they are.
+D0829	Wynton:And you should hear us all play together some time, too!
+D0830	Europa:Hopefully I will.
+#== Npc-Wynton / MissionCompleted-Apino
+D0831	Europa:It’s done.
+D0832	Wynton:I knew you could do it!
+D0833	Wynton:Here, as promised.
+D0834	Europa:Thank you, Wynton. Perhaps you're stronger than you think.
+D0835	Europa:You shouldn't doubt yourself.
+D0836	Wynton:I think you might be right!
+#== Npc-Wynton / MissionPending1
+D0837	Wynton:Hey, you're still alive! I'm glad.
+D0838	Wynton:Have you seen how many monsters are roaming this castle? They're like a plague.
+D0839	Wynton:Speaking of which… did you find the armor?
+#== Npc-Wynton / MissionPending2
+D0840	Wynton:You'd be surprised at how huge this place is! You'd better not get lost.
+D0841	Wynton:That guard that attacked me must be around somewhere.
+#== Npc-Wynton / MissionPending3
+D0842	Wynton:I won't come out until I'm sure I won't run into that guard again.
+D0843	Wynton:I hope there's a bathroom somewhere…
+#== Story-Apino / EuropaMeetsApino_0
+D0844	Europa:It ended so soon…
+D0845	Europa:All those years of training came to nothing.
+#== Story-Apino / EuropaMeetsApino_1
+D0846	Europa:Why did I think I could make a difference?
+D0847	Europa:Ugh, I can't breathe…
+#== Story-Apino / EuropaMeetsApino_2
+D0848	???:<i>Tzwii.</i>
+D0849	Europa:Stay away from me!
+D0850	Europa:I'm warning you!
+D0851	???:<i>Tzwii!</i>
+#== Story-Apino / EuropaMeetsApino_3
+D0852	Europa:I feel… better?
+D0853	Europa:How?
+#== Story-Apino / EuropaMeetsApino_4
+D0854	Europa:My wounds are healed.
+D0855	Europa:And… color has returned!?
+D0856	Apino:<i>Tzwiiii.</i>
+D0857	Europa:Apino?
+D0858	Europa:What a strange name for a little… ghost?
+D0859	Europa:Oh, no, it's a fine name—just a little peculiar.
+D0860	Apino:…
+D0861	Europa:Mine is a bit odd too. I'm Europa.
+D0862	Europa:Not any more. Noble titles are a thing of the past. I'm just Europa now.
+D0863	Europa:It would be my pleasure.
+D0864	Europa:Besides, it seems like I could really use your help.
+D0865	Europa:It's settled then. You help me out and I'll keep you company.
+#== Story-Finale / FinalBattle-ApinoReturns1
+D0866	Europa:Stop, Apino!
+D0867	Europa:I understand now… I understand why I can't kill you… why you're angry…
+D0868	Europa:All you've ever known is pain and misery, and I tried to kill you by adding to it.
+D0869	Europa:It only made you stronger… I'm such a fool.
+D0870	Europa:But this isn't all you are, Apino.
+D0871	Europa:I know your heart!
+#== Story-Finale / FinalBattle-ApinoReturns2
+D0872	Apino:I have no heart.
+D0873	Europa:Yes you do, Apino.
+D0874	Apino:<i>Tzwii Tzwii!</i>
+#== Story-Finale / FinalBattle-ApinoReturns3
+D0875	Europa:Apino!
+D0876	Europa:Apino, I'm sorry for what happened to you.
+D0877	Europa:And I'm sorry I hurt you.
+D0878	Europa:…I'm sorry for everything.
+D0879	Apino:<i>Tzwii tz-tzwii tzwii?</i>
+D0880	Europa:It's okay. I'm not afraid to die anymore.
+D0881	Europa:I'm just glad you're here!
+D0882	Europa:I love you, too.
+#== Story-Finale / FinalBattle-Outro
+D0883	Auriel:I'm sorry, I left you alone, Apino.
+D0884	Auriel:I wished with all my heart I could have stayed by your side…
+D0885	Auriel:I love you so much.
+D0886	Auriel:Thank you, Europa.
+D0887	Auriel:You freed me…
+D0888	Auriel:And you freed my son.
+#== Story-Mother / Europa_VictoryPose_Auriel
+D0889	Europa:Time to set things right.
+#== Story-Mother / Ghost3-Part1_a
+D0890	Spirit:Young one…
+D0891	Europa:You've been toying with me.
+D0892	Spirit:You have gathered the armors and you have healed Talos, now you will face the truth.
+D0893	Spirit:It all began here.
+D0894	Spirit:9 years ago, a powerful spell changed everything.
+D0895	Spirit:A scared and lonely boy, tortured for months by grief, looked for a means of escape.
+D0896	Spirit:Seeing no way out of his sorrow, he tampered with powerful magic and cast his spell.
+#== Story-Mother / Ghost3-Part1_c
+D0897	Spirit:The spell reached far beyond just the boy—invading and corrupting everything, erasing color from this world.
+D0898	Spirit:This is what happened to my little boy… my son.
+D0899	Europa:You were his mother.
+D0900	Spirit:…
+D0901	Spirit:Belial is invulnerable.
+D0902	Spirit:To wound him, you must destroy my son's heart.
+D0903	Spirit:Even if he loves you.
+D0904	Europa:You…
+#== Story-Mother / Ghost3-Part2
+D0905	Europa:You tricked me!
+D0906	Europa:I trusted you!
+D0907	Europa:This entire time you could have told me the truth but you lied and used me!
+D0908	Europa:The curse would be gone in an instant if you were dead!
+#== Story-Mother / Ghost3-Part3
+D0909	Europa:<i>Come back here!</i>
+D0910	Spirit:This is our fate, Europa.
+D0911	Spirit:Acceptance is the first step. It will bring you grace.
+D0912	Europa:Oh, shut up!
+D0913	Europa:I'm done with you.
+#== Story-Mother / Ghost3-Part4
+D0914	Europa:I knew I shouldn't trust anyone.
+D0915	Europa:I'm better off alone…
+#== Story-Mother / Mom_Area_C
+D0916	Spirit:I have never seen him get close to anyone.
+D0917	Spirit:I am but a memory.
+D0918	Spirit:He finds it hard to trust people… and yet he trusts you.
+D0919	Europa:Yes…
+D0920	Europa:I don't know why, honestly.
+D0921	Apino:<i>Tzwiii.</i>
+D0922	Spirit:He seems to have more faith in you than you do.
+D0923	Spirit:I know why you are here. You have come to stop this curse.
+D0924	Spirit:But you must be careful. A demon named Belial roams the halls of this castle.
+D0925	Europa:I've met him.
+D0926	Spirit:Child, if you are truly here to end this, you must first become more powerful.
+D0927	Europa:I've trained for years, but I don't think there's anything I can do to hurt that thing, let alone kill it.
+D0928	Spirit:You must gather the power of the three vestiges of color.
+D0929	Spirit:This castle was built with the purpose of housing three relics.
+D0930	Spirit:Three relics that, together, can dispel this curse of shadows.
+D0931	Spirit:Water, earth, and fire…
+D0932	Spirit:Gather all three, and you will be ready to face the truth.
+D0933	Europa:I don't know that I can.
+D0934	Spirit:I can see why he chose you. Your soul is weary and full of sorrow—but you are also brave, with a good heart.
+D0935	Spirit:Accept your past and confront the present.
+D0936	Europa:Easier said than done.
+#== Story-Mother / Mom_Area_D
+D0937	Europa:I thought you were gone!
+D0938	Spirit:There's nowhere else to go… while he's still here.
+D0939	Europa:Who are you talking about?
+D0940	Spirit:My greatest love is trapped. I yearn for a way to set him free, but it is beyond my control.
+D0941	Europa:That's why you need my help.
+D0942	Spirit:That is my only wish.
+D0943	Spirit:There is more work to be done.
+D0944	Spirit:Talos' Heart resides in the deepest part of the castle. It is all that holds this place together.
+D0945	Spirit:As we speak it is being corrupted by the curse.
+D0946	Spirit:You must free Talos from his torment.
+D0947	Spirit:The two of you must cut away all trace of the corruption. It will be a violent thing.
+D0948	Spirit:We will meet again.
+#== Story-Mother / Mom_Painting_E_Loop01
+D0949	Auriel:Stop moving so much! You'll ruin it!
+D0950	Apino:But I want to see, mom…
+D0951	Auriel:Ha! You've certainly never been very patient, my boy.
+D0952	Auriel:I'm just about to finish the last few details. Can you hold still just a little longer?
+D0953	Apino:I can be patient, mom. It's just…
+D0954	Apino:…my bear is tired!
+D0955	Auriel:Oh, he's the tired one, is he?
+D0956	Apino:Yep!
+D0957	Auriel:Well, I think you should give your bear some credit. He's tougher than you think.
+D0958	Apino:Is he?
+D0959	Auriel:Well of course! He's like you!
+D0960	Apino:He is?
+D0961	Apino:I mean, of course he is! Or uh, I am. We are…
+D0962	Auriel:…
+D0963	Auriel:Hahaha!
+D0964	Auriel:Your little bear is certainly a good companion! Now try to sit still for just a moment.
+#== Story-Mother / Mom_Painting_E_Loop01_5
+D0965	Apino:Why are you painting me today, mom?
+D0966	Auriel:This is a very important painting, Apino.
+D0967	Auriel:I am making it just for you, dear.
+D0968	Auriel:If you ever feel sad or alone, you need only look at the painting and you will see yourself the way I do.
+D0969	Apino:And how do I look?
+D0970	Auriel:Maybe a bit silly.
+D0971	Apino:But… why would I feel lonely or sad?
+D0972	Auriel:Oh…
+D0973	Auriel:It's nothing… It's just normal for everyone to feel a little sad and alone sometimes.
+D0974	Auriel:Promise me, Apino. Whatever happens…
+D0975	Auriel:You have to remember that you're not alone.
+D0976	Apino:But I have you! And my bear.
+D0977	Auriel:Yes… you certainly do…
+#== Story-Mother / Mom_Painting_E_Loop02
+D0978	Europa:You knew you were going to die.
+D0979	Europa:…I know you're here.
+#== Story-Mother / Mom_Painting_E_Loop03
+D0980	Auriel:Now you see why I couldn't simply tell you the truth.
+D0981	Europa:"Acceptance is the first step. It will bring you grace."
+D0982	Auriel:Ha… If only I could…
+D0983	Europa:He's your child. I understand your dilemma.
+D0984	Europa:I'm not heartless.
+D0985	Auriel:Indeed. You're a good woman who has endured what my son and I could not.
+D0986	Auriel:I wanted you to get to know him so you could see that he's not a bad person.
+D0987	Auriel:He's just very sad.
+D0988	Europa:Yes.
+D0989	Europa:I know how he feels.
+D0990	Europa:The curse consumed my parents.
+D0991	Auriel:Everything that happened because of my son and I… it was horrible.
+D0992	Auriel:But now if you don't kill him…
+D0993	Auriel:…your world is doomed.
+D0994	Europa:I have faced so much loss and accepted so much pain without question.
+D0995	Europa:No more.
+D0996	Europa:I will <i>make</i> another way.
+D0997	Europa:I will fight the demon instead.
+D0998	Auriel:You truly have become strong—stronger than anyone else who has ever walked these halls.
+D0999	Auriel:But even with the armors you possess, even with all of your skill, you cannot win.
+D1000	Auriel:Belial is invincible.
+D1001	Europa:I have nothing to lose.
+D1002	Auriel:Then allow me to help you.
+D1003	Auriel:Please take this, as my final gift to you.
+D1004	Auriel:May it help you face your fate.

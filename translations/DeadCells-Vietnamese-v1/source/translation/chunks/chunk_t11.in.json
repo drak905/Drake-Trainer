@@ -1,0 +1,453 @@
+[
+{
+"id": 1701,
+"en": "This part is titled \"Skul\". \"Have you heard of the tomb of that foreign little boy?\".",
+"ctx": "U26_SKUL_SKINUNLOCK"
+},
+{
+"id": 1702,
+"en": "Not until now.",
+"ctx": "U26_SKUL_SKINUNLOCK_REACT"
+},
+{
+"id": 1703,
+"en": "There are more chapters ...",
+"ctx": "U32_START_BIS_SKINUNLOCK"
+},
+{
+"id": 1704,
+"en": "No explanation here, just a large picture of a knight clad in blue plates with horns and a title: \"Shovel Knight\".\nHis shovel is especially visible.",
+"ctx": "U32_SHOVELKNIGHT_SKINUNLOCK"
+},
+{
+"id": 1705,
+"en": "Looks like the reproduction of a painting...",
+"ctx": "U32_SHOVELKNIGHT_SKINUNLOCK_REACT"
+},
+{
+"id": 1706,
+"en": "On this \"Hotline Miami\" page, I can read:  \"Knock knock\" \"Who's th-\" BONK BONK BONK SPLAT!",
+"ctx": "U32_HOTLINEMIAMI_SKINUNLOCK"
+},
+{
+"id": 1707,
+"en": "What a lousy joke!",
+"ctx": "U32_HOTLINEMIAMI_SKINUNLOCK_REACT"
+},
+{
+"id": 1708,
+"en": "A report titled \"Katana Zero\" : \"They said that the Dragon, or \"Fifteen\" as he was called in his unit was able to slash through his enemies with his katana without getting hit.\"",
+"ctx": "U32_KATANAZERO_SKINUNLOCK"
+},
+{
+"id": 1709,
+"en": "Cool for him.",
+"ctx": "U32_KATANAZERO_SKINUNLOCK_REACT"
+},
+{
+"id": 1710,
+"en": "It says here, under the title \"Risk of Rain\", that the surface of Petrichor V is dotted with strange shrines. \nAdventurers prayed them in the hope of getting loot from them.",
+"ctx": "U32_RISKOFRAIN_SKINUNLOCK"
+},
+{
+"id": 1711,
+"en": "Good idea, I'll try that if I find one!",
+"ctx": "U32_RISKOFRAIN_SKINUNLOCK_REACT"
+},
+{
+"id": 1712,
+"en": "\"Attention, Terraria adventurers: you must sacrifice the Guide Voodoo Doll in the magma to summon the Wall of Flesh\".",
+"ctx": "U32_TERRARIA_SKINUNLOCK"
+},
+{
+"id": 1713,
+"en": "No way, I won't throw one of my precious items in the lava!",
+"ctx": "U32_TERRARIA_SKINUNLOCK_REACT"
+},
+{
+"id": 1714,
+"en": "A drawing, titled \"Slay the Spire\", represents a three-pronged symbol, each with a small sketch. \nA bag of coins is drawn on the red prong. \nOn the blue one, a sword is linked to a key via a short chain. \nLastly, the green prong is topped with a red-eyed skull.",
+"ctx": "U32_SLAYTHESPIRE_SKINUNLOCK"
+},
+{
+"id": 1715,
+"en": "I really don't get contemporary art, I just don't have the keys to understand it!",
+"ctx": "U32_SLAYTHESPIRE_SKINUNLOCK_REACT"
+},
+{
+"id": 1716,
+"en": "Oh ho! A new arrival..."
+},
+{
+"id": 1717,
+"en": "And the rats haven't even got to him yet."
+},
+{
+"id": 1718,
+"en": "...I bet there's still some good stuff to scavenge!"
+},
+{
+"id": 1719,
+"en": "Meh, just some rusty old key..."
+},
+{
+"id": 1720,
+"en": "...and a torn up letter."
+},
+{
+"id": 1721,
+"en": "\"Royal Gardener, with all the respect that I owe you... OBEY YOUR ORDERS or you will find yourself in the stomach of one of the ticks!\""
+},
+{
+"id": 1722,
+"en": "\"For all our sakes, this is your last warning.\""
+},
+{
+"id": 1723,
+"en": "\"Signed: Commander Castaing.\""
+},
+{
+"id": 1724,
+"en": "Ergh, nothing of interest at all..."
+},
+{
+"id": 1725,
+"en": "Except for this jacket!"
+},
+{
+"id": 1727,
+"en": "Ho. Ho. Ho."
+},
+{
+"id": 1729,
+"en": "Can't use that right now."
+},
+{
+"id": 1730,
+"en": "Health potion (::n:: HP)"
+},
+{
+"id": 1732,
+"en": "Regenerates ::n:: health points."
+},
+{
+"id": 1736,
+"en": "To be continued..."
+},
+{
+"id": 1737,
+"en": "Congratulations! You've reached the end of this demo!"
+},
+{
+"id": 1738,
+"en": "Secret zone discovered!"
+},
+{
+"id": 1740,
+"en": "The drain seems to be clogged... There must be another way out."
+},
+{
+"id": 1741,
+"en": "\"If you're reading this, it means that I'm dead.\""
+},
+{
+"id": 1742,
+"en": "\"You need to investigate the report about the Giant's corpse disappearing from the Prison.\""
+},
+{
+"id": 1743,
+"en": "\"The King entrusted him with something that mustn't fall into the wrong hands.\""
+},
+{
+"id": 1744,
+"en": "Cannot sell this item."
+},
+{
+"id": 1751,
+"en": "Hmph... can't even find something worth cooking around here..."
+},
+{
+"id": 1752,
+"en": "You may as well take it. Wish you luck! ...You will need it."
+},
+{
+"id": 1753,
+"en": "Grilled tentacle? You, sir, are a man of great taste."
+},
+{
+"id": 1754,
+"en": "Everything must go!"
+},
+{
+"id": 1755,
+"en": "What do you need?"
+},
+{
+"id": 1756,
+"en": "Are you gonna buy something or what?"
+},
+{
+"id": 1757,
+"en": "You know, this is starting to get on my nerves..."
+},
+{
+"id": 1758,
+"en": "HEY! You gonna buy something?!"
+},
+{
+"id": 1759,
+"en": "Just my luck to get stuck with the island idiot."
+},
+{
+"id": 1760,
+"en": "I've got nothing to offer you, scram!"
+},
+{
+"id": 1763,
+"en": "There's something fishy about this beast..."
+},
+{
+"id": 1764,
+"en": "Mirror, mirror, on the wall, where's the next blueprint? Nothing..."
+},
+{
+"id": 1773,
+"en": "Get random equipment (you cannot change this later)"
+},
+{
+"id": 1774,
+"en": "Get random skills (you cannot change this later)"
+},
+{
+"id": 1775,
+"en": "Get random weapons (you cannot change this later)"
+},
+{
+"id": 1776,
+"en": "Get objects in the ::c:: category (you cannot change this later)"
+},
+{
+"id": 1778,
+"en": "Give ::amountGive:: {iconCoin@img}"
+},
+{
+"id": 1781,
+"en": "Can't open it..."
+},
+{
+"id": 1789,
+"en": "::rune:: BOSS STEM CELL ACTIVATED"
+},
+{
+"id": 1790,
+"en": "::rune:: BOSS STEM CELLS ACTIVATED"
+},
+{
+"id": 1791,
+"en": "Gather four Scroll Fragments to unlock one stat point of your choosing."
+},
+{
+"id": 1792,
+"en": "Cursed mobs can spawn in up to {::count::@PE} biomes!"
+},
+{
+"id": 1794,
+"en": "No destinations available."
+},
+{
+"id": 1797,
+"en": "Dear prisoner,"
+},
+{
+"id": 1798,
+"en": "Tired of killing the same monsters over and over?"
+},
+{
+"id": 1799,
+"en": "Bored by the landscapes of this small island?"
+},
+{
+"id": 1800,
+"en": "Well, I definitely am."
+},
+{
+"id": 1801,
+"en": "I think we can help each other."
+},
+{
+"id": 1802,
+"en": "Meet me in the sewers, where I’m restocking for food."
+},
+{
+"id": 1804,
+"en": "Whatever was on this altar disappeared ::t:: ago..."
+},
+{
+"id": 1809,
+"en": "Chat managed to break the chest open!"
+},
+{
+"id": 1813,
+"en": "Blueprint already acquired (::name::)"
+},
+{
+"id": 1815,
+"en": "Hit me!"
+},
+{
+"id": 1816,
+"en": "I'm defenseless!"
+},
+{
+"id": 1817,
+"en": "Hey, you bunch of dummies!"
+},
+{
+"id": 1818,
+"en": "I'm right here!"
+},
+{
+"id": 1819,
+"en": "Mumble... the end is near... grumble...",
+"ctx": "U35_DOOM_BRINGER_WALK_SPEECH_0"
+},
+{
+"id": 1820,
+"en": "Have you heard about our inevitable end?",
+"ctx": "U35_DOOM_BRINGER_WALK_SPEECH_1"
+},
+{
+"id": 1821,
+"en": "I've been telling everyone for a long time, it's bound to happen someday!",
+"ctx": "U35_DOOM_BRINGER_WALK_SPEECH_2"
+},
+{
+"id": 1822,
+"en": "CURSE BE UPON YOU!",
+"ctx": "U35_DOOM_BRINGER_CURSE_SPEECH_0"
+},
+{
+"id": 1823,
+"en": "YOUR END IS CLOSE!",
+"ctx": "U35_DOOM_BRINGER_CURSE_SPEECH_1"
+},
+{
+"id": 1824,
+"en": "HERE, ONE FOR THE ROAD!",
+"ctx": "U35_DOOM_BRINGER_CURSE_SPEECH_2"
+},
+{
+"id": 1825,
+"en": "FOR YOU THE BELL TOLLS!",
+"ctx": "U35_DOOM_BRINGER_STUN_SPEECH_0"
+},
+{
+"id": 1826,
+"en": "ALL BELLS, NO WHISTLE!",
+"ctx": "U35_DOOM_BRINGER_STUN_SPEECH_1"
+},
+{
+"id": 1827,
+"en": "THIS SHOULD RING A BELL!",
+"ctx": "U35_DOOM_BRINGER_STUN_SPEECH_2"
+},
+{
+"id": 1829,
+"en": "Meow!",
+"ctx": "DLCP_MARIA_CAT_MEOW"
+},
+{
+"id": 1830,
+"en": "DPS: ::dps::"
+},
+{
+"id": 1831,
+"en": "AVERAGE: ::avg::"
+},
+{
+"id": 1832,
+"en": "HIGHEST: ::highest::"
+},
+{
+"id": 1833,
+"en": "TIME: ::time::"
+},
+{
+"id": 1834,
+"en": "TOTAL: ::total::"
+},
+{
+"id": 1835,
+"en": "A ::name::!"
+},
+{
+"id": 1836,
+"en": "Get him, quick!"
+},
+{
+"id": 1837,
+"en": "You've awakened a ::name::!"
+},
+{
+"id": 1838,
+"en": "Eliminate him!"
+},
+{
+"id": 1839,
+"en": "Puuuuuuuurrrrrrrrrr ...",
+"ctx": "DLCP_CAT_PET"
+},
+{
+"id": 1840,
+"en": "Judging from the look he is giving me, he wants me to keep going...",
+"ctx": "DLCP_CAT_NOPET"
+},
+{
+"id": 1841,
+"en": "It seems to be disappointed.",
+"ctx": "U30_STAFFY_NOPAT"
+},
+{
+"id": 1842,
+"en": "This thing looks... happy?",
+"ctx": "U30_STAFFY_PAT"
+},
+{
+"id": 1843,
+"en": "Why?"
+},
+{
+"id": 1844,
+"en": "Good job, mom..."
+},
+{
+"id": 1845,
+"en": "I don't wanna go!"
+},
+{
+"id": 1846,
+"en": "Ahhhh!"
+},
+{
+"id": 1847,
+"en": "Don't stop, please!",
+"ctx": "U30_HARDY_NOPAT"
+},
+{
+"id": 1848,
+"en": "You're so nice to me! I'll follow you until the end!",
+"ctx": "U30_HARDY_PAT"
+},
+{
+"id": 1849,
+"en": "I hope you've got some food for me."
+},
+{
+"id": 1850,
+"en": "*yawn* ... What did you wake me up for?"
+},
+{
+"id": 1851,
+"en": "Who are we fighting!? Ah... Who cares!"
+}
+]

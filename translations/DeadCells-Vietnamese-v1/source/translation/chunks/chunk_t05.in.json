@@ -1,0 +1,359 @@
+[
+{
+"id": 708,
+"en": "{Brutality@BR}"
+},
+{
+"id": 709,
+"en": "{Tactics@TA}"
+},
+{
+"id": 710,
+"en": "{Survival@SU}"
+},
+{
+"id": 711,
+"en": "{Brutality@BR} / {Tactics@TA}"
+},
+{
+"id": 712,
+"en": "{Brutality@BR} / {Survival@SU}"
+},
+{
+"id": 713,
+"en": "{Tactics@TA} / {Survival@SU}"
+},
+{
+"id": 717,
+"en": "You have activated the assist mode. Your daily challenge score will not be registered.",
+"ctx": "U29_ASSIST_MODE_LOCK_SCORE"
+},
+{
+"id": 718,
+"en": "Waiting..."
+},
+{
+"id": 721,
+"en": "Pick up the item here."
+},
+{
+"id": 724,
+"en": "Warning! Equipping an Aspect prevents you from unlocking new boss cells and flawless rewards during that run.",
+"ctx": "Aspect warning PS terminology"
+},
+{
+"id": 730,
+"en": "Completely reveal the map of the current level.",
+"ctx": "U29_REVEAL_MAP_DESC"
+},
+{
+"id": 732,
+"en": "You automatically attack nearby enemies with your primary melee weapon.",
+"ctx": "U29_AUTO_HIT_OPTION_DESC"
+},
+{
+"id": 734,
+"en": "Nearby doors are automatically destroyed.",
+"ctx": "U29_AUTO_BREAK_DOORS_OPTION_DESC"
+},
+{
+"id": 736,
+"en": "You have more time to trigger a parry.",
+"ctx": "U29_PARRY_DESC"
+},
+{
+"id": 738,
+"en": "Mobile traps are slower.",
+"ctx": "U29_TRAP_DESC"
+},
+{
+"id": 745,
+"en": "Prevents the Vendor Mimic from spawning",
+"ctx": "U34_MIMIC_SPAWN_DESC"
+},
+{
+"id": 747,
+"en": "Each time you die, you resurrect at the last checkpoint.",
+"ctx": "U29_CONTINUE_ENABLED_DESC"
+},
+{
+"id": 748,
+"en": "Choose the number of deaths allowed.",
+"ctx": "U29_CONTINUE_COUNT"
+},
+{
+"id": 752,
+"en": "Assist Mode lets you customize certain game settings to make it more accessible. Dead Cells is a difficult and demanding but easy to play game. We therefore recommend using these options to fit the difficulty to your needs while keeping the game challenging for you.",
+"ctx": "U29_ASSIST_MODE_ENABLE_TEXT_1"
+},
+{
+"id": 754,
+"en": "However, our goal with this mode is to make the game accessible to the broadest audience possible without forcing you to play with arbitrary difficulty settings. Feel free to use whatever option you want! What really matters is that you have fun playing Dead Cells !",
+"ctx": "U29_ASSIST_MODE_ENABLE_TEXT_2"
+},
+{
+"id": 759,
+"en": "\"Come back and see me when you've found some new blueprints...\""
+},
+{
+"id": 762,
+"en": "{Locked@LO}: unlock \"::name::\""
+},
+{
+"id": 763,
+"en": "{Locked@LO}: requires DLC ::dlcName::"
+},
+{
+"id": 764,
+"en": "{Locked@LO}: unlock ::n:: more items"
+},
+{
+"id": 765,
+"en": "{Locked@LO}: unlock 1 more item"
+},
+{
+"id": 766,
+"en": "You can lock unwanted items out of your item pool with {Custom Mode@LE}."
+},
+{
+"id": 769,
+"en": "::n:: cells left"
+},
+{
+"id": 770,
+"en": "::n:: cell left"
+},
+{
+"id": 776,
+"en": "The following modifications will disable trophies:"
+},
+{
+"id": 777,
+"en": "The following modifications will disable achievements:"
+},
+{
+"id": 786,
+"en": "(Preset : {::name::@ST})"
+},
+{
+"id": 787,
+"en": "The default presets will be selected, but you will be able to customize other settings in the next tab"
+},
+{
+"id": 790,
+"en": "Permanent timer, all items unlocked... How fast can you go?"
+},
+{
+"id": 791,
+"en": "Only Brutality based weapons and skills are unlocked"
+},
+{
+"id": 792,
+"en": "Only Tactics based weapons and skills are unlocked"
+},
+{
+"id": 793,
+"en": "Only Survival based weapons and skills are unlocked"
+},
+{
+"id": 794,
+"en": "Only melee weapons and skills are unlocked"
+},
+{
+"id": 795,
+"en": "Only long range weapons are unlocked. Now with unlimited ammo!"
+},
+{
+"id": 797,
+"en": "Everything is designed to kill you as quickly as possible: no health potions, Malaise multiplied, exploding monsters and doors. No problem."
+},
+{
+"id": 798,
+"en": "Only fire based objects are unlocked"
+},
+{
+"id": 800,
+"en": "Your new settings will be saved in the selected custom preset"
+},
+{
+"id": 801,
+"en": "Your settings, your rules!"
+},
+{
+"id": 802,
+"en": "Removing too many items can have some strange effects: chests may disappear and there may be a lack of stock at your favorite merchant's establishment."
+},
+{
+"id": 808,
+"en": "Start every run with a randomly picked outfit."
+},
+{
+"id": 809,
+"en": "Start every level with an outfit picked randomly."
+},
+{
+"id": 811,
+"en": "Start every run with a randomly picked head.",
+"ctx": "U35_CUSTOMGAME_RANDOM_HEAD_RUN_DESC"
+},
+{
+"id": 812,
+"en": "Start every level with a randomly picked head.",
+"ctx": "U35_CUSTOMGAME_RANDOM_HEAD_LEVEL_DESC"
+},
+{
+"id": 813,
+"en": "If an option is unchecked, the game will be based on the current save file."
+},
+{
+"id": 821,
+"en": "Level generation isn't random anymore, it's decided by the number you enter above.\nLore rooms will be deactivated."
+},
+{
+"id": 822,
+"en": "Unlock this option when you obtain all 4 Runes."
+},
+{
+"id": 824,
+"en": "The timer stops in special rooms and when the interface is open."
+},
+{
+"id": 826,
+"en": "The timer won't stop when you're in special rooms."
+},
+{
+"id": 828,
+"en": "The clock is always ticking..."
+},
+{
+"id": 830,
+"en": "Shops will allow you to choose weapons based on the type of object rather than their color."
+},
+{
+"id": 831,
+"en": "Unlock this option when you complete \"::researchName::\" with the collector."
+},
+{
+"id": 832,
+"en": "Percentage of objects with quality ::q::"
+},
+{
+"id": 833,
+"en": "Maximum based on your current save"
+},
+{
+"id": 836,
+"en": "The health fountains will always be available in the areas of difficulty \"::diff::\" and higher."
+},
+{
+"id": 837,
+"en": "Unlocked when you finish the game in \"::diff::\" difficulty."
+},
+{
+"id": 838,
+"en": "Curses leave you with 1HP instead of killing you."
+},
+{
+"id": 839,
+"en": "Curses will no longer one shot you."
+},
+{
+"id": 841,
+"en": "Shops, items behind golden doors."
+},
+{
+"id": 843,
+"en": "Any items you find on the ground, in any chest, lore rooms and altars."
+},
+{
+"id": 848,
+"en": "This impacts all difficulties except \"Hell\"."
+},
+{
+"id": 849,
+"en": "This only impacts \"Hell\" difficulty."
+},
+{
+"id": 851,
+"en": "Alternative binding profile can only be used in Custom Mode, if the corresponding option is active. It enables binding multiple actions to the same button.",
+"ctx": "PS5 terminology"
+},
+{
+"id": 860,
+"en": "Percentage chance that food is infected"
+},
+{
+"id": 865,
+"en": "Health Fountain never breaks."
+},
+{
+"id": 866,
+"en": "Increase the maximum number of mutations"
+},
+{
+"id": 867,
+"en": "All weapons and skills are colorless"
+},
+{
+"id": 868,
+"en": "All weapons and skills are legendary",
+"ctx": "U30_CUSTOM_MODE_LEGENDARY_OPTION"
+},
+{
+"id": 869,
+"en": "Authorize the use of two weapons or skills of the same type."
+},
+{
+"id": 870,
+"en": "Use the old shop categories."
+},
+{
+"id": 872,
+"en": "Randomize outfit on every level."
+},
+{
+"id": 874,
+"en": "Randomize head on every level.",
+"ctx": "U35_CUSTOMGAME_RANDOM_HEAD_LEVEL_NAME"
+},
+{
+"id": 876,
+"en": "Preset name?"
+},
+{
+"id": 877,
+"en": "Leave the field blank to reset it."
+},
+{
+"id": 886,
+"en": "Needs to be unlocked at the Collector"
+},
+{
+"id": 898,
+"en": "You died! Bummer!"
+},
+{
+"id": 899,
+"en": "Out of time! Bummer!"
+},
+{
+"id": 900,
+"en": "Congratulations, you've finished the daily challenge!"
+},
+{
+"id": 901,
+"en": "Next reward in ::num:: daily victory"
+},
+{
+"id": 902,
+"en": "Next reward in ::num:: daily victories"
+},
+{
+"id": 903,
+"en": "Bonus for beating the Boss:"
+},
+{
+"id": 904,
+"en": "Time left:"
+}
+]

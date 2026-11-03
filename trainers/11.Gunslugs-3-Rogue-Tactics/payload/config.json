@@ -1,0 +1,10 @@
+{
+  "classPath": [
+    "gunslugs3-trainer.jar",
+    "gunslugs3.dat"
+  ],
+  "mainClass": "com.orangepixel.gunslugs3.desktop.Main",
+  "vmArgs": [
+    "-Xmx1G"
+  ]
+}

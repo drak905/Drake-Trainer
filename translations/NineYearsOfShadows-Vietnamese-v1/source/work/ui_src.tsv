@@ -1,0 +1,829 @@
+U0001	CREDITS_GAME_BY	A GAME BY
+U0002	CREDITS_CREATIVE_DIRECTION	CREATIVE DIRECTION
+U0003	CREDITS_CO_DIRECTION	CO-DIRECTION
+U0004	CREDITS_ART	ART
+U0005	CREDITS_ART_DIRECTION	ART DIRECTION
+U0006	CREDITS_PIXEL_ART	PIXEL ART
+U0007	CREDITS_PIXEL_ANIMATION	PIXEL ANIMATION
+U0008	CREDITS_PIXEL_CINEMATICS	PIXEL CINEMATICS
+U0009	CREDITS_DIALOG_PORTRAIT_ART	CHARACTER PORTRAIT ART
+U0010	CREDITS_CONCEPT_ART	CONCEPT ART
+U0011	CREDITS_SPINE_ANIMATION	SPINE ANIMATION
+U0012	CREDITS_3D_ART_AND_ANIMATION	3D ART AND ANIMATION
+U0013	CREDITS_GAME_DESIGN	GAME DESIGN
+U0014	CREDITS_LEAD_PROGRAMMING	LEAD PROGRAMMING
+U0015	CREDITS_PROGRAMMING	PROGRAMMING
+U0016	CREDITS_VFX	VFX
+U0017	CREDITS_GRAPHICS_UI_DESIGN	GRAPHICS & UI DESIGN
+U0018	CREDITS_STORY_BY	STORY BY
+U0019	CREDITS_WRITING	WRITING
+U0020	CREDITS_EDITING_LOCALIZATION	EDITING & LOCALIZATION
+U0021	CREDITS_STRATEGY_ADVISER	STRATEGY ADVISOR
+U0022	CREDITS_PRODUCTION_ASSISTANCE	PRODUCTION ASSISTANCE
+U0023	CREDITS_PRODUCTION	PRODUCTION
+U0024	CREDITS_MUSIC_SOUND	MUSIC & SOUND
+U0025	CREDITS_MUSIC_COMPOSING	MUSIC COMPOSITION
+U0026	CREDITS_VOCALS	VOCALS
+U0027	CREDITS_SOUND_DESIGN	SOUND DESIGN
+U0028	CREDITS_ADDITIONAL_TALENT	ADDITIONAL TALENT
+U0029	CREDITS_ADDITIONAL_PIXEL_ARTIST	ADDITIONAL PIXEL ART
+U0030	CREDITS_ADDITIONAL_CONEPT_ARTIST	ADDITIONAL CONCEPT ART
+U0031	CREDITS_ADDITIONAL_GAME_DESIGN	ADDITIONAL GAME DESIGN
+U0032	CREDITS_ADDITIONAL_PROGRAMMING	ADDITIONAL PROGRAMMING
+U0033	CREDITS_ADDITIONAL_TECHNICAL_ARTIST	ADDITIONAL TECHNICAL ART
+U0034	CREDITS_ADDITIONAL_MUSIC	ADDITIONAL MUSIC COMPOSITION
+U0035	CREDITS_ADDITIONAL_GRAPHIC_DESIGN	ADDITIONAL GRAPHIC DESIGN
+U0036	CREDITS_ADDITIONAL_PRODUCTION_ASSISTANCE	ADDITIONAL PRODUCTION ASSISTANCE
+U0037	CREDITS_HANDRAWN_ANIMATION	TRADITIONAL ANIMATION
+U0038	CREDITS_TRAILER_ANIMATION	TRAILER ANIMATION
+U0039	CREDITS_VIDEO_EDITING	VIDEO EDITING
+U0040	CREDITS_KICKSTARTER_ILUSTRATIONS	KICKSTARTER ILLUSTRATIONS
+U0041	CREDITS_JAPANESE_TRANSLATION	JAPANESE TRANSLATION
+U0042	CREDITS_STUDIO_RONIN_CONCEPT_ART	STUDIO RONIN | CONCEPT ART
+U0043	CREDITS_MARKETING_&_COMMUNITY	MARKETING & COMMUNITY
+U0044	CREDITS_YOUTUBE_PARTNER	YOUTUBE PARTNER
+U0045	CREDITS_FINANCIAL	FINANCIAL
+U0046	CREDITS_SPECIAL_THANKS_TO	SPECIAL THANKS TO
+U0047	CREDITS_FACULTY_OF_ENGINEERING	FACULTY OF ENGINEERING
+U0048	CREDITS_ENGINEERING_IN_DIGITAL_ANIMATION	ENGINEERING IN DIGITAL ANIMATION
+U0049	CREDITS_SPECIAL_THANKS	SPECIAL THANKS
+U0050	CREDITS_CO_FOUNDERS	CO-FOUNDERS
+U0051	CREDITS_CREATIVE_DIRECTOR	CREATIVE DIRECTOR
+U0052	CREDITS_PRODUCER_GAME_DIRECTOR	PRODUCER / GAME DIRECTOR
+U0053	CREDITS_DIRECTOR_OF_PUBLISHING	DIRECTOR OF PUBLISHING
+U0054	CREDITS_DIRECTOR_OF_GAME_DEVELOPMENT	DIRECTOR OF GAME DEVELOPMENT
+U0055	CREDITS_DIRECTOR_OF_MARKETING	DIRECTOR OF MARKETING
+U0056	CREDITS_LEAD_PROGRAMMER	LEAD PROGRAMMER
+U0057	CREDITS_SENIOR_DIRECTOR_OF_TECHNOLOGY	SENIOR DIRECTOR OF TECHNOLOGY
+U0058	CREDITS_ASSOCIATE_GAME_DESIGNER	ASSOCIATE GAME DESIGNER
+U0059	CREDITS_SENIOR_MULTIMEDIA_EDITOR	SENIOR MULTIMEDIA EDITOR
+U0060	CREDITS_MOTION_GRAPHICS_DESIGNER	MOTION GRAPHICS DESIGNER
+U0061	CREDITS_ILLUSTRATOR	ILLUSTRATOR
+U0062	CREDITS_QA_MANAGER	QA MANAGER
+U0063	CREDITS_QA_ANALYST	QA ANALYST
+U0064	CREDITS_PRODUCER	PRODUCER
+U0065	CREDITS_ASSOCIATE_PRODUCER	ASSOCIATE PRODUCER
+U0066	CREDITS_PUBLISHING_ASSOCIATE	PUBLISHING ASSOCIATE
+U0067	CREDITS_SOCIAL_MEDIA_MANAGER	SOCIAL MEDIA MANAGER
+U0068	CREDITS_COPYWRITER	COPYWRITER
+U0069	CREDITS_CROWDFUNDING_MANAGER	CROWDFUNDING MANAGER
+U0070	CREDITS_HEAD_OF_WIKIS	HEAD OF WIKIS
+U0071	CREDITS_IT_LEAD	IT LEAD
+U0072	CREDITS_KICKSTARTER_BACKERS	KICKSTARTER BACKERS
+U0073	CREDITS_DEDICATION	DEDICATED TO THE STRONGEST WOMEN I KNOW
+U0074	CREDITS_DESIGN_DEV	DESIGN & DEVELOPMENT
+U0075	CREDITS_THE_END	THE END
+U0076	CREDITS_LION	TO THE LION
+U0077	CREDITS_AUDIO_ENGINE	AUDIO ENGINE
+U0078	Settings_Enable_Tag	Enabled
+U0079	Settings_Disable_Tag	Disabled
+U0080	Settings_English_Tag	English
+U0081	Settings_Spanish_Tag	Spanish
+U0082	Settings_Slow_Tag	Slow
+U0083	Settings_Medium_Tag	Medium
+U0084	Settings_Fast_Tag	Fast
+U0085	Settings_FullScreen_Tag	Full Screen
+U0086	Settings_Windowed_Tag	Windowed
+U0087	Settings_NHD_Tag	640x360
+U0088	Settings_HD_Tag	1280x720
+U0089	Settings_QHD_Tag	2560x1440
+U0090	Settings_FullHD_Tag	1920x1080
+U0091	Settings_4KUHD_Tag	3840x2160
+U0092	LAUNCHER_NEW_GAME	NEW GAME
+U0093	LAUNCHER_DETAILS	DETAILS
+U0094	LAUNCHER_PROGRESSION	COMPLETION
+U0095	DATA_LOG_1	DATA 01
+U0096	DATA_LOG_2	DATA 02
+U0097	DATA_LOG_3	DATA 03
+U0098	LAUNCHER_LOAD_DELETE_TIP	Select a data log with <sprite index=1>, hold <sprite index=11> to delete it.
+U0099	LAUNCHER_CONTROLLER_RECOMMENDED	CONTROLLER RECOMMENDED
+U0100	Save_SavingComplete	Game Saved
+U0101	GAME_NAME	9 Years of Shadows
+U0102	Menu_Exit_Question	Are you sure you want to exit?
+U0103	Menu_Accept	ACCEPT
+U0104	Menu_Cancel	CANCEL
+U0105	Menu_Back	BACK
+U0106	Menu_Restore	Restore Default Settings
+U0107	Menu_ResumeGame	Resume Game
+U0108	Skip_Cinematic	Hold {{0}} to skip
+U0109	Input_Menu_Accept	{{0}} Accept
+U0110	Input_Menu_Cancel	{{0}} Cancel
+U0111	Upgrade_Magic	INCREASE LIGHT
+U0112	Upgrade_Health	INCREASE VITALITY
+U0113	HIBINO_WORKSHOP	HIBINO'S WORKSHOP
+U0114	UPGRADE_GEAR	UPGRADE EQUIPMENT
+U0115	MAIN_ELEVATOR	MAIN ELEVATOR
+U0116	Continue_Cinematic	{{0}}
+U0117	Settings_Full_Tag	Full
+U0118	Settings_Reduced_Tag	Reduced
+U0119	MenuMain_GameDataSelect	GAME DATA SELECT
+U0120	MenuMain_HoldToDelete	HOLD TO DELETE
+U0121	MenuMain_START	START
+U0122	MenuMain_EXIT	EXIT
+U0123	MenuMain_OPTIONS	OPTIONS
+U0124	MenuMain_CREDITS	CREDITS
+U0125	Build_Version	Version
+U0126	Input_Menu_Restore	{{0}} Restore Default Settings
+U0127	Settings_Dutch_Tag	Deutsche
+U0128	Settings_Japanese_Tag	Japanese
+U0129	Settings_French_Tag	French
+U0130	Settings_Russian_Tag	Russian
+U0131	Settings_Chinese_Tag	Chinese
+U0132	Settings_Portuguese_Tag	Portuguese
+U0133	GAME_OVER	GAME OVER
+U0134	Death_Continue	CONTINUE
+U0135	Death_Exit	EXIT
+U0136	Settings_FPS_VSync	VSync 
+U0137	Settings_FPS_30	30
+U0138	Settings_FPS_60	60
+U0139	Settings_FPS_120	120
+U0140	BuyScreen_Message	Unlock station for {{0}}?
+U0141	HE_Map_Title	Hermes Express
+U0142	AreaA_Prologue_Dialogue1	Nine years ago, a curse spread across the land
+U0143	AreaA_Prologue_Dialogue2	Color vanished from the world, leaving only sorrow in its wake
+U0144	AreaA_Prologue_Dialogue3	No one living knows how it happened
+U0145	AreaA_Prologue_Dialogue4	But the curse continues to spread
+U0146	AreaA_Prologue_Dialogue5	Some resisted
+U0147	AreaA_Prologue_Dialogue6	Others were consumed
+U0148	AreaA_Prologue_Dialogue7	It took everything from me
+U0149	AreaA_Prologue_Dialogue8	If I were lucky, I would have shared my parents' fate
+U0150	AreaA_Prologue_Dialogue9	But my body refused to die
+U0151	AreaA_Prologue_Dialogue10	So I linger on in this wretched world
+U0152	AreaA_Prologue_Dialogue11	Watching the curse grow stronger day by day
+U0153	AeraA_Elevator1_Thought1	I devoted my life to ending the nightmare but to no avail…
+U0154	AeraA_Elevator1_Thought2	…until today.
+U0155	AeraA_Elevator1_Thought3	The rumors say it all began in this castle…
+U0156	AeraA_Elevator1_Thought4	…and that none who enter are ever seen again.
+U0157	AeraA_Elevator1_Thought5	After nine years, I am willing to take the risk,
+U0158	AeraA_Elevator1_Thought6	even if it costs me my life.
+U0159	AeraA_Elevator1_Thought7	After all, I've already lost everything else
+U0160	Epilogue_A_1	With the source of the curse destroyed
+U0161	Epilogue_A_2	Light and color slowly returned
+U0162	Epilogue_A_3	And with them, hope
+U0163	Epilogue_A_4	After nine years, the shadows began to dispel
+U0164	Epilogue_B_1	Talos and its inhabitants were freed from the darkness
+U0165	Epilogue_B_2	Some still carried scars from the curse
+U0166	Epilogue_B_3	Others never returned
+U0167	Epilogue_C_1	When I came to this castle I barely cared if I lived or died
+U0168	Epilogue_C_2	I just wanted to be free from the curse one way or another
+U0169	Epilogue_C_3	I was just like you, Apino
+U0170	Epilogue_D_1	I wanted to confront the darkness but I wasn't ready
+U0171	Epilogue_D_2	I couldn't do it alone
+U0172	Epilogue_D_3	We needed the journey we went on together
+U0173	Epilogue_E_1	Part of me wishes that we could leave our sorrow behind
+U0174	Epilogue_E_2	So the loss would never sting again
+U0175	Epilogue_E_3	But we must carry it with us
+U0176	Epilogue_E_4	The memories, painful though they are, tie us to the ones we loved
+U0177	Mom_Cinematic_01	But the spell was too powerful. His very being was split: heart and body separated.
+U0178	Mom_Cinematic_02	His heart, without a place to go, sought refuge in the closest object it could find:
+U0179	Mom_Cinematic_03	The bear he always carried.
+U0180	Mom_Cinematic_04	His body, with all of its sorrow and pain still trapped inside,
+U0181	Mom_Cinematic_05	was twisted into the demonic form of Belial,
+U0182	Mom_Cinematic_06	Who wanders these halls in agony.
+U0183	Mom_Cinematic_07	The very monster the ancient Dorians saw in their visions of the end of the world.
+U0184	AeraA_Elevator2_Thought1	Was it wise to let that little ghost follow me?
+U0185	AeraA_Elevator2_Thought2	Truthfully, I don’t think I'd get very far alone.
+U0186	AeraA_Elevator2_Thought3	That demon I fought was stronger than any monster I've ever faced before.
+U0187	AeraA_Elevator2_Thought4	I wonder if it's the source of the curse or if it was drawn to it...
+U0188	AeraC_Elevator3_Thought1	That ghostly woman...\n
+U0189	AeraC_Elevator3_Thought2	She spoke as if she knew me.
+U0190	AeraC_Elevator3_Thought3	What happened in this castle?
+U0191	AeraC_Elevator3_Thought4	And how are these so-called "relics" going to help me?
+U0192	AeraC_Elevator3_Thought5	Everyone is placing too much hope in the wrong person…
+U0193	AeraB_Elevator4_Thought1	Apino is growing stronger.
+U0194	AeraB_Elevator4_Thought2	So am I. With the power of the relics, maybe I can become powerful enough to face that demon again.
+U0195	AeraB_Elevator4_Thought3	Although… something is bothering me…
+U0196	AeraB_Elevator4_Thought4	Claude seems to know more about this curse than he lets on. What is he hiding?
+U0197	AreaG_Elevator5_Thought1	Of course Draythus is here. Just my luck.
+U0198	AreaG_Elevator5_Thought2	Whatever he is searching for, it won't be good news if he finds it.
+U0199	AreaG_Elevator5_Thought3	The last thing I need is his meddling.
+U0200	AreaG_Elevator5_Thought4	Last time we fought I was clearly outmatched.
+U0201	AreaG_Elevator5_Thought5	If he gets in my way, I'll have to duel him again.
+U0202	AreaG_Elevator5_Thought6	With my luck, it's going to happen sooner rather than later.
+U0203	AreaG_Elevator5_Thought7	Time is running out.
+U0204	AreaG_Elevator5_Thought8	And so is my patience.\n
+U0205	AreaF_Elevator6_Thought1	What they say about this place is true...\n
+U0206	AreaF_Elevator6_Thought2	The castle wasn't just built atop a sleeping giant, it's become part of him.
+U0207	AreaF_Elevator6_Thought3	Whatever is down here is dangerous if it can pose a threat to Talos.
+U0208	AreaF_Elevator6_Thought4	I hope it hasn't been completely consumed by darkness by the time I arrive.
+U0209	AreaF_Elevator6_Thought5	Surely the castle would have collapsed if it had already happened...
+U0210	AreaG_Elevator7_Thought1	I've been played.
+U0211	AreaG_Elevator7_Thought2	The only thing I ever needed to do was kill that damned ghost.
+U0212	AreaG_Elevator7_Thought3	And now I've helped him become stronger!
+U0213	AreaG_Elevator7_Thought4	Every time I trust someone in this gods-forsaken world, I get burned.
+U0214	AreaG_Elevator7_Thought5	The spirit.
+U0215	AreaG_Elevator7_Thought6	Draythus.\n
+U0216	AreaG_Elevator7_Thought7	And now that stupid bear.
+U0217	AreaG_Elevator7_Thought8	I hate this....
+U0218	AreaG_Elevator7_Thought9	The worst part is that without him, there's not much I can do to avoid the demon. At least... not for long.
+U0219	AreaG_Elevator7_Thought10	...\n
+U0220	AreaG_Elevator7_Thought11	What am I going to do?
+U0221	AreaInd_Elevator1_Thought1	This place is making me nervous. It's getting more dangerous all the time.\n
+U0222	AreaInd_Elevator1_Thought2	It's impressive how long Talos has resisted…
+U0223	AreaInd_Elevator1_Thought3	Even after all this time, the people out there remain oblivious to the danger they are in.
+U0224	AreaInd_Elevator1_Thought4	I can't even imagine what would happen if the curse spread throughout the rest of the world.
+U0225	AreaInd_Elevator2_Thought1	I wonder what my parents would think of me now.\n
+U0226	AreaInd_Elevator2_Thought2	Would I seem brave to them? Reckless? Desperate?
+U0227	AreaInd_Elevator2_Thought3	I can't be completely sure....\n
+U0228	AreaInd_Elevator2_Thought4	I'd like to think they would be proud.
+U0229	AreaInd_Elevator2_Thought5	Any bravery I have came from them.
+U0230	AreaInd_Elevator3_Thought1	My arms and knees are starting to ache.
+U0231	AreaInd_Elevator3_Thought2	Running around this castle is taking a toll on me. \n
+U0232	AreaInd_Elevator3_Thought3	There's no time for weakness, but I wish I could catch my breath.
+U0233	AreaInd_Elevator3_Thought4	Just for a second...
+U0234	AreaInd_Elevator4_Thought1	Playing the piano again was... nice.
+U0235	AreaInd_Elevator4_Thought2	I hadn't played since my mother's last birthday.
+U0236	AreaInd_Elevator4_Thought3	I had forgotten what it felt like.
+U0237	AreaInd_Elevator4_Thought4	It takes me back to that moment. Comforting her with music in her last moments.
+U0238	AreaInd_Elevator4_Thought5	It's as if I can still hear her trying to sing along...
+U0239	AreaInd_Elevator5_Thought1	The armor I have found is incredible...
+U0240	AreaInd_Elevator5_Thought2	Whoever created it was a master of their craft.
+U0241	AreaInd_Elevator5_Thought3	It would be dangerous for it to fall into the wrong hands.
+U0242	AreaInd_Elevator6_Thought1	I wonder what happened to all those brave souls who came here before me.
+U0243	AreaInd_Elevator6_Thought2	Could they still be here? Fighting?\n
+U0244	AreaInd_Elevator6_Thought3	Maybe I'll cross paths with one.
+U0245	AreaInd_Elevator6_Thought4	Or maybe they all died trying to do the same thing as me.
+U0246	AreaInd_Elevator7_Thought1	I recall my father speaking of the skills of master blacksmiths, but none of them sound like Master Hibino. 
+U0247	AreaInd_Elevator7_Thought2	I wonder where he learned his craft.
+U0248	AreaInd_Elevator7_Thought3	Perhaps it was a divine gift he was born with.
+U0249	AreaInd_Elevator7_Thought4	If the first knights that entered Talos had received his help, could the curse have been stopped sooner?
+U0250	AreaInd_Elevator8_Thought1	I remember the day I received my dress and halberd.
+U0251	AreaInd_Elevator8_Thought2	I wanted to do something with them. I wanted to accomplish something.
+U0252	AreaInd_Elevator8_Thought3	I wanted to honor my parents.
+U0253	AreaInd_Elevator8_Thought4	But this?
+U0254	AreaInd_Elevator8_Thought5	I never could have imagined it, at least not at the time.
+U0255	AreaInd_Elevator8_Thought6	But now it seems... as if it was always meant to be.
+U0256	AreaInd_Elevator9_Thought1	I never had many friends...
+U0257	AreaInd_Elevator9_Thought2	This castle seems like the last place I'd start meeting people...
+U0258	AreaInd_Elevator9_Thought3	Yet now may be as good a time as any to start...
+U0259	AreaInd_Elevator9_Thought4	…just to have someone who can remember me when I'm gone.
+U0260	AreaInd_Elevator10_Thought1	What a glorious place this castle must have been before the curse.
+U0261	AreaInd_Elevator10_Thought2	All these beautiful hallways and windows...
+U0262	AreaInd_Elevator10_Thought3	...the detailed engravings with centuries of history…
+U0263	AreaInd_Elevator10_Thought4	And now they are just withering away.\n
+U0264	AreaInd_Elevator10_Thought5	This place deserved a better fate.
+U0265	AreaInd_Elevator11_Thought1	I wish I could sleep at night the way I used to.
+U0266	AreaInd_Elevator11_Thought2	I miss my home... my bed...
+U0267	AreaInd_Elevator11_Thought3	I felt so safe within those walls.
+U0268	AreaInd_Elevator11_Thought4	The warmth of the fireplace and its gentle light...
+U0269	AreaInd_Elevator11_Thought5	And my mother singing me to sleep...\n
+U0270	AreaInd_Elevator12_Thought1	...\n
+U0271	UpgradeScreen_Europa_Title	Europa
+U0272	UpgradeScreen_Europa_Tutorial	Move Europa with {{0}}. Hold {{1}} to jump. Press {{2}} to perform a Quick Attack, or {{3}} to perform a Strong Attack. Performing multiple attacks in rapid succession to execute a combo and deal additional damage to enemies.
+U0273	UpgradeScreen_Europa_Lore	A young warrior, orphaned by the curse, who has come to Talos' Castle to bring an end to the darkness. She was rigorously trained to use her family's ancestral Halberd and has become a capable fighter with it.
+U0274	UpgradeScreen_Zeus_Title	Grace of Zeus
+U0275	UpgradeScreen_Zeus_Tutorial	Europa will deal electrical-elemental damage when attacking with the Grace of Zeus equipped. Water-based enemies will take additional damage. Some switches may be activated by striking them with electrical attacks.
+U0276	UpgradeScreen_Zeus_Lore	An electrical ability granted to the worthy to aid combat and exploration.
+U0277	UpgradeScreen_Auriel_Title	Grace of Auriel
+U0278	UpgradeScreen_Auriel_Tutorial	Europa will deal Light-elemental damage when attacking with the Grace of Auriel equipped. Darkness-based enemies may be damaged with light attacks, and water-based enemies may take additional damage from light attacks.
+U0279	UpgradeScreen_Auriel_Lore	Divine raiment endowed with holy power. Illuminate and purify the way while facing the most corrupted enemies.
+U0280	UpgradeScreen_Poseidon_Title	Poseidon Armor
+U0281	UpgradeScreen_Poseidon_Tutorial	Europa will deal water-elemental damage when attacking with the Poseidon Armor equipped. Fire-based enemies will take additional damage.
+U0282	UpgradeScreen_Poseidon_Lore	Majestic armor that channels the power of water.
+U0283	UpgradeScreen_Gaia_Title	Gaia Armor
+U0284	UpgradeScreen_Gaia_Tutorial	Europa will deal earth-elemental damage when attacking with the Gaia Armor equipped. Electric-based enemies will take additional damage.
+U0285	UpgradeScreen_Gaia_Lore	Nature-born armor that channels the power of earth.
+U0286	UpgradeScreen_Helios_Title	Helios Armor
+U0287	UpgradeScreen_Helios_Tutorial	Europa will deal fire-elemental damage when attacking with the Helios Armor equipped. Earth-based enemies will take additional damage.
+U0288	UpgradeScreen_Helios_Lore	Fierce armor that harnesses the power of fire.
+U0289	UpgradeScreen_Iris_Title	Iris Dash
+U0290	UpgradeScreen_Iris_Tutorial	Press {{1}} to activate a glide that increases Europa's movement speed. Press {{1}} again to deactivate. While Europa is using the Iris Dash enemies will take damage from touching her.
+U0291	UpgradeScreen_Iris_Lore	A divine ability that allows Europa to emit and glide on holy energy, protecting her from weak adversaries.
+U0292	UpgradeScreen_Siren_Title	Siren Form
+U0293	UpgradeScreen_Siren_Tutorial	Press {{0}} while underwater to transform Europa into a mermaid. Performing an underwater dash attack with {{1}} increases your speed and will damage enemies.
+U0294	UpgradeScreen_Siren_Lore	A magical blessing to the Poseidon Armor born from the ancient songs of the Amfibis tribe.
+U0295	UpgradeScreen_Serpent_Title	Serpent Form
+U0296	UpgradeScreen_Serpent_Tutorial	Press {{0}} while Europa is near a tunnel entrance to transform into Serpent Form and enter the tunnel.  Press {{1}} while in Serpent Form to place a bomb. After a brief moment it will explode and damage nearby objects.
+U0297	UpgradeScreen_Serpent_Lore	Magical runes infused into the Gaia Armor that grant it the ability to navigate the tunnel network the Pethiko tribe created to protect themselves from predators.
+U0298	UpgradeScreen_Phoenix_Title	Phoenix Form
+U0299	UpgradeScreen_Phoenix_Tutorial	Press {{0}} while Europa is in a heat current to begin gliding. Press {{0}} again to deactivate. Gliding on particularly warm heat currents will propel Europa upwards. While in Phoenix Form Europa may trigger a burst of fire with {{1}}. If activated near enemies or other targets Europa will be launched upwards and recover her ability to jump again in mid-air.
+U0300	UpgradeScreen_Phoenix_Lore	An ancient ritual from the Capra granted their armor the ability to not only resist the heat of the furnaces within Talos, but safely glide upon it.
+U0301	UpgradeScreen_Backdash_Title	Pernix Evasion
+U0302	UpgradeScreen_Backdash_Tutorial	Press {{0}} to perform a defensive backwards dash.
+U0303	UpgradeScreen_Backdash_Lore	A swift step back to avoid a hit or prepare an attack.
+U0304	UpgradeScreen_PowerAttack_Title	Whirlwind Strike
+U0305	UpgradeScreen_PowerAttack_Tutorial	Hold {{0}} to charge up a powerful Whirlwind Strike, and release to perform the attack either in the air or on the ground.
+U0306	UpgradeScreen_PowerAttack_Lore	A magical blessing from Talos giving Europa the ability to focus energy into her Halberd and release it at will.
+U0307	UpgradeScreen_DoubleJump_Title	Pegasus Feather
+U0308	UpgradeScreen_DoubleJump_Tutorial	Press {{0}} while in midair to jump a second time.
+U0309	UpgradeScreen_DoubleJump_Lore	A magical blessing from Talos allowing Europa to propel herself upwards by directing the air around her.
+U0310	UpgradeScreen_DiveKick_Title	Olympian Dive
+U0311	UpgradeScreen_DiveKick_Tutorial	Perform a powerful kick during a double jump by pressing {{0}} and pushing {{1}} in the desired direction. Each time Europa successfully strikes a target with a kick she will be able to perform another jump and kick attack.
+U0312	UpgradeScreen_DiveKick_Lore	A magical blessing from Talos that helps Europa redirect her body's momentum at will.
+U0313	UpgradeScreen_LightBlast_Title	Aura Burst
+U0314	UpgradeScreen_LightBlast_Tutorial	Press {{0}} to unleash a devastating light blast.
+U0315	UpgradeScreen_LightBlast_Lore	A unique and pure magical force that allows Europa to concentrate tremendous energy and radiate it as holy light.
+U0316	UpgradeScreen_Lullaby_Title	Lullaby
+U0317	UpgradeScreen_Lullaby_Tutorial	When the light bar is empty Europa may hug Apino by holding {{0}} to restore some of it. When Europa is attacked, a portion of the light bar will be consumed to protect her.
+U0318	UpgradeScreen_Lullaby_Lore	Magical healing energy that passes back and forth between Europa and Apino.
+U0319	UpgradeScreen_ApinoShoot_Title	Blast of Belial
+U0320	UpgradeScreen_ApinoShoot_Tutorial	Aim Apino with {{1}} to lock onto specific targets and fire a powerful magical projectile by pressing {{0}}. A portion of the magic bar is consumed with every shot.
+U0321	UpgradeScreen_ApinoShoot_Lore	Concentrated light magic that Apino uses to aid and protect himself and Europa.
+U0322	UpgradeScreen_QuickHeal_Title	Radical Acceptance
+U0323	UpgradeScreen_QuickHeal_Tutorial	Europa will have a brief opportunity to recharge her light bar the moment after it is completely depleted. Press {{0}} when the green bar reaches the highlighted area to fully restore the magic bar.
+U0324	UpgradeScreen_QuickHeal_Lore	A restorative technique that allows Europa to accept and reabsorb magical energy as it leaves her body.
+U0325	UpgradeScreen_UpgradeShot_Title	Horn of Belial
+U0326	UpgradeScreen_UpgradeShot_Tutorial	Apino's projectile attacks are even more powerful and may now destroy reinforced crystalline barriers.
+U0327	UpgradeScreen_UpgradeShot_Lore	An expression of Apino's light magic, strengthened by half-awakened memories.
+U0328	UpgradeScreen_Uppercut_Title	Fist of Belial
+U0329	UpgradeScreen_Uppercut_Tutorial	Aim Apino with {{0}} to lock onto a switch, then press {{1}} to perform a ranged uppercut.
+U0330	UpgradeScreen_Uppercut_Lore	An expression of Apino's light magic inspired by feelings of hope.
+U0331	UpgradeScreen_Wallshot_Title	Claws of Belial
+U0332	UpgradeScreen_Wallshot_Tutorial	Apino's projectiles will travel alongside the surface they hit and travel on it, striking additional targets.
+U0333	UpgradeScreen_Wallshot_Lore	An expression of Apino's light magic inspired by despair, latching on to whatever it strikes.
+U0334	UpgradeScreen_Boomerang_Title	Fang of Belial
+U0335	UpgradeScreen_Boomerang_Tutorial	Apino's projectile attacks will generate a secondary boomerang-like projectile when they strike an enemy. The secondary projectile is powerful, may hit multiple targets, and will travel through hard surfaces.
+U0336	UpgradeScreen_Boomerang_Lore	An expression of Apino's light magic inspired by lingering memories, allowing it to change form and return.
+U0337	Tutorial_Jump	Hold {{0}} to jump
+U0338	Tutorial_Fight_1	Press {{0}} + {{0}} + {{0}} to perform a combo
+U0339	Tutorial_Fight_2	Press {{0}} at the end of a combo to deal extra damage
+U0340	Tutorial_Platform_DropDown	Press {{0}} and {{1}} while standing on a platform to drop down
+U0341	Tutorial_Break_Wall	Cracked walls can be destroyed with repeated attacks
+U0342	Tutorial_Hug	Hold
+U0343	Tutorial_Magic_Depleted	To recharge the light bar use the Lullaby or defeat an enemy
+U0344	Tutorial_Pew_Pew	Aim Apino with {{0}} to lock onto specific targets and press {{1}} to fire
+U0345	Tutorial_Shield	Damaging enemies slowly regenerate the light bar, provided it has not emptied
+U0346	Tutorial_Magic_Regen	Damaging enemies slowly regenerates the light bar, provided it has not emptied
+U0347	Tutorial_Map	Pause the game with {{0}} to examine your map
+U0348	Tutorial_Pew_Pew_Enemies	Some enemies are only vulnerable to Apino's light projectiles
+U0349	Tutorial_Crouch	Hold {{0}} down to crouch and attack with {{1}}
+U0350	Tutorial_Blocker	Some gates are sealed shut. Destroying a cluster of dark crystals may open them
+U0351	Tutorial_Breakables	Some objects can be smashed to earn money or regenerate your light bar
+U0352	Tutorial_Dodge	Press {{0}} to perform a backward dash
+U0353	Tutorial_Combo	Europa's attacks will do more damage when performed in combination
+U0354	Tutorial_Enemy_Shield	Some enemies have shields that will protect them from incoming attacks
+U0355	Tutorial_Shield_Weakness	Some shields are bypassed by certain elements
+U0356	Tutorial_Resistance	Some enemies are resistant to damage from certain elements
+U0357	Tutorial_Elevator	A quick travel point for this elevator may be unlocked by activating the nearby switch
+U0358	Tutorial_Poison	Europa is taking poison damage
+U0359	Tutorial_Burning	Europa is taking heat damage
+U0360	Tutorial_Dark_Resistance	Dark crystals can only be destroyed with light
+U0361	Tutorial_Switch	Gates are opened or closed by toggling nearby switches
+U0362	Tutorial_Generator	Generators can activate nearby elevators and doors
+U0363	Tutorial_Small_Elevator_Switch	Elevators can be powered on by charging nearby generators
+U0364	Tutorial_Siren_Dash	Press {{0}} while in Siren Form to perform a dash attack
+U0365	Tutorial_Phoenix_Bounce	Press {{0}} while hovering in Phoenix Form to emit a blast
+U0366	Tutorial_Serpent_Bomb	Press {{0}} while in Serpent Form to place a bomb
+U0367	Tutorial_Gaia_Tunnel	Press {{0}} near a tunnel to transform into Serpent form
+U0368	Tutorial_Auto_Armor	When entering an area that requires a specific armor, Europa will automatically switch to it
+U0369	Tutorial_Kaboom	Hold {{0}} to charge up a powerful light attack
+U0370	Tutorial_Magic_Auto_Regen	Europa's light will now automatically regenerate regardless of the armor she is using
+U0371	Tutorial_Zombies	Some enemies will continue to respawn as long as the curse persists
+U0372	Tutorial_Upgrade_Zeus_Charged_Attack_Slide	Zeus’ Whirlwind Strike unleashes greater force with a unique electric range. Hold {{0}} to charge up the attack.
+U0373	Tutorial_Upgrade_Poseidon_Charged_Attack_Slide	Poseidon’s Whirlwind Strike unleashes greater force with a unique aquatic range. Hold {{0}} to charge up the attack.
+U0374	Tutorial_Upgrade_Gaia_Charged_Attack_Slide	Gaia’s Whirlwind Strike unleashes greater force with a unique thorny range. Hold {{0}} to charge up the attack.
+U0375	Tutorial_Upgrade_Helios_Charged_Attack_Slide	Helios’ Whirlwind Strike unleashes greater force with a unique scorching range. Hold {{0}} to charge up the attack.
+U0376	Tutorial_Upgrade_Auriel_Charged_Attack_Slide	Auriel’s Whirlwind Strike unleashes greater force with a unique light range. Hold {{0}} to charge up the attack.
+U0377	Tutorial_Upgrade_HibinoGeneral_Charged_Attack_Slide	Elemental variations of the Whirlwind Strike become available when upgrading armor with Hibino.
+U0378	Tutorial_Whirlwind_Title	Whirlwind Strike
+U0379	Tutorial_Upgrade_Charged_Attack_Title	Upgraded Whirlwind Strike
+U0380	Tutorial_Whirlwind_Slide1	Hold {{0}} to charge up a powerful Whirlwind Strike, and release to perform the attack either in the air or on the ground.
+U0381	Tutorial_Zeus_Title	Grace of Zeus
+U0382	Tutorial_Zeus_Subtitle	YOU HAVE OBTAINED THE <b>GRACE OF ZEUS</b>
+U0383	Tutorial_Zeus_Slide1	Attacks now deal electrical damage.
+U0384	Tutorial_Zeus_Slide2	Europa may now activate yellow switches.
+U0385	Tutorial_Zeus_Slide3	Matching enemy outlines with Europa's elemental armor deals additional damage\nand can bypass shields.
+U0386	Alert_Elevator	The main elevator has been activated
+U0387	Tutorial_Elevator_Title	Main Elevator
+U0388	Tutorial_Elevator_Slide2	Activating the elevator control switch in new locations will add them to the list of destinations the elevator can access
+U0389	Tutorial_ArmorPieces_Title	Ancient Fragment
+U0390	Tutorial_ArmorPieces_Slide1	Ancient Fragments can be exchanged to enhance Europa's elemental armor.
+U0391	Tutorial_QuickHeal_Title	Radical Acceptance
+U0392	Tutorial_QuickHeal_Slide1	Europa may quickly recharge her light bar after it depletes completely.
+U0393	Tutorial_QuickHeal_Slide2	Press {{0}} when the green line reaches the highlighted area to fully restore your light bar.
+U0394	Tutorial_Poseidon_Title	Poseidon Armor
+U0395	Tutorial_Poseidon_Subtitle	YOU HAVE OBTAINED THE <b>POSEIDON ARMOR</b>
+U0396	Tutorial_Poseidon_Slide1	Europa may now move freely underwater and perform water-elemental attacks.
+U0397	Tutorial_Poseidon_Slide2	Europa may now activate blue switches.
+U0398	Tutorial_Poseidon_Slide3	Matching enemy outlines with Europa's elemental armor deals additional damage\nand can bypass shields.
+U0399	Tutorial_Poseidon_Slide4	Switch between armors with {{0}} and {{1}}
+U0400	Tutorial_Change_Armor	Switch armors with {{0}} and {{1}}
+U0401	Tutorial_Siren_Title	Siren Form
+U0402	Tutorial_Siren_Slide1	Press {{0}} while underwater to transform Europa into a mermaid.
+U0403	Tutorial_Siren_Slide2	Performing a charged attack with {{0}} increases your speed underwater and will damage enemies.
+U0404	Tutorial_Gaia_Title	Gaia Armor
+U0405	Tutorial_Gaia_Subtitle	YOU HAVE OBTAINED THE <b>GAIA ARMOR</b>
+U0406	Tutorial_Gaia_Slide1	Europa now resists poison and may perform earth-elemental attacks.
+U0407	Tutorial_Gaia_Slide2	Europa may now activate green switches.
+U0408	Tutorial_Gaia_Slide3	Matching enemy outlines with Europa's elemental armor deals additional damage\nand can bypass shields.
+U0409	Tutorial_Gaia_Slide4	Switch between armors with {{0}} and {{1}}
+U0410	Tutorial_Serpent_Title	Serpent Form
+U0411	Tutorial_Serpent_Slide1	Press {{0}} when Europa is near a tunnel to transform into Serpent Form and access it.
+U0412	Tutorial_Serpent_Slide2	Press {{1}} to place a bomb. It will explode after a moment and damage nearby objects.
+U0413	Tutorial_Serpent_Slide3	Europa may exit a tunnel by moving towards any opening. If she encounters another tunnel entrance near her, she may instantly enter it in one fluid motion.
+U0414	Tutorial_Helios_Title	Helios Armor
+U0415	Tutorial_Helios_Subtitle	YOU HAVE OBTAINED THE <b>HELIOS ARMOR</b>
+U0416	Tutorial_Helios_Slide1	Europa now resists high temperatures and may perform fire-elemental attacks.
+U0417	Tutorial_Helios_Slide2	Europa may now activate red switches.
+U0418	Tutorial_Helios_Slide3	Matching enemy outlines with Europa's elemental armor deals additional damage\nand can bypass shields.
+U0419	Tutorial_Helios_Slide4	Switch between armors with {{0}} and {{1}}
+U0420	Tutorial_Phoenix_Title	Phoenix Form
+U0421	Tutorial_Phoenix_Slide1	Press {{0}} while in a heat current to begin gliding. Press {{0}} again to deactivate. Gliding on strong heat currents will propel Europa upwards.
+U0422	Tutorial_Phoenix_Slide2	While in Phoenix Form Europa may trigger a burst of fire with {{1}} or {{0}}. If used near enemies or other targets, she will be launched upwards and recover the ability to jump again.
+U0423	Tutorial_Phoenix_Slide3	Europa may easily change into Serpent or Siren form from this state.
+U0424	Tutorial_Auriel_Title	Grace of Auriel
+U0425	Tutorial_Auriel_Subtitle	YOU HAVE OBTAINED THE <b>GRACE OF AURIEL</b>
+U0426	Tutorial_Auriel_Slide1	Attacks now deal light damage.
+U0427	Tutorial_Auriel_Slide2	Europa may now activate dark and electrical switches.
+U0428	Tutorial_Auriel_Slide3	The light bar will now recover automatically.
+U0429	Tutorial_Auriel_Slide4	Press {{0}} to activate <b>Iris Dash</b> and destroy weaker enemies upon contact.
+U0430	Tutorial_Auriel_Slide5	Hold {{0}} to charge up the <b>Aura Blast</b>, a powerful burst of light. Release {{0}} to deal light damage and activate dark switches from afar.
+U0431	Tutorial_Iris_Title	Iris Dash
+U0432	Tutorial_Iris_Slide1	Press {{0}} to activate a glide that increases your speed. Press {{0}} again to deactivate.
+U0433	Tutorial_Iris_Slide2	While using Iris Dash, enemies will take damage upon contact.
+U0434	Tutorial_MegaBlast_Title	Aura Burst
+U0435	Tutorial_MegaBlast_Slide1	Hold {{0}} to charge up a powerful light attack. Release {{0}} to unleash a massive blast of light.
+U0436	Tutorial_MegaBlast_Slide2	This blast can damage all items and targets vulnerable to Apino's attacks.
+U0437	Tutorial_DoubleJump_Title	Pegasus Feather
+U0438	Tutorial_DoubleJump_Slide1	Press {{0}} while midair to jump a second time.
+U0439	Tutorial_DiveKick_Title	Olympian Strike
+U0440	Tutorial_DiveKick_Slide1	Perform a powerful kick during a double jump by pressing {{0}} and moving {{1}} in the desired direction.
+U0441	Tutorial_DiveKick_Slide2	After successfully striking a target with a kick, Europa may perform another jump and kick again.
+U0442	Tutorial_ApinoUppercut_Title	Fist of Belial
+U0443	Tutorial_ApinoUppercut_Slide1	Aim Apino with {{0}} to lock onto a switch, then press {{1}} to perform a ranged uppercut.
+U0444	Tutorial_ApinoWallshot_Title	Claws of Belial
+U0445	Tutorial_ApinoWallshot_Slide1	Apino's projectiles will travel alongside the surface they hit and travel on it, striking additional targets.
+U0446	Tutorial_ApinoBoomerang_Title	Fang of Belial
+U0447	Tutorial_ApinoBoomerang_Slide1	Apino's projectiles will generate a secondary boomerang-like projectile when they strike an enemy.
+U0448	Tutorial_ApinoBoomerang_Slide2	The secondary boomerang projectile is powerful, may hit multiple targets, and will travel through hard surfaces without stopping.
+U0449	Tutorial_ApinoUpgradeShot_Title	Horn of Belial
+U0450	Tutorial_ApinoUpgradeShot_Slide1	Apino's projectile attacks are now more powerful and may destroy reinforced dark crystal barriers.
+U0451	Alert_Health_Upgraded	Vitality Increased
+U0452	Alert_Magic_Upgraded	Light bar Capacity Increased
+U0453	Alert_Electric_Upgraded	Electric Elemental Power Increased
+U0454	Alert_Light_Upgraded	Light Elemental Power Increased
+U0455	Alert_Water_Upgraded	Water Elemental Power Increased
+U0456	Alert_Earth_Upgraded	Earth Elemental Power Increased
+U0457	Alert_Fire_Upgraded	Fire Elemental Power Increased
+U0458	Tutorial_RedNote_Title	Red Note
+U0459	Tutorial_BlueNote_Title	Blue Note
+U0460	Tutorial_RelicDiscovered	Relic Discovered
+U0461	Tutorial_Map_Title	Cartographer's Journal
+U0462	Tutorial_Map_Slide	Press {{0}} to access the status screen and view the map.
+U0463	Tutorial_Lullaby_Title	Lullaby
+U0464	Tutorial_Lullaby_Slide1	When the Light bar is completely empty, hold {{0}} to hug Apino and restore a portion of it. 
+U0465	Tutorial_Lullaby_Slide2	Apino provides Europa with a shield. Each time she is damaged, a portion of the light bar is consumed.
+U0466	Tutorial_ChangeWaterArmor_Switch	Press {{0}} to deactivate siren form
+U0467	Tutorial_ChangeWaterArmor_OutOfMagic	Press {{0}} to deactivate siren form and perform a lullaby
+U0468	Tutorial_ChangeWaterArmor_Fight	Press {{0}} to deactivate siren form
+U0469	Tutorial_Generator_PowerUp	Activate generators to power up elevators and other machines
+U0470	Tutorial_Slashing_RedCorruption	Slashing red corruption restores your light bar.
+U0471	Attack_Guarded	GUARD
+U0472	Attack_Resisted	GUARD
+U0473	AreaA_Geode1	One origin, one purpose:\nHost to the ancient civilizations.\nBearer of the great shrines,\nwhose mighty tribes have perished.\n\n<b>Amfibis</b>\n<b>Pethiko</b>\n<b>Capra</b>\n\n"Preserve, preserve.\nYou are a fortress."\n\nBeyond the end of the ancients came the nations:\nThe second genesis, the new burdens.\nUpon my back, I bore home and sanctuary\nfrom time beyond memory to the day of darkness.
+U0474	AreaA_Geode2	The universe was born from a sacred spell.\nHealing, divine magic:\nMusic.\n\nAnd so is the theater the greatest of rooms,\nwhere art—and by it, life—is born.\n\nFew have stood among the <b>Great Composers</b>,\nnoble guides and healers sent by the gods.\n\nAs long as music fills my theater\nmy heart and mind shall know peace.
+U0475	AreaB_Geode3	From the ocean depths\r\narose a mystical tribe.\r\n\r\nAmfibis—the lovers of beauty,\r\nprotectors of hopes and dreams,\r\nsteadfast in times of uncertainty.\r\n\r\nFrom their hands were born the rivers and waterfalls,\r\nwhich flow as lifeblood within me.\r\n\r\nTheir prayers echoed in my bones:\r\n"Protect us, divine guardian,\r\nfrom the grasp of the serpent."\r\n\r\nLoyal Amfibis:\r\nSouls pure as spring water.\r\nBeings of harmony.
+U0476	AreaC_Geode4	Pethiko—the most valiant of warriors,\r\nwho sang as one to cleanse themselves of despair.\r\n\r\nTheir tunnels stretched from sky to earth as my veins,\r\nthrough which they traveled,\r\nunder the piercing watch of the <b>many-eyed bird</b>\r\nwhose gaze they fled.\r\n\r\nAgile, intelligent, fertile.\r\nDefenders.\r\nLovers of nature.\r\nAt home among trees.
+U0477	AreaC_Geode5	Not long ago the new kingdom\nupon my back a stronghold laid.\nThe warmth of life began to hum\nso I and castle a union made.\n\n\nWithin my hallways dwelt the young\nwith hope and sadness mixed in song.\n\n\nOne bore a deep, lasting <b>sorrow</b>.\n\nArms raised high, he stole away.\nHis weeping before daylight stirred.\nStained bright moon and stilled blessed word.\n\n\nThe shadows claimed my inner flame.\nThe curse's triumph now made claim,\nto blackened sun at hollow dawn.\nIn Talos now made Abaddon.
+U0478	AreaD_Geode6	From the mountains came the Capra:\r\nthe strong and clever machinists\r\nwith their cauldrons and furnaces.\r\n\r\nThey built spiderwebs of pipes and gears,\r\nslung throughout my great heart, \r\nblasting the steam that became my pulse.\r\nThey warned of the untamable\r\nFlame of Demise, as they labored.\r\n\r\nThrough their example\r\nI learned of honor and duty.
+U0479	AreaD_Geode7	Their hearts certain, their voices sure,\nYour only task: endure.\n\n\nThe ancient people toiled as one,\nMy body the proof of their union.\nTheir hope and love for this old world\ngave purpose to the plan they spun.\n\n\n"You must contain the curse!" they cried.\nI heed their words.\nI will comply,\nuntil my last wall turns to dust.
+U0480	AreaF_Geode8	I can feel it...\r\nIn every corner, every crevice...\r\nIt spreads—this cursed plague.\r\nIt hardens my heart,\r\ndevouring the light,\r\nand stiffening the beats.\r\n\r\nI am metal, and I am stone.\r\nBut I am more.\r\nI swore an oath,\r\nI will not waver,\r\nI will not break.
+U0481	AreaF_Geode9	I am a witness.\nI remember, for I have seen\n\n\nKingdoms\nWars\nFestivals\nDeaths\nDawns\nDefeats\n\n\nThe seasons change while years repeat,\nand always live the memories:\nThe dance, the blood, the rise, and fall.\nThis I know, for I have seen it all.
+U0482	AreaE_Geode10	It arrived.\nAn absent moon.\nThe darkness from lighted past foreseen.\n\n\nWhere is the warrior?\nWhy the silence upon my stage?\nAway, away, they abandon me.\nRun! Run! The little ones fear\nthe colorless night of darkness near.\n\n\nYour only task: endure\n\n\n\n\nThey have left me.
+U0483	AreaG_Geode11	Hopes, dreams, and innocence\nLearning to aid the vulnerable\nBalms and salves\nalleviating the nightmares\n\n\nThe darkness engulfs\nThe corruption marches on\nFondness turns to hostility\n\n\nImpatience, desperation\nAnswers cannot be concocted\nUnresolved righteous prayers\n\n\n<b>How do I tell them it is too late?</b>
+U0484	AreaG_Geode12	Visits from the lonely\nThey seek a feeling they once knew\nA half-remembered closeness that eludes them\n\n<b>Sorrow</b>\nThe sinking feeling of abandonment\nAnger, sadness, then nothingness\nThe echo of love\ngrowing quiet to the ear\n\nIn the stars: comfort\nIn the sky: freedom\nIn the heart: a glimpse of something more.
+U0485	Area_name_A	Talos' Entrance
+U0486	Area_name_A_Hall	Great Hall
+U0487	Area_sub_name_A	Sector A
+U0488	Area_name_B	Forgotten Pond
+U0489	Area_sub_name_B	Sector B
+U0490	Area_name_C	Eucalyptus Garden
+U0491	Area_sub_name_C	Sector C
+U0492	Area_name_D	Capra Cauldrons
+U0493	Area_sub_name_D	Sector D
+U0494	Area_name_E	Talos’ Mind 
+U0495	Area_sub_name_E	Sector E
+U0496	Area_name_F	Talos’ Core
+U0497	Area_sub_name_F	Sector F
+U0498	Area_name_G	Upper Quarters
+U0499	Area_name_G_A	The Orphanage
+U0500	Area_name_G_B	The Kitchens
+U0501	Area_name_G_C	The Laboratory
+U0502	Area_sub_name_G	Sector G
+U0503	Area_name_H	Observatory
+U0504	Area_sub_name_H	Sector H
+U0505	Area_name_PaintB	Portrait of Hope
+U0506	Area_name_PaintC	Portrait of Despair
+U0507	Area_name_PaintD	Portrait of Demise
+U0508	Area_name_Intro	Talos' Entrance
+U0509	Area_name_SecondChase	Talos’ Mind 
+U0510	Area_name_Great_Hall	Great Hall
+U0511	Sector_F	Sector F
+U0512	Sector_E	Sector E
+U0513	Sector_A	Sector A
+U0514	Sector_G	Sector G
+U0515	Sector_H	Sector H
+U0516	NewElevator	New
+U0517	Area_Painting	Portait
+U0518	Cabin_Area_A_1	Talos' Entrance
+U0519	Cabin_Area_B_1	Forgotten Pond
+U0520	Cabin_Area_C_1	West Garden
+U0521	Cabin_Area_C_2	East Garden
+U0522	Cabin_Area_D_1	Capra Cauldrons
+U0523	Cabin_Area_F_1	West Core
+U0524	Cabin_Area_F_2	East Core
+U0525	Cabin_Area_G_A_1	The Orphanage
+U0526	Cabin_Area_G_B_1	The Kitchens
+U0527	Cabin_Area_G_C_1	West Wing
+U0528	Cabin_Area_G_C_2	East Wing
+U0529	Cabin_Area_H_1	Observatory
+U0530	Quest_Accepted	quest accepted
+U0531	Quest_Updated	quest updated
+U0532	Quest_Completed	quest completed
+U0533	Quest_Reward	LIGHT FRAGMENT OBTAINED
+U0534	Reward_Quest_1	Light Fragment
+U0535	Quest_Name_Wynton	The Path to Bravery
+U0536	Quest_Name_Bebel	A Distant Growl
+U0537	Quest_Name_Maya	A Treasure of Old
+U0538	Quest_Name_Sahara	Portrait of Innocence
+U0539	Quest_Name_Nahre	Fleeting Music
+U0540	Quest_Name_Louis	Persecuted Percussionist
+U0541	Quest_First_Name_Director	The Lost Orchestra
+U0542	Quest_Second_Name_Director	The Opening Night
+U0543	Quest_Status_InProgress_Wynton	Destroy the Dwarven Guard that terrifies Wynton in the south of The Great Hall.
+U0544	Quest_Status_InProgress_Bebel	Investigate the strange growl somewhere in the Forgotten Pond. 
+U0545	Quest_Status_InProgress_Maya	Find out who is causing trouble in the Eucalyptus Garden and stop them.
+U0546	Quest_Status_InProgress_Sahara	Explore Capra Cauldrons and get rid of the enemies Sahara told you about.
+U0547	Quest_Status_InProgress_Louis	Defeat the monsters in the Talos Core before Louis volunteers to act as monster bait.
+U0548	Quest_Status_InProgress_Nahre	Look for the renegades that roam the Upper Quarters.
+U0549	Quest_Second_Status_InProgress_Director	Discover the source of everyone's nightmares on the east side of the Upper Quarters. 
+U0550	Quest_First_Status_InProgress_Director	Find all of Director Kondor's musicians scattered around Talos.
+U0551	Quest_Status_TargetsCompleted_Wynton	Return to the theatre and talk to Wynton.
+U0552	Quest_Status_TargetsCompleted_Bebel	Return to the theater and talk to Bebel.
+U0553	Quest_Status_TargetsCompleted__Maya	Return to the theater and talk to the viola player.
+U0554	Quest_Status_TargetsCompleted_Sahara	Return to the theater and talk to Sahara.
+U0555	Quest_Status_TargetsCompleted_Nahre	Return to the theater and talk to Nahre
+U0556	Quest_Status_TargetsCompleted_Louis	Return to the theater and talk to Louis.
+U0557	Quest_Status_TargetsCompleted_Director	Return to the theater and talk to the Director Kondor.
+U0558	Quest_Status_Completed_Wynton	Mission Completed
+U0559	Quest_Status_Completed_Bebel	Mission Completed
+U0560	Quest_Status_Completed_Maya	Mission Completed
+U0561	Quest_Status_Completed_Sahara	Mission Completed
+U0562	Quest_Status_Completed_Nahre	Mission Completed
+U0563	Quest_Status_Completed_Louis	Mission Completed
+U0564	Quest_Status_Completed_Director	Mission Completed
+U0565	Quest_PortalReturn	LAMENT LIFTED
+U0566	Boss_Name_TantalousRoach	Tantalus Roach
+U0567	Boss_Name_ShadowOfHope	Shadow of Hope
+U0568	Boss_Name_AndrosMask	Mask of Andros
+U0569	Boss_Name_ShadowOfDespair	Shadow of Despair
+U0570	Boss_Name_HekateTrick	Hekate's Illusion
+U0571	Boss_Name_ShadowDemise	Shadow of Demise
+U0572	Boss_Name_LocrianSentinel	Locrian Sentinel
+U0573	Boss_Name_HeartOfTalos	Heart of Talos
+U0574	Boss_Name_LogonDuck	Logon Duck
+U0575	Status_Quest_Title	Quest
+U0576	Status_Counter_Title	Counter
+U0577	Status_Upgrades_Title	Upgrades
+U0578	Status_Armors_Title	Armor
+U0579	Status_Settings_Title	Settings
+U0580	Status_Apino_Title	Apino
+U0581	Status_Map_Title	Map
+U0582	Status_Description_Title	Description
+U0583	Status_Settings_Bestiary	Bestiary
+U0584	Status_Settings_GameSettings	Game Settings
+U0585	Status_Settings_Continue	Continue
+U0586	Status_Settings_Exit	Exit to title screen
+U0587	Status_Map_SaveRoom	Save Room
+U0588	Status_Map_Hermess	Hermes Express
+U0589	Status_Map_TransitionRoom	Transition Room
+U0590	Status_Map_Theatre	Theater
+U0591	Status_Map_Workshop	Workshop
+U0592	Status_Map_HeatRoom	Heat Room
+U0593	Status_Map_WaterRoom	Water Room
+U0594	Status_Map_PoisonRoom	Poison Room
+U0595	Status_Map_Generators	Generators
+U0596	Status_Map_Btn_ShowMarker	Show Legend
+U0597	Status_Map_Btn_ZoomIn	Zoom In
+U0598	Status_Map_Btn_ZoomOut	Zoom Out
+U0599	Status_Map_Btn_MoveMap	Move Map
+U0600	Status_Map_Btn_CenterMap	Center Map
+U0601	GameSettings_Title_MainSettings	Settings
+U0602	GameSettings_Title_GameTab	Game
+U0603	GameSettings_Title_AccessibilityTab	Accessibility
+U0604	GameSettings_Title_AudioTab	Audio
+U0605	GameSettings_Title_VideoTab	Video
+U0606	GameSettings_GameTab_Language	Language
+U0607	GameSettings_GameTab_ShowTips	Show Tips
+U0608	GameSettings_AccesibilityTab_Vibration	Control Vibration
+U0609	GameSettings_AccesibilityTab_CameraShake	Camera Shake
+U0610	GameSettings_AccesibilityTab_TextSpeed	Text Speed
+U0611	GameSettings_AudioTab_SFXSound	SFX Volume
+U0612	GameSettings_AudioTab_Music	Music Volume
+U0613	GameSettings_VideoTab_Resolution	Resolution
+U0614	GameSettings_VideoTab_WindowMode	Window Mode
+U0615	GameSettings_Title_ControlSettings	Control Settings
+U0616	GameSettings_GameTab_NumericDamageFeedback	Number damage feedback
+U0617	GameSettings_VideoTab_FPS	FPS
+U0618	Bestiary_Name_UmbraBat	Umbra Bat
+U0619	Bestiary_Description_UmbraBat_Neutral	Bats were the former tenants of Talos' towers that lurked in the darkest corners. They were never particularly friendly, but now, if you dare cross their path, they will certainly attack.
+U0620	Bestiary_Name_Ulf	Ulf
+U0621	Bestiary_Description_Ulf_Neutral	Coming from the White Lands, he is the last descendant of his tribe and protector of his legacy. This wild viking entered Talos in search of new lands and offerings for the goddess Hel.
+U0622	Bestiary_Name_Leno	Lenoattack
+U0623	Bestiary_Description_Leno_Neutral	This beast, spoken of in nursery rhymes and folklore, has burrowed into the depths of Talos; attracted to the curse but unaffected by it. It does not allow anyone to approach its territory, much less touch its most cherished treasure: garbage.
+U0624	Bestiary_Name_BoltGuardOfTalos	Bolt Guard of Talos
+U0625	Bestiary_Description_BoltGuardOfTalos_Electric	The castle's most elite warrior, the Bolt Guard of Talos is a relentless, gigantic soldier who never lets wanderers pass into the rooms he protects. Beware his dangerous dashing attacks!
+U0626	Bestiary_Name_GuardOfTalos	Guard of Talos
+U0627	Bestiary_Description_GuardOfTalos_Neutral	The castle's most elite warrior, the Guard of Talos is a relentless, gigantic soldier who never lets wanderers pass into the rooms he protects. 
+U0628	Bestiary_Name_FlimaKeeper	Flima Keeper 
+U0629	Bestiary_Description_FlimaKeeper_Fire	One of Talos' most agile fighters, born from the claws of the corruption. Her high affinity to fire makes her weapon move at blinding speed.
+U0630	Bestiary_Name_VlimaKeeper	Vlima Keeper 
+U0631	Bestiary_Description_VlimaKeeper_Neutral	One of Talos' most agile fighters, born from the claws of the corruption. Her weapon, a hand-crafted boomerang, is made from the bones of her prey.
+U0632	Bestiary_Name_GlimaKeeper	Glima Keeper 
+U0633	Bestiary_Description_GlimaKeeper_Earth	One of Talos' most agile fighters, born from the claws of the corruption. The time she spent in nature allows her weapon to move as if of its own will.
+U0634	Bestiary_Name_Mikros	Mikros
+U0635	Bestiary_Description_Mikros_Earth	An unassuming little creature that mindlessly jumps its days away. Mikros prefer enclosed, earthy spaces to nest and build their colonies.
+U0636	Bestiary_Name_DarkDoulos	Dark Doulos
+U0637	Bestiary_Description_DarkDoulos_Darkness	Once brave defenders of Talos, these loyal servants now hunt the ones they once protected. The most corrupted among them are immune to almost all attacks, only vulnerable to pure light.
+U0638	Bestiary_Name_DuolosWatcher	Doulos Watcher
+U0639	Bestiary_Description_DuolosWatcher_Neutral	Once brave defenders of Talos, these loyal servants now hunt the ones they once protected. This brutish variant will attempt to rend its prey apart with its clawed hands.
+U0640	Bestiary_Name_BlazingDoulos	Blazing Doulos
+U0641	Bestiary_Description_BlazingDoulos_Fire	Once brave defenders of Talos, these loyal servants now hunt the ones they once protected. This variant has an explosive core.
+U0642	Bestiary_Name_SwampingDoulos	Swamp Doulos
+U0643	Bestiary_Description_SwampingDoulos_Water	Once brave defenders of Talos, these loyal servants now hunt the ones they once protected. This variant patrols the depths of the waters.
+U0644	Bestiary_Name_RootingDoulos	Rooting Doulos
+U0645	Bestiary_Description_RootingDoulos_Earth	Once brave defenders of Talos, these loyal servants now hunt the ones they once protected. This variant prefers quick, darting strikes.
+U0646	Bestiary_Name_DrowningDoulos	Drowning Doulos
+U0647	Bestiary_Description_DrowningDoulos_Water	Once brave defenders of Talos, these loyal servants now hunt the ones they once protected. This variant will suddenly rush at anything it sees as a threat.
+U0648	Bestiary_Name_DoulosSentinel	Doulos Sentinel
+U0649	Bestiary_Description_DoulosSentinel_Neutral	Once brave defenders of Talos, these loyal servants now hunt the ones they once protected. The ever-vigilant sentinels now patrol from above, their aim impeccable.
+U0650	Bestiary_Name_RockVlastor	Rock Vlastor
+U0651	Bestiary_Description_RockVlastor_Earth	Local hunters, curious about the events unfolding inside the castle, were rewarded for their inquisitiveness by being engulfed by the curse. The first among them to succumb were buried in the earth, but the darkness continued to afflict them even after death.
+U0652	Bestiary_Name_MaelstromVlastor	Maelstrom Vlastor
+U0653	Bestiary_Description_MaelstromVlastor_Water	Local hunters, curious about the events unfolding inside the castle, were rewarded for their inquisitiveness by being engulfed by the curse. Many drowned in their attempt to escape the darkness.
+U0654	Bestiary_Name_PyroVlastor	Pyro Vlastor
+U0655	Bestiary_Description_PyroVlastor_Fire	Local hunters, curious about the events unfolding inside the castle, were rewarded for their inquisitiveness by being engulfed by the curse. Some believed the light from fire would drive back the darkness.
+U0656	Bestiary_Name_SpriteVlastor	Sprite Vlastor
+U0657	Bestiary_Description_SpriteVlastor_Electric	Local hunters, curious about the events unfolding inside the castle, were rewarded for their inquisitiveness by being completely engulfed in the corrupting power of the curse. The ones that attempted to flee remain unusually quick despite the effects of the darkness.
+U0658	Bestiary_Name_VlastorFighter	Vlastor Fighter
+U0659	Bestiary_Description_VlastorFighter_Neutral	Local hunters, curious about the events unfolding inside the castle, were rewarded for their inquisitiveness by being engulfed by the curse.  Their sacred weapons, once held dear, are now fused into their very flesh.
+U0660	Bestiary_Name_DarkVlastor	Dark Vlastor
+U0661	Bestiary_Description_DarkVlastor_Darkness	This special Vlastor variant has been completely consumed by the corruption, and no shred of their former self remains.
+U0662	Bestiary_Name_AntaeusWarrior	Antaeus Warrior
+U0663	Bestiary_Description_AntaeusWarrior_Neutral	Long ago, the Antaeus Warriors shook the ground with their very presence. Once trained to test their mettle against beasts in the glorious battle arenas, the curse turned them into beasts themselves. 
+U0664	Bestiary_Name_SpikedCarcinus	Spiked Carcinus
+U0665	Bestiary_Description_SpikedCarcinus_Darkness	Small critters that wander about the castle. They readily defend themselves by revealing sharp spikes when approached.
+U0666	Bestiary_Name_Carcinus	Carcinus
+U0667	Bestiary_Description_Carcinus_Neutral	Carcinus were once harmless creatures sneaking about in the castle's many hidden pathways. After their corruption, they now harm careless explorers.
+U0668	Bestiary_Name_GearOfErebus	Gear of Erebus
+U0669	Bestiary_Description_GearOfErebus_Neutral	This vile machine came to life due to the corruption of Talos. Tainted crystals clung to and powered the many mechanical parts discarded by Talos. 
+U0670	Bestiary_Name_TantalousRoach	Tantalous Roach
+U0671	Bestiary_Description_TantalousRoach	Legend says that monstruous beasts inhabit the deepest pits of Talos, laying dormant inside their lair. None is more lethal than the Tantalous Roach, a multi-eyed pest said to throw spikes at anyone who dares face it.
+U0672	Bestiary_Name_ShadowFiend	Shadow Fiend
+U0673	Bestiary_Description_ShadowFiend_Darkness	A product of evil, Shadow Fiends are creatures of chaos, drawn to Talos to feed on the darkness. Once spotted, wanderers will find it difficult to shake them off their trail.
+U0674	Bestiary_Name_ShadowRhino	Shadow Rhino
+U0675	Bestiary_Description_ShadowRhino_Darkness	A creature from the mountains near Talos that was pulled into the chaos of the curse. Corruption has turned its already dangerous horn into a vessel of darkness.
+U0676	Bestiary_Name_ShadowHarpy	Shadow Harpy
+U0677	Bestiary_Description_ShadowHarpy_Darkness	Inhabitants of the Forgotten Pond, the Harpies enjoy humid environments and high ceilings. Ever since the darkness took over, they await in the shadows, lingering to prey upon the vulnerable.
+U0678	Bestiary_Name_DwarvenGuard	Dwarven Guard
+U0679	Bestiary_Description_DwarvenGuard_Neutral	A dwarf as loyal to his duty as he is brutal. Patience is not one of his virtues. With his great hammer, he will smash anyone he finds suspicious.
+U0680	Bestiary_Name_XilosPaladin	Xilos Paladin
+U0681	Bestiary_Description_XilosPaladin_Neutral	Paladins once served as champions of the greatest kingdoms, renowned for their skill and strength. Consumed by darkness, they are now little more than mindless parasites.
+U0682	Bestiary_Name_DeathCarpet	Death Carpet
+U0683	Bestiary_Description_DeathCarpet_Earth	Taking advantage of all those who rarely watch their step, the Death Carpet feasts upon poor souls who enter their territory, swooping at them in explosive rage.
+U0684	Bestiary_Name_DoricSpider	Doric Spider
+U0685	Bestiary_Description_DoricSpider_Neutral	Ancient legends speak of the Doric Spiders: creatures of the shadows that hunt in groups during the night. Individually they are unimpressive, but in a swarm they can easily overwhelm their unsuspecting prey.
+U0686	Bestiary_Description_RockSpider_Earth	Ancient legends speak of the Doric Spiders: creatures of the shadows that hunt in groups during the night. This nightmarish variant is often found lurking in tunnels or just under the surface.
+U0687	Bestiary_Description_SpriteSpider_Electric	Ancient legends speak of the Doric Spiders: creatures of the shadows that hunt in groups during the night. This brutal variant is electrically charged.
+U0688	Bestiary_Description_PyroSpider_Fire	Ancient legends speak of the Doric Spiders: creatures of the shadows that hunt in groups during the night. This variant thrives in warm environments.
+U0689	Bestiary_Description_MaelstromSpider_Water	Ancient legends speak of the Doric Spiders: creatures of the shadows that hunt in groups during the night. This variant roams in places close to water, wading with their long legs. They are highly aggressive.
+U0690	Bestiary_Name_FotiaMagma	Fotia Magma
+U0691	Bestiary_Description_FotiaMagma_Fire	These rocks come from Talos' cauldrons. Extremely dangerous if handled, they reach very high temperatures.
+U0692	Bestiary_Name_IgnisBat	Ignis Bat
+U0693	Bestiary_Description_IgnisBat_Fire	The bats once nesting in Talos' towers that preferred warmer spots found their way to the cauldrons. Now they claim the place as their own.
+U0694	Bestiary_Name_MyronThrower	Myron Thrower
+U0695	Bestiary_Description_MyronThrower_Earth	This fearsome creature represents a double threat; not only is it large and agile, but it can launch small projectiles with excellent aim and strength.
+U0696	Bestiary_Name_MyronOffspring	Myron Offspring
+U0697	Bestiary_Description_MyronOffspring_Earth	Small creatures born from the back of the Myron Thrower. They are thrown at their target and move independently once they are on the ground.
+U0698	Bestiary_Name_IssaKabeer	Issa Kabeer
+U0699	Bestiary_Description_IssaKabeer_Neutral	A treasure hunter highly skilled with pistols. He wanders the world investigating legends and rumors, selling his findings to the highest bidder. He has a reputation for taking what he wants by any means necessary.
+U0700	Bestiary_Name_Link	Link
+U0701	Bestiary_Description_Link_Neutral	An assassin trained and tortured by an evil sorcerer. His mind fractured into seven unique personalities, all with the same mission: to eliminate the huntresses, faithful followers of the goddess Diana.
+U0702	Bestiary_Name_Miria	Miria
+U0703	Bestiary_Description_Miria_Neutral	Hailing from a long line of guardians, Miria became the last surviving guardian of Talos after an act of treason claimed her sister's life.  She has sworn to honor the legacy of her family by carrying on in her duties, even as the curse grows in power.
+U0704	Bestiary_Name_ElectricMedusa	Electric Medusa
+U0705	Bestiary_Description_ElectricMedusa_Electric	Lurking in the deepest pits of the Forgotten Pond, Medusas thrive despite very little sustenance. Some were electrified when the curse struck the water.
+U0706	Bestiary_Name_CharibdisLaser	Charibdis
+U0707	Bestiary_Description_CharibdisLaser_Neutral	Talos castle once had regal gargoyles adorning its cornices. Now, dark energy has turned them hostile, and from their mouths emanate deadly piercing beams.
+U0708	Bestiary_Name_CrixiaMine	Crixia Mine
+U0709	Bestiary_Description_CrixiaMine_Water	The Crixia Mines were installed as a means of defense for the castle. After years of inactivity they have awoken, able to generate a powerful explosion at the slightest touch.
+U0710	Bestiary_Name_Lernaean	Lernaean
+U0711	Bestiary_Description_Lernaean_Neutral	From the deepest foundations of Talos emerged Lernaean, a snake-like beast with defensive instincts and missiles as its weapon of choice. 
+U0712	Bestiary_Name_Nissi	Nissi
+U0713	Bestiary_Description_Nissi_Neutral	Remnants of slime exposed to great amounts of corrupted magic, now sentient. This slime came to life near a suit of excavation armor, which she took as a means of transportation and defense.
+U0714	Bestiary_Name_Limo	Limo
+U0715	Bestiary_Description_Limo_Neutral	Remnants of slime turned sentient after exposure to magic in the Talos orphanage. With that magic, they are now able to cast basic spells and use their own oozy substance both as a weapon and a catalyst for their unique form of sorcery: slime magic.
+U0716	Bestiary_Name_IgnisChelone	Ignis Chelon
+U0717	Bestiary_Description_IgnisChelone_Fire	These creatures have inhabited the earth for hundreds of years. Many legends refer to them as "the first ancestor". Because of their longevity, they have mastered the art of defense. This variant shares a strong bond with fire.
+U0718	Bestiary_Description_HudroChelone_Water	These creatures have inhabited the earth for hundreds of years. Many legends refer to them as "the first ancestor". Because of their longevity, they have mastered the art of defense. This variant is found in humid places.
+U0719	Bestiary_Description_RootingChelone_Earth	These creatures have inhabited the earth for hundreds of years. Many legends refer to them as "the first ancestor". Because of their longevity, they have mastered the art of defense. This variant is fond of muddy environments. 
+U0720	Bestiary_Name_Eskatheri	Eskatheri
+U0721	Bestiary_Description_Eskatheri_Earth	Little is said about the Eskatheri that roams the deep tunnels, but it poses a significant threat to any in its path. Its head is as strong as a hammer and is used as a defensive weapon.
+U0722	Bestiary_Name_AphronFish	Aphron Fish
+U0723	Bestiary_Description_AphronFish_Water	One of those least affected by the curse, the Aphron Fish is a mindless creature that remains near the surface of the Forgotten Pond to feed on small plants. 
+U0724	Bestiary_Name_Frinise	Frinise
+U0725	Bestiary_Description_Frinise_Fire	A spiteful woman transformed into a demon after she bartered away her soul for power. Her obsession with wealth, and readiness to kill for it, only grew when she began her quest to buy back what she so willingly gave away.
+U0726	Bestiary_Name_TheHornedGod	The Horned God
+U0727	Bestiary_Description_TheHornedGod_Neutral	Originally a charitable god charged with caring for the helpless, the Horned God was cast out when he began to abuse his power. His corrupt desire led him to steal souls and keep them as trophies.
+U0728	Bestiary_Name_Reaper	Reaper
+U0729	Bestiary_Description_Reaper_Neutral	The guardian of the gates of the afterlife. He will not allow anyone to desecrate the land of the dead.
+U0730	Bestiary_Name_Maelzel	Maelzel
+U0731	Bestiary_Description_Maelzel_Neutral	An expert game player, he spent a lifetime designing a machine that would allow him to use chess pieces to defeat his opponents. Winning has never been so crucial.  
+U0732	Bestiary_Element	ELEMENT:
+U0733	Bestiary_Element_None	
+U0734	Bestiary_Element_Neutral	Neutral
+U0735	Bestiary_Element_Electric	Electricity
+U0736	Bestiary_Element_Water	Water
+U0737	Bestiary_Element_Earth	Earth
+U0738	Bestiary_Element_Fire	Fire
+U0739	Bestiary_Element_Darkness	Darkness
+U0740	Bestiary_Element_Light	Light
+U0741	Bestiary_Element_DarkNeutral	Darkness & Neutral
+U0742	Bestiary_Weakness	WEAKNESS:
+U0743	Bestiary_Unknown	???
+U0744	Bestiary_AddNewEnemy	Bestiary updated
+U0745	Bestiary_Name_MaelstromSpider	Maelstrom Spider
+U0746	Bestiary_Name_PyroSpider	Pyro Spider
+U0747	Bestiary_Name_SpriteSpider	Sprite Spider
+U0748	Bestiary_Name_RockSpider	Rock Spider
+U0749	Bestiary_Name_HudroChelone	Hudro Chelon
+U0750	Bestiary_Name_RootingChelone	Rooting Chelon
+U0751	Bestiary_Name_Belial	Belial
+U0752	Bestiary_Description_Belial	A monster born from shadows and dread. Bringer of the curse, chaos, and destruction. Cold fear emanates from its hollow chest, filling even the bravest warriors with horror. Although many have tried, none have been able to defeat it.
+U0753	Bestiary_Name_ShadowOfDespair	Shadow of Despair
+U0754	Bestiary_Description_ShadowOfDespair	The 'Many-Eyed Bird" described by the Pethiko people is a violent and erratic beast. Its body is covered in metallic feathers that conceal countless crystals of darkness.
+U0755	Bestiary_Name_Draythus	Draythus
+U0756	Bestiary_Description_Draythus	A ruthless bounty hunter with a mysterious connection to the castle of Talos. He embarked on a journey to singlehandedly stop the curse, but was corrupted by the darkness, leaving only a small shred of his humanity intact.
+U0757	Bestiary_Name_LogonDuck	Logon Duck
+U0758	Bestiary_Description_LogonDuck	A recurrent nightmare that is summoned every thunderous night to steal the souls of the hopeless. No one knows why or how, but once its piercing gaze finds a victim, they finally learn the true meaning of fear.
+U0759	Bestiary_Name_ShadowOfDemise	Shadow of Demise
+U0760	Bestiary_Description_ShadowOfDemise	Once a symbol of prosperity, the Flame Keeper witnessed the decline and collapse of everything it held dear. In its grief, it descended into madness and became the visage of demise, casting a pall of misery onto any who draw near.
+U0761	Bestiary_Name_Locrian	Locrian Sentinel
+U0762	Bestiary_Description_Locrian	A mechanical creature that predated the curse, quietly contributing its energy to help power the mechanisms within the castle. After the curse corrupted it, it weaponized its energy generating abilities.
+U0763	Bestiary_Name_Hekate	Hekate's Illusion
+U0764	Bestiary_Description_Hekate	A creature of deceit that was once a devout worshiper of a long-forgotten entity. Without the object of its reverence, it was consumed by despair and hid its true form. Now it is lost to the shadows, and it attempts to slay any who cross its path.
+U0765	Bestiary_Name_MaskAndros	Mask of Andros
+U0766	Bestiary_Description_MaskAndros	Once a peaceful creature, it grew in solitude for generations. Despite its imposing size and power, it was never a menace to Talos until the day the corruption finally reached its heart.
+U0767	Bestiary_Name_ShadowOfHope	Shadow of Hope
+U0768	Bestiary_Description_ShadowOfHope	Raging serpents that were once a symbol of hope. Now they slither in the depths of the Forgotten Pond, threatening all living things within it. The Amfibis tribe narrowly avoided them and found a home in the shallower waters.
+U0769	Bestiary_Name_HeartOfTalos	Heart of Talos
+U0770	Bestiary_Description_HeartOfTalos	Hidden deep within the castle, the Heart of Talos beats in anguish as it struggles to maintain the lifeforce of the giant. While many parts of Talos emulate machinery, this vital organ hints at the organic nature of Talos: a being capable of dying. It beats on, waiting with dim hope of rescue.
+U0771	NpcFinalVideo_01	You have helped us cleanse the shadow of our hearts 
+U0772	NpcFinalVideo_02	Let our melody help you in the last battle
+U0773	NpcFinalVideo_03	See you soon
+U0774	NpcFinalVideo_04	Old sages foresaw your bravery and heart
+U0775	NpcFinalVideo_05	The sacrifice will not be in vain
+U0776	NpcFinalVideo_06	A lesson learned and faith restored
+U0777	ControlRemaping_Yes	Yes
+U0778	ControlRemaping_No	No
+U0779	ControlRemaping_Add	Add
+U0780	ControlRemaping_Replace	Replace
+U0781	ControlRemaping_Remove	Remove
+U0782	ControlRemaping_Swap	Swap
+U0783	ControlRemaping_Cancel	Cancel
+U0784	ControlRemaping_None	None
+U0785	ControlRemaping_Okay	Okay
+U0786	ControlRemaping_Done	Done
+U0787	ControlRemaping_Default	Default
+U0788	ControlRemaping_ChooseController	Choose Controller
+U0789	ControlRemaping_AssignControllerWindowMessage	Press any button or move an axis on the controller you would like to use.
+U0790	ControlRemaping_ControllerAssignment	Controller Assignment
+U0791	ControlRemaping_ControllerAssignmentConflictWindowMessage	{0} is already assigned to {1}. Do you want to assign this controller to {2} instead?
+U0792	ControlRemaping_ElementAssignmentPrePollingWindowMessage	First center or zero all sticks and axes and press any button or wait for the timer to finish.
+U0793	ControlRemaping_JoystickElementAssignmentPollingWindowMessage	Now press a button or move an axis to assign it to {0}.
+U0794	ControlRemaping_JoystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Now move an axis to assign it to {0}.
+U0795	ControlRemaping_KeyboardElementAssignmentPollingWindowMessage	Press a key to assign it to {0}. Modifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.
+U0796	ControlRemaping_MouseElementAssignmentPollingWindowMessage	Press a mouse button or move an axis to assign it to {0}.
+U0797	ControlRemaping_MouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Move an axis to assign it to {0}.
+U0798	ControlRemaping_ElementAssignmentConflictWindowMessage	Assignment Conflict
+U0799	ControlRemaping_ElementAlreadyInUseBlocked	{0} is already in use cannot be replaced.
+U0800	ControlRemaping_ElementAlreadyInUseCanReplace	{0} is already in use. Do you want to replace it?
+U0801	ControlRemaping_ElementAlreadyInUseCanReplace_conflictAllowed	{0} is already in use. Do{0} is already in use. Do you want to replace it? You may also choose to add the assignment anyway.you want to replace it?
+U0802	ControlRemaping_MouseAssignmentConflictWindowTitle	Mouse Assignment
+U0803	ControlRemaping_MouseAssignmentConflictWindowMessage	The mouse is already assigned to {0}. Do you want to assign the mouse to {1} instead?
+U0804	ControlRemaping_CalibrateControllerWindowTitle	Calibrate Controller
+U0805	ControlRemaping_CalibrateAxisStep1WindowTitle	Calibrate Zero
+U0806	ControlRemaping_CalibrateAxisStep1WindowMessage	Center or zero {0} and press any button or wait for the timer to finish.
+U0807	ControlRemaping_CalibrateAxisStep2WindowTitle	Calibrate Range
+U0808	ControlRemaping_CalibrateAxisStep2WindowMessage	Move {0} through its entire range then press any button or wait for the timer to finish.
+U0809	ControlRemaping_InputBehaviorSettingsWindowTitle	Sensitivity Settings
+U0810	ControlRemaping_RestoreDefaultsWindowTitle	Restore Defaults
+U0811	ControlRemaping_RestoreDefaultsWindowMessage_onePlayer	This will restore the default input configuration. Are you sure you want to do this?
+U0812	ControlRemaping_RestoreDefaultsWindowMessage_multiPlayer	This will restore the default input configuration for all players. Are you sure you want to do this?
+U0813	ControlRemaping_ActionColumnLabel	Action
+U0814	ControlRemaping_KeyboardColumnLabel	Keyboard
+U0815	ControlRemaping_MouseColumnLabel	Mouse
+U0816	ControlRemaping_ControllerColumnLabel	Controller
+U0817	ControlRemaping_CalibrateControllerButtonLabel	Calibrate
+U0818	ControlRemaping_AssignControllerButtonLabel	Assign Controller
+U0819	ControlRemaping_InputBehaviorSettingsButtonLabel	Sensitivity
+U0820	ControlRemaping_PlayersGroupLabel	Players:
+U0821	ControlRemaping_ControllerSettingsGroupLabel	Controller:
+U0822	ControlRemaping_AssignedControllersGroupLabel	Assigned Controllers:
+U0823	ControlRemaping_SettingsGroupLabel	Settings:
+U0824	ControlRemaping_MapCategoriesGroupLabel	Categories:
+U0825	ControlRemaping_CalibrateWindow_deadZoneSliderLabel	Dead Zone:
+U0826	ControlRemaping_CalibrateWindow_zeroSliderLabel	Zero:
+U0827	ControlRemaping_CalibrateWindow_sensitivitySliderLabel	Sensitivity:
+U0828	ControlRemaping_CalibrateWindow_invertToggleLabel	Invert
+U0829	ControlRemaping_CalibrateWindow_calibrateButtonLabel	Calibrate

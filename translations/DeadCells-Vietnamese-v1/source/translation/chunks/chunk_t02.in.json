@@ -1,0 +1,397 @@
+[
+{
+"id": 384,
+"en": "You bought it? In prison?! Yeah, forget what I just told you, anybody can just waltz in and out of this Bank!",
+"ctx": "U28_BANKER_CINE_GOLDENSKIN_DIALOG_4"
+},
+{
+"id": 385,
+"en": "Maybe you can help us on that front, though. If you kill the monsters that are currently robbing our vaults, I'll have an easier time letting you leave with that stolen costume on your back.",
+"ctx": "U28_BANKER_CINE_GOLDENSKIN_DIALOG_5"
+},
+{
+"id": 386,
+"en": "Take that spare key. Fight well!",
+"ctx": "U28_BANKER_CINE_GOLDENSKIN_DIALOG_6"
+},
+{
+"id": 387,
+"en": "So boooooooooored... I really should have become an artist and...",
+"ctx": "U28_BANKER_CINE_DIALOG_1"
+},
+{
+"id": 388,
+"en": "Oh! A customer! It's been so long since the last... nevermind. Welcome to our great Bank!",
+"ctx": "U28_BANKER_CINE_DIALOG_2"
+},
+{
+"id": 389,
+"en": "You can entrust your precious belongings to us, we'll take good care of them!",
+"ctx": "U28_BANKER_CINE_DIALOG_3"
+},
+{
+"id": 390,
+"en": "... I would not advise doing so right now, though: there seems to be a minor security breach in the vaults.",
+"ctx": "U28_BANKER_CINE_DIALOG_4"
+},
+{
+"id": 391,
+"en": "Be assured that it's nothing to be concerned about! But if you want to take a look around and perhaps help out with the ah, security breach... Be my guest.",
+"ctx": "U28_BANKER_CINE_DIALOG_5"
+},
+{
+"id": 392,
+"en": "Here, take this spare key. Enjoy your time in our Bank!",
+"ctx": "U28_BANKER_CINE_DIALOG_6"
+},
+{
+"id": 393,
+"en": "The Bank teller seems to be away. There is a small sign on the desk:",
+"ctx": "U28_SIGN_CINE_DIALOG_1"
+},
+{
+"id": 394,
+"en": "\"Dear customer, I'm on paid leave. Please help us maintain order in our splendid facility using the key on the back of this sign.",
+"ctx": "U28_SIGN_CINE_DIALOG_2"
+},
+{
+"id": 395,
+"en": "Thanks a lot, feel free to borrow money, we are a safe and respectable Bank.\"",
+"ctx": "U28_SIGN_CINE_DIALOG_3"
+},
+{
+"id": 396,
+"en": "What a trusting little fellow. I'm not sure that's really safe in this line of business but hey...",
+"ctx": "U28_SIGN_CINE_DIALOG_4"
+},
+{
+"id": 398,
+"en": "“The wardens will recognize their own.”"
+},
+{
+"id": 399,
+"en": "Yes, that should work.",
+"ctx": "U32_KATANA_YES_SHOULD_WORK"
+},
+{
+"id": 400,
+"en": "Well, there's really no getting around it..."
+},
+{
+"id": 401,
+"en": "It was WAY more fun crawling round the sewers."
+},
+{
+"id": 402,
+"en": "What the..."
+},
+{
+"id": 403,
+"en": "Hey, I've finally found the muscular guy in blue!",
+"ctx": "DLCP_DOOKU_INTRO_RICHTER_FREE_1"
+},
+{
+"id": 404,
+"en": "Hey, have you seen a muscular guy in blue?",
+"ctx": "DLCP_DOOKU_INTRO_1"
+},
+{
+"id": 405,
+"en": "Belmont, blood of the enemy. Are you his ally, interloper?",
+"ctx": "DLCP_DOOKU_INTRO_2"
+},
+{
+"id": 406,
+"en": "It doesn't matter. You entered my Castle uninvited. You'll pay dearly for this affront.",
+"ctx": "DLCP_DOOKU_INTRO_3"
+},
+{
+"id": 407,
+"en": "Uninvited?!",
+"ctx": "DLCP_DOOKU_INTRO_4"
+},
+{
+"id": 408,
+"en": "It's you who appeared out of nowhere with all your horrible monsters!",
+"ctx": "DLCP_DOOKU_INTRO_5"
+},
+{
+"id": 409,
+"en": "Perhaps the same could be said of all bosses...",
+"ctx": "DLCP_DOOKU_INTRO_6"
+},
+{
+"id": 410,
+"en": "I am not much of a human anymore, but this Richter was a man worth saving!",
+"ctx": "DLCP_DOOKU_INTRO_RICHTER_FREE_2"
+},
+{
+"id": 411,
+"en": "I am not much of a human anymore, but this Richter is still a man worth saving!",
+"ctx": "DLCP_DOOKU_INTRO_7"
+},
+{
+"id": 412,
+"en": "What is a man? A miserable little pile of secrets!",
+"ctx": "DLCP_DOOKU_INTRO_8"
+},
+{
+"id": 413,
+"en": "But enough talk... Have at you!",
+"ctx": "DLCP_DOOKU_INTRO_9"
+},
+{
+"id": 414,
+"en": "Now, you will die.",
+"ctx": "DLCP_DOOKU_INTRO_10"
+},
+{
+"id": 415,
+"en": "Die monster. You don't belong in this world!",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_1"
+},
+{
+"id": 416,
+"en": "It was not by my hand that I am once again given flesh.",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_2"
+},
+{
+"id": 417,
+"en": "I was called here by humans who wish to pay me tribute.",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_3"
+},
+{
+"id": 418,
+"en": "Tribute!?!",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_4"
+},
+{
+"id": 419,
+"en": "You steal men's souls and make them your slaves!",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_5"
+},
+{
+"id": 420,
+"en": "Perhaps the same could be said of all religions...",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_6"
+},
+{
+"id": 421,
+"en": "Your words are as empty as your soul! Mankind ill needs a savior such as you!",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_7"
+},
+{
+"id": 422,
+"en": "What is a man? A miserable little pile of secrets !",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_8"
+},
+{
+"id": 423,
+"en": "But enough talk, have at you!",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_9"
+},
+{
+"id": 424,
+"en": "Die, Belmont!",
+"ctx": "DLCP_DOOKU_RICHTER_INTRO_10"
+},
+{
+"id": 425,
+"en": "Begone!",
+"ctx": "DLCP_DOOKU_SIMON_INTRO_1"
+},
+{
+"id": 426,
+"en": "We meet again at last, Belmont. Let's finish this.",
+"ctx": "DLCP_DOOKU_SIMON_INTRO_2"
+},
+{
+"id": 427,
+"en": "Dracula! I'll make you pay for what you did to her!",
+"ctx": "DLCP_DOOKU_TREVOR_INTRO_1"
+},
+{
+"id": 428,
+"en": "You're welcome to try, Belmont.",
+"ctx": "DLCP_DOOKU_TREVOR_INTRO_2"
+},
+{
+"id": 429,
+"en": "That man's an imposter!",
+"ctx": "DLCP_DOOKU_DOOKU_INTRO_1"
+},
+{
+"id": 430,
+"en": "Uh oh...",
+"ctx": "DLCP_DOOKU_DOOKU_INTRO_2"
+},
+{
+"id": 431,
+"en": "That's MY outfit!",
+"ctx": "DLCP_DOOKU_DOOKU_INTRO_3"
+},
+{
+"id": 432,
+"en": "You can't just copy my wardrobe to get my immeasurable powers.",
+"ctx": "DLCP_DOOKU_DOOKU_INTRO_4"
+},
+{
+"id": 433,
+"en": "I'll make you pay for this unspeakable offense, you wretch!",
+"ctx": "DLCP_DOOKU_DOOKU_INTRO_5"
+},
+{
+"id": 434,
+"en": "So it has come to this. My most trusted lieutenant turns on me...",
+"ctx": "DLCP_DOOKU_ADELE_INTRO_1"
+},
+{
+"id": 435,
+"en": "How ungrateful.",
+"ctx": "DLCP_DOOKU_ADELE_INTRO_2"
+},
+{
+"id": 436,
+"en": "You were nameless before I made you what you are.",
+"ctx": "DLCP_DOOKU_ADELE_INTRO_3"
+},
+{
+"id": 437,
+"en": "What I created, I can also destroy!",
+"ctx": "DLCP_DOOKU_ADELE_INTRO_4"
+},
+{
+"id": 439,
+"en": "...Even my own ornamental armors are threatening me, now. Where is the world heading?!",
+"ctx": "DLCP_DOOKU_HM_INTRO_2"
+},
+{
+"id": 441,
+"en": "Wait, it's you?! How dare you address me like this?!",
+"ctx": "DLCP_DOOKU_HM_INTRO_4"
+},
+{
+"id": 443,
+"en": "ENOUGH! No one has ever dared speak to me on that tone before!",
+"ctx": "DLCP_DOOKU_HM_INTRO_6"
+},
+{
+"id": 444,
+"en": "Fight me, tin can!",
+"ctx": "DLCP_DOOKU_HM_INTRO_7"
+},
+{
+"id": 445,
+"en": "Lord Dracula, you are reborn!",
+"ctx": "DLCP_DOOKU_HECTOR_INTRO_1"
+},
+{
+"id": 446,
+"en": "Ah, the traitor, Hector... Why did you betray me?",
+"ctx": "DLCP_DOOKU_HECTOR_INTRO_2"
+},
+{
+"id": 447,
+"en": "Why did you unleash your hatred upon the humans?",
+"ctx": "DLCP_DOOKU_HECTOR_INTRO_3"
+},
+{
+"id": 448,
+"en": "When you began slaughtering them indiscriminately, I had no choice but to disobey you.",
+"ctx": "DLCP_DOOKU_HECTOR_INTRO_4"
+},
+{
+"id": 449,
+"en": "You side against me... for the sake of humans? Humans are not worth the air they breathe! I was simply cleansing the world.",
+"ctx": "DLCP_DOOKU_HECTOR_INTRO_5"
+},
+{
+"id": 450,
+"en": "It is not your place to judge the worth of humans.",
+"ctx": "DLCP_DOOKU_HECTOR_INTRO_6"
+},
+{
+"id": 451,
+"en": "The powerful always judge the weak. The humans made their judgement of me, as well.",
+"ctx": "DLCP_DOOKU_HECTOR_INTRO_7"
+},
+{
+"id": 452,
+"en": "Thus I sentenced them... to extinction. Sympathy is merely a form of weakness.",
+"ctx": "DLCP_DOOKU_HECTOR_INTRO_8"
+},
+{
+"id": 453,
+"en": "You betrayed me, Hector... And for that, the punishment is death.",
+"ctx": "DLCP_DOOKU_HECTOR_INTRO_9"
+},
+{
+"id": 454,
+"en": "Father...",
+"ctx": "DLCP_DOOKU_ALUCARD_INTRO_1"
+},
+{
+"id": 455,
+"en": "Well met, my son! It's been a long time.",
+"ctx": "DLCP_DOOKU_ALUCARD_INTRO_2"
+},
+{
+"id": 456,
+"en": "I was hoping we would not see each other again.",
+"ctx": "DLCP_DOOKU_ALUCARD_INTRO_3"
+},
+{
+"id": 457,
+"en": "I can't allow you to leave here, Father.",
+"ctx": "DLCP_DOOKU_ALUCARD_INTRO_4"
+},
+{
+"id": 458,
+"en": "You have ever been the ally of humans. Have you forgotten what they did to your Mother?",
+"ctx": "DLCP_DOOKU_ALUCARD_INTRO_5"
+},
+{
+"id": 459,
+"en": "Think you I would forget such a thing?\nNo. But neither do I seek revenge against them.",
+"ctx": "DLCP_DOOKU_ALUCARD_INTRO_6"
+},
+{
+"id": 460,
+"en": "Still uttering the same nonsense. No matter.",
+"ctx": "DLCP_DOOKU_ALUCARD_INTRO_7"
+},
+{
+"id": 461,
+"en": "Now is the time to put aside your weak human side and join me in remaking this world!",
+"ctx": "DLCP_DOOKU_ALUCARD_INTRO_8"
+},
+{
+"id": 462,
+"en": "Dracula, in the name of my mother. I will defeat you again.",
+"ctx": "DLCP_DOOKU_ALUCARD_INTRO_9"
+},
+{
+"id": 463,
+"en": "I will end you and your Curse, in the name of my family!",
+"ctx": "DLCP_DOOKU_SYPHA_INTRO_1"
+},
+{
+"id": 464,
+"en": "A Belnades. Merely an assistant to the Belmonts. Destroying you will be a formality.",
+"ctx": "DLCP_DOOKU_SYPHA_INTRO_2"
+},
+{
+"id": 465,
+"en": "You won't capture me as easily this time!",
+"ctx": "DLCP_DOOKU_MARIA_INTRO_1"
+},
+{
+"id": 466,
+"en": "I don't even know who you are...",
+"ctx": "DLCP_DOOKU_MARIA_INTRO_2"
+},
+{
+"id": 467,
+"en": "You... here?"
+}
+]

@@ -1,0 +1,722 @@
+[
+ {
+  "id": 1658,
+  "ctx": "term Key Rebind/keybind_caps_lock",
+  "en": "Caps Lock"
+ },
+ {
+  "id": 1659,
+  "ctx": "term Key Rebind/keybind_alt",
+  "en": "Alt"
+ },
+ {
+  "id": 1660,
+  "ctx": "term Key Rebind/keybind_altgr",
+  "en": "Alt Gr"
+ },
+ {
+  "id": 1661,
+  "ctx": "term Key Rebind/keybind_esc",
+  "en": "Esc"
+ },
+ {
+  "id": 1662,
+  "ctx": "term Key Rebind/keybind_insert",
+  "en": "Insert"
+ },
+ {
+  "id": 1663,
+  "ctx": "term Key Rebind/keybind_home",
+  "en": "Home"
+ },
+ {
+  "id": 1664,
+  "ctx": "term Key Rebind/keybind_pgup",
+  "en": "Page Up"
+ },
+ {
+  "id": 1665,
+  "ctx": "term Key Rebind/keybind_delete",
+  "en": "Delete"
+ },
+ {
+  "id": 1666,
+  "ctx": "term Key Rebind/keybind_end",
+  "en": "End"
+ },
+ {
+  "id": 1667,
+  "ctx": "term Key Rebind/keybind_pgdown",
+  "en": "Page Down"
+ },
+ {
+  "id": 1668,
+  "ctx": "term Key Rebind/keybind_print_screen",
+  "en": "Print Screen"
+ },
+ {
+  "id": 1669,
+  "ctx": "term Key Rebind/keybind_scroll_lock",
+  "en": "Scroll Lock"
+ },
+ {
+  "id": 1670,
+  "ctx": "term Key Rebind/keybind_pause",
+  "en": "Pause"
+ },
+ {
+  "id": 1671,
+  "ctx": "term Key Rebind/keybind_enter",
+  "en": "Enter"
+ },
+ {
+  "id": 1672,
+  "ctx": "term Achievements/ACH_COUNCILBOSS",
+  "en": "The First to Fall"
+ },
+ {
+  "id": 1673,
+  "ctx": "term Achievements/ACH_ABA",
+  "en": "Abomination Undone"
+ },
+ {
+  "id": 1674,
+  "ctx": "term Achievements/ACH_ORCUS",
+  "en": "Rest Now, Dear Child"
+ },
+ {
+  "id": 1675,
+  "ctx": "term Achievements/ACH_FERMENTED",
+  "en": "Flesh Remade"
+ },
+ {
+  "id": 1676,
+  "ctx": "term Achievements/ACH_PRINCE",
+  "en": "An End to the Feast"
+ },
+ {
+  "id": 1677,
+  "ctx": "term Achievements/ACH_ASTRONOMER",
+  "en": "Stargazer"
+ },
+ {
+  "id": 1678,
+  "ctx": "term Achievements/ACH_INDEXER",
+  "en": "Knowledge Denied"
+ },
+ {
+  "id": 1679,
+  "ctx": "term Achievements/ACH_FONT",
+  "en": "Bloodlet"
+ },
+ {
+  "id": 1680,
+  "ctx": "term Achievements/ACH_WEEPER",
+  "en": "The Last Vigil"
+ },
+ {
+  "id": 1681,
+  "ctx": "term Achievements/ACH_FIRST",
+  "en": "Renunciation"
+ },
+ {
+  "id": 1682,
+  "ctx": "term Achievements/ACH_UUT",
+  "en": "Sermon Interrupted"
+ },
+ {
+  "id": 1683,
+  "ctx": "term Achievements/ACH_RELICSPASSIVE",
+  "en": "Wayward Souls"
+ },
+ {
+  "id": 1684,
+  "ctx": "term Achievements/ACH_RELICSACTIVE",
+  "en": "Power Unleashed"
+ },
+ {
+  "id": 1685,
+  "ctx": "term Achievements/ACH_RELICSALL",
+  "en": "Collector"
+ },
+ {
+  "id": 1686,
+  "ctx": "term Achievements/ACH_SIMULACRUMALL",
+  "en": "Avatar"
+ },
+ {
+  "id": 1687,
+  "ctx": "term Achievements/ACH_HPALL",
+  "en": "Vessel Refined"
+ },
+ {
+  "id": 1688,
+  "ctx": "term Achievements/ACH_ATTACKALL",
+  "en": "Blessed by Rahtek"
+ },
+ {
+  "id": 1689,
+  "ctx": "term Achievements/ACH_SALT",
+  "en": "Blessed by Namun"
+ },
+ {
+  "id": 1690,
+  "ctx": "term Achievements/ACH_CHARGEALL",
+  "en": "Blessed by So-Venat"
+ },
+ {
+  "id": 1691,
+  "ctx": "term Achievements/ACH_PUPGRADESALL",
+  "en": "Existence Perfected"
+ },
+ {
+  "id": 1692,
+  "ctx": "term Achievements/ACH_FIDDLERS",
+  "en": "Hush Now..."
+ },
+ {
+  "id": 1693,
+  "ctx": "term Achievements/ACH_SECRETS",
+  "en": "Voidsight"
+ },
+ {
+  "id": 1694,
+  "ctx": "term Achievements/ACH_MONSTERS",
+  "en": "Indiscriminate Slayer"
+ },
+ {
+  "id": 1695,
+  "ctx": "term Achievements/ACH_JOURNALS",
+  "en": "Avid Reader"
+ },
+ {
+  "id": 1696,
+  "ctx": "term Achievements/ACH_NPCSTALKED",
+  "en": "Socialite"
+ },
+ {
+  "id": 1697,
+  "ctx": "term Achievements/ACH_REGIONS",
+  "en": "Transient"
+ },
+ {
+  "id": 1698,
+  "ctx": "term Achievements/ACH_LORESTONES",
+  "en": "Loremaster"
+ },
+ {
+  "id": 1699,
+  "ctx": "term Achievements/ACH_VOIDANCHOR",
+  "en": "The Key"
+ },
+ {
+  "id": 1700,
+  "ctx": "term Achievements/ACH_TELEPORTERS",
+  "en": "The Gates"
+ },
+ {
+  "id": 1701,
+  "ctx": "term Achievements/ACH_EXCAFIRST",
+  "en": "Unearthing Faith"
+ },
+ {
+  "id": 1702,
+  "ctx": "term Achievements/ACH_EXCALIBRARY",
+  "en": "Unearthing Knowledge"
+ },
+ {
+  "id": 1703,
+  "ctx": "term Achievements/ACH_EXCAFORGE",
+  "en": "Unearthing Creation"
+ },
+ {
+  "id": 1704,
+  "ctx": "term Achievements/ACH_EXCAMAUSOLEUM",
+  "en": "Unearthing Veneration"
+ },
+ {
+  "id": 1705,
+  "ctx": "term Achievements/ACH_SAVETELE",
+  "en": "Unearthing Reflections"
+ },
+ {
+  "id": 1706,
+  "ctx": "term Achievements/ACH_EXCAALL",
+  "en": "Shrine Restored"
+ },
+ {
+  "id": 1707,
+  "ctx": "term Achievements/ACH_MIRROR",
+  "en": "Nothing but a Memory"
+ },
+ {
+  "id": 1708,
+  "ctx": "term Achievements/ACH_MAP",
+  "en": "Every Path Trodden"
+ },
+ {
+  "id": 1709,
+  "ctx": "term Achievements/ACH_BEATTHEGAME",
+  "en": "The Final Emergence"
+ },
+ {
+  "id": 1710,
+  "ctx": "term Achievements/ACH_FORGE",
+  "en": "Whole Again"
+ },
+ {
+  "id": 1711,
+  "ctx": "term Achievements/ACH_QOSE2",
+  "en": "Dangerous Knowledge"
+ },
+ {
+  "id": 1712,
+  "ctx": "term Achievements/ACH_QVIZIER",
+  "en": "Reflections of the Past"
+ },
+ {
+  "id": 1713,
+  "ctx": "term Achievements/ACH_QVIZIER2",
+  "en": "Oh, Sister"
+ },
+ {
+  "id": 1714,
+  "ctx": "term Achievements/ACH_QVIZIER3",
+  "en": "Infinite Detail"
+ },
+ {
+  "id": 1715,
+  "ctx": "term Achievements/ACH_QVIZIER4",
+  "en": "Tricked"
+ },
+ {
+  "id": 1716,
+  "ctx": "term Achievements/ACH_LEARNED",
+  "en": "To Be Studied"
+ },
+ {
+  "id": 1717,
+  "ctx": "term Achievements/ACH_QGOURMET",
+  "en": "Exponential Growth"
+ },
+ {
+  "id": 1718,
+  "ctx": "term Achievements/ACH_QCREW",
+  "en": "Metal Tomb"
+ },
+ {
+  "id": 1719,
+  "ctx": "term Achievements/ACH_QACHRETIS",
+  "en": "Offal Offerings"
+ },
+ {
+  "id": 1720,
+  "ctx": "term Achievements/ACH_QACHRETIS2",
+  "en": "Stranger in a Strange Land"
+ },
+ {
+  "id": 1721,
+  "ctx": "term Achievements/ACH_QSTALK",
+  "en": "Lifegiver"
+ },
+ {
+  "id": 1722,
+  "ctx": "term Achievements/ACH_QSTALK2",
+  "en": "Lifetaker"
+ },
+ {
+  "id": 1723,
+  "ctx": "term Achievements/ACH_ENDING1",
+  "en": "Endless"
+ },
+ {
+  "id": 1724,
+  "ctx": "term Achievements/ACH_ENDING2",
+  "en": "Infinity No More"
+ },
+ {
+  "id": 1725,
+  "ctx": "term Achievements/ACH_ALCHEMIST",
+  "en": "Another for the Vats"
+ },
+ {
+  "id": 1726,
+  "ctx": "term Achievements/ACH_REP",
+  "en": "The Network of Worlds"
+ },
+ {
+  "id": 1727,
+  "ctx": "term Achievements/ACH_ABAREGION",
+  "en": "Entombed in Ice"
+ },
+ {
+  "id": 1728,
+  "ctx": "term Achievements/ACH_COUNCILBOSS Description",
+  "en": "Defeated the Council"
+ },
+ {
+  "id": 1729,
+  "ctx": "term Achievements/ACH_ABA Description",
+  "en": "Defeated the Eternal Engine"
+ },
+ {
+  "id": 1730,
+  "ctx": "term Achievements/ACH_ORCUS Description",
+  "en": "Defeated the Skychild"
+ },
+ {
+  "id": 1731,
+  "ctx": "term Achievements/ACH_FERMENTED Description",
+  "en": "Defeated the Fermented"
+ },
+ {
+  "id": 1732,
+  "ctx": "term Achievements/ACH_PRINCE Description",
+  "en": "Defeated the Pustulant Prince"
+ },
+ {
+  "id": 1733,
+  "ctx": "term Achievements/ACH_ASTRONOMER Description",
+  "en": "Defeated the Astronomer"
+ },
+ {
+  "id": 1734,
+  "ctx": "term Achievements/ACH_INDEXER Description",
+  "en": "Defeated the Absolute Indexer"
+ },
+ {
+  "id": 1735,
+  "ctx": "term Achievements/ACH_FONT Description",
+  "en": "Defeated the Font"
+ },
+ {
+  "id": 1736,
+  "ctx": "term Achievements/ACH_WEEPER Description",
+  "en": "Defeated the Weeper"
+ },
+ {
+  "id": 1737,
+  "ctx": "term Achievements/ACH_FIRST Description",
+  "en": "Defeated the First"
+ },
+ {
+  "id": 1738,
+  "ctx": "term Achievements/ACH_UUT Description",
+  "en": "Defeat Uut the Screamer"
+ },
+ {
+  "id": 1739,
+  "ctx": "term Achievements/ACH_RELICSPASSIVE Description",
+  "en": "Collected all Souls"
+ },
+ {
+  "id": 1740,
+  "ctx": "term Achievements/ACH_RELICSACTIVE Description",
+  "en": "Collected all Relics"
+ },
+ {
+  "id": 1741,
+  "ctx": "term Achievements/ACH_RELICSALL Description",
+  "en": "Collected all Souls and Relics"
+ },
+ {
+  "id": 1742,
+  "ctx": "term Achievements/ACH_SIMULACRUMALL Description",
+  "en": "Collected all Simulacra"
+ },
+ {
+  "id": 1743,
+  "ctx": "term Achievements/ACH_HPALL Description",
+  "en": "Health fully upgraded"
+ },
+ {
+  "id": 1744,
+  "ctx": "term Achievements/ACH_ATTACKALL Description",
+  "en": "All Vaults unsealed"
+ },
+ {
+  "id": 1745,
+  "ctx": "term Achievements/ACH_SALT Description",
+  "en": "Awakened all Healing Salt"
+ },
+ {
+  "id": 1746,
+  "ctx": "term Achievements/ACH_CHARGEALL Description",
+  "en": "Activated all Void Charges"
+ },
+ {
+  "id": 1747,
+  "ctx": "term Achievements/ACH_PUPGRADESALL Description",
+  "en": "Collected all Upgrades"
+ },
+ {
+  "id": 1748,
+  "ctx": "term Achievements/ACH_FIDDLERS Description",
+  "en": "Hushed all Envoys"
+ },
+ {
+  "id": 1749,
+  "ctx": "term Achievements/ACH_SECRETS Description",
+  "en": "Found all Secrets"
+ },
+ {
+  "id": 1750,
+  "ctx": "term Achievements/ACH_MONSTERS Description",
+  "en": "Defeated all types of Enemies"
+ },
+ {
+  "id": 1751,
+  "ctx": "term Achievements/ACH_JOURNALS Description",
+  "en": "Found all Journals"
+ },
+ {
+  "id": 1752,
+  "ctx": "term Achievements/ACH_NPCSTALKED Description",
+  "en": "Met everyone"
+ },
+ {
+  "id": 1753,
+  "ctx": "term Achievements/ACH_REGIONS Description",
+  "en": "Visited all Regions"
+ },
+ {
+  "id": 1754,
+  "ctx": "term Achievements/ACH_LORESTONES Description",
+  "en": "Listened to all Whispering Stones"
+ },
+ {
+  "id": 1755,
+  "ctx": "term Achievements/ACH_VOIDANCHOR Description",
+  "en": "Unlocked the Void Gates"
+ },
+ {
+  "id": 1756,
+  "ctx": "term Achievements/ACH_TELEPORTERS Description",
+  "en": "Found all Void Gates"
+ },
+ {
+  "id": 1757,
+  "ctx": "term Achievements/ACH_EXCAFIRST Description",
+  "en": "Excavated the first room"
+ },
+ {
+  "id": 1758,
+  "ctx": "term Achievements/ACH_EXCALIBRARY Description",
+  "en": "Excavated the Library"
+ },
+ {
+  "id": 1759,
+  "ctx": "term Achievements/ACH_EXCAFORGE Description",
+  "en": "Excavated the Forge"
+ },
+ {
+  "id": 1760,
+  "ctx": "term Achievements/ACH_EXCAMAUSOLEUM Description",
+  "en": "Excavated the Inner Sanctum"
+ },
+ {
+  "id": 1761,
+  "ctx": "term Achievements/ACH_SAVETELE Description",
+  "en": "Excavated the Voidal Energies"
+ },
+ {
+  "id": 1762,
+  "ctx": "term Achievements/ACH_EXCAALL Description",
+  "en": "Excavated all rooms"
+ },
+ {
+  "id": 1763,
+  "ctx": "term Achievements/ACH_VOI Description",
+  "en": "Visited the Void"
+ },
+ {
+  "id": 1764,
+  "ctx": "term Achievements/ACH_MIRROR Description",
+  "en": "Found the Mirrorways"
+ },
+ {
+  "id": 1765,
+  "ctx": "term Achievements/ACH_MAP Description",
+  "en": "Explored the whole Map"
+ },
+ {
+  "id": 1766,
+  "ctx": "term Achievements/ACH_BEATTHEGAME Description",
+  "en": "Finished Voidwrought"
+ },
+ {
+  "id": 1767,
+  "ctx": "term Achievements/ACH_MYSTERIOUSEGG Description",
+  "en": "Found The Lost Soul"
+ },
+ {
+  "id": 1768,
+  "ctx": "term Achievements/ACH_CREWALL Description",
+  "en": "All Devotees summoned to the Shrine"
+ },
+ {
+  "id": 1769,
+  "ctx": "term Achievements/ACH_FORGE Description",
+  "en": "Fully repaired the Grand Artificer"
+ },
+ {
+  "id": 1770,
+  "ctx": "term Achievements/ACH_QOSE Description",
+  "en": "Completed Ose's Questline"
+ },
+ {
+  "id": 1771,
+  "ctx": "term Achievements/ACH_QOSE2 Description",
+  "en": "Defeated Ose"
+ },
+ {
+  "id": 1772,
+  "ctx": "term Achievements/ACH_QVIZIER Description",
+  "en": "Completed the Vizier's Questline"
+ },
+ {
+  "id": 1773,
+  "ctx": "term Achievements/ACH_QVIZIER2 Description",
+  "en": "Brought the Astronomer's Helmet to the Vizier"
+ },
+ {
+  "id": 1774,
+  "ctx": "term Achievements/ACH_QVIZIER3 Description",
+  "en": "Retrieved the Endless Kaleidoscope for the Vizier"
+ },
+ {
+  "id": 1775,
+  "ctx": "term Achievements/ACH_QVIZIER4 Description",
+  "en": "Gave the Manipulated Orb to the Cerebrum"
+ },
+ {
+  "id": 1776,
+  "ctx": "term Achievements/ACH_LEARNED Description",
+  "en": "Gave the Sealed Orb to the Cerebrum"
+ },
+ {
+  "id": 1777,
+  "ctx": "term Achievements/ACH_QGOURMET Description",
+  "en": "Completed the Gilded Emporium's Questline"
+ },
+ {
+  "id": 1778,
+  "ctx": "term Achievements/ACH_QCREW Description",
+  "en": "Completed the Lost Crewman's Questline"
+ },
+ {
+  "id": 1779,
+  "ctx": "term Achievements/ACH_QACHRETIS Description",
+  "en": "Completed Achretis' Questline"
+ },
+ {
+  "id": 1780,
+  "ctx": "term Achievements/ACH_QACHRETIS2 Description",
+  "en": "Refused to help Achretis"
+ },
+ {
+  "id": 1781,
+  "ctx": "term Achievements/ACH_QSTALK Description",
+  "en": "Fed the Strange Stalks"
+ },
+ {
+  "id": 1782,
+  "ctx": "term Achievements/ACH_QSTALK2 Description",
+  "en": "Destroyed the Strange Stalks"
+ },
+ {
+  "id": 1783,
+  "ctx": "term Achievements/ACH_SLIDE Description",
+  "en": "Absorbed the Adaptation Simulacrum"
+ },
+ {
+  "id": 1784,
+  "ctx": "term Achievements/ACH_GRAB Description",
+  "en": "Absorbed the Improved Ligaments Simulacrum"
+ },
+ {
+  "id": 1785,
+  "ctx": "term Achievements/ACH_POSS Description",
+  "en": "Absorbed the Augmented Cortex Simulacrum"
+ },
+ {
+  "id": 1786,
+  "ctx": "term Achievements/ACH_DASH Description",
+  "en": "Absorbed the Twitch Fibers Simulacrum"
+ },
+ {
+  "id": 1787,
+  "ctx": "term Achievements/ACH_CHARGE Description",
+  "en": "Absorbed the Awakened Arm Simulacrum"
+ },
+ {
+  "id": 1788,
+  "ctx": "term Achievements/ACH_DJUMP Description",
+  "en": "Absorbed the Hollow Cartilage Simulacrum"
+ },
+ {
+  "id": 1789,
+  "ctx": "term Achievements/ACH_WJUMP Description",
+  "en": "Absorbed the Spurs Simulacrum"
+ },
+ {
+  "id": 1790,
+  "ctx": "term Achievements/ACH_TENDRIL Description",
+  "en": "Absorbed the Entozoon Sac Simulacrum"
+ },
+ {
+  "id": 1791,
+  "ctx": "term Achievements/ACH_SLITHER Description",
+  "en": "Absorbed the Unstable Nuclei Simulacrum"
+ },
+ {
+  "id": 1792,
+  "ctx": "term Achievements/ACH_VOIDSTEP Description",
+  "en": "Absorbed the Phased Flesh Simulacrum"
+ },
+ {
+  "id": 1793,
+  "ctx": "term Achievements/ACH_ENDING1 Description",
+  "en": "Absorbed the First"
+ },
+ {
+  "id": 1794,
+  "ctx": "term Achievements/ACH_ENDING2 Description",
+  "en": "Destroyed the First Ovum"
+ },
+ {
+  "id": 1795,
+  "ctx": "term Achievements/ACH_ALCHEMIST Description",
+  "en": "Defeated the Alchemist"
+ },
+ {
+  "id": 1796,
+  "ctx": "term Achievements/ACH_REP Description",
+  "en": "Found the Repository of the Unknown"
+ },
+ {
+  "id": 1797,
+  "ctx": "term Achievements/ACH_ABAREGION Description",
+  "en": "Entered the Abandoned Expedition"
+ },
+ {
+  "id": 1798,
+  "ctx": "term Achievements/ACH_HARDCORE Description",
+  "en": "Beat the game on Hardcore Mode"
+ },
+ {
+  "id": 1799,
+  "ctx": "term Achievements/ACH_REBORN Description",
+  "en": "Survived the path of the Reborn"
+ },
+ {
+  "id": 1800,
+  "ctx": "term Achievements/ACH_HARBINGER Description",
+  "en": "Survived the path of the Harbinger"
+ },
+ {
+  "id": 1801,
+  "ctx": "term Achievements/ACH_UNDONE Description",
+  "en": "Survived the path of the Undone"
+ }
+]

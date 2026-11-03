@@ -1,0 +1,602 @@
+[
+ {
+  "id": 1135,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_3_01",
+  "en": "It's rare in my profession that we get a chance to view a puzzle in its entirety! The very source of... well, of all!"
+ },
+ {
+  "id": 1136,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_3_02",
+  "en": "It will take time, but I am truly beginning to make sense of this. Please, bring me more."
+ },
+ {
+  "id": 1137,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_4_01",
+  "en": "I'm not feeling very well, my friend. Please leave the scrawlings on the stone there."
+ },
+ {
+  "id": 1138,
+  "ctx": "term Dialogue/npc_archaeologist_recollection_hand-in_4_02",
+  "en": "But thank you. Voor-sek'ra. Truly, you and I are pioneers of history."
+ },
+ {
+  "id": 1139,
+  "ctx": "term Dialogue/npc_archaeologist_all_recollections_01",
+  "en": "I understand. I am beginning to see the pieces for what they are, every geometrical shape, the makings of... well, of all!"
+ },
+ {
+  "id": 1140,
+  "ctx": "term Dialogue/npc_archaeologist_all_recollections_02",
+  "en": "It all connects to the times of old. The pieces, once scattered, return to be reformed. It's happening. The puzzle is nearly complete."
+ },
+ {
+  "id": 1141,
+  "ctx": "term Dialogue/npc_archaeologist_all_recollections_03",
+  "en": "Vak'i-na, I'm so close. How should I proceed?"
+ },
+ {
+  "id": 1142,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice01",
+  "en": "Remain within the Library"
+ },
+ {
+  "id": 1143,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice01_answer01",
+  "en": "Yes... you're right. Ta'sh-ik. The answers lie within the ever-shifting records. They always did. I just have to see, to make sense of the underlying logic."
+ },
+ {
+  "id": 1144,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice01_answer02",
+  "en": "Thank you, Vak'i-na."
+ },
+ {
+  "id": 1145,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice02",
+  "en": "Seek outside knowledge"
+ },
+ {
+  "id": 1146,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice02_answer01",
+  "en": "Yes... of course! The Library's records are vast, but they pale in comparison to those mentioned by the ancient scholars."
+ },
+ {
+  "id": 1147,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice02_answer02",
+  "en": "Endless knowledge, kept outside of time. I would've never believed such a place existed, but now... I know I could find their domain. What lies within the lines, I understand it now."
+ },
+ {
+  "id": 1148,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice02_answer03",
+  "en": "Thank you, my friend. And farewell."
+ },
+ {
+  "id": 1149,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice03",
+  "en": "Leave the City"
+ },
+ {
+  "id": 1150,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice03_answer01",
+  "en": "What? Leave? Why would you suggest such a thing? Why...?"
+ },
+ {
+  "id": 1151,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice03_answer02",
+  "en": "This has been my dream, discovering secrets none could have imagined!"
+ },
+ {
+  "id": 1152,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice03_answer03",
+  "en": "I've learned so much. Yet it all feels so... distant."
+ },
+ {
+  "id": 1153,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice03_answer04",
+  "en": "This place. This City. It seeps into your very being. How long have I wandered the endless stone?"
+ },
+ {
+  "id": 1154,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice03_answer05",
+  "en": "When... how did I arrive here?"
+ },
+ {
+  "id": 1155,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice03_answer06",
+  "en": "Perhaps you are wiser than I am."
+ },
+ {
+  "id": 1156,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice03_answer07",
+  "en": "Thank you, my friend. I hope we'll meet again someday."
+ },
+ {
+  "id": 1157,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice_01_repeat",
+  "en": "I am beginning to see the pieces for what they are, every geometrical shape, the makings of... well, of all!"
+ },
+ {
+  "id": 1158,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice_02_repeat",
+  "en": "I know I could find their domain. What lies within the lines, I understand it now. Thank you, my friend. And farewell."
+ },
+ {
+  "id": 1159,
+  "ctx": "term Dialogue/npc_archaeologist_fate_choice_03_repeat",
+  "en": "Perhaps you are wiser than I am. Thank you, my friend. I hope we'll meet again someday."
+ },
+ {
+  "id": 1160,
+  "ctx": "term Dialogue/npc_archaeologist_transformed_01",
+  "en": "Glo nat-ki, vana'k p'ta."
+ },
+ {
+  "id": 1161,
+  "ctx": "term Dialogue/npc_archaeologist_repo_01",
+  "en": "Vak'i-na, ut re'hvena. Llio vek-p'ta."
+ },
+ {
+  "id": 1162,
+  "ctx": "term Dialogue/npc_archaeologist_recording_00",
+  "en": "*Bzzt*"
+ },
+ {
+  "id": 1163,
+  "ctx": "term Dialogue/npc_archaeologist_recording_01_01",
+  "en": "<i>Does this thing still work?</i>"
+ },
+ {
+  "id": 1164,
+  "ctx": "term Dialogue/npc_archaeologist_recording_01_02",
+  "en": "<i>The machinery is old but in surprisingly good condition, probably just need to open up the sluiceways to kick it into motion.</i>"
+ },
+ {
+  "id": 1165,
+  "ctx": "term Dialogue/npc_archaeologist_recording_01_03",
+  "en": "<i>Note to self: pack more rope next time.</i>"
+ },
+ {
+  "id": 1166,
+  "ctx": "term Dialogue/npc_archaeologist_recording_02_01",
+  "en": "<i>It broke my pick! Nearly sent me onto the ground.</i>"
+ },
+ {
+  "id": 1167,
+  "ctx": "term Dialogue/npc_archaeologist_recording_02_02",
+  "en": "<i>Fascinating. The mechanism looks to be inscribed with the markings of the artificers.</i>"
+ },
+ {
+  "id": 1168,
+  "ctx": "term Dialogue/npc_archaeologist_recording_02_03",
+  "en": "<i>Perhaps if some manner of equal force was applied.</i>"
+ },
+ {
+  "id": 1169,
+  "ctx": "term Dialogue/npc_archaeologist_recording_03_01",
+  "en": "<i>It's enormous! What a find, shimmering like a gemstone. What I'd give to be able to get close to that thing.</i>"
+ },
+ {
+  "id": 1170,
+  "ctx": "term Dialogue/npc_archaeologist_recording_03_02",
+  "en": "<i>They just won't ever leave. What are they?</i>"
+ },
+ {
+  "id": 1171,
+  "ctx": "term Dialogue/npc_archaeologist_recording_03_03",
+  "en": "<i>The air feels strange.</i>"
+ },
+ {
+  "id": 1172,
+  "ctx": "term Dialogue/npc_archaeologist_recording_04_01",
+  "en": "<i>Some kind of barrier? Doesn't quite match the recorded work of the artificers.</i>"
+ },
+ {
+  "id": 1173,
+  "ctx": "term Dialogue/npc_archaeologist_recording_04_02",
+  "en": "<i>Not much to go on at all... I can barely make out the mechanism above.</i>"
+ },
+ {
+  "id": 1174,
+  "ctx": "term Dialogue/npc_archaeologist_recording_04_03",
+  "en": "<i>Whoever created this must've had a good reason for it, but I haven't found mention of it anywhere.</i>"
+ },
+ {
+  "id": 1175,
+  "ctx": "term Dialogue/npc_archaeologist_recording_05_01",
+  "en": "<i>I've found one of the City's great lifts!</i>"
+ },
+ {
+  "id": 1176,
+  "ctx": "term Dialogue/npc_archaeologist_recording_05_02",
+  "en": "<i>Best I can tell, this one was primarily used to carry Salt from the vats below.</i>"
+ },
+ {
+  "id": 1177,
+  "ctx": "term Dialogue/npc_archaeologist_recording_05_03",
+  "en": "<i>Couldn't find a way to re-activate it on this end.</i>"
+ },
+ {
+  "id": 1178,
+  "ctx": "term Dialogue/npc_archaeologist_recording_06_01",
+  "en": "<i>Drat... Crawled all this way just to face a dead-end.</i>"
+ },
+ {
+  "id": 1179,
+  "ctx": "term Dialogue/npc_archaeologist_recording_06_02",
+  "en": "<i>The great lift should be just above, too!</i>"
+ },
+ {
+  "id": 1180,
+  "ctx": "term Dialogue/npc_archaeologist_recording_06_03",
+  "en": "<i>I was sure there'd be a way.</i>"
+ },
+ {
+  "id": 1181,
+  "ctx": "term Dialogue/npc_gourmet_01",
+  "en": "Come one, come all to the place that unites those of means with their vice—the lifeblood of our great City!"
+ },
+ {
+  "id": 1182,
+  "ctx": "term Dialogue/npc_gourmet_02",
+  "en": "The guiding hand of the aspiring connoisseur, steering you through the extravagant tastes of the well-to-do."
+ },
+ {
+  "id": 1183,
+  "ctx": "term Dialogue/npc_gourmet_03 (+1 more)",
+  "en": "Welcome to the Gilded Emporium!"
+ },
+ {
+  "id": 1184,
+  "ctx": "term Dialogue/npc_gourmet_04",
+  "en": "Pleasantries aside, all must pay the fee to gain access to our wares. Rich or poor, it matters not. I can smell the flesh!"
+ },
+ {
+  "id": 1185,
+  "ctx": "term Dialogue/npc_gourmet_repeat01",
+  "en": "Come one, come all to the place that unites those of means with their vice!"
+ },
+ {
+  "id": 1186,
+  "ctx": "term Dialogue/npc_gourmet_flesh_carried01",
+  "en": "The Flesh... I smell it upon you..."
+ },
+ {
+  "id": 1187,
+  "ctx": "term Dialogue/npc_gourmet_choice01",
+  "en": "Offer Progenitor Flesh"
+ },
+ {
+  "id": 1188,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_one-off_01",
+  "en": "Splendid... The wonders of the Emporium lay open to you."
+ },
+ {
+  "id": 1189,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_01",
+  "en": "Another scrumptious bite. Your offering pleases me."
+ },
+ {
+  "id": 1190,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_02",
+  "en": "My form grows, as does my reach. Peruse to your heart's content."
+ },
+ {
+  "id": 1191,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_03",
+  "en": "Most delicious...  "
+ },
+ {
+  "id": 1192,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_04",
+  "en": "Through sustaining me, you enrich this world..."
+ },
+ {
+  "id": 1193,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_05",
+  "en": "Heavenly... I feel new ventures tingling on my strands..."
+ },
+ {
+  "id": 1194,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_06",
+  "en": "I... grow..."
+ },
+ {
+  "id": 1195,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_07",
+  "en": "My being... overflows..."
+ },
+ {
+  "id": 1196,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_full01",
+  "en": "I encompass all..."
+ },
+ {
+  "id": 1197,
+  "ctx": "term Dialogue/npc_gourmet_choice01_answer_full02",
+  "en": "Enough..."
+ },
+ {
+  "id": 1198,
+  "ctx": "term Dialogue/npc_gourmet_choice02",
+  "en": "Decline"
+ },
+ {
+  "id": 1199,
+  "ctx": "term Dialogue/npc_gourmet_choice02_answer_01",
+  "en": "Pity..."
+ },
+ {
+  "id": 1200,
+  "ctx": "term Dialogue/npc_gourmet_choice02_answer_02",
+  "en": "I desire growth. My influence is far-reaching, but there remain many places untouched. I urge you to reconsider."
+ },
+ {
+  "id": 1201,
+  "ctx": "term Dialogue/npc_gourmet_choice02_answer_03",
+  "en": "Why will you not let me grow?!"
+ },
+ {
+  "id": 1202,
+  "ctx": "term Dialogue/npc_crewman_name",
+  "en": "Lone crewman"
+ },
+ {
+  "id": 1203,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_01",
+  "en": "Is that you, Captain?"
+ },
+ {
+  "id": 1204,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_02",
+  "en": "No... just another silent specter. Madness without end."
+ },
+ {
+  "id": 1205,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_03",
+  "en": "How did we run into the ice... How did I lose you, my friend?"
+ },
+ {
+  "id": 1206,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_04",
+  "en": "We should never have been parted. If only I could hold you again."
+ },
+ {
+  "id": 1207,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_05",
+  "en": "How did I lose you, my friend? "
+ },
+ {
+  "id": 1208,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_07",
+  "en": "Please. I am all alone."
+ },
+ {
+  "id": 1209,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_08",
+  "en": "My friend... missing."
+ },
+ {
+  "id": 1210,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_09",
+  "en": "I can't even remember their name..."
+ },
+ {
+  "id": 1211,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_10",
+  "en": "You found them, didn't you?"
+ },
+ {
+  "id": 1212,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_11",
+  "en": "Oh..."
+ },
+ {
+  "id": 1213,
+  "ctx": "term Dialogue/npc_crewman_encounter_1_12",
+  "en": "M-my... friend..."
+ },
+ {
+  "id": 1214,
+  "ctx": "term Dialogue/npc_achretis_01",
+  "en": "My spores patter against the body of another. You inhale me."
+ },
+ {
+  "id": 1215,
+  "ctx": "term Dialogue/npc_achretis_02",
+  "en": "I have felt the vibrations of your movements throughout the Gardens. You stimulate me."
+ },
+ {
+  "id": 1216,
+  "ctx": "term Dialogue/npc_achretis_03",
+  "en": "You stand within my domain. You will serve."
+ },
+ {
+  "id": 1217,
+  "ctx": "term Dialogue/npc_achretis_04",
+  "en": "The vats grow stale. Must be replenished. Seek the offal jars far below. Feed the vats."
+ },
+ {
+  "id": 1218,
+  "ctx": "term Dialogue/npc_achretis_05",
+  "en": "Serve me."
+ },
+ {
+  "id": 1219,
+  "ctx": "term Dialogue/npc_achretis_met",
+  "en": "The vats grow stale. Seek the offal jars deep below. Serve me."
+ },
+ {
+  "id": 1220,
+  "ctx": "term Dialogue/npc_achretis_06",
+  "en": "I tremble with anticipation..."
+ },
+ {
+  "id": 1221,
+  "ctx": "term Dialogue/npc_achretis_07",
+  "en": "Venture below... I will feel your presence..."
+ },
+ {
+  "id": 1222,
+  "ctx": "term Dialogue/npc_achretis_10",
+  "en": "Insolence."
+ },
+ {
+  "id": 1223,
+  "ctx": "term Dialogue/npc_achretis_11",
+  "en": "You will serve, or be cast from my domain."
+ },
+ {
+  "id": 1224,
+  "ctx": "term Dialogue/npc_achretis_08",
+  "en": "Seek the offal jars below..."
+ },
+ {
+  "id": 1225,
+  "ctx": "term Dialogue/npc_achretis_09",
+  "en": "My membranes flutter at the scent. You carry Sediment... Pour it into the vats..."
+ },
+ {
+  "id": 1226,
+  "ctx": "term Dialogue/npc_achretis_12",
+  "en": "Yes..."
+ },
+ {
+  "id": 1227,
+  "ctx": "term Dialogue/npc_achretis_13",
+  "en": "A dance of ash, viscera, and bone. Cacophonous rebirth."
+ },
+ {
+  "id": 1228,
+  "ctx": "term Dialogue/npc_achretis_14",
+  "en": "My membranes thicken. The Gardens thrive."
+ },
+ {
+  "id": 1229,
+  "ctx": "term Dialogue/npc_achretis_15",
+  "en": "You have done well."
+ },
+ {
+  "id": 1230,
+  "ctx": "term Dialogue/npc_achretis_16",
+  "en": "A gift from the vats."
+ },
+ {
+  "id": 1231,
+  "ctx": "term Dialogue/npc_achretis_17",
+  "en": "You inhale me."
+ },
+ {
+  "id": 1232,
+  "ctx": "term Dialogue/npc_achretis_18",
+  "en": "You return to do as I command?"
+ },
+ {
+  "id": 1233,
+  "ctx": "term Dialogue/npc_achretis_quest_complete_02_01",
+  "en": "At last, the vats overflow..."
+ },
+ {
+  "id": 1234,
+  "ctx": "term Dialogue/npc_achretis_quest_complete_02_02",
+  "en": "My membranes grow strong..."
+ },
+ {
+  "id": 1235,
+  "ctx": "term Dialogue/npc_achretis_quest_complete_02_03",
+  "en": "You have served me well."
+ },
+ {
+  "id": 1236,
+  "ctx": "term Dialogue/npc_achretis_quest_failed_01",
+  "en": "The vats grow stale..."
+ },
+ {
+  "id": 1237,
+  "ctx": "term Dialogue/npc_achretis_quest_failed_02",
+  "en": "I... wither..."
+ },
+ {
+  "id": 1238,
+  "ctx": "term Dialogue/npc_hermit_name",
+  "en": "Strange Stalk"
+ },
+ {
+  "id": 1239,
+  "ctx": "term Dialogue/npc_hermit_context_reply",
+  "en": "Bathe in the light."
+ },
+ {
+  "id": 1240,
+  "ctx": "term Dialogue/npc_hermit_encounter_1_01 (+1 more)",
+  "en": "Advent of the birth."
+ },
+ {
+  "id": 1241,
+  "ctx": "term Dialogue/npc_hermit_encounter_1_02",
+  "en": "Is it not a glorious sight, to see what the tender touch of a god can do?"
+ },
+ {
+  "id": 1242,
+  "ctx": "term Dialogue/npc_hermit_encounter_1_03",
+  "en": "It rejects constancy... Abhors stagnancy..."
+ },
+ {
+  "id": 1243,
+  "ctx": "term Dialogue/npc_hermit_encounter_1_04",
+  "en": "Here we thrive... beneath the majesty of Its crimson light."
+ },
+ {
+  "id": 1244,
+  "ctx": "term Dialogue/npc_hermit_encounter_1_05",
+  "en": "As Its gaze falls upon this world once more, so do we exist. Tethered to elsewhere."
+ },
+ {
+  "id": 1245,
+  "ctx": "term Dialogue/npc_hermit_encounter_2_02",
+  "en": "Are we not beautiful? Nourished by crimson, scorching godlight."
+ },
+ {
+  "id": 1246,
+  "ctx": "term Dialogue/npc_hermit_encounter_2_03",
+  "en": "The path lies open. Every day we sprout somewhere new. Journeying by birth."
+ },
+ {
+  "id": 1247,
+  "ctx": "term Dialogue/npc_hermit_encounter_2_04",
+  "en": "Since the first Emergence, we have remained, our form limitless beneath Its light."
+ },
+ {
+  "id": 1248,
+  "ctx": "term Dialogue/npc_hermit_encounter_3_01",
+  "en": "Stand in the light. Change."
+ },
+ {
+  "id": 1249,
+  "ctx": "term Dialogue/npc_hermit_encounter_3_02",
+  "en": "We who exist at Its behest. Once whole, now scattered."
+ },
+ {
+  "id": 1250,
+  "ctx": "term Dialogue/npc_hermit_encounter_3_03",
+  "en": "The broken pieces shall converge, and the light remain."
+ },
+ {
+  "id": 1251,
+  "ctx": "term Dialogue/npc_hermit_encounter_3_04",
+  "en": "It will reach beyond the cage."
+ },
+ {
+  "id": 1252,
+  "ctx": "term Dialogue/npc_hermit_context_description",
+  "en": "The Divine Remnant undulates rhythmically in tandem with the Stalk."
+ },
+ {
+  "id": 1253,
+  "ctx": "term Dialogue/npc_hermit_choice_01",
+  "en": "Offer Divine Remnant"
+ },
+ {
+  "id": 1254,
+  "ctx": "term Dialogue/npc_hermit_choice_02 (+2 more)",
+  "en": "Leave"
+ }
+]
